@@ -431,8 +431,10 @@
       $('#login-pass').value = '';
       stopLoginHearts();
       applyLove(true);
-      show('screen-home');
+      /* raise the greeting BEFORE revealing the home screen, or the
+         home screen paints first and flashes past for a moment */
       maybeGreet();
+      show('screen-home');
       return loadBank();
     }
 

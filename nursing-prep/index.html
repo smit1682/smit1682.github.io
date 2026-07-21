@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Nursing Entrance Prep</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="theme-color" content="#00857A">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Nursing Prep">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- ══════════ LOGIN ══════════ -->
+<section id="screen-login" class="screen active">
+  <div class="pad login-pad">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="30" height="30"><path d="M2 22h7l3-9 5 16 4-11 3 4h14" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+      <h1>Nursing Entrance Prep</h1>
+      <p class="lede">Timed mock papers, with a full answer review the moment you submit.</p>
+    </div>
+
+    <div class="card">
+      <div class="seg" id="role-seg" role="tablist">
+        <button class="seg-btn active" data-role="student" role="tab">Student</button>
+        <button class="seg-btn" data-role="admin" role="tab">Admin</button>
+        <span class="seg-slide" aria-hidden="true"></span>
+      </div>
+
+      <label class="field">
+        <span id="user-label">Username</span>
+        <input id="login-user" type="text" autocapitalize="none" autocorrect="off" spellcheck="false" autocomplete="username" placeholder="student">
+      </label>
+
+      <label class="field">
+        <span>Password</span>
+        <input id="login-pass" type="password" autocapitalize="none" autocorrect="off" autocomplete="current-password" placeholder="••••••••">
+      </label>
+
+      <p id="login-error" class="notice notice-bad hidden"></p>
+      <button id="login-btn" class="btn btn-primary btn-block">Sign in</button>
+      <p class="hint" id="login-hint"></p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ STUDENT HOME ══════════ -->
+<section id="screen-home" class="screen">
+  <header class="topbar">
+    <div class="topbar-text">
+      <div class="eyebrow">Signed in</div>
+      <div class="topbar-title">Your papers</div>
+    </div>
+    <div class="topbar-actions">
+      <button class="mini-toggle" data-theme-toggle aria-label="Switch theme">◐</button>
+      <button class="btn-ghost" data-action="logout">Sign out</button>
+    </div>
+  </header>
+  <div class="pad">
+    <div id="test-list" class="list"></div>
+  </div>
+</section>
+
+<!-- ══════════ TEST RUNNER ══════════ -->
+<section id="screen-test" class="screen">
+  <header class="exam-bar">
+    <button class="icon-btn" id="btn-quit" aria-label="Exit test">←</button>
+    <div class="exam-progress">
+      <div class="exam-count"><span id="q-current">1</span><span class="of">of</span><span id="q-total">50</span></div>
+      <div class="rail" id="rail" aria-hidden="true"></div>
+    </div>
+    <div class="timer" id="timer">60:00</div>
+  </header>
+
+  <div class="exam-body" id="exam-body">
+    <article class="qcard" id="qcard">
+      <div class="qmeta">
+        <span class="qnum" id="qnum-badge">Q1</span>
+        <button class="flag-btn" id="flag-btn"><span class="flag-ico">◇</span> Mark for review</button>
+      </div>
+      <p class="qtext" id="qtext"></p>
+      <div class="options" id="options"></div>
+    </article>
+  </div>
+
+  <footer class="exam-foot">
+    <button class="btn btn-sub" id="btn-prev">Previous</button>
+    <button class="btn btn-sub btn-sq" id="btn-palette" aria-label="Question grid">
+      <svg viewBox="0 0 20 20" width="18" height="18" fill="currentColor"><rect x="1" y="1" width="7" height="7" rx="2"/><rect x="12" y="1" width="7" height="7" rx="2"/><rect x="1" y="12" width="7" height="7" rx="2"/><rect x="12" y="12" width="7" height="7" rx="2"/></svg>
+    </button>
+    <button class="btn btn-primary" id="btn-next">Next</button>
+  </footer>
+
+  <div class="sheet-wrap hidden" id="palette-sheet">
+    <div class="sheet-back" data-close-sheet></div>
+    <div class="sheet">
+      <div class="grab" aria-hidden="true"></div>
+      <div class="sheet-head">
+        <h2>Question grid</h2>
+        <button class="icon-btn" data-close-sheet aria-label="Close">✕</button>
+      </div>
+      <div class="legend">
+        <span><i class="dot dot-ans"></i>Answered</span>
+        <span><i class="dot dot-flag"></i>Marked</span>
+        <span><i class="dot dot-none"></i>Not answered</span>
+      </div>
+      <div class="palette" id="palette"></div>
+      <div class="sheet-foot">
+        <p class="hint" id="submit-summary"></p>
+        <button class="btn btn-primary btn-block" id="btn-submit">Submit paper</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ RESULT ══════════ -->
+<section id="screen-result" class="screen">
+  <div class="pad">
+    <div class="eyebrow center" id="result-eyebrow">Paper submitted</div>
+    <div class="score-wrap">
+      <div class="score-ring" id="score-ring">
+        <svg viewBox="0 0 120 120" class="ring-svg">
+          <circle class="ring-track" cx="60" cy="60" r="52"/>
+          <circle class="ring-fill" id="ring-fill" cx="60" cy="60" r="52"/>
+        </svg>
+        <div class="score-inner">
+          <div class="score-num" id="score-num">0</div>
+          <div class="score-of">of <span id="score-total">50</span></div>
+        </div>
+      </div>
+      <h2 class="score-title" id="score-title">Well done</h2>
+      <p class="score-sub" id="score-sub"></p>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat stat-ok"><b id="stat-correct">0</b><span>Correct</span></div>
+      <div class="stat stat-bad"><b id="stat-wrong">0</b><span>Wrong</span></div>
+      <div class="stat stat-skip"><b id="stat-skipped">0</b><span>Skipped</span></div>
+    </div>
+
+    <button class="btn btn-primary btn-block" id="btn-review">Review every question</button>
+    <button class="btn btn-sub btn-block" data-action="home">Back to papers</button>
+  </div>
+</section>
+
+<!-- ══════════ REVIEW ══════════ -->
+<section id="screen-review" class="screen">
+  <header class="topbar">
+    <div class="topbar-text">
+      <div class="eyebrow">Answer key</div>
+      <div class="topbar-title">Review</div>
+    </div>
+    <div class="topbar-actions">
+      <button class="mini-toggle" data-theme-toggle aria-label="Switch theme">◐</button>
+      <button class="btn-ghost" data-action="result">Done</button>
+    </div>
+  </header>
+  <div class="filters" id="review-filters">
+    <button class="chip active" data-filter="all">All</button>
+    <button class="chip" data-filter="wrong">Wrong</button>
+    <button class="chip" data-filter="correct">Correct</button>
+    <button class="chip" data-filter="skipped">Skipped</button>
+  </div>
+  <div class="pad" id="review-list"></div>
+</section>
+
+<!-- ══════════ ADMIN ══════════ -->
+<section id="screen-admin" class="screen">
+  <header class="topbar">
+    <div class="topbar-text">
+      <div class="eyebrow">Admin</div>
+      <div class="topbar-title" id="admin-sub">Question papers</div>
+    </div>
+    <div class="topbar-actions">
+      <button class="mini-toggle" data-theme-toggle aria-label="Switch theme">◐</button>
+      <button class="btn-ghost" data-action="logout">Sign out</button>
+    </div>
+  </header>
+
+  <div class="filters">
+    <button class="chip active" data-admin-tab="tests">Papers</button>
+    <button class="chip" data-admin-tab="add">Add paper</button>
+    <button class="chip" data-admin-tab="scores">Scores</button>
+  </div>
+
+  <div class="pad">
+    <div id="admin-tests" class="admin-tab">
+      <div id="admin-test-list" class="list"></div>
+    </div>
+
+    <div id="admin-add" class="admin-tab hidden">
+      <label class="field">
+        <span>Paper title</span>
+        <input id="new-title" type="text" placeholder="Mock Test 1 — Anatomy &amp; Physiology">
+      </label>
+      <label class="field">
+        <span>Duration in minutes</span>
+        <input id="new-duration" type="number" inputmode="numeric" value="60">
+      </label>
+      <label class="field">
+        <span>Questions</span>
+        <textarea id="new-questions" rows="12" spellcheck="false" placeholder="Q: Which of these vitamins is fat soluble?
+A) Vitamin C
+B) Vitamin B12
+C) Vitamin A
+D) Folic acid
+Ans: C
+Exp: Vitamins A, D, E and K are fat soluble and stored in the liver.
+
+Q: Normal resting heart rate in a healthy adult is
+..."></textarea>
+      </label>
+
+      <details class="help">
+        <summary>How to format the paste</summary>
+        <ul>
+          <li>Begin every question with <code>Q:</code></li>
+          <li>Options as <code>A)</code> <code>B)</code> <code>C)</code> <code>D)</code> — two to six per question</li>
+          <li><code>Ans:</code> takes the correct letter, or the full option text</li>
+          <li><code>Exp:</code> is the explanation shown during review</li>
+          <li>Leave a blank line between questions</li>
+          <li>A JSON array works too, if the questions already live in one</li>
+        </ul>
+      </details>
+
+      <p id="parse-status" class="notice hidden"></p>
+      <button class="btn btn-sub btn-block" id="btn-parse">Check the questions</button>
+      <button class="btn btn-primary btn-block" id="btn-save-test">Publish paper</button>
+    </div>
+
+    <div id="admin-scores" class="admin-tab hidden">
+      <div id="attempt-list" class="list"></div>
+    </div>
+  </div>
+</section>
+
+<button class="theme-toggle" data-theme-toggle aria-label="Switch theme">◐</button>
+<div id="toast" class="toast hidden"></div>
+
+<script src="js/config.js"></script>
+<script src="js/seed.js"></script>
+<script src="js/api.js"></script>
+<script src="js/parse.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

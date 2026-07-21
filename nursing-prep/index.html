@@ -10,7 +10,7 @@
 <meta name="apple-mobile-web-app-title" content="Nursing Prep">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -64,6 +64,7 @@
   </header>
   <div class="pad home-pad">
     <div class="hero">
+      <p class="hero-hello hidden" id="hero-hello"></p>
       <div class="hero-stat">
         <span class="hero-num" id="bank-count">0</span>
         <span class="hero-label">questions in the bank</span>
@@ -72,6 +73,13 @@
       <button class="btn btn-primary btn-block btn-hero" id="btn-apply">Apply the Test</button>
       <p class="hint" id="bank-note"></p>
     </div>
+    <button class="love-note hidden" id="btn-note">
+      <span class="love-heart" aria-hidden="true">♡</span>
+      <span class="love-text">
+        <span class="love-title">A note from <span id="note-from">Smit</span></span>
+        <span class="love-sub">whenever you need one</span>
+      </span>
+    </button>
     <div id="last-attempts"></div>
   </div>
 </section>
@@ -330,6 +338,30 @@ Q: Normal resting heart rate in a healthy adult is
     </div>
   </div>
 </section>
+
+<!-- ══════════ HER GREETING ══════════ -->
+<div id="greeting" class="greeting hidden">
+  <canvas id="hearts" class="hearts" aria-hidden="true"></canvas>
+  <div class="greet-inner">
+    <p class="greet-eyebrow" id="greet-eyebrow">Good morning</p>
+    <h1 class="greet-name" id="greet-name">Golu</h1>
+    <p class="greet-line" id="greet-line"></p>
+    <p class="greet-sign" id="greet-sign">— Smit</p>
+    <button class="btn btn-primary greet-go" id="greet-go">Let's begin</button>
+  </div>
+</div>
+
+<!-- ══════════ A NOTE FROM HIM ══════════ -->
+<div class="sheet-wrap hidden" id="note-sheet">
+  <div class="sheet-back" data-close-note></div>
+  <div class="sheet note-sheet">
+    <div class="grab" aria-hidden="true"></div>
+    <p class="note-mark" aria-hidden="true">♡</p>
+    <p class="note-body" id="note-body"></p>
+    <p class="note-sign" id="note-sign">— Smit</p>
+    <button class="btn btn-sub btn-block" data-close-note>Close</button>
+  </div>
+</div>
 
 <button class="theme-toggle" data-theme-toggle aria-label="Switch theme">◐</button>
 <div id="toast" class="toast hidden"></div>

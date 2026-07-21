@@ -91,6 +91,43 @@
   --shadow-lg:0 -6px 44px rgba(0,0,0,.6);
 }
 
+/* ─────────────────────────────────────────────────────
+   FOR HER — a rose accent, applied only on the student
+   side. It rides on top of whichever theme is active, so
+   light and dark both still work. The admin side keeps
+   the clinical petrol.
+   Placed after the theme blocks so it wins on equal
+   specificity; the [data-theme] variants below outrank
+   the base theme rules.
+   ───────────────────────────────────────────────────── */
+:root.love{
+  --accent:#c1436d; --accent-ink:#ffffff;
+  --accent-soft:#fbe6ee; --accent-line:#eeb3c8;
+  --paper:#fdf8f9; --surface-2:#f3e8ec; --line:#ecdde2; --line-soft:#f5ecef;
+  --mark:#c77a17; --mark-soft:#fbeed8;
+  --font-hand:"Caveat",cursive;
+}
+@media (prefers-color-scheme: dark){
+  :root.love{
+    --accent:#f2809f; --accent-ink:#3d0d1e;
+    --accent-soft:#3a1725; --accent-line:#6d2b43;
+    --paper:#120c0f; --surface:#1b1317; --surface-2:#2a1c22; --line:#372630; --line-soft:#241820;
+    --ink:#f0e6ea; --ink-2:#b6a0a8; --ink-3:#8a747d;
+  }
+}
+:root.love[data-theme="light"]{
+  --accent:#c1436d; --accent-ink:#ffffff;
+  --accent-soft:#fbe6ee; --accent-line:#eeb3c8;
+  --paper:#fdf8f9; --surface:#ffffff; --surface-2:#f3e8ec; --line:#ecdde2; --line-soft:#f5ecef;
+  --ink:#1a1013; --ink-2:#6b5a60; --ink-3:#9c8891;
+}
+:root.love[data-theme="dark"]{
+  --accent:#f2809f; --accent-ink:#3d0d1e;
+  --accent-soft:#3a1725; --accent-line:#6d2b43;
+  --paper:#120c0f; --surface:#1b1317; --surface-2:#2a1c22; --line:#372630; --line-soft:#241820;
+  --ink:#f0e6ea; --ink-2:#b6a0a8; --ink-3:#8a747d;
+}
+
 /* ---------- base ---------- */
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{margin:0;padding:0}
@@ -561,6 +598,89 @@ code{font-family:var(--font-mono);font-size:.84em;background:var(--surface-2);pa
 .row-actions{display:flex;gap:8px;margin-top:14px}
 .row-actions .btn{flex:1;min-height:44px;font-size:14px;padding:0 10px}
 .danger{color:var(--bad);border-color:var(--bad-line)}
+
+/* ─────────────────────────────────────────────────────
+   THE GREETING — once a day, the first time she opens it
+   ───────────────────────────────────────────────────── */
+.greeting{
+  position:fixed;inset:0;z-index:80;
+  display:flex;align-items:center;justify-content:center;
+  background:var(--paper);
+  animation:fade .5s ease;
+}
+.greeting.leaving{animation:greetOut .55s cubic-bezier(.4,0,.7,.2) forwards}
+@keyframes greetOut{to{opacity:0;transform:scale(1.04);visibility:hidden}}
+
+.hearts{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+
+.greet-inner{
+  position:relative;z-index:1;text-align:center;
+  padding:32px 28px calc(32px + var(--safe-bot));
+  max-width:22rem;
+}
+.greet-eyebrow{
+  font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 6px;
+  animation:riseIn .7s .1s both cubic-bezier(.2,.9,.3,1);
+}
+.greet-name{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:min(23vw,84px);line-height:.95;font-weight:700;
+  color:var(--accent);margin:0 0 14px;letter-spacing:.01em;
+  animation:riseIn .8s .25s both cubic-bezier(.2,.9,.3,1);
+}
+.greet-line{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:25px;line-height:1.35;color:var(--ink);margin:0 auto 22px;
+  max-width:17rem;
+  animation:riseIn .8s .5s both cubic-bezier(.2,.9,.3,1);
+}
+.greet-sign{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:20px;color:var(--ink-3);margin:0 0 32px;
+  animation:riseIn .8s .68s both cubic-bezier(.2,.9,.3,1);
+}
+.greet-go{
+  min-height:52px;padding:0 34px;border-radius:99px;
+  animation:riseIn .8s .86s both cubic-bezier(.2,.9,.3,1);
+}
+@keyframes riseIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+/* ---------- the note on the home screen ---------- */
+.love-note{
+  display:flex;align-items:center;gap:14px;width:100%;text-align:left;
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);
+  padding:16px 18px;box-shadow:var(--shadow-sm);
+  transition:transform .08s ease;
+}
+.love-note:active{transform:scale(.99)}
+.love-heart{
+  font-size:24px;color:var(--accent);flex:none;line-height:1;
+  animation:beat 2.6s ease-in-out infinite;
+}
+@keyframes beat{0%,100%{transform:scale(1)}12%{transform:scale(1.16)}24%{transform:scale(1)}36%{transform:scale(1.1)}}
+.love-text{display:flex;flex-direction:column;gap:2px;min-width:0}
+.love-title{font-size:15.5px;font-weight:600}
+.love-sub{font-size:13px;color:var(--ink-3)}
+
+.note-sheet{text-align:center;padding-bottom:calc(24px + var(--safe-bot))}
+.note-mark{font-size:30px;color:var(--accent);margin:4px 0 14px}
+.note-body{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:26px;line-height:1.45;color:var(--ink);
+  margin:0 auto 18px;max-width:22rem;
+}
+.note-sign{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:20px;color:var(--ink-3);margin:0 0 22px;
+}
+
+/* a softer word on the student's home */
+.hero-hello{
+  font-family:var(--font-hand,"Caveat",cursive);
+  font-size:26px;line-height:1.25;color:var(--accent);
+  margin:0 0 4px;
+}
 
 /* ---------- toast ---------- */
 .toast{

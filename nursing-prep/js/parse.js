@@ -60,6 +60,9 @@ window.Parser = (function () {
     for (const rawLine of lines) {
       const line = rawLine.trim();
 
+      // comment lines, so a pasted file can carry a header
+      if (line[0] === '#' || line.slice(0, 2) === '//') continue;
+
       const mQ = line.match(RE_Q);
       if (mQ) {
         if (cur) blocks.push(cur);

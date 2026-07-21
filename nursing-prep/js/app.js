@@ -85,6 +85,172 @@
     });
   }
 
+  /* ═══════════════════════════════════════════════════════
+     FOR HER
+
+     Warmth lives at the edges — the moment she opens the app,
+     the home screen, the result. The exam screen is left
+     deliberately plain, because what she needs there is to
+     concentrate, and protecting that is its own kind of care.
+     ═══════════════════════════════════════════════════════ */
+
+  const LOVE = cfg.LOVE || { enabled: false };
+  const loveOn = () => !!LOVE.enabled;
+
+  function pick(arr, i) {
+    if (!arr || !arr.length) return '';
+    return arr[(i === undefined ? Math.floor(Math.random() * arr.length) : i) % arr.length];
+  }
+
+  function todayKey() {
+    const d = new Date();
+    return d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate();
+  }
+  function dayNumber() {
+    const d = new Date();
+    return Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 86400000);
+  }
+  function timeOfDay() {
+    const h = new Date().getHours();
+    if (h < 5)  return 'Still awake';
+    if (h < 12) return 'Good morning';
+    if (h < 17) return 'Good afternoon';
+    if (h < 22) return 'Good evening';
+    return 'Late night studying';
+  }
+
+  /* the rose accent rides on top of whichever theme is active */
+  function applyLove(on) {
+    document.documentElement.classList.toggle('love', on && loveOn());
+    $('#btn-note').classList.toggle('hidden', !(on && loveOn() && (LOVE.notes || []).length));
+    const hello = $('#hero-hello');
+    if (on && loveOn()) {
+      hello.textContent = 'Hi ' + (LOVE.nickname || LOVE.name) + ',';
+      hello.classList.remove('hidden');
+    } else {
+      hello.classList.add('hidden');
+    }
+  }
+
+  /* shown once a calendar day, so it stays a moment rather than a nag */
+  function maybeGreet() {
+    if (!loveOn()) return;
+    let last = null;
+    try { last = localStorage.getItem('nep_greeted'); } catch (e) {}
+    if (last === todayKey()) return;
+    try { localStorage.setItem('nep_greeted', todayKey()); } catch (e) {}
+    showGreeting();
+  }
+
+  function showGreeting() {
+    const g = $('#greeting');
+    $('#greet-eyebrow').textContent = timeOfDay();
+    $('#greet-name').textContent = LOVE.nickname || LOVE.name || '';
+    $('#greet-line').textContent = pick(LOVE.greetings, dayNumber());
+    $('#greet-sign').textContent = '— ' + (LOVE.from || '');
+    g.classList.remove('hidden', 'leaving');
+    startHearts();
+  }
+
+  function closeGreeting() {
+    const g = $('#greeting');
+    g.classList.add('leaving');
+    setTimeout(() => { g.classList.add('hidden'); stopHearts(); }, 560);
+  }
+
+  /* ---- drifting hearts, paused entirely for reduced motion ---- */
+
+  let heartsRAF = null;
+
+  function startHearts() {
+    const cv = $('#hearts');
+    const ctx = cv.getContext('2d');
+    const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let w, h, dpr, parts;
+
+    function size() {
+      dpr = Math.min(window.devicePixelRatio || 1, 2);
+      w = cv.clientWidth; h = cv.clientHeight;
+      cv.width = w * dpr; cv.height = h * dpr;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    function spawn(seeded) {
+      return {
+        x: Math.random() * w,
+        y: seeded ? Math.random() * h : h + 30,
+        s: 6 + Math.random() * 14,
+        v: 0.25 + Math.random() * 0.55,
+        sway: 0.4 + Math.random() * 0.9,
+        phase: Math.random() * Math.PI * 2,
+        a: 0.10 + Math.random() * 0.30,
+        rot: (Math.random() - 0.5) * 0.5
+      };
+    }
+
+    function heart(p) {
+      const s = p.s;
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rot);
+      ctx.globalAlpha = p.a;
+      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#c1436d';
+      ctx.beginPath();
+      ctx.moveTo(0, -s * 0.3);
+      ctx.bezierCurveTo(0, -s * 0.95, -s, -s * 0.72, -s, -s * 0.08);
+      ctx.bezierCurveTo(-s, s * 0.42, -s * 0.34, s * 0.62, 0, s);
+      ctx.bezierCurveTo(s * 0.34, s * 0.62, s, s * 0.42, s, -s * 0.08);
+      ctx.bezierCurveTo(s, -s * 0.72, 0, -s * 0.95, 0, -s * 0.3);
+      ctx.fill();
+      ctx.restore();
+    }
+
+    size();
+    parts = Array.from({ length: still ? 12 : 22 }, () => spawn(true));
+
+    if (still) {                                  // a quiet, static scatter
+      ctx.clearRect(0, 0, w, h);
+      parts.forEach(heart);
+      return;
+    }
+
+    let t = 0;
+    (function frame() {
+      t += 0.016;
+      ctx.clearRect(0, 0, w, h);
+      parts.forEach((p, i) => {
+        p.y -= p.v;
+        p.x += Math.sin(t + p.phase) * p.sway * 0.35;
+        if (p.y < -40) parts[i] = spawn(false);
+        heart(p);
+      });
+      heartsRAF = requestAnimationFrame(frame);
+    })();
+
+    window.addEventListener('resize', size);
+  }
+
+  function stopHearts() {
+    if (heartsRAF) cancelAnimationFrame(heartsRAF);
+    heartsRAF = null;
+  }
+
+  function openNote() {
+    $('#note-body').textContent = pick(LOVE.notes);
+    $('#note-sign').textContent = '— ' + (LOVE.from || '');
+    $('#note-sheet').classList.remove('hidden');
+  }
+  function closeNote() { $('#note-sheet').classList.add('hidden'); }
+
+  /* the encouragement on the result screen, chosen by how it actually went */
+  function praiseFor(pct) {
+    const p = LOVE.praise || {};
+    if (pct >= 85) return pick(p.great);
+    if (pct >= 70) return pick(p.good);
+    if (pct >= 50) return pick(p.okay);
+    return pick(p.tough);
+  }
+
   /* ══════════ local history (anon cannot read attempts back) ══════════ */
 
   function history() {
@@ -155,12 +321,17 @@
     if (!user || !pass) return loginError('Enter both fields to sign in.');
 
     if (role === 'student') {
-      if (user.toLowerCase() !== String(cfg.STUDENT_USERNAME).toLowerCase() || pass !== cfg.STUDENT_PASSWORD) {
+      /* she can sign in with her own name as well as the plain username */
+      const aliases = [cfg.STUDENT_USERNAME, LOVE.name, LOVE.nickname]
+        .filter(Boolean).map(s => String(s).toLowerCase());
+      if (aliases.indexOf(user.toLowerCase()) === -1 || pass !== cfg.STUDENT_PASSWORD) {
         return loginError('That username and password do not match.');
       }
       S.role = 'student';
       $('#login-pass').value = '';
+      applyLove(true);
       show('screen-home');
+      maybeGreet();
       return loadBank();
     }
 
@@ -170,6 +341,7 @@
       await API.adminLogin(user, pass);
       S.role = 'admin';
       $('#login-pass').value = '';
+      applyLove(false);
       show('screen-admin');
       loadAdminSets();
     } catch (e) {
@@ -184,6 +356,10 @@
     API.signOut();
     S.role = null;
     stopTimer();
+    stopHearts();
+    closeNote();
+    $('#greeting').classList.add('hidden');
+    applyLove(false);
     $('#login-user').value = '';
     $('#login-pass').value = '';
     show('screen-login');
@@ -598,10 +774,12 @@
     $('#stat-wrong').textContent = r.wrong;
     $('#stat-skipped').textContent = r.skipped;
 
-    $('#score-title').textContent =
+    /* the words change with how it went; the numbers never flatter */
+    const plain =
       pct >= 85 ? 'Excellent' :
       pct >= 70 ? 'Strong attempt' :
       pct >= 50 ? 'Good, keep going' : 'Worth another round';
+    $('#score-title').textContent = (loveOn() && S.role === 'student' && praiseFor(pct)) || plain;
 
     $('#score-sub').textContent = pct + '% · finished in ' + fmtDuration(r.seconds) + ' · ' + setupLabel();
 
@@ -857,6 +1035,10 @@
     });
 
     $$('[data-close-sheet]').forEach(el => el.addEventListener('click', closePalette));
+    $$('[data-close-note]').forEach(el => el.addEventListener('click', closeNote));
+    $('#btn-note').addEventListener('click', openNote);
+    $('#greet-go').addEventListener('click', closeGreeting);
+    $('#note-from').textContent = LOVE.from || '';
 
     $('#btn-review').addEventListener('click', () => {
       S.filter = 'all';

@@ -1,0 +1,201 @@
+# Batch 3 — Midwifery & Obstetrical Nursing, Child Health Nursing
+
+Q: The normal duration of human pregnancy from the first day of the last menstrual period is
+A) 240 days
+B) 260 days
+C) 280 days
+D) 300 days
+Ans: C
+Topic: Obstetrics
+Diff: easy
+Exp: Pregnancy averages 280 days, or 40 weeks, from the first day of the last menstrual period. Naegele's rule estimates the due date by adding nine months and seven days to that date.
+
+Q: Quickening, the first maternal perception of fetal movement, is usually felt by a primigravida at
+A) 8 to 10 weeks
+B) 12 to 14 weeks
+C) 18 to 20 weeks
+D) 28 to 30 weeks
+Ans: C
+Topic: Obstetrics
+Diff: medium
+Exp: A first-time mother usually feels movements at about 18 to 20 weeks, while a multigravida recognises them earlier, at around 16 to 18 weeks, because she knows the sensation.
+
+Q: The most reliable positive sign of pregnancy is
+A) Quickening
+B) Demonstration of the fetal heart and fetal parts on ultrasound
+C) Morning sickness
+D) Amenorrhoea
+Ans: B
+Topic: Obstetrics
+Diff: medium
+Exp: Positive signs are those attributable only to the fetus: visualisation of the fetus, audible fetal heart sounds and palpable fetal movements by the examiner. Amenorrhoea and nausea are presumptive, being reported by the woman and possible in other conditions.
+
+Q: The normal fetal heart rate at term is
+A) 160 to 200 beats per minute
+B) 80 to 100 beats per minute
+C) 110 to 160 beats per minute
+D) 60 to 90 beats per minute
+Ans: C
+Topic: Obstetrics
+Diff: easy
+Exp: The accepted normal baseline is 110 to 160 beats per minute. A sustained rate below 110 is fetal bradycardia and above 160 is tachycardia, both requiring assessment.
+
+Q: Pre-eclampsia is defined by hypertension after 20 weeks of gestation together with
+A) Anaemia
+B) Proteinuria or other end-organ dysfunction
+C) Glycosuria
+D) Polyhydramnios
+Ans: B
+Topic: Obstetrics
+Diff: medium
+Exp: Pre-eclampsia is new hypertension after 20 weeks with proteinuria or evidence of organ involvement such as deranged liver enzymes, low platelets, renal impairment or neurological signs. Once convulsions occur it becomes eclampsia.
+
+Q: The drug of choice for preventing and controlling convulsions in eclampsia is
+A) Magnesium sulphate
+B) Phenytoin
+C) Nifedipine
+D) Diazepam
+Ans: A
+Topic: Obstetrics
+Diff: medium
+Exp: Magnesium sulphate is superior to diazepam and phenytoin for both prevention and control of eclamptic fits. Toxicity is monitored by checking the knee jerk, respiratory rate and urine output, and calcium gluconate is the antidote.
+
+Q: The most common cause of primary postpartum haemorrhage is
+A) Uterine atony
+B) Genital tract trauma
+C) Retained placenta
+D) Coagulation disorder
+Ans: A
+Topic: Obstetrics
+Diff: medium
+Exp: Atony, the failure of the uterus to contract after delivery, accounts for the majority of cases. This is why the initial response is to rub up a contraction, empty the bladder and give a uterotonic drug.
+
+Q: The three stages of labour in correct order are
+A) Dilatation, expulsion of the fetus, expulsion of the placenta
+B) Dilatation, expulsion of the placenta, expulsion of the fetus
+C) Expulsion of the fetus, dilatation, expulsion of the placenta
+D) Effacement, dilatation, expulsion of the placenta
+Ans: A
+Topic: Obstetrics
+Diff: easy
+Exp: The first stage runs from the onset of true labour to full cervical dilatation, the second from full dilatation to delivery of the baby, and the third covers separation and expulsion of the placenta. Some texts add a fourth stage of one to two hours of close observation afterwards.
+
+Q: The most common fetal presentation at term is
+A) Vertex
+B) Breech
+C) Face
+D) Shoulder
+Ans: A
+Topic: Obstetrics
+Diff: easy
+Exp: About 95 per cent of term fetuses present by the vertex, the most favourable presentation for vaginal delivery because the smallest diameter of the head leads.
+
+Q: In the active management of the third stage of labour, the uterotonic drug is given
+A) Only after the placenta is delivered
+B) Before delivery of the baby
+C) Within one minute of delivery of the baby
+D) Two hours after delivery
+Ans: C
+Topic: Obstetrics
+Diff: hard
+Exp: Active management involves giving a uterotonic, usually oxytocin, within one minute of the birth, followed by controlled cord traction with counter-traction and uterine massage. It substantially reduces the risk of postpartum haemorrhage.
+
+Q: Colostrum differs from mature breast milk in that it is
+A) Lower in protein and antibodies
+B) Identical in composition
+C) Higher in protein and immunoglobulins, especially secretory IgA
+D) Higher in fat and lactose
+Ans: C
+Topic: Obstetrics
+Diff: medium
+Exp: Colostrum, secreted in the first few days, is rich in protein, vitamin A and secretory IgA and is lower in fat and lactose. Its immunological value is why it should never be discarded.
+
+Q: Exclusive breastfeeding is recommended for the first
+A) 3 months
+B) 6 months
+C) 9 months
+D) 12 months
+Ans: B
+Topic: Child Health
+Diff: easy
+Exp: WHO recommends exclusive breastfeeding for six months, with nothing else including water, followed by appropriate complementary feeding with continued breastfeeding up to two years and beyond.
+
+Q: An infant normally doubles the birth weight by about
+A) 3 months
+B) 5 to 6 months
+C) 9 months
+D) 12 months
+Ans: B
+Topic: Child Health
+Diff: medium
+Exp: Birth weight roughly doubles by five to six months, triples by one year and quadruples by two years. Failure to follow this pattern is an early clue to faltering growth.
+
+Q: The anterior fontanelle normally closes by
+A) 6 months
+B) 12 to 18 months
+C) 3 years
+D) 9 months
+Ans: B
+Topic: Child Health
+Diff: medium
+Exp: The anterior fontanelle closes between 12 and 18 months and the posterior by about 6 to 8 weeks. Delayed closure suggests rickets, hypothyroidism or hydrocephalus, while early closure raises the possibility of craniosynostosis.
+
+Q: According to the national immunisation schedule in India, BCG, OPV-0 and hepatitis B birth dose are given
+A) At birth
+B) At 10 weeks
+C) At 9 months
+D) At 6 weeks
+Ans: A
+Topic: Child Health
+Diff: medium
+Exp: BCG, the zero dose of oral polio vaccine and the birth dose of hepatitis B vaccine are given as soon as possible after birth, ideally within 24 hours for hepatitis B. The primary series of pentavalent and OPV follows at 6, 10 and 14 weeks.
+
+Q: The measles-containing vaccine is first given at
+A) 6 weeks
+B) 5 years
+C) Birth
+D) 9 to 12 months
+Ans: D
+Topic: Child Health
+Diff: medium
+Exp: The first dose of measles-rubella vaccine is given at 9 to 12 months, once maternal antibody has waned enough for the vaccine to take, with a second dose at 16 to 24 months.
+
+Q: A child with severe dehydration from acute diarrhoea should first receive
+A) Oral rehydration solution only
+B) Antidiarrhoeal drugs
+C) Intravenous fluid such as Ringer lactate
+D) Antibiotics
+Ans: C
+Topic: Child Health
+Diff: medium
+Exp: Severe dehydration is plan C and requires immediate intravenous rehydration, usually with Ringer lactate. Oral rehydration is used for some and mild dehydration, and antidiarrhoeal drugs are contraindicated in children.
+
+Q: The most useful single sign for assessing pneumonia in a child under five in a community setting is
+A) Fast breathing for age with chest indrawing
+B) Runny nose
+C) Loss of appetite
+D) Fever
+Ans: A
+Topic: Child Health
+Diff: hard
+Exp: The IMNCI approach classifies pneumonia by counting the respiratory rate over one full minute against age-specific cut-offs, and looking for lower chest wall indrawing which indicates severe disease. Fever is too non-specific to guide treatment.
+
+Q: A newborn is assessed at one minute with a heart rate of 130, good crying, active movement, some flexion and a pink body with blue extremities. The Apgar score is
+A) 6
+B) 7
+C) 8
+D) 10
+Ans: C
+Topic: Child Health
+Diff: hard
+Exp: Heart rate above 100 scores 2, good crying scores 2 for respiration, active movement scores 2, some flexion scores 1 for muscle tone, and acrocyanosis with a pink body scores 1 for colour, totalling 8. Peripheral blueness alone in the first minutes is common and not alarming.
+
+Q: Physiological jaundice of the newborn characteristically
+A) Requires exchange transfusion in every case
+B) Is always associated with pale stools and dark urine
+C) Appears after 24 hours, peaks around days 3 to 5, and resolves within a week or two
+D) Appears within the first 24 hours of life
+Ans: C
+Topic: Child Health
+Diff: hard
+Exp: Jaundice appearing in the first 24 hours is always pathological and demands urgent investigation for haemolysis or sepsis. Physiological jaundice appears after the first day, peaks on days three to five in a term baby, and settles without treatment or with phototherapy.

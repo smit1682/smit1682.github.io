@@ -1,0 +1,191 @@
+# Batch 2 — Medical-Surgical Nursing
+
+Q: The classic triad of increased intracranial pressure is
+A) Hypotension, tachycardia and slow breathing
+B) Hypoglycaemia, sweating and tremor
+C) Hypertension, bradycardia and irregular respiration
+D) Fever, tachycardia and hypotension
+Ans: C
+Topic: Medical-Surgical
+Diff: hard
+Exp: This is Cushing's triad: rising systolic pressure with a widening pulse pressure, a slowing pulse and irregular respiration. It is a late and ominous sign of raised intracranial pressure and impending herniation.
+
+Q: The most common early sign of hypoxia is
+A) Clubbing
+B) Bradycardia
+C) Cyanosis
+D) Restlessness
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: Restlessness and altered behaviour appear early because the brain is exquisitely sensitive to falling oxygen. Cyanosis is a late sign, requiring about 5 g/dL of deoxygenated haemoglobin, and may never appear in an anaemic patient.
+
+Q: A patient with chronic obstructive pulmonary disease should receive oxygen
+A) Never, as it is contraindicated
+B) At high flow, 10 to 12 litres per minute
+C) Only during sleep
+D) At controlled low flow, titrated to the target saturation
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: In a patient who chronically retains carbon dioxide, uncontrolled high-flow oxygen can worsen hypercapnia, so oxygen is given in controlled low concentration and titrated to a target saturation, commonly 88 to 92 per cent. Oxygen is never withheld from a hypoxic patient.
+
+Q: The hallmark sign of left-sided heart failure is
+A) Pulmonary congestion with breathlessness
+B) Ascites
+C) Pedal oedema
+D) Distended neck veins with hepatomegaly
+Ans: A
+Topic: Medical-Surgical
+Diff: medium
+Exp: When the left ventricle fails, blood dams back into the lungs, causing dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea and crackles. Right-sided failure backs blood into the systemic veins, giving pedal oedema, raised jugular pressure, hepatomegaly and ascites.
+
+Q: The most specific cardiac biomarker for myocardial infarction is
+A) Lactate dehydrogenase
+B) Creatine kinase MB
+C) Serum troponin
+D) Serum myoglobin
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Troponin I and T are the most specific and sensitive markers, rising within 3 to 6 hours and staying raised for up to two weeks. Myoglobin rises earliest but is entirely non-specific, and LDH is now obsolete for this purpose.
+
+Q: The priority nursing action for a patient with chest pain suggestive of myocardial infarction is
+A) Obtain a detailed dietary history
+B) Give a full bed bath
+C) Encourage ambulation to assess exercise tolerance
+D) Position the patient upright, give oxygen if hypoxic and obtain an ECG
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: The immediate priorities are to reduce cardiac workload and confirm the diagnosis quickly, so the patient is rested and positioned comfortably, oxygen given if saturations are low, an ECG taken within ten minutes and pain relieved. Exertion increases myocardial oxygen demand and is contraindicated.
+
+Q: Which finding in a patient on heparin therapy needs immediate attention?
+A) Haematuria with a falling platelet count
+B) INR of 1.1
+C) aPTT of 60 seconds
+D) Mild bruising at the injection site
+Ans: A
+Topic: Medical-Surgical
+Diff: hard
+Exp: Bleeding together with thrombocytopenia raises the possibility of heparin-induced thrombocytopenia, which paradoxically causes thrombosis and requires heparin to be stopped at once. An aPTT of 60 seconds is within the usual therapeutic range, and small injection-site bruises are expected.
+
+Q: The antidote for heparin overdose is
+A) Vitamin K
+B) Naloxone
+C) Protamine sulphate
+D) Fresh frozen plasma alone
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Protamine sulphate binds and neutralises heparin. Vitamin K reverses warfarin, and naloxone reverses opioids. Knowing the drug-antidote pairs is a favourite examination point.
+
+Q: Which acid-base disturbance would you expect in a patient with prolonged vomiting?
+A) Respiratory acidosis
+B) Respiratory alkalosis
+C) Metabolic alkalosis
+D) Metabolic acidosis
+Ans: C
+Topic: Medical-Surgical
+Diff: hard
+Exp: Vomiting loses hydrogen and chloride ions from gastric juice, producing hypochloraemic metabolic alkalosis with hypokalaemia. Prolonged diarrhoea, by contrast, loses bicarbonate from below and causes metabolic acidosis.
+
+Q: The earliest sign of hypokalaemia on an ECG is
+A) Widened QRS complex
+B) Tall peaked T waves
+C) Shortened QT interval
+D) Flattened T waves with a prominent U wave
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Low potassium flattens the T wave and brings out a U wave, and may cause ST depression and arrhythmias. Tall peaked T waves are the classic sign of the opposite problem, hyperkalaemia.
+
+Q: A patient with a chest drain in situ suddenly has the bottle knocked over and broken. The nurse should first
+A) Clamp the tube close to the chest wall and prepare a new drainage system
+B) Reconnect the broken bottle
+C) Remove the chest tube entirely
+D) Run to call the doctor
+Ans: A
+Topic: Medical-Surgical
+Diff: hard
+Exp: Brief clamping prevents air being drawn into the pleural space while a fresh sterile system is set up. Alternatively the tube end is submerged in sterile water. The drain is never removed by the nurse, and prolonged clamping risks a tension pneumothorax.
+
+Q: Dumping syndrome after gastric surgery is best managed by advising the patient to
+A) Sit upright and take a high carbohydrate diet
+B) Fast for long periods between meals
+C) Take large meals with plenty of fluid
+D) Take small frequent dry meals, low in simple sugars, and lie down after eating
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Rapid emptying of hyperosmolar chyme into the jejunum pulls fluid into the gut. Small, dry, low-sugar, higher-protein meals with fluids taken between rather than with meals, followed by lying down, slow gastric emptying and reduce symptoms.
+
+Q: The most common cause of chronic kidney disease worldwide is
+A) Polycystic kidney disease
+B) Urinary tract infection
+C) Renal calculi
+D) Diabetes mellitus
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: Diabetic nephropathy is the leading cause, followed by hypertension. Together they account for the majority of patients reaching end-stage renal disease, which is why glycaemic and blood pressure control are central to prevention.
+
+Q: A patient on haemodialysis has an arteriovenous fistula in the left arm. The nurse should
+A) Apply a tight bandage over the fistula
+B) Keep the arm strictly immobilised
+C) Avoid venepuncture, blood pressure and intravenous lines in that arm, and check the thrill
+D) Record blood pressure from the left arm
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: The fistula is the patient's lifeline for dialysis. Anything compressing it may cause thrombosis, so no cuffs, needles or tight dressings on that limb, and the bruit and thrill are checked regularly to confirm patency.
+
+Q: The classic presentation of an acute asthma attack includes
+A) Coarse crackles at both bases with pink frothy sputum
+B) Pleuritic pain with a friction rub
+C) Expiratory wheeze with prolonged expiration and use of accessory muscles
+D) Inspiratory stridor with drooling
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Bronchoconstriction obstructs airflow mainly on expiration, giving expiratory wheeze and a prolonged expiratory phase. Ominously, a silent chest means airflow has become too poor to generate wheeze and signals life-threatening asthma.
+
+Q: Which of the following is a late sign of increased intracranial pressure in an adult?
+A) Nausea
+B) Mild irritability
+C) Headache
+D) Fixed dilated pupil on one side
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: A unilateral fixed dilated pupil indicates third nerve compression from uncal herniation and is a neurosurgical emergency. Headache, nausea and subtle behaviour change come far earlier and are the ones to act upon.
+
+Q: The most important nursing measure to prevent pressure ulcers in an immobile patient is
+A) Two-hourly repositioning with pressure-redistributing support and skin inspection
+B) Using a rubber ring under the sacrum
+C) Massaging bony prominences vigorously
+D) Restricting fluids to keep the skin dry
+Ans: A
+Topic: Medical-Surgical
+Diff: easy
+Exp: Relieving pressure at regular intervals is the cornerstone of prevention, together with keeping skin clean and dry and maintaining nutrition and hydration. Vigorous massage over bony points damages fragile tissue, and ring cushions concentrate pressure around the rim.
+
+Q: The Glasgow Coma Scale assesses
+A) Pupil size, pulse and blood pressure
+B) Eye opening, verbal response and motor response
+C) Orientation, memory and calculation
+D) Cranial nerves one to twelve
+Ans: B
+Topic: Medical-Surgical
+Diff: easy
+Exp: The GCS scores eye opening out of 4, verbal response out of 5 and best motor response out of 6, giving a range of 3 to 15. A score of 8 or less indicates coma and usually the need to secure the airway.
+
+Q: The immediate management of a patient with a suspected spinal cord injury includes
+A) Flexing the neck to check for stiffness
+B) Sitting the patient upright to aid breathing
+C) Encouraging the patient to walk to test power
+D) Immobilising the spine and using log-rolling for any movement
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: Until injury is excluded, the spine is kept in neutral alignment and the patient moved only by log-rolling with enough staff. Flexing the neck or mobilising the patient risks converting an incomplete injury into a complete one.

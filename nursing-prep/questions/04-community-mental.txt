@@ -1,0 +1,221 @@
+# Batch 4 — Community Health Nursing, Mental Health Nursing
+
+Q: The infant mortality rate is expressed as the number of deaths under one year of age per
+A) 1000 live births
+B) 1000 mid-year population
+C) 10000 population
+D) 100 live births
+Ans: A
+Topic: Community Health
+Diff: medium
+Exp: IMR is deaths of infants under one year per 1000 live births in a given year. It is one of the most sensitive indicators of the overall health and socioeconomic development of a population.
+
+Q: The maternal mortality ratio is expressed per
+A) 1000 population
+B) 10000 women
+C) 1000 live births
+D) 100000 live births
+Ans: D
+Topic: Community Health
+Diff: medium
+Exp: Because maternal deaths are relatively rare events, the ratio is expressed per 100,000 live births. It counts deaths during pregnancy or within 42 days of termination of pregnancy from causes related to the pregnancy.
+
+Q: Primary prevention of disease refers to
+A) Screening of an apparently healthy population
+B) Early diagnosis and prompt treatment
+C) Rehabilitation after disability
+D) Action taken before the disease occurs, such as immunisation and health education
+Ans: D
+Topic: Community Health
+Diff: medium
+Exp: Primary prevention acts before disease begins, through health promotion and specific protection such as immunisation. Secondary prevention is early detection and treatment, including screening, and tertiary prevention limits disability and rehabilitates.
+
+Q: Herd immunity refers to
+A) Immunity acquired after natural infection only
+B) Passive immunity from mother to fetus
+C) Immunity of an individual after vaccination
+D) The protection of a whole community when a sufficient proportion is immune
+Ans: D
+Topic: Community Health
+Diff: medium
+Exp: When enough of a population is immune, transmission chains break and even the unimmunised are indirectly protected. The proportion needed rises with how infectious the organism is, which is why measles requires very high coverage.
+
+Q: The cold chain for vaccines requires storage at
+A) Plus 15 to plus 20 degrees Celsius
+B) Minus 20 degrees Celsius for all vaccines
+C) Room temperature
+D) Plus 2 to plus 8 degrees Celsius at the peripheral level
+Ans: D
+Topic: Community Health
+Diff: medium
+Exp: At the health centre level vaccines are held at plus 2 to plus 8 degrees Celsius in an ice-lined refrigerator. Polio vaccine may be kept frozen at higher levels of the chain, whereas freezing destroys the potency of DPT, hepatitis B and tetanus toxoid.
+
+Q: In the epidemiological triad, the three components are
+A) Agent, host and environment
+B) Time, place and person
+C) Bacteria, virus and fungus
+D) Patient, nurse and doctor
+Ans: A
+Topic: Community Health
+Diff: easy
+Exp: Disease results from interaction between agent, host and environment. Time, place and person are the three axes of descriptive epidemiology, which is a different framework.
+
+Q: A disease constantly present in a community at a low or moderate level is described as
+A) Sporadic
+B) Pandemic
+C) Endemic
+D) Epidemic
+Ans: C
+Topic: Community Health
+Diff: easy
+Exp: Endemic means habitually present in an area. An epidemic is a clear excess over expected numbers, a pandemic is an epidemic crossing countries and continents, and sporadic cases are scattered and irregular.
+
+Q: The most appropriate method of disposal of used needles and sharps is
+A) Yellow bag
+B) Black bag with general waste
+C) Puncture-proof translucent white container
+D) Red bag
+Ans: C
+Topic: Community Health
+Diff: medium
+Exp: Under the biomedical waste rules, sharps go into puncture-proof, leak-proof white translucent containers. Yellow is for anatomical and soiled waste requiring incineration and red for contaminated recyclable plastics such as tubing.
+
+Q: In the ASHA scheme, the ASHA worker functions primarily as
+A) A medical officer
+B) A laboratory technician
+C) A qualified staff nurse in a hospital
+D) A community health volunteer and link between the community and the health system
+Ans: D
+Topic: Community Health
+Diff: easy
+Exp: The Accredited Social Health Activist is a trained female volunteer resident in the village who mobilises the community, promotes institutional delivery and immunisation, and links families with health services. She is paid by performance-based incentives.
+
+Q: Chlorination of drinking water at the household level is most effective when the free residual chlorine after 30 minutes of contact is
+A) 0.1 mg per litre
+B) 0.5 mg per litre
+C) 5 mg per litre
+D) 10 mg per litre
+Ans: B
+Topic: Community Health
+Diff: hard
+Exp: A free residual chlorine of about 0.5 mg per litre after 30 minutes contact indicates that the demand has been met and the water is safe. Very high residuals make the water unpalatable and are unnecessary.
+
+Q: Directly Observed Treatment, Short course, in the tuberculosis programme means
+A) Only sputum-positive patients are treated
+B) The patient collects a month of tablets at a time
+C) Treatment is given only in hospital
+D) Treatment is swallowed in the presence of an observer who records it
+Ans: D
+Topic: Community Health
+Diff: medium
+Exp: DOTS requires that doses be swallowed under observation and recorded, which secures adherence and prevents the emergence of drug resistance. It is combined with quality-assured diagnosis, an assured drug supply and systematic monitoring.
+
+Q: The vector responsible for transmitting malaria is
+A) Sandfly
+B) Aedes aegypti
+C) Female Anopheles mosquito
+D) Culex mosquito
+Ans: C
+Topic: Community Health
+Diff: easy
+Exp: The female Anopheles transmits malaria. Culex transmits filariasis and Japanese encephalitis, Aedes aegypti transmits dengue, chikungunya and yellow fever, and the sandfly transmits kala-azar.
+
+Q: The defence mechanism in which an unacceptable impulse is transferred to a less threatening target is
+A) Sublimation
+B) Regression
+C) Displacement
+D) Projection
+Ans: C
+Topic: Mental Health
+Diff: medium
+Exp: Displacement redirects feeling onto a safer object, as when anger at a superior is taken out at home. Projection attributes one's own feelings to someone else, regression retreats to earlier behaviour, and sublimation channels the impulse into something socially valued.
+
+Q: A fixed false belief that is not amenable to reason and is out of keeping with the person's culture is
+A) Hallucination
+B) Obsession
+C) Delusion
+D) Illusion
+Ans: C
+Topic: Mental Health
+Diff: easy
+Exp: A delusion is a disorder of thought content. A hallucination is a perception without any external stimulus, an illusion is a misinterpretation of a real stimulus, and an obsession is a recurrent intrusive thought the person recognises as their own and resists.
+
+Q: The most common type of hallucination in schizophrenia is
+A) Visual
+B) Tactile
+C) Auditory
+D) Olfactory
+Ans: C
+Topic: Mental Health
+Diff: medium
+Exp: Auditory hallucinations, often voices commenting on or discussing the patient, are the commonest. Prominent visual hallucinations should raise suspicion of an organic cause such as delirium or substance withdrawal.
+
+Q: A patient on lithium therapy should be closely monitored for
+A) Serum amylase
+B) Liver enzymes only
+C) Blood glucose only
+D) Serum lithium level, renal and thyroid function
+Ans: D
+Topic: Mental Health
+Diff: hard
+Exp: Lithium has a narrow therapeutic index of roughly 0.6 to 1.2 mEq per litre, is excreted by the kidney and can cause hypothyroidism, so levels, renal function and thyroid function are all monitored. Early toxicity shows as coarse tremor, vomiting, diarrhoea, ataxia and drowsiness.
+
+Q: Which of the following is a negative symptom of schizophrenia?
+A) Delusion
+B) Disorganised speech
+C) Hallucination
+D) Affective flattening and avolition
+Ans: D
+Topic: Mental Health
+Diff: medium
+Exp: Negative symptoms are the absence of normal function: blunted affect, poverty of speech, loss of volition and social withdrawal. Delusions, hallucinations and disorganised speech are positive symptoms, being additions to normal experience.
+
+Q: The most important nursing priority for a patient who has expressed suicidal intent is
+A) Leaving the patient alone to rest
+B) Encouraging the patient to join group activities
+C) Discussing the topic only if the patient raises it
+D) Ensuring continuous observation and a safe environment free of harmful objects
+Ans: D
+Topic: Mental Health
+Diff: medium
+Exp: Safety comes first, through close observation and removal of means. Asking directly about suicidal thoughts does not plant the idea, and avoiding the subject leaves risk unassessed.
+
+Q: Extrapyramidal side effects of typical antipsychotic drugs include
+A) Dystonia, akathisia, parkinsonism and tardive dyskinesia
+B) Polyuria and polydipsia
+C) Hypertension and tachycardia only
+D) Photosensitivity only
+Ans: A
+Topic: Mental Health
+Diff: hard
+Exp: Blockade of dopamine in the nigrostriatal pathway produces acute dystonia, restless akathisia, drug-induced parkinsonism and, after prolonged use, tardive dyskinesia. Neuroleptic malignant syndrome, with rigidity, fever and autonomic instability, is the rare and life-threatening extreme.
+
+Q: Electroconvulsive therapy is most clearly indicated in
+A) Severe depression with high suicidal risk or refusal of food
+B) Personality disorder
+C) Simple phobia
+D) Mild anxiety disorder
+Ans: A
+Topic: Mental Health
+Diff: medium
+Exp: ECT works quickly and is used when the situation is urgent, such as severe depression with strong suicidal intent, refusal to eat or drink, catatonia, or when drugs have failed. It has no place in mild anxiety or personality disorder.
+
+Q: In the therapeutic nurse-patient relationship, the working phase is characterised by
+A) Collecting demographic data
+B) Establishing trust and setting boundaries
+C) Exploring problems and developing coping strategies
+D) Summarising progress and preparing for separation
+Ans: C
+Topic: Mental Health
+Diff: medium
+Exp: The relationship moves through orientation, where trust and contract are established, the working phase where issues are explored and new behaviours tried, and termination where gains are consolidated and separation is worked through.
+
+Q: Delirium is distinguished from dementia chiefly by
+A) Acute onset, fluctuating course and clouding of consciousness
+B) Absence of any treatable cause
+C) Gradual onset over months and clear consciousness
+D) Permanent irreversible course
+Ans: A
+Topic: Mental Health
+Diff: hard
+Exp: Delirium comes on over hours to days, fluctuates, impairs attention and consciousness and usually has a reversible physical cause such as infection, hypoxia or drugs. Dementia begins insidiously, progresses over months to years and leaves consciousness clear until very late.

@@ -1,0 +1,181 @@
+# Batch 5 — Pharmacology, Microbiology & Pathology, Nursing Research & Statistics, Management
+
+Q: The antidote for warfarin overdose is
+A) Vitamin K
+B) Flumazenil
+C) Protamine sulphate
+D) Atropine
+Ans: A
+Topic: Pharmacology
+Diff: easy
+Exp: Warfarin blocks vitamin K dependent clotting factors II, VII, IX and X, so vitamin K reverses it, with prothrombin complex concentrate or fresh frozen plasma added when bleeding is severe. Protamine reverses heparin.
+
+Q: The antidote for paracetamol poisoning is
+A) Atropine
+B) Naloxone
+C) Deferoxamine
+D) N-acetylcysteine
+Ans: D
+Topic: Pharmacology
+Diff: medium
+Exp: N-acetylcysteine replenishes glutathione, which detoxifies the reactive metabolite responsible for hepatic necrosis. It is most effective when started within eight hours of ingestion, so treatment is not delayed for levels when the history suggests serious overdose.
+
+Q: Which route of drug administration gives the most rapid onset of action?
+A) Oral
+B) Subcutaneous
+C) Intramuscular
+D) Intravenous
+Ans: D
+Topic: Pharmacology
+Diff: easy
+Exp: The intravenous route delivers the drug straight into the circulation with 100 per cent bioavailability and no absorption phase. It is also the least forgiving, because once given the dose cannot be retrieved.
+
+Q: The five rights of medication administration are the right patient, right drug, right dose, right route and
+A) Right time
+B) Right diagnosis
+C) Right nurse
+D) Right prescription
+Ans: A
+Topic: Pharmacology
+Diff: easy
+Exp: The classic five rights are patient, drug, dose, route and time. Many services now add right documentation, right reason and the patient's right to refuse.
+
+Q: Aminoglycoside antibiotics such as gentamicin are chiefly toxic to the
+A) Liver and pancreas
+B) Bone marrow
+C) Kidney and eighth cranial nerve
+D) Skin
+Ans: C
+Topic: Pharmacology
+Diff: hard
+Exp: Nephrotoxicity and ototoxicity, affecting both hearing and balance, are the characteristic dangers, so renal function and levels are monitored and the patient is asked about tinnitus, hearing loss and unsteadiness.
+
+Q: A patient receiving intravenous potassium chloride must never be given it
+A) Undiluted as a rapid intravenous push
+B) Diluted in intravenous fluid
+C) With cardiac monitoring
+D) Through an infusion pump
+Ans: A
+Topic: Pharmacology
+Diff: hard
+Exp: Concentrated potassium given as a bolus causes fatal cardiac arrest. It must always be diluted, given slowly by controlled infusion, and the site watched, since potassium is intensely irritant to veins.
+
+Q: Which drug group requires the nurse to teach the patient to rise slowly from lying or sitting?
+A) Antihypertensives
+B) Antacids
+C) Bulk laxatives
+D) Topical antifungals
+Ans: A
+Topic: Pharmacology
+Diff: medium
+Exp: Antihypertensives, and particularly alpha blockers and vasodilators, cause postural hypotension. Teaching the patient to change position slowly and to dangle the legs before standing prevents dizziness and falls.
+
+Q: Insulin should ideally be stored
+A) In the refrigerator at 2 to 8 degrees Celsius, with the vial in use kept at room temperature
+B) In the freezer
+C) In direct sunlight
+D) At 37 degrees Celsius
+Ans: A
+Topic: Pharmacology
+Diff: medium
+Exp: Unopened insulin keeps in the refrigerator until its expiry date, while the vial or pen in use may stay at room temperature for about four weeks and is more comfortable to inject. Freezing destroys insulin and it must then be discarded.
+
+Q: Tuberculosis is caused by an organism best described as
+A) A Gram-negative coccus
+B) A spirochaete
+C) An acid-fast bacillus
+D) A fungus
+Ans: C
+Topic: Microbiology
+Diff: easy
+Exp: Mycobacterium tuberculosis has a waxy mycolic acid cell wall that resists decolourisation by acid alcohol, so it is demonstrated by the Ziehl-Neelsen stain. That same wall makes it slow growing and hard to treat.
+
+Q: The most common mode of transmission of hepatitis A is
+A) Blood transfusion
+B) Perinatal
+C) Sexual contact
+D) Faeco-oral
+Ans: D
+Topic: Microbiology
+Diff: easy
+Exp: Hepatitis A and E spread by the faeco-oral route through contaminated food and water and do not become chronic. Hepatitis B, C and D spread by blood, sexual contact and perinatally, and B and C may become chronic.
+
+Q: Standard precautions are applied to
+A) Only during surgical procedures
+B) Only patients in isolation rooms
+C) Only patients known to have an infection
+D) All patients regardless of their diagnosis or infection status
+Ans: D
+Topic: Microbiology
+Diff: medium
+Exp: Standard precautions assume that the blood and body fluids of every patient may be infectious, and are used for all patients at all times. Transmission-based precautions of contact, droplet or airborne type are added when a specific risk is known.
+
+Q: The window period in HIV infection refers to the interval between
+A) Two consecutive negative tests
+B) Exposure and the appearance of detectable antibodies
+C) Diagnosis and the start of treatment
+D) Infection and death
+Ans: B
+Topic: Microbiology
+Diff: hard
+Exp: During the window period the person is infected and infectious but the antibody test may still be negative, which is why donated blood is screened by more sensitive methods and why repeat testing is advised after a risk exposure.
+
+Q: In a normal distribution, approximately what percentage of observations lies within one standard deviation of the mean?
+A) 50 per cent
+B) 68 per cent
+C) 95 per cent
+D) 99 per cent
+Ans: B
+Topic: Research
+Diff: medium
+Exp: About 68 per cent of values lie within one standard deviation, 95 per cent within two and 99.7 per cent within three. This is the basis for interpreting reference ranges and confidence intervals.
+
+Q: A sampling method in which every member of the population has an equal and independent chance of being selected is
+A) Purposive sampling
+B) Simple random sampling
+C) Quota sampling
+D) Convenience sampling
+Ans: B
+Topic: Research
+Diff: medium
+Exp: Simple random sampling gives every unit an equal chance and allows the findings to be generalised. Convenience, purposive and quota sampling are non-probability methods, which are quicker but carry a higher risk of bias.
+
+Q: The measure of central tendency least affected by extreme values is the
+A) Median
+B) Mean
+C) Standard deviation
+D) Range
+Ans: A
+Topic: Research
+Diff: medium
+Exp: The median is the middle value once data are ordered, so a few very large or very small observations barely move it. This is why income and length of stay, which are skewed, are usually reported as medians.
+
+Q: In research ethics, obtaining informed consent requires that the participant
+A) Signs the form without explanation to save time
+B) Understands the purpose, risks and benefits, and may withdraw at any time without penalty
+C) Consents on behalf of the whole ward
+D) Is told only the benefits
+Ans: B
+Topic: Research
+Diff: easy
+Exp: Informed consent rests on disclosure, comprehension and voluntariness, including the freedom to refuse or withdraw without any effect on care. Concealing risks or applying pressure invalidates the consent.
+
+Q: A null hypothesis states that
+A) The study is ethically approved
+B) The sample is representative
+C) There is no difference or no association between the variables
+D) There is a significant difference between the groups
+Ans: C
+Topic: Research
+Diff: medium
+Exp: The null hypothesis asserts no difference or no relationship, and statistical testing asks whether the data give enough evidence to reject it. A p value below 0.05 is the conventional threshold for doing so.
+
+Q: Delegation by a nurse in charge is appropriate when
+A) The task is within the scope of practice of the person delegated to, who is competent and supervised
+B) The nurse in charge is simply too busy
+C) No handover or follow-up is needed afterwards
+D) The task requires nursing judgement that only the registered nurse can make
+Ans: A
+Topic: Management
+Diff: medium
+Exp: Delegation requires the right task, the right circumstance, the right person, the right communication and the right supervision. Accountability for the outcome remains with the delegating nurse, so assessment and judgement are never delegated.

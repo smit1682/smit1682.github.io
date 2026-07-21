@@ -1,0 +1,252 @@
+# Batch 1 — Anatomy, Physiology, Nutrition, Fundamentals
+# Paste into Admin -> Add questions. Subject: Basic Sciences (per-question Topic: overrides it)
+
+Q: The functional unit of the kidney is
+A) Hepatocyte
+B) Neuron
+C) Alveolus
+D) Nephron
+Ans: D
+Topic: Anatomy
+Diff: easy
+Exp: Each kidney contains about one million nephrons, made up of a glomerulus and its tubule. The neuron is the functional unit of the nervous system, the alveolus of the lung, and the hepatocyte of the liver.
+
+Q: Which chamber of the heart pumps blood into the aorta?
+A) Left atrium
+B) Right ventricle
+C) Right atrium
+D) Left ventricle
+Ans: D
+Topic: Anatomy
+Diff: easy
+Exp: The left ventricle ejects oxygenated blood into the aorta and has the thickest myocardium because it works against systemic pressure. The right ventricle pumps into the pulmonary artery at much lower pressure.
+
+Q: The normal pH range of arterial blood is
+A) 7.05 to 7.15
+B) 7.25 to 7.35
+C) 7.35 to 7.45
+D) 7.45 to 7.55
+Ans: C
+Topic: Physiology
+Diff: easy
+Exp: Arterial pH is tightly held between 7.35 and 7.45. Below 7.35 is acidaemia and above 7.45 is alkalaemia. This narrow range is defended by buffers, the lungs through carbon dioxide, and the kidneys through bicarbonate.
+
+Q: How many pairs of cranial nerves arise from the brain?
+A) 10 pairs
+B) 12 pairs
+C) 24 pairs
+D) 31 pairs
+Ans: B
+Topic: Anatomy
+Diff: easy
+Exp: There are 12 pairs of cranial nerves. The 31 pairs refers to spinal nerves: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal.
+
+Q: Insulin is secreted by which cells of the pancreas?
+A) Delta cells of the islets of Langerhans
+B) Acinar cells
+C) Alpha cells of the islets of Langerhans
+D) Beta cells of the islets of Langerhans
+Ans: D
+Topic: Physiology
+Diff: easy
+Exp: Beta cells secrete insulin, alpha cells secrete glucagon and delta cells secrete somatostatin. The acinar cells produce digestive enzymes and belong to the exocrine pancreas.
+
+Q: Cardiac output is calculated as
+A) Stroke volume multiplied by blood pressure
+B) Heart rate multiplied by stroke volume
+C) Systolic pressure minus diastolic pressure
+D) Heart rate divided by stroke volume
+Ans: B
+Topic: Physiology
+Diff: easy
+Exp: Cardiac output equals heart rate times stroke volume, normally about 4 to 6 litres per minute in a resting adult. Systolic minus diastolic pressure gives the pulse pressure, not cardiac output.
+
+Q: The nerve supply to the diaphragm is the
+A) Phrenic nerve
+B) Thoracodorsal nerve
+C) Vagus nerve
+D) Intercostal nerves
+Ans: A
+Topic: Anatomy
+Diff: medium
+Exp: The phrenic nerve arises from cervical roots C3, C4 and C5 and is the sole motor supply to the diaphragm. This is why a high cervical cord injury above C3 stops spontaneous breathing.
+
+Q: The normal glomerular filtration rate in a healthy adult is approximately
+A) 25 mL/min
+B) 60 mL/min
+C) 125 mL/min
+D) 300 mL/min
+Ans: C
+Topic: Physiology
+Diff: medium
+Exp: Normal GFR is about 125 mL/min, or roughly 180 litres filtered per day, of which more than 99 per cent is reabsorbed. A GFR below 60 mL/min sustained for three months defines chronic kidney disease.
+
+Q: Erythropoietin, the hormone that stimulates red cell production, is secreted mainly by the
+A) Liver
+B) Spleen
+C) Kidney
+D) Red bone marrow
+Ans: C
+Topic: Physiology
+Diff: medium
+Exp: Peritubular interstitial cells of the kidney release erythropoietin in response to hypoxia. This is why anaemia is such a common feature of chronic kidney disease.
+
+Q: The total volume of cerebrospinal fluid in an adult is about
+A) 15 mL
+B) 50 mL
+C) 150 mL
+D) 500 mL
+Ans: C
+Topic: Anatomy
+Diff: medium
+Exp: About 150 mL of CSF circulates at any time, produced by the choroid plexus at roughly 500 mL per day, so the whole volume is replaced several times daily.
+
+Q: Antidiuretic hormone is released from the
+A) Adrenal cortex
+B) Anterior pituitary
+C) Posterior pituitary
+D) Thyroid gland
+Ans: C
+Topic: Physiology
+Diff: medium
+Exp: ADH and oxytocin are synthesised in the hypothalamus and stored and released from the posterior pituitary. The anterior pituitary releases growth hormone, TSH, ACTH, FSH, LH and prolactin.
+
+Q: Renin is secreted by which structure?
+A) Juxtaglomerular cells of the kidney
+B) Zona glomerulosa of the adrenal cortex
+C) Parafollicular cells of the thyroid
+D) Chief cells of the stomach
+Ans: A
+Topic: Physiology
+Diff: medium
+Exp: Juxtaglomerular cells release renin when renal perfusion falls, starting the renin-angiotensin-aldosterone cascade. The zona glomerulosa secretes aldosterone in response to that cascade, further down the chain.
+
+Q: Normal intracranial pressure in an adult is
+A) 0 to 3 mmHg
+B) 5 to 15 mmHg
+C) 20 to 30 mmHg
+D) 40 to 50 mmHg
+Ans: B
+Topic: Physiology
+Diff: hard
+Exp: Normal ICP is 5 to 15 mmHg. Sustained pressure above 20 mmHg is treated as intracranial hypertension and threatens cerebral perfusion, which equals mean arterial pressure minus ICP.
+
+Q: A shift of the oxygen-haemoglobin dissociation curve to the right is caused by
+A) Acidosis, fever and increased 2,3-DPG
+B) Alkalosis and hypothermia
+C) Fetal haemoglobin
+D) Decreased carbon dioxide and decreased 2,3-DPG
+Ans: A
+Topic: Physiology
+Diff: hard
+Exp: A right shift means haemoglobin releases oxygen more readily to the tissues, and is produced by acidosis, raised carbon dioxide, fever and increased 2,3-DPG. Alkalosis, hypothermia and fetal haemoglobin shift the curve left, holding oxygen more tightly.
+
+Q: Which vitamin is required for the absorption of calcium from the intestine?
+A) Vitamin C
+B) Vitamin A
+C) Vitamin D
+D) Vitamin K
+Ans: C
+Topic: Nutrition
+Diff: easy
+Exp: Vitamin D, in its active form calcitriol, increases intestinal absorption of calcium and phosphate. Its deficiency causes rickets in children and osteomalacia in adults.
+
+Q: The deficiency of which nutrient causes megaloblastic anaemia along with neurological signs?
+A) Iron
+B) Vitamin K
+C) Vitamin C
+D) Vitamin B12
+Ans: D
+Topic: Nutrition
+Diff: medium
+Exp: Both folate and vitamin B12 deficiency produce a megaloblastic picture, but only B12 deficiency causes neurological damage such as subacute combined degeneration of the cord. Iron deficiency gives a microcytic hypochromic anaemia instead.
+
+Q: Kwashiorkor differs from marasmus chiefly by the presence of
+A) Normal serum albumin
+B) Oedema with relatively preserved subcutaneous fat
+C) Severe wasting with no oedema
+D) Isolated vitamin A deficiency
+Ans: B
+Topic: Nutrition
+Diff: medium
+Exp: Kwashiorkor is protein deficiency with adequate calories, producing hypoalbuminaemia, oedema, a fatty liver and skin and hair changes. Marasmus is overall calorie deficiency producing gross wasting without oedema.
+
+Q: Which of these is the richest source of iron among the options?
+A) Cow's milk
+B) Green leafy vegetables
+C) Refined sugar
+D) Polished rice
+Ans: B
+Topic: Nutrition
+Diff: easy
+Exp: Green leafy vegetables are a good plant source of iron, although the non-haem iron in them is less well absorbed than haem iron from animal foods. Milk is notably poor in iron, which is why prolonged exclusive milk feeding in toddlers causes anaemia.
+
+Q: The single most effective measure to prevent healthcare associated infection is
+A) Hand hygiene
+B) Wearing gloves at all times
+C) Routine prophylactic antibiotics
+D) Daily mopping of floors with disinfectant
+Ans: A
+Topic: Fundamentals
+Diff: easy
+Exp: Hand hygiene is the cheapest and most effective single intervention against healthcare associated infection. Gloves supplement it but do not replace it, and blanket antibiotic prophylaxis drives resistance.
+
+Q: The correct order of the nursing process is
+A) Planning, assessment, diagnosis, implementation, evaluation
+B) Diagnosis, assessment, planning, evaluation, implementation
+C) Assessment, planning, diagnosis, implementation, evaluation
+D) Assessment, diagnosis, planning, implementation, evaluation
+Ans: D
+Topic: Fundamentals
+Diff: easy
+Exp: The nursing process runs assessment, diagnosis, planning, implementation and evaluation, remembered as ADPIE. It is cyclical, so evaluation feeds back into reassessment.
+
+Q: Before administering digoxin, the nurse must specifically check the
+A) Apical pulse for one full minute
+B) Temperature
+C) Blood pressure
+D) Respiratory rate
+Ans: A
+Topic: Fundamentals
+Diff: medium
+Exp: Digoxin slows the heart, so the apical pulse is counted for a full minute and the dose withheld if it is below 60 beats per minute in an adult, with the doctor informed. Bradycardia may be the first sign of toxicity.
+
+Q: Which position is most appropriate for a patient in hypovolaemic shock?
+A) Prone position
+B) High Fowler position
+C) Supine with the legs elevated
+D) Right lateral position
+Ans: C
+Topic: Fundamentals
+Diff: medium
+Exp: Keeping the trunk flat and raising the legs improves venous return and perfusion of vital organs. Full head-down tilt is avoided because abdominal organs press on the diaphragm and impair ventilation.
+
+Q: The most reliable site for assessing pulse in an unresponsive adult during an emergency is the
+A) Carotid artery
+B) Brachial artery
+C) Dorsalis pedis artery
+D) Radial artery
+Ans: A
+Topic: Fundamentals
+Diff: medium
+Exp: The carotid is central and remains palpable when peripheral perfusion has failed, so it is the site used in adult basic life support. The brachial is the corresponding site in infants.
+
+Q: When applying a nasogastric tube, the correct method of confirming placement before feeding is
+A) Testing the pH of aspirate, with X-ray confirmation where required
+B) Asking the patient to speak
+C) Placing the tube end in water and watching for bubbles
+D) Auscultating over the stomach while injecting air
+Ans: A
+Topic: Fundamentals
+Diff: hard
+Exp: Testing gastric aspirate for an acidic pH, backed by radiography where doubt remains, is the accepted standard. The old "whoosh test" of auscultating injected air is unreliable and has been abandoned, because sound transmits even when the tube sits in the lung.
+
+Q: Sterilisation by autoclave is usually carried out at
+A) 100 degrees Celsius for 5 minutes
+B) 60 degrees Celsius for 30 minutes
+C) 121 degrees Celsius at 15 psi for 15 to 20 minutes
+D) 180 degrees Celsius for 2 hours
+Ans: C
+Topic: Fundamentals
+Diff: medium
+Exp: Moist heat under pressure at 121 degrees Celsius and 15 psi for 15 to 20 minutes kills spores as well as vegetative organisms. Dry heat at 160 to 180 degrees needs far longer, and boiling at 100 degrees does not reliably kill spores.

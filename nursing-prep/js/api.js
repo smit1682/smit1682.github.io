@@ -1,27 +1,26 @@
 /* ═══════════════════════════════════════════════════════
    API — one data layer, two backends.
 
-   Supabase configured  → shared data, admin signs in with
+   Supabase configured  → shared bank, admin signs in with
                           real Supabase Auth.
    Not configured       → demo mode on this device only,
                           backed by localStorage + seed.js.
+
+   The student's setup screen filters against a light index
+   (id, topic, difficulty) rather than downloading the whole
+   bank, then fetches only the questions actually drawn.
    ═══════════════════════════════════════════════════════ */
 
 window.API = (function () {
   const cfg = window.APP_CONFIG;
   const remote = !!(cfg.SUPABASE_URL && cfg.SUPABASE_ANON_KEY);
-  const LOCAL_KEY = 'nep_local_db_v1';
+  const LOCAL_KEY = 'nep_local_db_v2';
   const TOKEN_KEY = 'nep_admin_token';
 
   let token = sessionStorage.getItem(TOKEN_KEY) || null;
 
-  /* ---------------- shared helpers ---------------- */
-
   function isRemote() { return remote; }
-
-  function uid() {
-    return 'x' + Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
-  }
+  function uid() { return 'x' + Date.now().toString(36) + Math.random().toString(36).slice(2, 8); }
 
   /* ---------------- localStorage backend ---------------- */
 
@@ -37,6 +36,20 @@ window.API = (function () {
   function saveLocal(db) {
     try { localStorage.setItem(LOCAL_KEY, JSON.stringify(db)); }
     catch (e) { throw new Error('This browser has no room left to save. Free up storage and try again.'); }
+  }
+  /* every question in demo mode, tagged with a stable id */
+  function localQuestions() {
+    const out = [];
+    localDB().tests.forEach(t => {
+      (t.questions || []).forEach((q, i) => {
+        out.push(Object.assign({}, q, {
+          id: t.id + ':' + i,
+          topic: q.topic || t.topic || 'General',
+          difficulty: q.difficulty || t.difficulty || 'medium'
+        }));
+      });
+    });
+    return out;
   }
 
   /* ---------------- Supabase REST ---------------- */
@@ -95,44 +108,81 @@ window.API = (function () {
     sessionStorage.removeItem(TOKEN_KEY);
   }
 
-  /* ---------------- tests ---------------- */
+  /* ---------------- the question bank ---------------- */
 
-  async function listTests() {
+  /* light index the setup screen filters against */
+  async function getIndex() {
+    if (!remote) {
+      return localQuestions().map(q => ({ id: q.id, topic: q.topic, difficulty: q.difficulty }));
+    }
+    const rows = [];
+    const PAGE = 1000;
+    for (let from = 0; ; from += PAGE) {
+      const page = await sb('/rest/v1/questions?select=id,topic,difficulty', {
+        headers: { Range: from + '-' + (from + PAGE - 1) }
+      });
+      if (!page || !page.length) break;
+      rows.push.apply(rows, page);
+      if (page.length < PAGE) break;
+    }
+    return rows;
+  }
+
+  /* the questions actually drawn, in the order given */
+  async function getByIds(ids) {
+    if (!ids.length) return [];
+
+    if (!remote) {
+      const byId = {};
+      localQuestions().forEach(q => { byId[q.id] = q; });
+      return ids.map(id => byId[id]).filter(Boolean);
+    }
+
+    const rows = [];
+    const CHUNK = 60;                       // keeps the URL a sane length
+    for (let i = 0; i < ids.length; i += CHUNK) {
+      const slice = ids.slice(i, i + CHUNK);
+      const list = slice.map(id => '"' + id + '"').join(',');
+      const page = await sb('/rest/v1/questions?select=id,question,options,correct_index,explanation,topic,difficulty&id=in.(' + encodeURIComponent(list) + ')');
+      rows.push.apply(rows, page || []);
+    }
+    const byId = {};
+    rows.forEach(q => { byId[q.id] = q; });
+    return ids.map(id => byId[id]).filter(Boolean);
+  }
+
+  /* ---------------- upload batches ---------------- */
+
+  async function listSets() {
     if (!remote) {
       return localDB().tests
         .slice()
         .sort((a, b) => String(b.created_at).localeCompare(String(a.created_at)))
         .map(t => ({
           id: t.id, title: t.title,
-          duration_minutes: t.duration_minutes,
+          topic: t.topic || 'General',
+          difficulty: t.difficulty || 'medium',
           created_at: t.created_at,
           question_count: (t.questions || []).length
         }));
     }
-    const rows = await sb('/rest/v1/tests?select=id,title,duration_minutes,created_at,questions(count)&order=created_at.desc');
+    const rows = await sb('/rest/v1/tests?select=id,title,topic,difficulty,created_at,questions(count)&order=created_at.desc');
     return (rows || []).map(t => ({
       id: t.id, title: t.title,
-      duration_minutes: t.duration_minutes,
+      topic: t.topic || 'General',
+      difficulty: t.difficulty || 'medium',
       created_at: t.created_at,
       question_count: (t.questions && t.questions[0] && t.questions[0].count) || 0
     }));
   }
 
-  async function getQuestions(testId) {
-    if (!remote) {
-      const t = localDB().tests.find(t => t.id === testId);
-      return t ? (t.questions || []).map(q => Object.assign({}, q)) : [];
-    }
-    const rows = await sb('/rest/v1/questions?select=question,options,correct_index,explanation&test_id=eq.' +
-                          encodeURIComponent(testId) + '&order=position.asc');
-    return rows || [];
-  }
-
-  async function createTest(title, durationMinutes, questions) {
+  async function createSet(meta, questions) {
     if (!remote) {
       const db = localDB();
       db.tests.push({
-        id: uid(), title, duration_minutes: durationMinutes,
+        id: uid(), title: meta.title,
+        topic: meta.topic, difficulty: meta.difficulty,
+        duration_minutes: 60,
         created_at: new Date().toISOString(),
         questions: questions.map(q => Object.assign({}, q))
       });
@@ -142,31 +192,35 @@ window.API = (function () {
     const inserted = await sb('/rest/v1/tests', {
       method: 'POST',
       headers: { Prefer: 'return=representation' },
-      body: JSON.stringify({ title, duration_minutes: durationMinutes })
+      body: JSON.stringify({ title: meta.title, topic: meta.topic, difficulty: meta.difficulty, duration_minutes: 60 })
     });
-    const test = Array.isArray(inserted) ? inserted[0] : inserted;
-    if (!test || !test.id) throw new Error('The paper was not saved. Please try again.');
+    const set = Array.isArray(inserted) ? inserted[0] : inserted;
+    if (!set || !set.id) throw new Error('The questions were not saved. Please try again.');
 
     const rows = questions.map((q, i) => ({
-      test_id: test.id, position: i,
+      test_id: set.id, position: i,
       question: q.question, options: q.options,
-      correct_index: q.correct_index, explanation: q.explanation || ''
+      correct_index: q.correct_index, explanation: q.explanation || '',
+      topic: q.topic, difficulty: q.difficulty
     }));
 
     try {
-      await sb('/rest/v1/questions', { method: 'POST', body: JSON.stringify(rows) });
+      /* send in chunks so a large paste doesn't hit the request size limit */
+      const CHUNK = 100;
+      for (let i = 0; i < rows.length; i += CHUNK) {
+        await sb('/rest/v1/questions', { method: 'POST', body: JSON.stringify(rows.slice(i, i + CHUNK)) });
+      }
     } catch (e) {
-      // don't leave a paper with no questions behind
-      try { await sb('/rest/v1/tests?id=eq.' + test.id, { method: 'DELETE' }); } catch (_) {}
+      // don't leave a half-saved batch behind
+      try { await sb('/rest/v1/tests?id=eq.' + set.id, { method: 'DELETE' }); } catch (_) {}
       throw e;
     }
   }
 
-  async function deleteTest(id) {
+  async function deleteSet(id) {
     if (!remote) {
       const db = localDB();
       db.tests = db.tests.filter(t => t.id !== id);
-      db.attempts = db.attempts.filter(a => a.test_id !== id);
       saveLocal(db);
       return;
     }
@@ -186,18 +240,14 @@ window.API = (function () {
   }
 
   async function listAttempts() {
-    if (!remote) {
-      const db = localDB();
-      const titleOf = id => (db.tests.find(t => t.id === id) || {}).title || 'Deleted paper';
-      return db.attempts.slice().reverse().map(a => Object.assign({}, a, { test_title: titleOf(a.test_id) }));
-    }
-    const rows = await sb('/rest/v1/attempts?select=*,tests(title)&order=created_at.desc&limit=100');
-    return (rows || []).map(a => Object.assign({}, a, { test_title: (a.tests && a.tests.title) || 'Deleted paper' }));
+    if (!remote) return localDB().attempts.slice().reverse();
+    return (await sb('/rest/v1/attempts?select=*&order=created_at.desc&limit=100')) || [];
   }
 
   return {
     isRemote, adminLogin, signOut,
-    listTests, getQuestions, createTest, deleteTest,
+    getIndex, getByIds,
+    listSets, createSet, deleteSet,
     saveAttempt, listAttempts
   };
 })();

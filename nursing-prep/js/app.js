@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════
-   APP — screens, exam engine, review, admin.
+   APP — screens, test setup, exam engine, review, admin.
    ═══════════════════════════════════════════════════════ */
 
 (function () {
@@ -7,21 +7,21 @@
   const $  = s => document.querySelector(s);
   const $$ = s => Array.from(document.querySelectorAll(s));
 
+  const LIMITS = { minQ: 10, maxQ: 100, minT: 10, maxT: 90 };
+
   const S = {
     role: null,
-    tests: [],
-    test: null, questions: [],
-    answers: [], flags: [],
-    idx: 0,
+    index: [],                                  // {id, topic, difficulty} for the whole bank
+    setup: { count: 50, time: 30, diff: 'mix', topic: 'mix', shuffle: true },
+    questions: [], answers: [], flags: [], idx: 0,
     endsAt: 0, timerId: null, startedAt: 0,
     result: null, filter: 'all',
-    parsed: null,
-    doneTests: {}
+    parsed: null
   };
 
-  /* ══════════ small utilities ══════════ */
-
   const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+  /* ══════════ utilities ══════════ */
 
   function esc(s) {
     return String(s == null ? '' : s)
@@ -35,7 +35,7 @@
     t.textContent = msg;
     t.classList.remove('hidden');
     clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => t.classList.add('hidden'), 2600);
+    toastTimer = setTimeout(() => t.classList.add('hidden'), 2800);
   }
 
   function show(id) {
@@ -50,16 +50,23 @@
     const m = Math.floor(total / 60), s = total % 60;
     return String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
   }
-
   function fmtDuration(sec) {
     const m = Math.floor(sec / 60), s = sec % 60;
     return m ? m + ' min ' + s + ' sec' : s + ' sec';
   }
-
   function fmtDate(iso) {
     const d = new Date(iso);
-    if (isNaN(d)) return '';
-    return d.toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' });
+    return isNaN(d) ? '' : d.toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' });
+  }
+  function clamp(n, lo, hi) { return Math.min(hi, Math.max(lo, n)); }
+
+  function shuffled(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
   }
 
   /* ══════════ theme ══════════ */
@@ -72,22 +79,22 @@
       if (!e.target.closest('[data-theme-toggle]')) return;
       const now = document.documentElement.dataset.theme;
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      const next = now ? (now === 'dark' ? 'light' : 'dark')
-                       : (prefersDark ? 'light' : 'dark');
+      const next = now ? (now === 'dark' ? 'light' : 'dark') : (prefersDark ? 'light' : 'dark');
       document.documentElement.dataset.theme = next;
       try { localStorage.setItem('nep_theme', next); } catch (err) {}
     });
   }
 
-  /* ══════════ completed-paper memory ══════════ */
+  /* ══════════ local history (anon cannot read attempts back) ══════════ */
 
-  function loadDone() {
-    try { S.doneTests = JSON.parse(localStorage.getItem('nep_done') || '{}'); }
-    catch (e) { S.doneTests = {}; }
+  function history() {
+    try { return JSON.parse(localStorage.getItem('nep_history') || '[]'); }
+    catch (e) { return []; }
   }
-  function markDone(testId, score, total) {
-    S.doneTests[testId] = { score, total, at: new Date().toISOString() };
-    try { localStorage.setItem('nep_done', JSON.stringify(S.doneTests)); } catch (e) {}
+  function pushHistory(entry) {
+    const h = history();
+    h.unshift(entry);
+    try { localStorage.setItem('nep_history', JSON.stringify(h.slice(0, 10))); } catch (e) {}
   }
 
   /* ══════════ login ══════════ */
@@ -127,9 +134,8 @@
         ? 'Use the admin account created in Supabase.'
         : 'Ask your admin for the student username and password.';
     } else {
-      hint.innerHTML = role === 'admin'
-        ? 'Demo mode — <code>' + esc(cfg.ADMIN_EMAIL) + '</code> / <code>' + esc(cfg.ADMIN_DEMO_PASSWORD) + '</code>'
-        : 'Demo mode — <code>' + esc(cfg.STUDENT_USERNAME) + '</code> / <code>' + esc(cfg.STUDENT_PASSWORD) + '</code>';
+      hint.innerHTML = 'Demo mode — <code>' + esc(role === 'admin' ? cfg.ADMIN_EMAIL : cfg.STUDENT_USERNAME) +
+        '</code> / <code>' + esc(role === 'admin' ? cfg.ADMIN_DEMO_PASSWORD : cfg.STUDENT_PASSWORD) + '</code>';
     }
   }
 
@@ -155,7 +161,7 @@
       S.role = 'student';
       $('#login-pass').value = '';
       show('screen-home');
-      return loadTests();
+      return loadBank();
     }
 
     btn.disabled = true;
@@ -165,7 +171,7 @@
       S.role = 'admin';
       $('#login-pass').value = '';
       show('screen-admin');
-      loadAdminTests();
+      loadAdminSets();
     } catch (e) {
       loginError(e.message);
     } finally {
@@ -185,72 +191,252 @@
 
   /* ══════════ student home ══════════ */
 
-  async function loadTests() {
-    const list = $('#test-list');
-    list.innerHTML = '<div class="empty">Loading papers…</div>';
+  async function loadBank() {
+    $('#bank-count').textContent = '…';
+    $('#bank-topics').innerHTML = '';
+    $('#bank-note').textContent = '';
+    $('#btn-apply').disabled = true;
+
     try {
-      S.tests = await API.listTests();
+      S.index = await API.getIndex();
     } catch (e) {
-      list.innerHTML = '<div class="empty"><strong>Could not load papers</strong>' + esc(e.message) + '</div>';
+      $('#bank-count').textContent = '0';
+      $('#bank-note').textContent = e.message;
       return;
     }
-    renderTests();
+
+    $('#bank-count').textContent = S.index.length;
+    $('#btn-apply').disabled = S.index.length === 0;
+
+    const counts = countBy(S.index, q => q.topic);
+    $('#bank-topics').innerHTML = Object.keys(counts)
+      .sort((a, b) => counts[b] - counts[a])
+      .slice(0, 6)
+      .map(t => '<span>' + esc(t) + ' ' + counts[t] + '</span>')
+      .join('');
+
+    $('#bank-note').textContent = S.index.length
+      ? 'Choose how many questions and how long you want.'
+      : 'The bank is empty. Ask your admin to add questions.';
+
+    renderHistory();
   }
 
-  function renderTests() {
-    const list = $('#test-list');
-    if (!S.tests.length) {
-      list.innerHTML = '<div class="empty"><strong>No papers yet</strong>Once the admin publishes a paper it will appear here.</div>';
-      return;
-    }
-    list.innerHTML = S.tests.map(t => {
-      const done = S.doneTests[t.id];
-      return '<button class="tile" data-test="' + esc(t.id) + '">' +
-        '<div class="tile-top">' +
-          '<span class="tile-title">' + esc(t.title) + '</span>' +
-          '<span class="tile-go" aria-hidden="true">→</span>' +
-        '</div>' +
-        '<div class="tile-meta">' +
-          '<span>' + t.question_count + ' questions</span>' +
-          '<span>' + t.duration_minutes + ' min</span>' +
-          (done ? '<span class="done">Last score ' + done.score + '/' + done.total + '</span>' : '') +
-        '</div>' +
-      '</button>';
-    }).join('');
+  function countBy(arr, fn) {
+    const out = {};
+    arr.forEach(x => { const k = fn(x); out[k] = (out[k] || 0) + 1; });
+    return out;
+  }
 
-    list.querySelectorAll('.tile').forEach(el => {
-      el.addEventListener('click', () => startTest(el.dataset.test));
+  function renderHistory() {
+    const h = history().slice(0, 3);
+    const el = $('#last-attempts');
+    if (!h.length) { el.innerHTML = ''; return; }
+    el.innerHTML = '<p class="recent-head">Recent attempts</p>' + h.map(a => {
+      const pct = a.total ? Math.round((a.score / a.total) * 100) : 0;
+      return '<div class="recent">' +
+        '<span class="recent-score">' + a.score + '/' + a.total + '</span>' +
+        '<span class="recent-meta">' + esc(a.label) + '<br>' + esc(fmtDate(a.at)) + '</span>' +
+        '<span class="recent-pct">' + pct + '%</span>' +
+      '</div>';
+    }).join('');
+  }
+
+  /* ══════════ test setup ══════════ */
+
+  function initSetup() {
+    $('#btn-apply').addEventListener('click', openSetup);
+
+    /* number of questions */
+    $('#row-count').addEventListener('click', e => {
+      const chip = e.target.closest('.chip'); if (!chip) return;
+      selectChip('#row-count', chip);
+      const v = chip.dataset.count;
+      $('#custom-count').classList.toggle('hidden', v !== 'custom');
+      if (v === 'custom') {
+        const input = $('#custom-count input');
+        input.value = S.setup.count;
+        input.focus();
+      } else {
+        S.setup.count = Number(v);
+      }
+      recompute();
     });
+    $('#custom-count input').addEventListener('input', e => {
+      const n = parseInt(e.target.value, 10);
+      if (!isNaN(n)) S.setup.count = clamp(n, LIMITS.minQ, LIMITS.maxQ);
+      recompute();
+    });
+    $('#custom-count input').addEventListener('blur', e => {
+      e.target.value = S.setup.count;
+    });
+
+    /* time */
+    $('#row-time').addEventListener('click', e => {
+      const chip = e.target.closest('.chip'); if (!chip) return;
+      selectChip('#row-time', chip);
+      const v = chip.dataset.time;
+      $('#custom-time').classList.toggle('hidden', v !== 'custom');
+      if (v === 'custom') {
+        const input = $('#custom-time input');
+        input.value = S.setup.time;
+        input.focus();
+      } else {
+        S.setup.time = Number(v);
+      }
+      recompute();
+    });
+    $('#custom-time input').addEventListener('input', e => {
+      const n = parseInt(e.target.value, 10);
+      if (!isNaN(n)) S.setup.time = clamp(n, LIMITS.minT, LIMITS.maxT);
+      recompute();
+    });
+    $('#custom-time input').addEventListener('blur', e => {
+      e.target.value = S.setup.time;
+    });
+
+    /* difficulty */
+    $('#row-diff').addEventListener('click', e => {
+      const chip = e.target.closest('.chip'); if (!chip) return;
+      selectChip('#row-diff', chip);
+      S.setup.diff = chip.dataset.diff;
+      recompute();
+    });
+
+    /* subject */
+    $('#row-topic').addEventListener('click', e => {
+      const chip = e.target.closest('.chip'); if (!chip) return;
+      S.setup.topic = chip.dataset.topic;
+      recompute();
+    });
+
+    $('#opt-shuffle').addEventListener('change', e => { S.setup.shuffle = e.target.checked; });
+    $('#btn-start').addEventListener('click', startTest);
+  }
+
+  function selectChip(rowSel, chip) {
+    $$(rowSel + ' .chip').forEach(c => c.classList.toggle('active', c === chip));
+  }
+
+  function openSetup() {
+    if (!S.index.length) return toast('There are no questions in the bank yet.');
+    buildTopicChips();
+    recompute();
+    show('screen-setup');
+  }
+
+  /* questions matching the current difficulty + subject filters */
+  function matching(diff, topic) {
+    return S.index.filter(q =>
+      (diff === 'mix' || q.difficulty === diff) &&
+      (topic === 'mix' || q.topic === topic));
+  }
+
+  function buildTopicChips() {
+    const counts = countBy(S.index, q => q.topic);
+    const topics = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
+    if (!topics.includes(S.setup.topic)) S.setup.topic = 'mix';
+
+    $('#row-topic').innerHTML =
+      '<button class="chip" data-topic="mix">All subjects</button>' +
+      topics.map(t => '<button class="chip" data-topic="' + esc(t) + '">' + esc(t) + '</button>').join('');
+  }
+
+  function recompute() {
+    const setup = S.setup;
+
+    /* live counts on the difficulty chips, within the chosen subject */
+    $$('#row-diff .chip').forEach(chip => {
+      const d = chip.dataset.diff;
+      const n = matching(d, setup.topic).length;
+      const label = d === 'mix' ? 'Mix' : d[0].toUpperCase() + d.slice(1);
+      chip.textContent = label + ' ' + n;
+      chip.disabled = n === 0 && d !== setup.diff;
+      chip.classList.toggle('active', d === setup.diff);
+    });
+
+    /* live counts on the subject chips, within the chosen difficulty */
+    $$('#row-topic .chip').forEach(chip => {
+      const t = chip.dataset.topic;
+      const n = matching(setup.diff, t).length;
+      const label = t === 'mix' ? 'All subjects' : t;
+      chip.textContent = label + ' ' + n;
+      chip.disabled = n === 0 && t !== setup.topic;
+      chip.classList.toggle('active', t === setup.topic);
+    });
+
+    const available = matching(setup.diff, setup.topic).length;
+    const willAsk = Math.min(setup.count, available);
+
+    $('#val-count').textContent = setup.count;
+    $('#val-time').textContent = setup.time + ' min';
+
+    const note = $('#avail-note');
+    note.classList.remove('short', 'none');
+    if (available === 0) {
+      note.classList.add('none');
+      note.textContent = 'No questions match these filters. Widen the difficulty or subject.';
+    } else if (available < setup.count) {
+      note.classList.add('short');
+      note.textContent = 'Only ' + available + ' question' + (available === 1 ? '' : 's') +
+        ' match — the test will have ' + available + '.';
+    } else {
+      note.textContent = available + ' question' + (available === 1 ? '' : 's') + ' match your filters.';
+    }
+
+    const btn = $('#btn-start');
+    btn.disabled = available === 0;
+    btn.textContent = available === 0
+      ? 'Start test'
+      : 'Start test — ' + willAsk + ' question' + (willAsk === 1 ? '' : 's') + ' · ' + setup.time + ' min';
+  }
+
+  function setupLabel() {
+    const s = S.setup;
+    const d = s.diff === 'mix' ? 'Mixed difficulty' : s.diff[0].toUpperCase() + s.diff.slice(1);
+    const t = s.topic === 'mix' ? 'All subjects' : s.topic;
+    return t + ' · ' + d;
   }
 
   /* ══════════ exam engine ══════════ */
 
-  async function startTest(testId) {
-    const meta = S.tests.find(t => t.id === testId);
-    if (!meta) return;
+  async function startTest() {
+    const setup = S.setup;
+    const pool = matching(setup.diff, setup.topic);
+    if (!pool.length) return toast('No questions match these filters.');
 
-    toast('Opening paper…');
+    const picked = (setup.shuffle ? shuffled(pool) : pool).slice(0, setup.count);
+    const btn = $('#btn-start');
+    btn.disabled = true;
+    btn.textContent = 'Loading…';
+
     let qs;
     try {
-      qs = await API.getQuestions(testId);
+      qs = await API.getByIds(picked.map(q => q.id));
     } catch (e) {
+      btn.disabled = false;
+      recompute();
       return toast(e.message);
     }
-    if (!qs.length) return toast('This paper has no questions in it yet.');
+    if (!qs.length) {
+      btn.disabled = false;
+      recompute();
+      return toast('Those questions could not be loaded. Try again.');
+    }
 
-    S.test = meta;
     S.questions = qs;
     S.answers = new Array(qs.length).fill(null);
     S.flags = new Array(qs.length).fill(false);
     S.idx = 0;
     S.startedAt = Date.now();
-    S.endsAt = Date.now() + meta.duration_minutes * 60000;
+    S.endsAt = Date.now() + setup.time * 60000;
 
     $('#q-total').textContent = qs.length;
     buildRail();
     show('screen-test');
     renderQuestion();
     startTimer();
+    recompute();
   }
 
   function buildRail() {
@@ -260,8 +446,7 @@
   function updateRail() {
     const ticks = $('#rail').children;
     for (let i = 0; i < ticks.length; i++) {
-      const t = ticks[i];
-      t.className = 'tick' +
+      ticks[i].className = 'tick' +
         (i === S.idx ? ' current' : (S.flags[i] ? ' flagged' : (S.answers[i] !== null ? ' answered' : '')));
     }
   }
@@ -293,7 +478,7 @@
     $('#btn-next').textContent = S.idx === S.questions.length - 1 ? 'Finish' : 'Next';
 
     card.classList.remove('swap');
-    void card.offsetWidth;             // restart the entrance animation
+    void card.offsetWidth;                       // restart the entrance animation
     card.classList.add('swap');
 
     updateRail();
@@ -321,24 +506,14 @@
 
   /* ---- timer ---- */
 
-  function startTimer() {
-    stopTimer();
-    tick();
-    S.timerId = setInterval(tick, 500);
-  }
-  function stopTimer() {
-    if (S.timerId) clearInterval(S.timerId);
-    S.timerId = null;
-  }
+  function startTimer() { stopTimer(); tick(); S.timerId = setInterval(tick, 500); }
+  function stopTimer() { if (S.timerId) clearInterval(S.timerId); S.timerId = null; }
   function tick() {
     const left = S.endsAt - Date.now();
     const el = $('#timer');
     el.textContent = fmtClock(left);
     el.classList.toggle('low', left <= 5 * 60000);
-    if (left <= 0) {
-      stopTimer();
-      submit(true);
-    }
+    if (left <= 0) { stopTimer(); submit(true); }
   }
 
   /* ---- palette ---- */
@@ -372,7 +547,7 @@
       const left = S.answers.filter(a => a === null).length;
       const msg = left
         ? left + ' question' + (left === 1 ? ' is' : 's are') + ' still unanswered. Submit anyway?'
-        : 'Submit the paper now?';
+        : 'Submit the test now?';
       if (!confirm(msg)) return;
     }
     stopTimer();
@@ -386,22 +561,24 @@
     });
 
     const seconds = Math.round((Date.now() - S.startedAt) / 1000);
-    S.result = {
-      correct, wrong, skipped,
-      total: S.questions.length,
-      seconds,
-      auto: !!auto
-    };
-    markDone(S.test.id, correct, S.questions.length);
+    S.result = { correct, wrong, skipped, total: S.questions.length, seconds, auto: !!auto };
+
+    pushHistory({
+      score: correct, total: S.questions.length,
+      label: setupLabel(), at: new Date().toISOString()
+    });
 
     API.saveAttempt({
-      test_id: S.test.id,
       student_name: cfg.STUDENT_NAME,
-      score: correct,
-      total: S.questions.length,
+      score: correct, total: S.questions.length,
       correct, wrong, skipped,
       seconds_taken: seconds,
-      answers: S.answers
+      answers: S.answers,
+      config: {
+        requested: S.setup.count, asked: S.questions.length,
+        minutes: S.setup.time, difficulty: S.setup.diff,
+        topic: S.setup.topic, shuffle: S.setup.shuffle
+      }
     }).catch(() => { /* a lost score record must never block the review */ });
 
     renderResult();
@@ -415,7 +592,7 @@
 
     show('screen-result');
 
-    $('#result-eyebrow').textContent = r.auto ? 'Time up — submitted automatically' : 'Paper submitted';
+    $('#result-eyebrow').textContent = r.auto ? 'Time up — submitted automatically' : 'Test submitted';
     $('#score-total').textContent = r.total;
     $('#stat-correct').textContent = r.correct;
     $('#stat-wrong').textContent = r.wrong;
@@ -424,22 +601,17 @@
     $('#score-title').textContent =
       pct >= 85 ? 'Excellent' :
       pct >= 70 ? 'Strong attempt' :
-      pct >= 50 ? 'Good, keep going' :
-                  'Worth another round';
+      pct >= 50 ? 'Good, keep going' : 'Worth another round';
 
-    $('#score-sub').textContent =
-      pct + '% · finished in ' + fmtDuration(r.seconds) + ' · ' + esc(S.test.title);
+    $('#score-sub').textContent = pct + '% · finished in ' + fmtDuration(r.seconds) + ' · ' + setupLabel();
 
-    // ring sweep
     const C = 2 * Math.PI * 52;
     const ring = $('#ring-fill');
     ring.style.transition = 'none';
     ring.style.strokeDashoffset = C;
     void ring.getBoundingClientRect();
     ring.style.transition = '';
-    requestAnimationFrame(() => {
-      ring.style.strokeDashoffset = C * (1 - r.correct / r.total);
-    });
+    requestAnimationFrame(() => { ring.style.strokeDashoffset = C * (1 - r.correct / r.total); });
 
     countUp($('#score-num'), r.correct);
   }
@@ -452,8 +624,7 @@
     const dur = 900, t0 = performance.now();
     (function step(now) {
       const p = Math.min(1, (now - t0) / dur);
-      const eased = 1 - Math.pow(1 - p, 3);
-      el.textContent = Math.round(target * eased);
+      el.textContent = Math.round(target * (1 - Math.pow(1 - p, 3)));
       if (p < 1) requestAnimationFrame(step);
     })(t0);
   }
@@ -461,7 +632,6 @@
   /* ══════════ review ══════════ */
 
   function renderReview() {
-    const list = $('#review-list');
     const items = [];
 
     S.questions.forEach((q, i) => {
@@ -484,15 +654,15 @@
 
       items.push(
         '<article class="rev is-' + state + '">' +
-          '<div class="rev-head"><span class="rev-n">Q' + (i + 1) + '</span>' + badge + '</div>' +
-          '<p class="rev-q">' + esc(q.question) + '</p>' +
-          opts +
+          '<div class="rev-head"><span class="rev-n">Q' + (i + 1) + '</span>' + badge +
+            (q.topic ? '<span class="rev-badge b-skip">' + esc(q.topic) + '</span>' : '') + '</div>' +
+          '<p class="rev-q">' + esc(q.question) + '</p>' + opts +
           (q.explanation ? '<div class="exp"><b>Why</b>' + esc(q.explanation) + '</div>' : '') +
         '</article>'
       );
     });
 
-    list.innerHTML = items.length ? items.join('')
+    $('#review-list').innerHTML = items.length ? items.join('')
       : '<div class="empty"><strong>Nothing here</strong>No questions fall into this filter.</div>';
   }
 
@@ -517,50 +687,60 @@
         $('#admin-tests').classList.toggle('hidden', tab !== 'tests');
         $('#admin-add').classList.toggle('hidden', tab !== 'add');
         $('#admin-scores').classList.toggle('hidden', tab !== 'scores');
-        if (tab === 'tests') loadAdminTests();
+        if (tab === 'tests') loadAdminSets();
         if (tab === 'scores') loadAttempts();
       });
     });
 
-    $('#new-duration').value = cfg.DEFAULT_DURATION_MINUTES;
     $('#btn-parse').addEventListener('click', () => checkQuestions(true));
-    $('#btn-save-test').addEventListener('click', publishTest);
+    $('#btn-save-test').addEventListener('click', publishSet);
   }
 
-  async function loadAdminTests() {
+  function batchDefaults() {
+    return { topic: $('#new-topic').value.trim() || 'General', difficulty: $('#new-diff').value };
+  }
+
+  async function loadAdminSets() {
     const list = $('#admin-test-list');
     list.innerHTML = '<div class="empty">Loading…</div>';
-    let tests;
-    try { tests = await API.listTests(); }
-    catch (e) { list.innerHTML = '<div class="empty"><strong>Could not load papers</strong>' + esc(e.message) + '</div>'; return; }
+    let sets;
+    try { sets = await API.listSets(); }
+    catch (e) { list.innerHTML = '<div class="empty"><strong>Could not load the bank</strong>' + esc(e.message) + '</div>'; return; }
 
-    $('#admin-sub').textContent = tests.length + (tests.length === 1 ? ' paper' : ' papers');
+    const total = sets.reduce((n, s) => n + s.question_count, 0);
+    $('#admin-sub').textContent = total + (total === 1 ? ' question' : ' questions') +
+      ' in ' + sets.length + (sets.length === 1 ? ' batch' : ' batches');
 
-    if (!tests.length) {
-      list.innerHTML = '<div class="empty"><strong>No papers yet</strong>Use the “Add paper” tab to publish the first one.</div>';
+    /* offer existing subjects as autocomplete when adding more */
+    $('#topic-list').innerHTML = Array.from(new Set(sets.map(s => s.topic)))
+      .map(t => '<option value="' + esc(t) + '"></option>').join('');
+
+    if (!sets.length) {
+      list.innerHTML = '<div class="empty"><strong>The bank is empty</strong>Use “Add questions” to put the first batch in.</div>';
       return;
     }
 
-    list.innerHTML = tests.map(t =>
+    list.innerHTML = sets.map(s =>
       '<div class="tile" style="cursor:default">' +
-        '<div class="tile-top"><span class="tile-title">' + esc(t.title) + '</span></div>' +
+        '<div class="tile-top"><span class="tile-title">' + esc(s.title) + '</span></div>' +
         '<div class="tile-meta">' +
-          '<span>' + t.question_count + ' questions</span>' +
-          '<span>' + t.duration_minutes + ' min</span>' +
-          '<span>' + esc(fmtDate(t.created_at)) + '</span>' +
+          '<span>' + s.question_count + ' questions</span>' +
+          '<span>' + esc(s.topic) + '</span>' +
+          '<span>' + esc(s.difficulty) + '</span>' +
+          '<span>' + esc(fmtDate(s.created_at)) + '</span>' +
         '</div>' +
         '<div class="row-actions">' +
-          '<button class="btn btn-sub danger" data-del="' + esc(t.id) + '">Delete paper</button>' +
+          '<button class="btn btn-sub danger" data-del="' + esc(s.id) + '">Delete batch</button>' +
         '</div>' +
       '</div>'
     ).join('');
 
     list.querySelectorAll('[data-del]').forEach(btn => {
       btn.addEventListener('click', async () => {
-        const t = tests.find(x => x.id === btn.dataset.del);
-        if (!confirm('Delete “' + t.title + '” and all its questions? This cannot be undone.')) return;
+        const s = sets.find(x => x.id === btn.dataset.del);
+        if (!confirm('Delete “' + s.title + '” and its ' + s.question_count + ' questions? This cannot be undone.')) return;
         btn.disabled = true;
-        try { await API.deleteTest(btn.dataset.del); toast('Paper deleted'); loadAdminTests(); }
+        try { await API.deleteSet(btn.dataset.del); toast('Batch deleted'); loadAdminSets(); }
         catch (e) { btn.disabled = false; toast(e.message); }
       });
     });
@@ -568,7 +748,7 @@
 
   function checkQuestions(loud) {
     const status = $('#parse-status');
-    const res = Parser.parse($('#new-questions').value);
+    const res = Parser.parse($('#new-questions').value, batchDefaults());
     S.parsed = res.questions;
 
     status.classList.remove('hidden', 'notice-ok', 'notice-bad');
@@ -581,26 +761,26 @@
       return false;
     }
     if (loud || res.questions.length) {
+      const topics = Object.keys(countBy(res.questions, q => q.topic));
       status.classList.add('notice-ok');
-      status.textContent = res.questions.length + ' question' + (res.questions.length === 1 ? '' : 's') + ' read correctly. Ready to publish.';
+      status.textContent = res.questions.length + ' question' + (res.questions.length === 1 ? '' : 's') +
+        ' read correctly across ' + topics.length + (topics.length === 1 ? ' subject' : ' subjects') + '. Ready to add.';
     }
     return res.questions.length > 0;
   }
 
-  async function publishTest() {
+  async function publishSet() {
     const title = $('#new-title').value.trim();
-    const duration = parseInt($('#new-duration').value, 10);
     const btn = $('#btn-save-test');
 
-    if (!title) return toast('Give the paper a title first.');
-    if (!duration || duration < 1) return toast('Duration must be at least 1 minute.');
-    if (!checkQuestions(false)) return toast('Fix the questions listed above, then publish.');
+    if (!title) return toast('Give the batch a name first.');
+    if (!checkQuestions(false)) return toast('Fix the questions listed above, then add them.');
 
     btn.disabled = true;
-    btn.textContent = 'Publishing…';
+    btn.textContent = 'Adding…';
     try {
-      await API.createTest(title, duration, S.parsed);
-      toast('Published “' + title + '”');
+      await API.createSet(Object.assign({ title: title }, batchDefaults()), S.parsed);
+      toast('Added ' + S.parsed.length + ' questions to the bank');
       $('#new-title').value = '';
       $('#new-questions').value = '';
       $('#parse-status').classList.add('hidden');
@@ -610,7 +790,7 @@
       toast(e.message);
     } finally {
       btn.disabled = false;
-      btn.textContent = 'Publish paper';
+      btn.textContent = 'Add to the bank';
     }
   }
 
@@ -622,21 +802,29 @@
     catch (e) { list.innerHTML = '<div class="empty"><strong>Could not load scores</strong>' + esc(e.message) + '</div>'; return; }
 
     if (!rows.length) {
-      list.innerHTML = '<div class="empty"><strong>No attempts yet</strong>Scores appear here once a paper has been submitted.</div>';
+      list.innerHTML = '<div class="empty"><strong>No attempts yet</strong>Scores appear here once a test has been submitted.</div>';
       return;
     }
 
     list.innerHTML = rows.map(a => {
       const pct = a.total ? Math.round((a.score / a.total) * 100) : 0;
+      const c = a.config || {};
+      const setup = [
+        c.topic && c.topic !== 'mix' ? c.topic : 'All subjects',
+        c.difficulty && c.difficulty !== 'mix' ? c.difficulty : 'mixed difficulty',
+        c.minutes ? c.minutes + ' min' : null
+      ].filter(Boolean).join(' · ');
+
       return '<div class="tile" style="cursor:default">' +
         '<div class="tile-top">' +
-          '<span class="tile-title">' + esc(a.test_title) + '</span>' +
+          '<span class="tile-title">' + esc(a.student_name || 'Student') + '</span>' +
           '<span class="tile-go">' + a.score + '/' + a.total + '</span>' +
         '</div>' +
         '<div class="tile-meta">' +
           '<span>' + pct + '%</span>' +
           '<span>' + a.correct + ' right · ' + a.wrong + ' wrong · ' + a.skipped + ' skipped</span>' +
           '<span>' + fmtDuration(a.seconds_taken || 0) + '</span>' +
+          (setup ? '<span>' + esc(setup) + '</span>' : '') +
           '<span>' + esc(fmtDate(a.created_at)) + '</span>' +
         '</div>' +
       '</div>';
@@ -647,8 +835,8 @@
 
   function init() {
     initTheme();
-    loadDone();
     initLogin();
+    initSetup();
     initReview();
     initAdmin();
 
@@ -662,10 +850,10 @@
     });
 
     $('#btn-quit').addEventListener('click', () => {
-      if (!confirm('Leave the paper? Your answers will be lost.')) return;
+      if (!confirm('Leave the test? Your answers will be lost.')) return;
       stopTimer();
       show('screen-home');
-      loadTests();
+      renderHistory();
     });
 
     $$('[data-close-sheet]').forEach(el => el.addEventListener('click', closePalette));
@@ -682,11 +870,10 @@
       if (!act) return;
       const a = act.dataset.action;
       if (a === 'logout') logout();
-      if (a === 'home')   { show('screen-home'); loadTests(); }
+      if (a === 'home')   { show('screen-home'); renderHistory(); }
       if (a === 'result') show('screen-result');
     });
 
-    // keyboard, for anyone practising on a laptop
     document.addEventListener('keydown', e => {
       if (!$('#screen-test').classList.contains('active')) return;
       if (e.key === 'ArrowRight') next();
@@ -695,7 +882,6 @@
       if (n > -1 && n < (S.questions[S.idx] || { options: [] }).options.length) choose(n);
     });
 
-    // guard against a stray swipe-back mid-paper
     window.addEventListener('beforeunload', e => {
       if ($('#screen-test').classList.contains('active')) { e.preventDefault(); e.returnValue = ''; }
     });

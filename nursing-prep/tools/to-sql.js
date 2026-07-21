@@ -30,7 +30,12 @@ function q(s) {
   return '$' + tag + '$' + s + '$' + tag + '$';
 }
 
-const files = fs.readdirSync(DIR).filter(f => /^\d.*\.txt$/.test(f)).sort();
+/* with no arguments every file is converted; pass filenames to
+   emit only those, so an already-imported batch is not sent twice */
+const argv = process.argv.slice(2);
+const files = argv.length
+  ? argv.map(a => path.basename(a))
+  : fs.readdirSync(DIR).filter(f => /^\d.*\.txt$/.test(f)).sort();
 const out = [];
 let grand = 0;
 

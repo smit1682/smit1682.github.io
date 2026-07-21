@@ -11,7 +11,12 @@
    and scrambling them just looks wrong.
 
    Deterministic, so re-running gives the same result.
-   Usage: node tools/balance.js
+
+   Usage: node tools/balance.js [file ...]
+   With no arguments it rewrites every question file. Pass
+   filenames to touch only those — important once a batch has
+   already been imported, since reshuffling it would make the
+   files disagree with what is in the database.
    ═══════════════════════════════════════════════════════ */
 
 const fs = require('fs');
@@ -66,7 +71,10 @@ function render(q) {
   ].join('\n');
 }
 
-const files = fs.readdirSync(DIR).filter(f => /^\d.*\.txt$/.test(f)).sort();
+const argv = process.argv.slice(2);
+const files = argv.length
+  ? argv.map(a => path.basename(a))
+  : fs.readdirSync(DIR).filter(f => /^\d.*\.txt$/.test(f)).sort();
 let total = 0, scaled = 0;
 const spread = {};
 

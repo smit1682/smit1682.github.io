@@ -1,0 +1,211 @@
+# Batch 10 — Pharmacology, Fundamentals, Microbiology, Research and Management
+
+Q: The half-life of a drug is the time taken for
+A) The plasma concentration to fall by half
+B) The drug to reach peak concentration
+C) The drug to be fully absorbed
+D) The drug to be completely eliminated
+Ans: A
+Topic: Pharmacology
+Diff: medium
+Exp: Half-life is the time for plasma concentration to halve, and it determines dosing interval. It takes about four to five half-lives to eliminate a drug or, with regular dosing, to reach steady state.
+
+Q: First-pass metabolism refers to
+A) Binding of the drug to plasma proteins
+B) Metabolism of an orally absorbed drug by the liver before it reaches the systemic circulation
+C) The first dose given to a patient
+D) Renal excretion of the drug
+Ans: B
+Topic: Pharmacology
+Diff: hard
+Exp: Drugs absorbed from the gut travel through the portal vein and are partly metabolised by the liver before reaching the circulation, which is why oral doses are often much larger than parenteral ones. Sublingual, rectal and parenteral routes bypass this.
+
+Q: Early signs of digoxin toxicity include
+A) Hypertension and polyuria
+B) Constipation and dry skin only
+C) Anorexia, nausea, visual disturbance with yellow-green halos and bradycardia
+D) Fever and rash
+Ans: C
+Topic: Pharmacology
+Diff: hard
+Exp: Digoxin has a narrow therapeutic index and toxicity begins with gastrointestinal and visual symptoms alongside arrhythmias. Hypokalaemia, often from diuretics, markedly increases the risk, so potassium is watched closely.
+
+Q: A patient on long-term oral corticosteroids must be taught never to
+A) Stop the drug abruptly
+B) Report signs of infection
+C) Take the dose in the morning
+D) Take it with food
+Ans: A
+Topic: Pharmacology
+Diff: medium
+Exp: Prolonged steroids suppress the hypothalamic-pituitary-adrenal axis, so sudden withdrawal can precipitate an adrenal crisis. The dose is tapered gradually, and morning dosing with food better mimics natural secretion and protects the stomach.
+
+Q: The Z-track technique of intramuscular injection is used to
+A) Speed up absorption
+B) Prevent the drug leaking back into subcutaneous tissue and staining the skin
+C) Allow a larger volume in the deltoid
+D) Make the injection painless
+Ans: B
+Topic: Pharmacology
+Diff: hard
+Exp: Displacing the skin laterally before injecting and releasing it afterwards seals the needle track. It is used for irritant or staining preparations such as iron dextran.
+
+Q: Salbutamol given by nebuliser commonly causes
+A) Bradycardia and drowsiness
+B) Hearing loss
+C) Tremor, tachycardia and palpitations
+D) Constipation
+Ans: C
+Topic: Pharmacology
+Diff: medium
+Exp: As a beta-2 agonist with some beta-1 effect, salbutamol causes fine tremor, tachycardia and occasionally hypokalaemia. Patients should be warned these effects are expected and usually settle.
+
+Q: Blood samples for culture should ideally be taken
+A) Before starting antibiotic therapy
+B) Only after the fever settles
+C) After the first dose of antibiotic
+D) At any time during the course
+Ans: A
+Topic: Microbiology
+Diff: medium
+Exp: Antibiotics given first may suppress growth and give a false negative, losing the chance to identify the organism and its sensitivities. Cultures are taken first, ideally at the peak of fever, and treatment then started promptly.
+
+Q: A patient weighing 60 kg is prescribed a drug at 5 mg per kg per day, in two divided doses. Each dose is
+A) 60 mg
+B) 150 mg
+C) 300 mg
+D) 600 mg
+Ans: B
+Topic: Pharmacology
+Diff: medium
+Exp: The total daily dose is 5 multiplied by 60, which is 300 mg, and divided into two doses gives 150 mg per dose. Reading whether the figure quoted is per day or per dose is where most calculation errors happen.
+
+Q: A nasal cannula at 2 litres per minute delivers an approximate inspired oxygen concentration of
+A) 21 per cent
+B) 28 per cent
+C) 60 per cent
+D) 100 per cent
+Ans: B
+Topic: Fundamentals
+Diff: hard
+Exp: Each litre per minute adds roughly 4 per cent above room air, so 2 litres gives about 28 per cent, though the true value varies with the patient's breathing pattern. A non-rebreather mask with a reservoir delivers the highest concentration.
+
+Q: The recommended duration for routine handwashing with soap and water is at least
+A) 5 seconds
+B) 5 minutes
+C) 40 to 60 seconds
+D) 10 minutes
+Ans: C
+Topic: Fundamentals
+Diff: medium
+Exp: WHO advises 40 to 60 seconds for soap and water and 20 to 30 seconds for an alcohol-based handrub, covering all surfaces including thumbs, fingertips and between the fingers. Technique matters as much as duration.
+
+Q: In the semi-Fowler position the head of the bed is elevated to about
+A) 15 degrees
+B) 30 to 45 degrees
+C) 60 degrees
+D) 90 degrees
+Ans: B
+Topic: Fundamentals
+Diff: medium
+Exp: Semi-Fowler is 30 to 45 degrees, Fowler about 45 to 60 and high Fowler 60 to 90. Elevating the head aids breathing and, in a ventilated or tube-fed patient, reduces the risk of aspiration.
+
+Q: When establishing a sterile field, an item is considered contaminated if it is
+A) Below waist level or out of the field of vision
+B) Held above waist level
+C) Handled with sterile gloves
+D) In the centre of the field
+Ans: A
+Topic: Fundamentals
+Diff: medium
+Exp: Anything below the waist or out of sight is treated as unsterile, as is the one-inch border of a sterile drape and any wet field, since moisture wicks organisms upward. When in doubt, an item is considered contaminated.
+
+Q: Pain is often described as the fifth vital sign because
+A) It can be measured with a thermometer
+B) It should be assessed and documented routinely, using the patient's own report
+C) It is always visible to the nurse
+D) It correlates exactly with blood pressure
+Ans: B
+Topic: Fundamentals
+Diff: easy
+Exp: Pain is subjective, and the patient's self-report is the most reliable indicator. Routine assessment with an appropriate scale, and reassessment after intervention, is what turns pain relief into measurable care.
+
+Q: When lifting a heavy object, correct body mechanics require the nurse to
+A) Bend the knees, keep the back straight and hold the load close to the body
+B) Bend at the waist with straight legs
+C) Twist while lifting
+D) Lift quickly with a jerk
+Ans: A
+Topic: Fundamentals
+Diff: easy
+Exp: Using the strong leg muscles with a wide base of support, keeping the load close and turning the feet instead of twisting the spine protects the back. Back injury is one of the commonest occupational hazards in nursing.
+
+Q: Immediately after a needlestick injury from a patient's used needle, the nurse should first
+A) Squeeze the wound vigorously and apply spirit
+B) Ignore it if the patient looks healthy
+C) Wash the area with soap and running water, then report and seek post-exposure evaluation urgently
+D) Apply a tourniquet above the site
+Ans: C
+Topic: Microbiology
+Diff: hard
+Exp: The wound is washed with soap and running water and the incident reported at once, because post-exposure prophylaxis for HIV is most effective when started within hours. Squeezing or applying caustic agents damages tissue without reducing risk.
+
+Q: Which organism is the commonest cause of surgical site infection?
+A) Plasmodium vivax
+B) Candida albicans
+C) Entamoeba histolytica
+D) Staphylococcus aureus
+Ans: D
+Topic: Microbiology
+Diff: medium
+Exp: Staphylococcus aureus, often carried in the patient's own nose and skin, is the leading cause. This is why skin preparation, aseptic technique and appropriately timed prophylactic antibiotics matter so much.
+
+Q: The main purpose of a pilot study is to
+A) Publish preliminary conclusions
+B) Replace the main study
+C) Prove the hypothesis
+D) Test feasibility of the method and tools on a small scale before the main study
+Ans: D
+Topic: Research
+Diff: medium
+Exp: A pilot study checks whether the design, tools and procedures work, how long data collection takes and what problems arise, so they can be corrected. It is not powered to test the hypothesis and its subjects are excluded from the main sample.
+
+Q: Reliability of a research tool refers to
+A) Whether the study is ethical
+B) Whether it measures what it is intended to measure
+C) Whether it gives consistent results on repeated measurement
+D) Whether the sample is large enough
+Ans: C
+Topic: Research
+Diff: hard
+Exp: Reliability is consistency and validity is accuracy. A weighing scale reading three kilograms too heavy every time is perfectly reliable but not valid, which is why both must be established.
+
+Q: In an experimental study of the effect of an exercise programme on blood pressure, the independent variable is
+A) The age of the participants
+B) The exercise programme
+C) The sample size
+D) Blood pressure
+Ans: B
+Topic: Research
+Diff: medium
+Exp: The independent variable is what the researcher manipulates, here the exercise programme, and the dependent variable is the outcome measured, here blood pressure. Age would be an extraneous variable to be controlled.
+
+Q: A nursing audit is best described as
+A) A systematic review of nursing records and practice against agreed standards to improve care
+B) A financial inspection of the ward budget
+C) A survey of patient satisfaction only
+D) A disciplinary enquiry into an individual nurse
+Ans: A
+Topic: Management
+Diff: medium
+Exp: Audit compares actual practice with an agreed standard, identifies gaps and closes them by changing practice and re-auditing. Its purpose is improvement of the system, not blame of an individual.
+
+Q: Democratic or participative leadership in a nursing unit is characterised by
+A) Decisions taken solely by the manager without consultation
+B) Involving staff in decision-making while the leader retains accountability
+C) Decisions taken by an external authority
+D) Complete absence of guidance
+Ans: B
+Topic: Management
+Diff: medium
+Exp: Participative leadership consults the team and encourages ownership, which suits experienced staff and improves morale. Autocratic style is faster and appropriate in emergencies, while laissez-faire offers little direction and suits only highly self-directed teams.

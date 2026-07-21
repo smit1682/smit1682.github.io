@@ -1,0 +1,161 @@
+# Batch 6 — Anatomy and Physiology, second set
+
+Q: The number of bones in the adult human skeleton is
+A) 186
+B) 196
+C) 206
+D) 216
+Ans: C
+Topic: Anatomy
+Diff: easy
+Exp: The adult skeleton has 206 bones, 80 axial and 126 appendicular. A newborn has around 300, many of which fuse during growth, which is why the adult count is lower.
+
+Q: The longest and strongest bone in the human body is the
+A) Fibula
+B) Tibia
+C) Humerus
+D) Femur
+Ans: D
+Topic: Anatomy
+Diff: easy
+Exp: The femur is the longest, heaviest and strongest bone, transmitting body weight from the hip to the knee. A fractured femur can bleed one to one and a half litres into the thigh, enough to cause shock.
+
+Q: Bile is produced by the liver and stored and concentrated in the
+A) Gall bladder
+B) Duodenum
+C) Pancreas
+D) Spleen
+Ans: A
+Topic: Anatomy
+Diff: easy
+Exp: Hepatocytes secrete bile continuously; the gall bladder stores and concentrates it and releases it when cholecystokinin is triggered by fat in the duodenum. Bile emulsifies fat rather than digesting it chemically.
+
+Q: Vitamin B12 is absorbed mainly in the
+A) Jejunum
+B) Terminal ileum
+C) Stomach
+D) Duodenum
+Ans: B
+Topic: Physiology
+Diff: hard
+Exp: Vitamin B12 binds intrinsic factor made by gastric parietal cells and the complex is absorbed in the terminal ileum. This is why both total gastrectomy and ileal resection or Crohn disease of the ileum cause B12 deficiency.
+
+Q: The pacemaker of the heart is the
+A) Bundle of His
+B) Atrioventricular node
+C) Purkinje fibres
+D) Sinoatrial node
+Ans: D
+Topic: Physiology
+Diff: easy
+Exp: The sinoatrial node in the right atrium discharges fastest, at 60 to 100 per minute, and so sets the rhythm. If it fails, the AV node takes over at 40 to 60 and the ventricles at 20 to 40, each progressively slower.
+
+Q: The hormone that raises blood calcium by acting on bone, kidney and gut is
+A) Parathyroid hormone
+B) Aldosterone
+C) Calcitonin
+D) Insulin
+Ans: A
+Topic: Physiology
+Diff: medium
+Exp: Parathyroid hormone raises serum calcium by mobilising it from bone, increasing renal reabsorption and activating vitamin D to increase gut absorption. Calcitonin from the thyroid parafollicular cells does the opposite and lowers calcium.
+
+Q: Cortisol is secreted by which layer of the adrenal gland?
+A) Zona glomerulosa
+B) Zona reticularis
+C) Zona fasciculata
+D) Adrenal medulla
+Ans: C
+Topic: Physiology
+Diff: hard
+Exp: The cortex has three zones: glomerulosa making aldosterone, fasciculata making cortisol and reticularis making androgens, remembered as salt, sugar and sex. The medulla is separate and secretes adrenaline and noradrenaline.
+
+Q: The normal serum potassium level in an adult is
+A) 1.5 to 2.5 mEq/L
+B) 3.5 to 5.0 mEq/L
+C) 7.0 to 8.5 mEq/L
+D) 10 to 12 mEq/L
+Ans: B
+Topic: Physiology
+Diff: medium
+Exp: Normal potassium is 3.5 to 5.0 mEq per litre and the margin for error is small, because both low and high levels cause fatal arrhythmias. Sodium sits far higher, at 135 to 145 mEq per litre.
+
+Q: The normal tidal volume in a healthy adult at rest is approximately
+A) 150 mL
+B) 500 mL
+C) 1200 mL
+D) 2500 mL
+Ans: B
+Topic: Physiology
+Diff: medium
+Exp: Tidal volume is about 500 mL, of which roughly 150 mL fills anatomical dead space and takes no part in gas exchange. Vital capacity, the largest volume that can be moved voluntarily, is around 4500 mL.
+
+Q: Adequate urine output in an adult is generally taken as
+A) At least 50 mL per hour regardless of weight
+B) At least 0.5 mL per kilogram per hour
+C) At least 5 mL per kilogram per hour
+D) At least 200 mL per hour
+Ans: B
+Topic: Physiology
+Diff: medium
+Exp: A minimum of 0.5 mL/kg/hour, roughly 30 mL per hour in an average adult, indicates adequate renal perfusion. Falling below this is one of the earliest and most useful warnings of hypovolaemia.
+
+Q: A person with blood group O negative is described as a universal
+A) Recipient
+B) Donor
+C) Neither
+D) Both donor and recipient
+Ans: B
+Topic: Physiology
+Diff: medium
+Exp: O negative red cells carry neither A, B nor RhD antigen, so they can be given to almost anyone, making O negative the universal red cell donor. AB positive is the universal recipient, having no anti-A or anti-B antibodies.
+
+Q: Baroreceptors that help regulate blood pressure are located in the
+A) Hypothalamus
+B) Carotid sinus and aortic arch
+C) Lung alveoli
+D) Renal tubules
+Ans: B
+Topic: Physiology
+Diff: hard
+Exp: Stretch receptors in the carotid sinus and aortic arch sense arterial pressure and signal the medulla, which adjusts heart rate and vessel tone within seconds. Chemoreceptors nearby respond instead to oxygen, carbon dioxide and pH.
+
+Q: The normal haemoglobin range for an adult woman is approximately
+A) 6 to 8 g/dL
+B) 12 to 15 g/dL
+C) 18 to 20 g/dL
+D) 22 to 25 g/dL
+Ans: B
+Topic: Physiology
+Diff: easy
+Exp: Adult women normally run 12 to 15 g/dL and men 13 to 17 g/dL. WHO defines anaemia as below 12 g/dL in non-pregnant women and below 11 g/dL in pregnancy.
+
+Q: The normal platelet count is
+A) 150,000 to 400,000 per microlitre
+B) 15,000 to 40,000 per microlitre
+C) 1.5 to 4 million per microlitre
+D) 15 to 40 million per microlitre
+Ans: A
+Topic: Physiology
+Diff: medium
+Exp: Normal platelets are 150,000 to 400,000 per microlitre. Spontaneous bleeding becomes a real risk below about 20,000, and surgery is usually deferred below 50,000.
+
+Q: Which clotting factors depend on vitamin K for their synthesis?
+A) Factors I, V, VIII and XIII
+B) Factors XI and XII only
+C) Factors III, IV and VI
+D) Factors II, VII, IX and X
+Ans: D
+Topic: Physiology
+Diff: hard
+Exp: Factors II, VII, IX and X, together with proteins C and S, require vitamin K for carboxylation in the liver. Warfarin blocks this step, which explains both its action and why vitamin K reverses it.
+
+Q: Spermatogenesis requires a testicular temperature that is
+A) Independent of temperature
+B) Equal to core body temperature
+C) Two to three degrees below core body temperature
+D) Two to three degrees above core body temperature
+Ans: C
+Topic: Anatomy
+Diff: hard
+Exp: The scrotum holds the testes a few degrees below core temperature, which normal sperm production requires. Undescended testes remain at body temperature and, if not corrected early, lead to infertility and a raised risk of malignancy.

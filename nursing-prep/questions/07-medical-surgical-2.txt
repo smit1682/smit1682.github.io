@@ -1,0 +1,201 @@
+# Batch 7 — Medical-Surgical Nursing, second set
+
+Q: The classic triad of diabetic ketoacidosis is
+A) Hyperglycaemia, ketosis and metabolic acidosis
+B) Hyperglycaemia, hypernatraemia and alkalosis
+C) Normal glucose with ketosis
+D) Hypoglycaemia, ketosis and alkalosis
+Ans: A
+Topic: Medical-Surgical
+Diff: medium
+Exp: DKA is defined by high blood glucose, ketones in blood or urine and a metabolic acidosis with a low bicarbonate. Deep sighing Kussmaul respiration and an acetone smell on the breath are the bedside clues.
+
+Q: The first action for a conscious patient showing sweating, tremor and confusion with a capillary glucose of 45 mg/dL is
+A) Give 15 to 20 grams of fast-acting oral glucose and recheck in 15 minutes
+B) Give intravenous insulin
+C) Withhold all food until the doctor arrives
+D) Encourage the patient to walk it off
+Ans: A
+Topic: Medical-Surgical
+Diff: medium
+Exp: This is hypoglycaemia and it is treated immediately by mouth if the patient is conscious and able to swallow, then rechecked after 15 minutes and followed by a complex carbohydrate. Insulin would be catastrophic, and an unconscious patient needs intravenous dextrose or glucagon instead.
+
+Q: In an acute adrenal crisis, the priority treatment is
+A) Diuretics
+B) Oral steroids the next morning
+C) Insulin infusion
+D) Intravenous hydrocortisone with fluid and glucose replacement
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Addisonian crisis presents with hypotension, hyponatraemia, hyperkalaemia and hypoglycaemia and is treated with immediate intravenous hydrocortisone alongside saline and dextrose. Delay is fatal, so treatment precedes confirmatory testing.
+
+Q: The Rule of Nines is used to estimate
+A) Percentage of total body surface area burned
+B) Level of consciousness
+C) Depth of a burn
+D) Fluid output
+Ans: A
+Topic: Medical-Surgical
+Diff: medium
+Exp: The Rule of Nines divides the adult body into multiples of nine per cent: head 9, each arm 9, each leg 18, front of trunk 18, back 18 and perineum 1. Children have proportionally larger heads, so the Lund and Browder chart is more accurate for them.
+
+Q: Using the Parkland formula, the fluid requirement in the first 24 hours after a burn is
+A) 2 mL times body weight in kg times percentage burn
+B) 4 mL times body weight in kg times percentage burn
+C) 6 mL times body weight in kg times percentage burn
+D) 10 mL times body weight in kg times percentage burn
+Ans: B
+Topic: Medical-Surgical
+Diff: hard
+Exp: Parkland gives 4 mL of Ringer lactate per kilogram per per cent burn over 24 hours, with half in the first 8 hours from the time of injury and the remainder over the following 16. The formula is only a starting estimate; urine output guides the actual rate.
+
+Q: The earliest and most reliable sign of compartment syndrome is
+A) Pain out of proportion to the injury, worse on passive stretch
+B) Absent distal pulse
+C) Paralysis
+D) Pallor of the limb
+Ans: A
+Topic: Medical-Surgical
+Diff: hard
+Exp: Severe pain, worsened by passively stretching the muscles in the compartment, appears long before the other Ps. Pulselessness and paralysis are very late, and waiting for them means the limb is already being lost.
+
+Q: The mnemonic FAST for recognising stroke stands for
+A) Face, Arms, Speech, Time
+B) Fluid, Assessment, Support, Transfer
+C) Function, Ability, Sensation, Tone
+D) Fever, Airway, Signs, Treatment
+Ans: A
+Topic: Medical-Surgical
+Diff: easy
+Exp: Facial droop, arm weakness and speech disturbance signal a possible stroke, and Time emphasises that thrombolysis is only possible within a narrow window. Noting the exact time the patient was last seen well is a crucial nursing observation.
+
+Q: During a generalised tonic-clonic seizure the nurse should
+A) Insert a padded tongue depressor into the mouth
+B) Give oral medication immediately
+C) Protect the head, loosen tight clothing and turn the patient to the side once movements settle
+D) Restrain the limbs firmly
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Care is protective rather than interventional: prevent injury, do not restrain, and place the patient in the recovery position afterwards to protect the airway. Forcing anything into the mouth breaks teeth and risks obstruction.
+
+Q: A patient develops fever, chills, loin pain and dark urine 15 minutes into a blood transfusion. The nurse should first
+A) Slow the transfusion and continue observing
+B) Give an antipyretic and continue
+C) Stop the transfusion, keep the line open with normal saline through fresh tubing, and inform the doctor
+D) Remove the cannula completely
+Ans: C
+Topic: Medical-Surgical
+Diff: hard
+Exp: These features suggest an acute haemolytic reaction from ABO incompatibility. The transfusion is stopped at once but venous access is preserved with saline through new tubing, and the unit and samples are returned to the blood bank for investigation.
+
+Q: The most common site of a peptic ulcer associated with Helicobacter pylori is the
+A) Oesophagus
+B) Colon
+C) Duodenum
+D) Jejunum
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Duodenal ulcers are strongly associated with H. pylori and classically give pain relieved by food. Gastric ulcer pain tends to be worsened by eating, and treatment for both centres on eradication therapy plus acid suppression.
+
+Q: Asterixis, or flapping tremor, in a patient with cirrhosis suggests
+A) Simple fatigue
+B) Iron overload
+C) Hypoglycaemia
+D) Hepatic encephalopathy from rising ammonia
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Asterixis is an early sign of hepatic encephalopathy as nitrogenous waste accumulates. Treatment reduces ammonia production with lactulose and rifaximin, and precipitants such as gastrointestinal bleeding, infection and constipation are sought.
+
+Q: Cullen sign and Grey Turner sign are associated with
+A) Renal colic
+B) Acute appendicitis
+C) Peptic ulcer
+D) Severe haemorrhagic pancreatitis
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Cullen sign is periumbilical bruising and Grey Turner sign is flank bruising, both from retroperitoneal bleeding in severe pancreatitis. They are uncommon but indicate a serious course.
+
+Q: McBurney point tenderness is characteristic of
+A) Pancreatitis
+B) Acute appendicitis
+C) Cholecystitis
+D) Diverticulitis
+Ans: B
+Topic: Medical-Surgical
+Diff: medium
+Exp: McBurney point lies one third of the way from the right anterior superior iliac spine to the umbilicus and is the classic site of maximal tenderness in appendicitis. Heat and laxatives are avoided because they increase the risk of perforation.
+
+Q: Immediately after a below-knee amputation, the nurse should be most alert for
+A) Constipation
+B) Haemorrhage from the stump
+C) Phantom limb sensation
+D) Loss of appetite
+Ans: B
+Topic: Medical-Surgical
+Diff: medium
+Exp: Bleeding is the immediate postoperative danger, so the stump and dressing are observed closely and a tourniquet is kept at the bedside. Phantom sensation is common and distressing but is not an emergency.
+
+Q: The stoma of a healthy colostomy should appear
+A) Pale and dry
+B) Bright yellow
+C) Dark purple or black
+D) Pink to red, moist and slightly raised
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: A healthy stoma is pink or red and moist, like the inside of the cheek. Dusky purple or black indicates ischaemia and must be reported at once, and the surrounding skin is protected because effluent quickly excoriates it.
+
+Q: A patient receiving chemotherapy has an absolute neutrophil count of 400 per microlitre. The priority nursing action is
+A) Institute neutropenic precautions and monitor closely for any sign of infection
+B) Encourage visitors to cheer the patient up
+C) Take rectal temperatures four hourly
+D) Serve raw salad and fresh fruit juice
+Ans: A
+Topic: Medical-Surgical
+Diff: hard
+Exp: Severe neutropenia leaves the patient unable to mount normal signs of infection, so fever alone is an emergency. Precautions include hand hygiene, avoiding crowds and uncooked foods, and avoiding rectal thermometers and suppositories, which can breach the mucosa.
+
+Q: The most effective measure to prevent deep vein thrombosis in a postoperative patient is
+A) Strict bed rest
+B) Massaging the calves
+C) Early mobilisation, with graduated compression stockings and prophylactic anticoagulation as prescribed
+D) Restricting fluids
+Ans: C
+Topic: Medical-Surgical
+Diff: medium
+Exp: Immobility is the main risk, so early mobilisation and leg exercises, mechanical prophylaxis and low molecular weight heparin are used together. Calves are never massaged when thrombosis is suspected, because a clot may embolise.
+
+Q: The most common healthcare associated infection linked to an indwelling device is
+A) Fungal nail infection
+B) Conjunctivitis
+C) Surgical site infection of the scalp
+D) Catheter associated urinary tract infection
+Ans: D
+Topic: Medical-Surgical
+Diff: medium
+Exp: Urinary catheters account for a large share of hospital infection, and risk rises with every extra day in place. The most effective prevention is avoiding unnecessary catheters and removing them as early as possible, alongside a closed drainage system kept below bladder level.
+
+Q: When suctioning a tracheostomy, suction should be applied
+A) For a full minute at a time
+B) Continuously while inserting the catheter
+C) Only after instilling 10 mL of saline
+D) Only while withdrawing the catheter, for no more than 10 to 15 seconds
+Ans: D
+Topic: Medical-Surgical
+Diff: hard
+Exp: Suction is applied intermittently on withdrawal and limited to 10 to 15 seconds, with pre-oxygenation, because suctioning removes oxygen as well as secretions. Routine saline instillation is no longer recommended, as it does not thin secretions and may push organisms downward.
+
+Q: A patient with a chest injury shows tracheal deviation away from the affected side, absent breath sounds and rapidly worsening shock. This suggests
+A) Tension pneumothorax
+B) Pulmonary oedema
+C) Pleural effusion
+D) Simple pneumothorax
+Ans: A
+Topic: Medical-Surgical
+Diff: hard
+Exp: Air trapped under pressure shifts the mediastinum, kinks the great vessels and collapses venous return, giving obstructive shock. It is a clinical diagnosis needing immediate needle decompression followed by a chest drain, not an X-ray first.

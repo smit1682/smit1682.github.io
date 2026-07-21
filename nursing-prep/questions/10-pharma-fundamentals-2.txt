@@ -6,7 +6,7 @@ B) The drug to reach peak concentration
 C) The drug to be fully absorbed
 D) The drug to be completely eliminated
 Ans: A
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: medium
 Exp: Half-life is the time for plasma concentration to halve, and it determines dosing interval. It takes about four to five half-lives to eliminate a drug or, with regular dosing, to reach steady state.
 
@@ -16,7 +16,7 @@ B) Metabolism of an orally absorbed drug by the liver before it reaches the syst
 C) The first dose given to a patient
 D) Renal excretion of the drug
 Ans: B
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: hard
 Exp: Drugs absorbed from the gut travel through the portal vein and are partly metabolised by the liver before reaching the circulation, which is why oral doses are often much larger than parenteral ones. Sublingual, rectal and parenteral routes bypass this.
 
@@ -26,7 +26,7 @@ B) Constipation and dry skin only
 C) Anorexia, nausea, visual disturbance with yellow-green halos and bradycardia
 D) Fever and rash
 Ans: C
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: hard
 Exp: Digoxin has a narrow therapeutic index and toxicity begins with gastrointestinal and visual symptoms alongside arrhythmias. Hypokalaemia, often from diuretics, markedly increases the risk, so potassium is watched closely.
 
@@ -36,7 +36,7 @@ B) Report signs of infection
 C) Take the dose in the morning
 D) Take it with food
 Ans: A
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: medium
 Exp: Prolonged steroids suppress the hypothalamic-pituitary-adrenal axis, so sudden withdrawal can precipitate an adrenal crisis. The dose is tapered gradually, and morning dosing with food better mimics natural secretion and protects the stomach.
 
@@ -46,7 +46,7 @@ B) Prevent the drug leaking back into subcutaneous tissue and staining the skin
 C) Allow a larger volume in the deltoid
 D) Make the injection painless
 Ans: B
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: hard
 Exp: Displacing the skin laterally before injecting and releasing it afterwards seals the needle track. It is used for irritant or staining preparations such as iron dextran.
 
@@ -56,7 +56,7 @@ B) Hearing loss
 C) Tremor, tachycardia and palpitations
 D) Constipation
 Ans: C
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: medium
 Exp: As a beta-2 agonist with some beta-1 effect, salbutamol causes fine tremor, tachycardia and occasionally hypokalaemia. Patients should be warned these effects are expected and usually settle.
 
@@ -66,7 +66,7 @@ B) Only after the fever settles
 C) After the first dose of antibiotic
 D) At any time during the course
 Ans: A
-Topic: Microbiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Antibiotics given first may suppress growth and give a false negative, losing the chance to identify the organism and its sensitivities. Cultures are taken first, ideally at the peak of fever, and treatment then started promptly.
 
@@ -76,7 +76,7 @@ B) 150 mg
 C) 300 mg
 D) 600 mg
 Ans: B
-Topic: Pharmacology
+Topic: Nursing Foundations
 Diff: medium
 Exp: The total daily dose is 5 multiplied by 60, which is 300 mg, and divided into two doses gives 150 mg per dose. Reading whether the figure quoted is per day or per dose is where most calculation errors happen.
 
@@ -86,7 +86,7 @@ B) 28 per cent
 C) 60 per cent
 D) 100 per cent
 Ans: B
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: hard
 Exp: Each litre per minute adds roughly 4 per cent above room air, so 2 litres gives about 28 per cent, though the true value varies with the patient's breathing pattern. A non-rebreather mask with a reservoir delivers the highest concentration.
 
@@ -96,7 +96,7 @@ B) 5 minutes
 C) 40 to 60 seconds
 D) 10 minutes
 Ans: C
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: medium
 Exp: WHO advises 40 to 60 seconds for soap and water and 20 to 30 seconds for an alcohol-based handrub, covering all surfaces including thumbs, fingertips and between the fingers. Technique matters as much as duration.
 
@@ -106,7 +106,7 @@ B) 30 to 45 degrees
 C) 60 degrees
 D) 90 degrees
 Ans: B
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: medium
 Exp: Semi-Fowler is 30 to 45 degrees, Fowler about 45 to 60 and high Fowler 60 to 90. Elevating the head aids breathing and, in a ventilated or tube-fed patient, reduces the risk of aspiration.
 
@@ -116,7 +116,7 @@ B) Held above waist level
 C) Handled with sterile gloves
 D) In the centre of the field
 Ans: A
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: medium
 Exp: Anything below the waist or out of sight is treated as unsterile, as is the one-inch border of a sterile drape and any wet field, since moisture wicks organisms upward. When in doubt, an item is considered contaminated.
 
@@ -126,7 +126,7 @@ B) It should be assessed and documented routinely, using the patient's own repor
 C) It is always visible to the nurse
 D) It correlates exactly with blood pressure
 Ans: B
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: easy
 Exp: Pain is subjective, and the patient's self-report is the most reliable indicator. Routine assessment with an appropriate scale, and reassessment after intervention, is what turns pain relief into measurable care.
 
@@ -136,7 +136,7 @@ B) Bend at the waist with straight legs
 C) Twist while lifting
 D) Lift quickly with a jerk
 Ans: A
-Topic: Fundamentals
+Topic: Nursing Foundations
 Diff: easy
 Exp: Using the strong leg muscles with a wide base of support, keeping the load close and turning the feet instead of twisting the spine protects the back. Back injury is one of the commonest occupational hazards in nursing.
 
@@ -146,7 +146,7 @@ B) Ignore it if the patient looks healthy
 C) Wash the area with soap and running water, then report and seek post-exposure evaluation urgently
 D) Apply a tourniquet above the site
 Ans: C
-Topic: Microbiology
+Topic: Basic Sciences
 Diff: hard
 Exp: The wound is washed with soap and running water and the incident reported at once, because post-exposure prophylaxis for HIV is most effective when started within hours. Squeezing or applying caustic agents damages tissue without reducing risk.
 
@@ -156,7 +156,7 @@ B) Candida albicans
 C) Entamoeba histolytica
 D) Staphylococcus aureus
 Ans: D
-Topic: Microbiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Staphylococcus aureus, often carried in the patient's own nose and skin, is the leading cause. This is why skin preparation, aseptic technique and appropriately timed prophylactic antibiotics matter so much.
 
@@ -166,7 +166,7 @@ B) Replace the main study
 C) Prove the hypothesis
 D) Test feasibility of the method and tools on a small scale before the main study
 Ans: D
-Topic: Research
+Topic: Nursing Foundations
 Diff: medium
 Exp: A pilot study checks whether the design, tools and procedures work, how long data collection takes and what problems arise, so they can be corrected. It is not powered to test the hypothesis and its subjects are excluded from the main sample.
 
@@ -176,7 +176,7 @@ B) Whether it measures what it is intended to measure
 C) Whether it gives consistent results on repeated measurement
 D) Whether the sample is large enough
 Ans: C
-Topic: Research
+Topic: Nursing Foundations
 Diff: hard
 Exp: Reliability is consistency and validity is accuracy. A weighing scale reading three kilograms too heavy every time is perfectly reliable but not valid, which is why both must be established.
 
@@ -186,7 +186,7 @@ B) The exercise programme
 C) The sample size
 D) Blood pressure
 Ans: B
-Topic: Research
+Topic: Nursing Foundations
 Diff: medium
 Exp: The independent variable is what the researcher manipulates, here the exercise programme, and the dependent variable is the outcome measured, here blood pressure. Age would be an extraneous variable to be controlled.
 
@@ -196,7 +196,7 @@ B) A financial inspection of the ward budget
 C) A survey of patient satisfaction only
 D) A disciplinary enquiry into an individual nurse
 Ans: A
-Topic: Management
+Topic: Nursing Foundations
 Diff: medium
 Exp: Audit compares actual practice with an agreed standard, identifies gaps and closes them by changing practice and re-auditing. Its purpose is improvement of the system, not blame of an individual.
 
@@ -206,6 +206,6 @@ B) Involving staff in decision-making while the leader retains accountability
 C) Decisions taken by an external authority
 D) Complete absence of guidance
 Ans: B
-Topic: Management
+Topic: Nursing Foundations
 Diff: medium
 Exp: Participative leadership consults the team and encourages ownership, which suits experienced staff and improves morale. Autocratic style is faster and appropriate in emergencies, while laissez-faire offers little direction and suits only highly self-directed teams.

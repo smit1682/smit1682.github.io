@@ -6,7 +6,7 @@ B) Hyperglycaemia, hypernatraemia and alkalosis
 C) Normal glucose with ketosis
 D) Hypoglycaemia, ketosis and alkalosis
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: DKA is defined by high blood glucose, ketones in blood or urine and a metabolic acidosis with a low bicarbonate. Deep sighing Kussmaul respiration and an acetone smell on the breath are the bedside clues.
 
@@ -16,7 +16,7 @@ B) Give intravenous insulin
 C) Withhold all food until the doctor arrives
 D) Encourage the patient to walk it off
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: This is hypoglycaemia and it is treated immediately by mouth if the patient is conscious and able to swallow, then rechecked after 15 minutes and followed by a complex carbohydrate. Insulin would be catastrophic, and an unconscious patient needs intravenous dextrose or glucagon instead.
 
@@ -26,7 +26,7 @@ B) Oral steroids the next morning
 C) Insulin infusion
 D) Intravenous hydrocortisone with fluid and glucose replacement
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Addisonian crisis presents with hypotension, hyponatraemia, hyperkalaemia and hypoglycaemia and is treated with immediate intravenous hydrocortisone alongside saline and dextrose. Delay is fatal, so treatment precedes confirmatory testing.
 
@@ -36,7 +36,7 @@ B) Level of consciousness
 C) Depth of a burn
 D) Fluid output
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: The Rule of Nines divides the adult body into multiples of nine per cent: head 9, each arm 9, each leg 18, front of trunk 18, back 18 and perineum 1. Children have proportionally larger heads, so the Lund and Browder chart is more accurate for them.
 
@@ -46,7 +46,7 @@ B) 4 mL times body weight in kg times percentage burn
 C) 6 mL times body weight in kg times percentage burn
 D) 10 mL times body weight in kg times percentage burn
 Ans: B
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Parkland gives 4 mL of Ringer lactate per kilogram per per cent burn over 24 hours, with half in the first 8 hours from the time of injury and the remainder over the following 16. The formula is only a starting estimate; urine output guides the actual rate.
 
@@ -56,7 +56,7 @@ B) Absent distal pulse
 C) Paralysis
 D) Pallor of the limb
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Severe pain, worsened by passively stretching the muscles in the compartment, appears long before the other Ps. Pulselessness and paralysis are very late, and waiting for them means the limb is already being lost.
 
@@ -66,7 +66,7 @@ B) Fluid, Assessment, Support, Transfer
 C) Function, Ability, Sensation, Tone
 D) Fever, Airway, Signs, Treatment
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: easy
 Exp: Facial droop, arm weakness and speech disturbance signal a possible stroke, and Time emphasises that thrombolysis is only possible within a narrow window. Noting the exact time the patient was last seen well is a crucial nursing observation.
 
@@ -76,7 +76,7 @@ B) Give oral medication immediately
 C) Protect the head, loosen tight clothing and turn the patient to the side once movements settle
 D) Restrain the limbs firmly
 Ans: C
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: Care is protective rather than interventional: prevent injury, do not restrain, and place the patient in the recovery position afterwards to protect the airway. Forcing anything into the mouth breaks teeth and risks obstruction.
 
@@ -86,7 +86,7 @@ B) Give an antipyretic and continue
 C) Stop the transfusion, keep the line open with normal saline through fresh tubing, and inform the doctor
 D) Remove the cannula completely
 Ans: C
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: These features suggest an acute haemolytic reaction from ABO incompatibility. The transfusion is stopped at once but venous access is preserved with saline through new tubing, and the unit and samples are returned to the blood bank for investigation.
 
@@ -96,7 +96,7 @@ B) Colon
 C) Duodenum
 D) Jejunum
 Ans: C
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: Duodenal ulcers are strongly associated with H. pylori and classically give pain relieved by food. Gastric ulcer pain tends to be worsened by eating, and treatment for both centres on eradication therapy plus acid suppression.
 
@@ -106,7 +106,7 @@ B) Iron overload
 C) Hypoglycaemia
 D) Hepatic encephalopathy from rising ammonia
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Asterixis is an early sign of hepatic encephalopathy as nitrogenous waste accumulates. Treatment reduces ammonia production with lactulose and rifaximin, and precipitants such as gastrointestinal bleeding, infection and constipation are sought.
 
@@ -116,7 +116,7 @@ B) Acute appendicitis
 C) Peptic ulcer
 D) Severe haemorrhagic pancreatitis
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Cullen sign is periumbilical bruising and Grey Turner sign is flank bruising, both from retroperitoneal bleeding in severe pancreatitis. They are uncommon but indicate a serious course.
 
@@ -126,7 +126,7 @@ B) Acute appendicitis
 C) Cholecystitis
 D) Diverticulitis
 Ans: B
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: McBurney point lies one third of the way from the right anterior superior iliac spine to the umbilicus and is the classic site of maximal tenderness in appendicitis. Heat and laxatives are avoided because they increase the risk of perforation.
 
@@ -136,7 +136,7 @@ B) Haemorrhage from the stump
 C) Phantom limb sensation
 D) Loss of appetite
 Ans: B
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: Bleeding is the immediate postoperative danger, so the stump and dressing are observed closely and a tourniquet is kept at the bedside. Phantom sensation is common and distressing but is not an emergency.
 
@@ -146,7 +146,7 @@ B) Bright yellow
 C) Dark purple or black
 D) Pink to red, moist and slightly raised
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: A healthy stoma is pink or red and moist, like the inside of the cheek. Dusky purple or black indicates ischaemia and must be reported at once, and the surrounding skin is protected because effluent quickly excoriates it.
 
@@ -156,7 +156,7 @@ B) Encourage visitors to cheer the patient up
 C) Take rectal temperatures four hourly
 D) Serve raw salad and fresh fruit juice
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Severe neutropenia leaves the patient unable to mount normal signs of infection, so fever alone is an emergency. Precautions include hand hygiene, avoiding crowds and uncooked foods, and avoiding rectal thermometers and suppositories, which can breach the mucosa.
 
@@ -166,7 +166,7 @@ B) Massaging the calves
 C) Early mobilisation, with graduated compression stockings and prophylactic anticoagulation as prescribed
 D) Restricting fluids
 Ans: C
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: Immobility is the main risk, so early mobilisation and leg exercises, mechanical prophylaxis and low molecular weight heparin are used together. Calves are never massaged when thrombosis is suspected, because a clot may embolise.
 
@@ -176,7 +176,7 @@ B) Conjunctivitis
 C) Surgical site infection of the scalp
 D) Catheter associated urinary tract infection
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: medium
 Exp: Urinary catheters account for a large share of hospital infection, and risk rises with every extra day in place. The most effective prevention is avoiding unnecessary catheters and removing them as early as possible, alongside a closed drainage system kept below bladder level.
 
@@ -186,7 +186,7 @@ B) Continuously while inserting the catheter
 C) Only after instilling 10 mL of saline
 D) Only while withdrawing the catheter, for no more than 10 to 15 seconds
 Ans: D
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Suction is applied intermittently on withdrawal and limited to 10 to 15 seconds, with pre-oxygenation, because suctioning removes oxygen as well as secretions. Routine saline instillation is no longer recommended, as it does not thin secretions and may push organisms downward.
 
@@ -196,6 +196,6 @@ B) Pulmonary oedema
 C) Pleural effusion
 D) Simple pneumothorax
 Ans: A
-Topic: Medical-Surgical
+Topic: Medical-Surgical Nursing
 Diff: hard
 Exp: Air trapped under pressure shifts the mediastinum, kinks the great vessels and collapses venous return, giving obstructive shock. It is a clinical diagnosis needing immediate needle decompression followed by a chest drain, not an X-ray first.

@@ -6,7 +6,7 @@ B) 260 days
 C) 280 days
 D) 300 days
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: Pregnancy averages 280 days, or 40 weeks, from the first day of the last menstrual period. Naegele's rule estimates the due date by adding nine months and seven days to that date.
 
@@ -16,7 +16,7 @@ B) 12 to 14 weeks
 C) 18 to 20 weeks
 D) 28 to 30 weeks
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: A first-time mother usually feels movements at about 18 to 20 weeks, while a multigravida recognises them earlier, at around 16 to 18 weeks, because she knows the sensation.
 
@@ -26,7 +26,7 @@ B) Demonstration of the fetal heart and fetal parts on ultrasound
 C) Morning sickness
 D) Amenorrhoea
 Ans: B
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Positive signs are those attributable only to the fetus: visualisation of the fetus, audible fetal heart sounds and palpable fetal movements by the examiner. Amenorrhoea and nausea are presumptive, being reported by the woman and possible in other conditions.
 
@@ -36,7 +36,7 @@ B) 80 to 100 beats per minute
 C) 110 to 160 beats per minute
 D) 60 to 90 beats per minute
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: The accepted normal baseline is 110 to 160 beats per minute. A sustained rate below 110 is fetal bradycardia and above 160 is tachycardia, both requiring assessment.
 
@@ -46,7 +46,7 @@ B) Proteinuria or other end-organ dysfunction
 C) Glycosuria
 D) Polyhydramnios
 Ans: B
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Pre-eclampsia is new hypertension after 20 weeks with proteinuria or evidence of organ involvement such as deranged liver enzymes, low platelets, renal impairment or neurological signs. Once convulsions occur it becomes eclampsia.
 
@@ -56,7 +56,7 @@ B) Phenytoin
 C) Nifedipine
 D) Diazepam
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Magnesium sulphate is superior to diazepam and phenytoin for both prevention and control of eclamptic fits. Toxicity is monitored by checking the knee jerk, respiratory rate and urine output, and calcium gluconate is the antidote.
 
@@ -66,7 +66,7 @@ B) Genital tract trauma
 C) Retained placenta
 D) Coagulation disorder
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Atony, the failure of the uterus to contract after delivery, accounts for the majority of cases. This is why the initial response is to rub up a contraction, empty the bladder and give a uterotonic drug.
 
@@ -76,7 +76,7 @@ B) Dilatation, expulsion of the placenta, expulsion of the fetus
 C) Expulsion of the fetus, dilatation, expulsion of the placenta
 D) Effacement, dilatation, expulsion of the placenta
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: The first stage runs from the onset of true labour to full cervical dilatation, the second from full dilatation to delivery of the baby, and the third covers separation and expulsion of the placenta. Some texts add a fourth stage of one to two hours of close observation afterwards.
 
@@ -86,7 +86,7 @@ B) Breech
 C) Face
 D) Shoulder
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: About 95 per cent of term fetuses present by the vertex, the most favourable presentation for vaginal delivery because the smallest diameter of the head leads.
 
@@ -96,7 +96,7 @@ B) Before delivery of the baby
 C) Within one minute of delivery of the baby
 D) Two hours after delivery
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Active management involves giving a uterotonic, usually oxytocin, within one minute of the birth, followed by controlled cord traction with counter-traction and uterine massage. It substantially reduces the risk of postpartum haemorrhage.
 
@@ -106,7 +106,7 @@ B) Identical in composition
 C) Higher in protein and immunoglobulins, especially secretory IgA
 D) Higher in fat and lactose
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Colostrum, secreted in the first few days, is rich in protein, vitamin A and secretory IgA and is lower in fat and lactose. Its immunological value is why it should never be discarded.
 
@@ -116,7 +116,7 @@ B) 6 months
 C) 9 months
 D) 12 months
 Ans: B
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: WHO recommends exclusive breastfeeding for six months, with nothing else including water, followed by appropriate complementary feeding with continued breastfeeding up to two years and beyond.
 
@@ -126,7 +126,7 @@ B) 5 to 6 months
 C) 9 months
 D) 12 months
 Ans: B
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Birth weight roughly doubles by five to six months, triples by one year and quadruples by two years. Failure to follow this pattern is an early clue to faltering growth.
 
@@ -136,7 +136,7 @@ B) 12 to 18 months
 C) 3 years
 D) 9 months
 Ans: B
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: The anterior fontanelle closes between 12 and 18 months and the posterior by about 6 to 8 weeks. Delayed closure suggests rickets, hypothyroidism or hydrocephalus, while early closure raises the possibility of craniosynostosis.
 
@@ -146,7 +146,7 @@ B) At 10 weeks
 C) At 9 months
 D) At 6 weeks
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: BCG, the zero dose of oral polio vaccine and the birth dose of hepatitis B vaccine are given as soon as possible after birth, ideally within 24 hours for hepatitis B. The primary series of pentavalent and OPV follows at 6, 10 and 14 weeks.
 
@@ -156,7 +156,7 @@ B) 5 years
 C) Birth
 D) 9 to 12 months
 Ans: D
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: The first dose of measles-rubella vaccine is given at 9 to 12 months, once maternal antibody has waned enough for the vaccine to take, with a second dose at 16 to 24 months.
 
@@ -166,7 +166,7 @@ B) Antidiarrhoeal drugs
 C) Intravenous fluid such as Ringer lactate
 D) Antibiotics
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Severe dehydration is plan C and requires immediate intravenous rehydration, usually with Ringer lactate. Oral rehydration is used for some and mild dehydration, and antidiarrhoeal drugs are contraindicated in children.
 
@@ -176,7 +176,7 @@ B) Runny nose
 C) Loss of appetite
 D) Fever
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The IMNCI approach classifies pneumonia by counting the respiratory rate over one full minute against age-specific cut-offs, and looking for lower chest wall indrawing which indicates severe disease. Fever is too non-specific to guide treatment.
 
@@ -186,7 +186,7 @@ B) 7
 C) 8
 D) 10
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Heart rate above 100 scores 2, good crying scores 2 for respiration, active movement scores 2, some flexion scores 1 for muscle tone, and acrocyanosis with a pink body scores 1 for colour, totalling 8. Peripheral blueness alone in the first minutes is common and not alarming.
 
@@ -196,6 +196,6 @@ B) Is always associated with pale stools and dark urine
 C) Appears after 24 hours, peaks around days 3 to 5, and resolves within a week or two
 D) Appears within the first 24 hours of life
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Jaundice appearing in the first 24 hours is always pathological and demands urgent investigation for haemolysis or sepsis. Physiological jaundice appears after the first day, peaks on days three to five in a term baby, and settles without treatment or with phototherapy.

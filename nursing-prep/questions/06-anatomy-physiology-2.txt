@@ -6,7 +6,7 @@ B) 196
 C) 206
 D) 216
 Ans: C
-Topic: Anatomy
+Topic: Basic Sciences
 Diff: easy
 Exp: The adult skeleton has 206 bones, 80 axial and 126 appendicular. A newborn has around 300, many of which fuse during growth, which is why the adult count is lower.
 
@@ -16,7 +16,7 @@ B) Tibia
 C) Humerus
 D) Femur
 Ans: D
-Topic: Anatomy
+Topic: Basic Sciences
 Diff: easy
 Exp: The femur is the longest, heaviest and strongest bone, transmitting body weight from the hip to the knee. A fractured femur can bleed one to one and a half litres into the thigh, enough to cause shock.
 
@@ -26,7 +26,7 @@ B) Duodenum
 C) Pancreas
 D) Spleen
 Ans: A
-Topic: Anatomy
+Topic: Basic Sciences
 Diff: easy
 Exp: Hepatocytes secrete bile continuously; the gall bladder stores and concentrates it and releases it when cholecystokinin is triggered by fat in the duodenum. Bile emulsifies fat rather than digesting it chemically.
 
@@ -36,7 +36,7 @@ B) Terminal ileum
 C) Stomach
 D) Duodenum
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: hard
 Exp: Vitamin B12 binds intrinsic factor made by gastric parietal cells and the complex is absorbed in the terminal ileum. This is why both total gastrectomy and ileal resection or Crohn disease of the ileum cause B12 deficiency.
 
@@ -46,7 +46,7 @@ B) Atrioventricular node
 C) Purkinje fibres
 D) Sinoatrial node
 Ans: D
-Topic: Physiology
+Topic: Basic Sciences
 Diff: easy
 Exp: The sinoatrial node in the right atrium discharges fastest, at 60 to 100 per minute, and so sets the rhythm. If it fails, the AV node takes over at 40 to 60 and the ventricles at 20 to 40, each progressively slower.
 
@@ -56,7 +56,7 @@ B) Aldosterone
 C) Calcitonin
 D) Insulin
 Ans: A
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Parathyroid hormone raises serum calcium by mobilising it from bone, increasing renal reabsorption and activating vitamin D to increase gut absorption. Calcitonin from the thyroid parafollicular cells does the opposite and lowers calcium.
 
@@ -66,7 +66,7 @@ B) Zona reticularis
 C) Zona fasciculata
 D) Adrenal medulla
 Ans: C
-Topic: Physiology
+Topic: Basic Sciences
 Diff: hard
 Exp: The cortex has three zones: glomerulosa making aldosterone, fasciculata making cortisol and reticularis making androgens, remembered as salt, sugar and sex. The medulla is separate and secretes adrenaline and noradrenaline.
 
@@ -76,7 +76,7 @@ B) 3.5 to 5.0 mEq/L
 C) 7.0 to 8.5 mEq/L
 D) 10 to 12 mEq/L
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Normal potassium is 3.5 to 5.0 mEq per litre and the margin for error is small, because both low and high levels cause fatal arrhythmias. Sodium sits far higher, at 135 to 145 mEq per litre.
 
@@ -86,7 +86,7 @@ B) 500 mL
 C) 1200 mL
 D) 2500 mL
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Tidal volume is about 500 mL, of which roughly 150 mL fills anatomical dead space and takes no part in gas exchange. Vital capacity, the largest volume that can be moved voluntarily, is around 4500 mL.
 
@@ -96,7 +96,7 @@ B) At least 0.5 mL per kilogram per hour
 C) At least 5 mL per kilogram per hour
 D) At least 200 mL per hour
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: A minimum of 0.5 mL/kg/hour, roughly 30 mL per hour in an average adult, indicates adequate renal perfusion. Falling below this is one of the earliest and most useful warnings of hypovolaemia.
 
@@ -106,7 +106,7 @@ B) Donor
 C) Neither
 D) Both donor and recipient
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: O negative red cells carry neither A, B nor RhD antigen, so they can be given to almost anyone, making O negative the universal red cell donor. AB positive is the universal recipient, having no anti-A or anti-B antibodies.
 
@@ -116,7 +116,7 @@ B) Carotid sinus and aortic arch
 C) Lung alveoli
 D) Renal tubules
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: hard
 Exp: Stretch receptors in the carotid sinus and aortic arch sense arterial pressure and signal the medulla, which adjusts heart rate and vessel tone within seconds. Chemoreceptors nearby respond instead to oxygen, carbon dioxide and pH.
 
@@ -126,7 +126,7 @@ B) 12 to 15 g/dL
 C) 18 to 20 g/dL
 D) 22 to 25 g/dL
 Ans: B
-Topic: Physiology
+Topic: Basic Sciences
 Diff: easy
 Exp: Adult women normally run 12 to 15 g/dL and men 13 to 17 g/dL. WHO defines anaemia as below 12 g/dL in non-pregnant women and below 11 g/dL in pregnancy.
 
@@ -136,7 +136,7 @@ B) 15,000 to 40,000 per microlitre
 C) 1.5 to 4 million per microlitre
 D) 15 to 40 million per microlitre
 Ans: A
-Topic: Physiology
+Topic: Basic Sciences
 Diff: medium
 Exp: Normal platelets are 150,000 to 400,000 per microlitre. Spontaneous bleeding becomes a real risk below about 20,000, and surgery is usually deferred below 50,000.
 
@@ -146,7 +146,7 @@ B) Factors XI and XII only
 C) Factors III, IV and VI
 D) Factors II, VII, IX and X
 Ans: D
-Topic: Physiology
+Topic: Basic Sciences
 Diff: hard
 Exp: Factors II, VII, IX and X, together with proteins C and S, require vitamin K for carboxylation in the liver. Warfarin blocks this step, which explains both its action and why vitamin K reverses it.
 
@@ -156,6 +156,6 @@ B) Equal to core body temperature
 C) Two to three degrees below core body temperature
 D) Two to three degrees above core body temperature
 Ans: C
-Topic: Anatomy
+Topic: Basic Sciences
 Diff: hard
 Exp: The scrotum holds the testes a few degrees below core temperature, which normal sperm production requires. Undescended testes remain at body temperature and, if not corrected early, lead to infertility and a raised risk of malignancy.

@@ -6,7 +6,7 @@ B) 5000
 C) 30000
 D) 100000
 Ans: B
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: A sub-centre serves about 5000 people in the plains and 3000 in hilly, tribal or difficult areas. A primary health centre covers about 30,000 and 20,000 respectively, and a community health centre about 120,000.
 
@@ -16,7 +16,7 @@ B) 1000 live births
 C) 1000 mid-year population
 D) 100 population
 Ans: C
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: Crude birth rate uses the mid-year population as its denominator. It is called crude because it takes no account of age or sex structure, unlike the general fertility rate which uses women of reproductive age.
 
@@ -26,7 +26,7 @@ B) The number of new cases in a year
 C) The number of existing cases at a point in time
 D) Deaths from a disease among those who have that disease
 Ans: D
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: hard
 Exp: Case fatality rate is deaths from a disease divided by the number of diagnosed cases, expressing the virulence of that disease. Incidence counts new cases over a period and prevalence counts all existing cases at a point.
 
@@ -36,7 +36,7 @@ B) Predictive value
 C) Sensitivity
 D) Reliability
 Ans: C
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: hard
 Exp: Sensitivity is the proportion of true cases the test detects, so a highly sensitive test produces few false negatives and is preferred for screening. Specificity is the ability to correctly exclude those without the disease.
 
@@ -46,7 +46,7 @@ B) Exposure to the agent and the appearance of the first symptoms
 C) Diagnosis and treatment
 D) Onset of symptoms and recovery
 Ans: B
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: Incubation runs from entry of the organism to the first clinical signs. The generation time, by contrast, is the interval between successive cases and matters more when tracking an outbreak.
 
@@ -56,7 +56,7 @@ B) Medical college
 C) District hospital
 D) Anganwadi centre
 Ans: D
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: easy
 Exp: The Integrated Child Development Services scheme works through the anganwadi centre and worker, providing supplementary nutrition, immunisation, health check-ups, referral, pre-school education and nutrition and health education to children under six and to pregnant and nursing mothers.
 
@@ -66,7 +66,7 @@ B) Provide free medicines to the elderly
 C) Supply drinking water
 D) Promote institutional delivery through conditional cash assistance
 Ans: D
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: JSY gives cash assistance to encourage delivery in a health facility, aiming to reduce maternal and neonatal mortality. It works alongside the ASHA, who accompanies the mother and receives a linked incentive.
 
@@ -76,7 +76,7 @@ B) Protein energy malnutrition
 C) Iodine deficiency disorders including goitre and cretinism
 D) Vitamin A deficiency
 Ans: C
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: Iodised salt is the cornerstone of prevention, with iodine content specified at production and at the household level. Deficiency in pregnancy causes irreversible mental impairment in the child, which is why prevention rather than treatment is the goal.
 
@@ -86,7 +86,7 @@ B) Effective only in women
 C) Permanent, with tubectomy for women and vasectomy for men
 D) Temporary and easily reversible
 Ans: C
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: easy
 Exp: Tubectomy and vasectomy are permanent methods and should be chosen only when the family is complete. Vasectomy is simpler, safer and cheaper, but a man remains fertile until the stored sperm are cleared, so another method is needed for about three months.
 
@@ -96,7 +96,7 @@ B) Idiopathic
 C) Sporadic
 D) Endemic
 Ans: A
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: easy
 Exp: Notifiable diseases such as cholera, tuberculosis and measles must be reported so that outbreaks can be detected and controlled. Prompt notification by nursing staff is often the first step in an outbreak response.
 
@@ -106,7 +106,7 @@ B) Storing in a covered pot for a day
 C) Filtering through a cloth
 D) Boiling for a rolling boil of several minutes
 Ans: D
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: medium
 Exp: Boiling kills bacteria, viruses and cysts reliably. Alum only helps sedimentation of suspended matter, and cloth filtration removes larger particles and cyclops but not bacteria.
 
@@ -116,7 +116,7 @@ B) Care limited to hospitals
 C) Treatment by specialists only
 D) Equitable distribution, community participation, intersectoral coordination and appropriate technology
 Ans: D
-Topic: Community Health
+Topic: Community Health Nursing
 Diff: hard
 Exp: The four pillars are equitable distribution, community participation, intersectoral coordination and appropriate technology, with prevention emphasised over cure. They remain the framework for national health policy.
 
@@ -126,7 +126,7 @@ B) Disorganised behaviour, distorted perception and inability to function
 C) Narrowed perception with some ability to focus if directed
 D) Heightened alertness and improved learning
 Ans: B
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: medium
 Exp: Anxiety runs from mild, which sharpens attention, through moderate and severe with progressively narrowing perception, to panic, where the person cannot process the environment or act purposefully and needs a calm presence and a safe, quiet setting.
 
@@ -136,7 +136,7 @@ B) Hearing voices that others cannot hear
 C) Recurrent intrusive thoughts recognised as one's own, with repetitive acts performed to reduce anxiety
 D) Fixed false beliefs held with conviction
 Ans: C
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: medium
 Exp: The person knows the thoughts are their own and senseless but cannot dismiss them, and rituals relieve anxiety only briefly. This insight distinguishes obsessions from delusions.
 
@@ -146,7 +146,7 @@ B) Leaving the patient unobserved to burn off energy
 C) Confronting grandiose statements directly and arguing
 D) Providing a calm low-stimulus environment, finger foods and short frequent contacts
 Ans: D
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: hard
 Exp: Overstimulation worsens mania, and the patient is often too restless to sit for meals, so portable high-calorie finger foods maintain nutrition. Arguing about grandiosity provokes hostility; setting firm consistent limits works better.
 
@@ -156,7 +156,7 @@ B) Two weeks later
 C) Between 48 and 96 hours after the last drink
 D) Only after six months of abstinence
 Ans: C
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: hard
 Exp: Tremor and agitation begin within about 6 to 24 hours, but delirium tremens with confusion, vivid hallucinations, fever and autonomic instability peaks at two to four days and can be fatal. Benzodiazepines and thiamine are the mainstays of management.
 
@@ -166,7 +166,7 @@ B) Vitamin C
 C) Vitamin D
 D) Thiamine
 Ans: D
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: hard
 Exp: Thiamine deficiency produces confusion, ataxia and eye signs, and thiamine must be given before any glucose load, since giving glucose first can precipitate the syndrome. Untreated it may progress to irreversible Korsakoff psychosis.
 
@@ -176,7 +176,7 @@ B) A relative requests it
 C) All less restrictive measures have failed and there is immediate risk of harm, with documentation and frequent review
 D) The patient is uncooperative at mealtimes
 Ans: C
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: medium
 Exp: Restraint is a last resort, used for the shortest possible time to prevent harm, with the least restrictive method, continuous observation, attention to circulation, hydration and elimination, and clear documentation. It is never a substitute for staffing or a punishment.
 
@@ -186,7 +186,7 @@ B) Refusal to maintain body weight with intense fear of gaining weight and distu
 C) Craving for non-food substances
 D) Episodes of overeating followed by guilt but normal weight
 Ans: B
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: medium
 Exp: The core features are self-imposed starvation, intense fear of weight gain and a distorted perception of body size, with amenorrhoea and dangerous cardiac and electrolyte complications. Craving non-food substances is pica.
 
@@ -196,6 +196,6 @@ B) Making institutional admission compulsory
 C) Recognising the right to access mental healthcare and effectively decriminalising attempted suicide
 D) Banning community treatment
 Ans: C
-Topic: Mental Health
+Topic: Mental Health Nursing
 Diff: hard
 Exp: The Act asserts a right to access affordable mental healthcare, allows advance directives and nominated representatives, and presumes that a person attempting suicide is under severe stress, so they are not punished. It represents a decisive shift towards rights-based care.

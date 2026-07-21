@@ -6,7 +6,7 @@ B) Gravida 3, para 3
 C) Gravida 2, para 3
 D) Gravida 3, para 2
 Ans: D
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Gravida counts all pregnancies including the current one, and para counts births after the age of viability. So three pregnancies with two births is gravida 3, para 2.
 
@@ -16,7 +16,7 @@ B) Cervical polyp
 C) Ruptured uterus
 D) Placenta praevia
 Ans: D
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Praevia bleeds painlessly because the low-lying placenta separates as the lower segment forms, and the uterus stays soft. Abruption gives painful bleeding with a tense tender uterus, and vaginal examination is avoided in suspected praevia until placental site is known.
 
@@ -26,7 +26,7 @@ B) Abdominal cavity
 C) Cervix
 D) Ovary
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: About 95 per cent of ectopic pregnancies implant in the fallopian tube, most often the ampulla. The classic presentation is amenorrhoea, lower abdominal pain and spotting, and rupture causes sudden severe pain with shock.
 
@@ -36,7 +36,7 @@ B) The newborn immediately after birth
 C) Rh negative mothers who are not already sensitised, after delivery of an Rh positive baby or a sensitising event
 D) Rh positive mothers with an Rh negative baby
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Anti-D destroys fetal red cells that have entered the maternal circulation before the mother can form her own antibodies, and is given within 72 hours of delivery or a sensitising event such as miscarriage or amniocentesis. It cannot help a mother who is already sensitised.
 
@@ -46,7 +46,7 @@ B) Calculate the expected date of delivery
 C) Record the antenatal history
 D) Monitor the progress of labour and detect deviation early
 Ans: D
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: The partograph plots cervical dilatation against time together with fetal and maternal observations. Crossing the alert line signals slow progress and crossing the action line calls for definitive intervention.
 
@@ -56,7 +56,7 @@ B) Brown, then white, then red
 C) Red, then pink-brown, then whitish
 D) They appear simultaneously
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Lochia rubra is red for about the first three to four days, becoming serosa, pinkish brown, for up to about ten days, and finally alba, whitish, for a further one to two weeks. A return to red bleeding or an offensive smell suggests retained products or infection.
 
@@ -66,7 +66,7 @@ B) One week after delivery
 C) Three months after delivery
 D) Six months after delivery
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Involution takes roughly six weeks, with the fundus descending about one centimetre a day and becoming impalpable abdominally by around ten days. A uterus that stays high and boggy suggests subinvolution.
 
@@ -76,7 +76,7 @@ B) During pregnancy only
 C) Only in the first 24 hours
 D) Any time from rupture of membranes or labour up to 42 days postpartum
 Ans: D
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The definition covers infection from rupture of membranes or the onset of labour until 42 days after delivery, with fever, offensive lochia, uterine tenderness and delayed involution. It remains a leading direct cause of maternal death.
 
@@ -86,7 +86,7 @@ B) Ask the woman to sit upright and push
 C) Relieve pressure on the cord by positioning, keep it warm and moist, and call for immediate delivery
 D) Push the cord back into the uterus
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The cord must not be handled or replaced, as this causes spasm. The presenting part is lifted off the cord, the woman is placed knee-chest or in exaggerated Sims position with the hips raised, and preparations are made for immediate caesarean section.
 
@@ -96,7 +96,7 @@ B) Preventing ovulation entirely
 C) Creating a local inflammatory and spermicidal environment that prevents fertilisation
 D) Suppressing pituitary hormones
 Ans: C
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Copper ions are toxic to sperm and provoke a sterile inflammatory reaction in the endometrium, preventing fertilisation. It does not reliably stop ovulation, and it offers no protection against sexually transmitted infection.
 
@@ -106,7 +106,7 @@ B) Is breastfeeding a six-week-old baby or has a history of thromboembolism
 C) Is 22 years old and nulliparous
 D) Has irregular but ovulatory cycles
 Ans: B
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Oestrogen raises the risk of venous thromboembolism and can reduce milk supply in early lactation, so progestogen-only methods are preferred in these situations. Smoking over the age of 35 and migraine with aura are other important contraindications.
 
@@ -116,7 +116,7 @@ B) Two
 C) Ten
 D) One
 Ans: A
-Topic: Obstetrics
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: At least four visits are recommended, the first in the first trimester, with WHO now advising eight contacts for better outcomes. Each visit checks weight, blood pressure, urine, haemoglobin, fundal height and fetal heart, along with tetanus prophylaxis and iron and folic acid.
 
@@ -126,7 +126,7 @@ B) Feeding by nasogastric tube only
 C) Nursing the baby in an incubator at all times
 D) Isolating the baby from the mother
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Skin-to-skin contact stabilises the baby's temperature, heart rate and breathing, promotes breastfeeding and bonding, and reduces infection and mortality in low birth weight babies. It is effective, and free.
 
@@ -136,7 +136,7 @@ B) Extremely low birth weight
 C) Low birth weight
 D) Very low birth weight
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: Low birth weight is under 2500 grams, very low under 1500 and extremely low under 1000. Low birth weight results either from prematurity or from intrauterine growth restriction, and the distinction matters for management.
 
@@ -146,7 +146,7 @@ B) 4 months
 C) 6 to 8 months
 D) 15 months
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Sitting without support comes at around six to eight months, standing with support at about nine, and independent walking between twelve and fifteen months. Not walking by eighteen months warrants assessment.
 
@@ -156,7 +156,7 @@ B) 4 months
 C) 6 months
 D) 12 months
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: Breast milk alone no longer meets energy and iron needs after six months, so semi-solid complementary foods begin then while breastfeeding continues. Starting earlier displaces breast milk and raises infection risk; starting later risks growth faltering.
 
@@ -166,7 +166,7 @@ B) High osmolarity with high sodium
 C) Sodium bicarbonate solution alone
 D) Plain glucose water
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The reduced osmolarity formula lowers stool output, vomiting and the need for intravenous fluids compared with the older solution. Glucose is essential because sodium absorption in the gut is coupled to glucose transport.
 
@@ -176,7 +176,7 @@ B) Once in a lifetime
 C) Every six months from nine months up to five years
 D) Only when night blindness appears
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The first dose accompanies measles vaccination at nine months, then 200,000 IU every six months until five years, for a total of nine doses. Vitamin A deficiency remains a leading preventable cause of childhood blindness and worsens measles and diarrhoea.
 
@@ -186,7 +186,7 @@ B) Coarctation of the aorta
 C) Ventricular septal defect
 D) Patent ductus arteriosus
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: The fourth component is a ventricular septal defect. It is the commonest cyanotic congenital heart disease beyond infancy, and children characteristically squat during hypercyanotic spells because it raises systemic resistance and improves pulmonary flow.
 
@@ -196,7 +196,7 @@ B) Fever with dysuria only
 C) Polyuria and weight loss
 D) Haematuria, hypertension and oliguria with minimal protein
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Nephrotic syndrome is dominated by protein loss, giving low albumin, generalised oedema often first noticed as puffy eyelids, and raised lipids. The nephritic picture, by contrast, is dominated by haematuria, hypertension and reduced output.
 
@@ -206,7 +206,7 @@ B) Receive oxygen
 C) Be taken to theatre for airway assessment
 D) Have the throat examined with a spatula
 Ans: D
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: hard
 Exp: Examining the throat can provoke complete airway obstruction. The child is kept calm, upright and undisturbed, ideally with a parent, while senior anaesthetic and ENT help is summoned to secure the airway.
 
@@ -216,7 +216,7 @@ B) Candida albicans
 C) Group A beta-haemolytic Streptococcus
 D) Escherichia coli
 Ans: C
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Rheumatic fever follows a throat infection with group A Streptococcus by two to three weeks, through an immune cross-reaction that can permanently damage heart valves. Treating streptococcal sore throat properly is the primary prevention.
 
@@ -226,7 +226,7 @@ B) At 24 hours
 C) Only at 10 minutes
 D) Every hour for six hours
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: easy
 Exp: The score is taken at one and five minutes, and repeated every five minutes up to twenty if it remains below seven. It describes the transition to extrauterine life and should never delay resuscitation, which begins on clinical assessment.
 
@@ -236,6 +236,6 @@ B) Leaving the baby uncovered under a fan
 C) Placing the baby directly on a cold surface
 D) Bathing the baby at once
 Ans: A
-Topic: Child Health
+Topic: Obstetrics & Child Health
 Diff: medium
 Exp: Newborns lose heat rapidly by evaporation, conduction, convection and radiation. Drying and removing wet cloth, skin-to-skin contact and covering the head prevent hypothermia, and the first bath is delayed for at least 24 hours.

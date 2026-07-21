@@ -12,8 +12,8 @@ window.APP_CONFIG = {
 
      Fill these in (see SETUP.md) to share papers between
      the admin's laptop and the student's iPhone.          */
-  SUPABASE_URL: '',
-  SUPABASE_ANON_KEY: '',
+  SUPABASE_URL: 'https://oxwmtebmmqqbwibqppmw.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_yEI5AYf0DPar9lORjJeRnA_sV0YAFjL',
 
 
   /* ── Student sign-in ───────────────────────────────────

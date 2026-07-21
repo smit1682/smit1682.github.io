@@ -1,4 +1,4 @@
-# Nursing Entrance Prep
+# Nightingale
 
 A phone-first mock test app for MSc Nursing entrance preparation. Static site —
 no build step, no server of its own, free to host on GitHub Pages.

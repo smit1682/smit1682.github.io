@@ -11,7 +11,7 @@ The app works as-is. Right now it runs in **demo mode**: the sample paper in
 `js/seed.js` is available, and anything the admin adds is saved only in the browser
 that added it.
 
-1. Create a new **public** repository on GitHub, e.g. `nursing-prep`.
+1. Create a new **public** repository on GitHub, e.g. `nightingale`.
 2. From this folder:
 
    ```bash
@@ -19,7 +19,7 @@ that added it.
    git init -b main
    git add .
    git commit -m "Nursing entrance prep app"
-   git remote add origin https://github.com/<your-username>/nursing-prep.git
+   git remote add origin https://github.com/<your-username>/nightingale.git
    git push -u origin main
    ```
 
@@ -29,7 +29,7 @@ that added it.
 4. Wait about a minute. The site is live at:
 
    ```
-   https://<your-username>.github.io/nursing-prep/
+   https://<your-username>.github.io/nightingale/
    ```
 
 5. Open that link in Safari on the iPhone → **Share → Add to Home Screen**.

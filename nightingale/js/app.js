@@ -43,6 +43,8 @@
     window.scrollTo(0, 0);
     const body = $('#' + id + ' .pad');
     if (body) body.scrollTop = 0;
+    /* the ambient hearts run only while her home screen is on show */
+    if (id === 'screen-home') startAmbient(); else stopAmbient();
   }
 
   function fmtClock(ms) {
@@ -136,9 +138,9 @@
   function maybeGreet() {
     if (!loveOn()) return;
     let last = null;
-    try { last = localStorage.getItem('nep_greeted'); } catch (e) {}
+    try { last = localStorage.getItem('nep_greeted_v2'); } catch (e) {}
     if (last === todayKey()) return;
-    try { localStorage.setItem('nep_greeted', todayKey()); } catch (e) {}
+    try { localStorage.setItem('nep_greeted_v2', todayKey()); } catch (e) {}
     showGreeting();
   }
 
@@ -158,32 +160,43 @@
     setTimeout(() => { g.classList.add('hidden'); stopHearts(); }, 560);
   }
 
-  /* ---- drifting hearts, paused entirely for reduced motion ---- */
+  /* ---- drifting hearts ----
+     One renderer, two uses: the bold pass on the greeting, and a
+     faint one behind her home screen. Returns a handle so each can
+     be stopped, because a canvas left animating under a hidden
+     screen just drains her battery. Static for reduced motion. */
 
-  let heartsRAF = null;
+  function runHearts(canvas, opts) {
+    const o = opts || {};
+    const count = o.count || 22;
+    const aMin = o.alphaMin === undefined ? 0.10 : o.alphaMin;
+    const aMax = o.alphaMax === undefined ? 0.40 : o.alphaMax;
+    const sMin = o.sizeMin || 6;
+    const sMax = o.sizeMax || 20;
+    const speed = o.speed === undefined ? 1 : o.speed;
 
-  function startHearts() {
-    const cv = $('#hearts');
-    const ctx = cv.getContext('2d');
+    const ctx = canvas.getContext('2d');
     const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    let w, h, dpr, parts;
+    let w = 0, h = 0, raf = null, parts = [];
 
     function size() {
-      dpr = Math.min(window.devicePixelRatio || 1, 2);
-      w = cv.clientWidth; h = cv.clientHeight;
-      cv.width = w * dpr; cv.height = h * dpr;
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      w = canvas.clientWidth; h = canvas.clientHeight;
+      if (!w || !h) return false;                 // screen not visible yet
+      canvas.width = w * dpr; canvas.height = h * dpr;
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      return true;
     }
 
     function spawn(seeded) {
       return {
         x: Math.random() * w,
         y: seeded ? Math.random() * h : h + 30,
-        s: 6 + Math.random() * 14,
-        v: 0.25 + Math.random() * 0.55,
+        s: sMin + Math.random() * (sMax - sMin),
+        v: (0.25 + Math.random() * 0.55) * speed,
         sway: 0.4 + Math.random() * 0.9,
         phase: Math.random() * Math.PI * 2,
-        a: 0.10 + Math.random() * 0.30,
+        a: aMin + Math.random() * (aMax - aMin),
         rot: (Math.random() - 0.5) * 0.5
       };
     }
@@ -205,18 +218,7 @@
       ctx.restore();
     }
 
-    size();
-    parts = Array.from({ length: still ? 12 : 22 }, () => spawn(true));
-
-    if (still) {                                  // a quiet, static scatter
-      ctx.clearRect(0, 0, w, h);
-      parts.forEach(heart);
-      return;
-    }
-
-    let t = 0;
-    (function frame() {
-      t += 0.016;
+    function draw(t) {
       ctx.clearRect(0, 0, w, h);
       parts.forEach((p, i) => {
         p.y -= p.v;
@@ -224,15 +226,64 @@
         if (p.y < -40) parts[i] = spawn(false);
         heart(p);
       });
-      heartsRAF = requestAnimationFrame(frame);
+    }
+
+    if (!size()) return { stop: function () {} };
+    parts = Array.from({ length: still ? Math.round(count * 0.6) : count }, () => spawn(true));
+
+    if (still) {                                  // a quiet, static scatter
+      ctx.clearRect(0, 0, w, h);
+      parts.forEach(heart);
+      return { stop: function () {} };
+    }
+
+    let t = 0;
+    (function frame() {
+      t += 0.016;
+      draw(t);
+      raf = requestAnimationFrame(frame);
     })();
 
-    window.addEventListener('resize', size);
+    const onResize = function () { if (size()) parts = parts.map(() => spawn(true)); };
+    window.addEventListener('resize', onResize);
+
+    return {
+      stop: function () {
+        if (raf) cancelAnimationFrame(raf);
+        raf = null;
+        window.removeEventListener('resize', onResize);
+        ctx.clearRect(0, 0, w, h);
+      }
+    };
   }
 
+  /* the bold pass, on the greeting */
+  let greetHearts = null;
+  function startHearts() {
+    stopHearts();
+    greetHearts = runHearts($('#hearts'), { count: 22, alphaMin: 0.10, alphaMax: 0.40, sizeMin: 6, sizeMax: 20 });
+  }
   function stopHearts() {
-    if (heartsRAF) cancelAnimationFrame(heartsRAF);
-    heartsRAF = null;
+    if (greetHearts) greetHearts.stop();
+    greetHearts = null;
+  }
+
+  /* the faint pass, behind her home screen */
+  let homeHearts = null;
+  function startAmbient() {
+    if (!loveOn() || S.role !== 'student') return;
+    stopAmbient();
+    /* wait a frame so the screen is laid out and the canvas has a size */
+    requestAnimationFrame(function () {
+      if (!$('#screen-home').classList.contains('active')) return;
+      homeHearts = runHearts($('#ambient'), {
+        count: 14, alphaMin: 0.05, alphaMax: 0.14, sizeMin: 9, sizeMax: 26, speed: 0.55
+      });
+    });
+  }
+  function stopAmbient() {
+    if (homeHearts) homeHearts.stop();
+    homeHearts = null;
   }
 
   function openNote() {
@@ -1062,6 +1113,12 @@
       if (e.key === 'ArrowLeft')  goTo(S.idx - 1);
       const n = 'abcdef'.indexOf(e.key.toLowerCase());
       if (n > -1 && n < (S.questions[S.idx] || { options: [] }).options.length) choose(n);
+    });
+
+    // a canvas animating behind a backgrounded tab is pure battery drain
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) stopAmbient();
+      else if ($('#screen-home').classList.contains('active')) startAmbient();
     });
 
     window.addEventListener('beforeunload', e => {

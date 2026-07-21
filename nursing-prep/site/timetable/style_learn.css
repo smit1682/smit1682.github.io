@@ -1,0 +1,62 @@
+.nev h1{
+    background-color: rgb(39, 38, 38);
+    color: white;
+    padding:15px;
+    margin-bottom:50px;
+}
+
+
+.small_pic_left {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+width:10%;
+}
+
+.info_cry {
+    display: none;
+   
+}
+.info_HM{
+    display: none;
+}
+.info_OS{
+    display: none;
+}
+.info_Robo{
+    display: none;
+}
+.info_SE{
+    display: none;
+}
+.info_Nosql{
+    display: none;
+}
+
+#te{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ddd;
+    padding: 8px;
+  width: 100%;
+}
+#te tr:nth-child(even){background-color: #f2f2f2;}
+
+#te td,#te th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+#te th{
+    background-color: rgb(39, 38, 38);
+    color: white;
+}
+
+#te a{
+    text-decoration: none;
+    color: black;
+}
+#te  td:hover{
+    background-color: #ddd;
+    
+}

@@ -19,9 +19,9 @@ window.APP_CONFIG = {
   /* ── Student sign-in ───────────────────────────────────
      Checked in the browser, so treat it as a doorway, not
      a lock — anyone who views the page source can read it. */
-  STUDENT_USERNAME: 'student',
-  STUDENT_PASSWORD: 'student123',
-  STUDENT_NAME:     'Student',
+  STUDENT_USERNAME: 'golu',
+  STUDENT_PASSWORD: 'love',
+  STUDENT_NAME:     'Drashti',
 
 
   /* ── Admin sign-in ─────────────────────────────────────
@@ -78,6 +78,26 @@ window.APP_CONFIG = {
       'Tired is allowed. Quitting is not. Close the app, sleep, come back tomorrow. It will still be here.',
       'I do not need you to be perfect at this. I just like watching you go after something you want.'
     ],
+
+    /* the small line under the sign-in card */
+    loginLines: [
+      'P.S. There are 205 questions hiding in here. Good luck.',
+      'P.S. You are going to be a very good nurse.',
+      'P.S. Yes I built a whole website. No, I could not just say it.',
+      'P.S. Tea first. Then questions.',
+      'P.S. No peeking at the answers before you attempt. I will know.',
+      'P.S. Every time you open this, someone is cheering for you.',
+      'P.S. Built at odd hours, entirely on purpose.'
+    ],
+
+    /* when she gets the password wrong — warmer than a red box */
+    wrongPassword: [
+      'That is not it. Try again.',
+      'Nope. You know this one.',
+      'Not quite. One more go.',
+      'Wrong one, Golu.'
+    ],
+    passwordHint: 'Hint: the usual one.',
 
     /* shown on the result screen, chosen by how it went */
     praise: {

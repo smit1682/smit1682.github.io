@@ -17,6 +17,7 @@
 
 <!-- ══════════ LOGIN ══════════ -->
 <section id="screen-login" class="screen active">
+  <canvas id="login-hearts" class="ambient" aria-hidden="true"></canvas>
   <div class="pad login-pad">
     <div class="brand">
       <div class="brand-mark" aria-hidden="true">
@@ -28,12 +29,14 @@
 
     <div class="card">
       <div class="seg" id="role-seg" role="tablist">
-        <button class="seg-btn active" data-role="student" role="tab">Student</button>
-        <button class="seg-btn" data-role="admin" role="tab">Admin</button>
+        <button class="seg-btn active" data-role="student" role="tab"><span class="seg-heart" aria-hidden="true">♡</span> <span id="seg-her">Golu</span></button>
+        <button class="seg-btn" data-role="admin" role="tab"><span id="seg-him">Smit</span></button>
         <span class="seg-slide" aria-hidden="true"></span>
       </div>
 
-      <label class="field">
+      <p class="login-greet" id="login-greet"></p>
+
+      <label class="field" id="field-user">
         <span id="user-label">Username</span>
         <input id="login-user" type="text" autocapitalize="none" autocorrect="off" spellcheck="false" autocomplete="username" placeholder="student">
       </label>
@@ -47,6 +50,8 @@
       <button id="login-btn" class="btn btn-primary btn-block">Sign in</button>
       <p class="hint" id="login-hint"></p>
     </div>
+
+    <p class="login-ps" id="login-ps"></p>
   </div>
 </section>
 

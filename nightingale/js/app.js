@@ -45,6 +45,7 @@
     if (body) body.scrollTop = 0;
     /* the ambient hearts run only while her home screen is on show */
     if (id === 'screen-home') startAmbient(); else stopAmbient();
+    if (id === 'screen-login') startLoginHearts(); else stopLoginHearts();
   }
 
   function fmtClock(ms) {
@@ -134,13 +135,9 @@
     }
   }
 
-  /* shown once a calendar day, so it stays a moment rather than a nag */
+  /* every single sign-in — she should not have to wait a day for it */
   function maybeGreet() {
     if (!loveOn()) return;
-    let last = null;
-    try { last = localStorage.getItem('nep_greeted_v2'); } catch (e) {}
-    if (last === todayKey()) return;
-    try { localStorage.setItem('nep_greeted_v2', todayKey()); } catch (e) {}
     showGreeting();
   }
 
@@ -268,7 +265,9 @@
     greetHearts = null;
   }
 
-  /* the faint pass, behind her home screen */
+  /* the faint pass — behind the sign-in screen and her home screen */
+  const AMBIENT = { count: 14, alphaMin: 0.05, alphaMax: 0.14, sizeMin: 9, sizeMax: 26, speed: 0.55 };
+
   let homeHearts = null;
   function startAmbient() {
     if (!loveOn() || S.role !== 'student') return;
@@ -276,14 +275,27 @@
     /* wait a frame so the screen is laid out and the canvas has a size */
     requestAnimationFrame(function () {
       if (!$('#screen-home').classList.contains('active')) return;
-      homeHearts = runHearts($('#ambient'), {
-        count: 14, alphaMin: 0.05, alphaMax: 0.14, sizeMin: 9, sizeMax: 26, speed: 0.55
-      });
+      homeHearts = runHearts($('#ambient'), AMBIENT);
     });
   }
   function stopAmbient() {
     if (homeHearts) homeHearts.stop();
     homeHearts = null;
+  }
+
+  let loginHearts = null;
+  function startLoginHearts() {
+    if (!loveOn()) return;
+    stopLoginHearts();
+    requestAnimationFrame(function () {
+      if (!$('#screen-login').classList.contains('active')) return;
+      if (!document.documentElement.classList.contains('love')) return;
+      loginHearts = runHearts($('#login-hearts'), AMBIENT);
+    });
+  }
+  function stopLoginHearts() {
+    if (loginHearts) loginHearts.stop();
+    loginHearts = null;
   }
 
   function openNote() {
@@ -316,44 +328,73 @@
 
   /* ══════════ login ══════════ */
 
-  function initLogin() {
-    const seg = $('#role-seg');
+  let wrongTries = 0;
 
-    seg.addEventListener('click', e => {
+  function initLogin() {
+    /* the two tabs are their names, not job titles — and picking hers
+       drops the username field entirely, so she only types a password */
+    $('#seg-her').textContent = LOVE.nickname || LOVE.name || 'Student';
+    $('#seg-him').textContent = LOVE.from || 'Admin';
+    if (!loveOn()) {
+      $('#seg-her').textContent = 'Student';
+      $('#seg-him').textContent = 'Admin';
+      $('.seg-heart').classList.add('hidden');
+    }
+
+    $('#role-seg').addEventListener('click', e => {
       const btn = e.target.closest('.seg-btn');
-      if (!btn) return;
-      const role = btn.dataset.role;
-      seg.dataset.role = role;
-      $$('.seg-btn').forEach(b => b.classList.toggle('active', b === btn));
-      $('#user-label').textContent = role === 'admin' ? 'Email' : 'Username';
-      const user = $('#login-user');
-      user.value = '';
-      user.type = role === 'admin' ? 'email' : 'text';
-      user.placeholder = role === 'admin' ? cfg.ADMIN_EMAIL : cfg.STUDENT_USERNAME;
-      $('#login-pass').value = '';
-      $('#login-error').classList.add('hidden');
-      updateHint();
+      if (btn) setRole(btn.dataset.role);
     });
 
     $('#login-btn').addEventListener('click', doLogin);
     $('#login-pass').addEventListener('keydown', e => { if (e.key === 'Enter') doLogin(); });
     $('#login-user').addEventListener('keydown', e => { if (e.key === 'Enter') $('#login-pass').focus(); });
 
-    $('#login-user').placeholder = cfg.STUDENT_USERNAME;
+    setRole('student');
+  }
+
+  function setRole(role) {
+    const her = role !== 'admin';
+    const seg = $('#role-seg');
+    seg.dataset.role = her ? 'student' : 'admin';
+    $$('.seg-btn').forEach(b => b.classList.toggle('active', (b.dataset.role === 'admin') === !her));
+
+    applyLove(her);                       // her side is rose, his stays clinical
+    wrongTries = 0;
+
+    const user = $('#login-user');
+    $('#field-user').classList.toggle('hidden', her && loveOn());
+    user.type = her ? 'text' : 'email';
+    user.value = her ? cfg.STUDENT_USERNAME : '';
+    user.placeholder = her ? cfg.STUDENT_USERNAME : cfg.ADMIN_EMAIL;
+    $('#user-label').textContent = her ? 'Username' : 'Email';
+
+    $('#login-pass').value = '';
+    $('#login-error').classList.add('hidden');
+
+    const name = her ? (LOVE.nickname || LOVE.name) : LOVE.from;
+    $('#login-greet').textContent = loveOn() && name ? timeOfDay() + ', ' + name : '';
+    $('#login-greet').classList.toggle('hidden', !(loveOn() && name));
+
+    $('#login-btn').textContent = her && loveOn() ? 'Let me in' : 'Sign in';
+
+    const ps = $('#login-ps');
+    ps.textContent = her && loveOn() ? pick(LOVE.loginLines) : '';
+    ps.classList.toggle('hidden', !(her && loveOn()));
+
+    if (her) startLoginHearts(); else stopLoginHearts();
     updateHint();
   }
 
   function updateHint() {
-    const role = $('#role-seg').dataset.role === 'admin' ? 'admin' : 'student';
+    const her = $('#role-seg').dataset.role !== 'admin';
     const hint = $('#login-hint');
-    if (API.isRemote()) {
-      hint.innerHTML = role === 'admin'
-        ? 'Use the admin account created in Supabase.'
-        : 'Ask your admin for the student username and password.';
-    } else {
-      hint.innerHTML = 'Demo mode — <code>' + esc(role === 'admin' ? cfg.ADMIN_EMAIL : cfg.STUDENT_USERNAME) +
-        '</code> / <code>' + esc(role === 'admin' ? cfg.ADMIN_DEMO_PASSWORD : cfg.STUDENT_PASSWORD) + '</code>';
+    if (!API.isRemote()) {
+      hint.innerHTML = 'Demo mode — <code>' + esc(her ? cfg.STUDENT_USERNAME : cfg.ADMIN_EMAIL) +
+        '</code> / <code>' + esc(her ? cfg.STUDENT_PASSWORD : cfg.ADMIN_DEMO_PASSWORD) + '</code>';
+      return;
     }
+    hint.innerHTML = her ? '' : 'Use the admin account created in Supabase.';
   }
 
   function loginError(msg) {
@@ -376,10 +417,15 @@
       const aliases = [cfg.STUDENT_USERNAME, LOVE.name, LOVE.nickname]
         .filter(Boolean).map(s => String(s).toLowerCase());
       if (aliases.indexOf(user.toLowerCase()) === -1 || pass !== cfg.STUDENT_PASSWORD) {
-        return loginError('That username and password do not match.');
+        wrongTries++;
+        let msg = (loveOn() && pick(LOVE.wrongPassword)) || 'That username and password do not match.';
+        if (wrongTries >= 3 && loveOn() && LOVE.passwordHint) msg += ' ' + LOVE.passwordHint;
+        return loginError(msg);
       }
+      wrongTries = 0;
       S.role = 'student';
       $('#login-pass').value = '';
+      stopLoginHearts();
       applyLove(true);
       show('screen-home');
       maybeGreet();
@@ -411,9 +457,8 @@
     closeNote();
     $('#greeting').classList.add('hidden');
     applyLove(false);
-    $('#login-user').value = '';
-    $('#login-pass').value = '';
     show('screen-login');
+    setRole('student');
   }
 
   /* ══════════ student home ══════════ */
@@ -1117,8 +1162,9 @@
 
     // a canvas animating behind a backgrounded tab is pure battery drain
     document.addEventListener('visibilitychange', () => {
-      if (document.hidden) stopAmbient();
-      else if ($('#screen-home').classList.contains('active')) startAmbient();
+      if (document.hidden) { stopAmbient(); stopLoginHearts(); return; }
+      if ($('#screen-home').classList.contains('active')) startAmbient();
+      if ($('#screen-login').classList.contains('active')) startLoginHearts();
     });
 
     window.addEventListener('beforeunload', e => {

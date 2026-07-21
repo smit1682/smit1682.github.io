@@ -35,7 +35,7 @@ that added it.
 5. Open that link in Safari on the iPhone → **Share → Add to Home Screen**.
    It then opens full-screen, without the browser bars, like an app.
 
-**Sign in with:** `student` / `student123`, or `admin@exam.local` / `admin123`.
+**Sign in with:** `golu` / `love`, or the admin email and password.
 Change these in `js/config.js`.
 
 ---

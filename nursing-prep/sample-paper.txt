@@ -1,9 +1,15 @@
+# Paste everything below into Admin -> Add questions.
+# Topic: and Diff: are optional per question - anything without them
+# inherits the Subject and Difficulty set on the form.
+
 Q: Which of the following vitamins is fat soluble?
 A) Vitamin C
 B) Vitamin B12
 C) Vitamin A
 D) Folic acid
 Ans: C
+Topic: Nutrition
+Diff: easy
 Exp: Vitamins A, D, E and K are fat soluble and are stored in the liver and adipose tissue. Vitamin C and the B-complex vitamins are water soluble and are excreted in urine, so they must be replaced daily.
 
 Q: The normal resting heart rate in a healthy adult is
@@ -12,6 +18,8 @@ B) 60–100 beats/min
 C) 100–120 beats/min
 D) 120–140 beats/min
 Ans: B
+Topic: Physiology
+Diff: easy
 Exp: A normal adult resting pulse is 60–100 beats/min. Below 60 is bradycardia, above 100 is tachycardia. Trained athletes may sit below 60 without it being abnormal.
 
 Q: Which position is best for a patient in hypovolaemic shock?
@@ -20,6 +28,8 @@ B) Prone position
 C) Modified Trendelenburg with legs raised
 D) Left lateral position
 Ans: C
+Topic: Emergency Care
+Diff: medium
 Exp: Raising the legs while keeping the trunk flat promotes venous return to the heart and improves perfusion of vital organs. Full Trendelenburg is avoided as it pushes abdominal organs against the diaphragm and impairs breathing.
 
 Q: The most reliable single measure to prevent hospital acquired infection is
@@ -28,6 +38,8 @@ B) Hand hygiene
 C) Prophylactic antibiotics
 D) Daily disinfection of floors
 Ans: B
+Topic: Infection Control
+Diff: easy
 Exp: Hand hygiene is the single most effective and lowest-cost intervention for preventing healthcare associated infection. The WHO "5 moments" define when it must be performed.
 
 Q: Normal range of fasting blood glucose in an adult is
@@ -36,6 +48,8 @@ B) 70–100 mg/dL
 C) 110–140 mg/dL
 D) 150–180 mg/dL
 Ans: B
+Topic: Physiology
+Diff: medium
 Exp: Fasting plasma glucose of 70–100 mg/dL is normal. 100–125 mg/dL indicates impaired fasting glucose (prediabetes), and 126 mg/dL or above on two occasions is diagnostic of diabetes mellitus.
 
 Q: Which cranial nerve is responsible for the gag reflex?
@@ -44,6 +58,8 @@ B) Facial (VII)
 C) Glossopharyngeal (IX)
 D) Hypoglossal (XII)
 Ans: C
+Topic: Anatomy
+Diff: hard
 Exp: The glossopharyngeal nerve (IX) carries the sensory limb of the gag reflex; the vagus nerve (X) carries the motor limb. Testing it is important before feeding a patient with a suspected swallowing deficit.
 
 Q: A patient on warfarin should be monitored primarily using
@@ -52,6 +68,8 @@ B) INR
 C) Bleeding time
 D) Platelet count
 Ans: B
+Topic: Pharmacology
+Diff: hard
 Exp: Warfarin acts on the extrinsic pathway, monitored by prothrombin time reported as INR. Heparin, which acts on the intrinsic pathway, is the drug monitored using aPTT.
 
 Q: The chief function of surfactant in the lungs is to
@@ -60,4 +78,6 @@ B) Reduce alveolar surface tension and prevent collapse
 C) Transport oxygen across the alveolar membrane
 D) Trap inhaled dust particles
 Ans: B
+Topic: Physiology
+Diff: medium
 Exp: Surfactant, produced by type II pneumocytes, lowers surface tension in the alveoli so they do not collapse at the end of expiration. Its deficiency in preterm babies causes respiratory distress syndrome.

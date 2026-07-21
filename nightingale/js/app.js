@@ -115,11 +115,15 @@
   }
   function timeOfDay() {
     const h = new Date().getHours();
-    if (h < 5)  return 'Still awake';
-    if (h < 12) return 'Good morning';
-    if (h < 17) return 'Good afternoon';
-    if (h < 22) return 'Good evening';
-    return 'Late night studying';
+    const bands = (LOVE.timeGreetings && LOVE.timeGreetings.length) ? LOVE.timeGreetings : [
+      { before: 5,  text: 'The lamp is still lit' },
+      { before: 12, text: 'Good morning' },
+      { before: 17, text: 'Good afternoon' },
+      { before: 22, text: 'Good evening' },
+      { before: 24, text: 'Burning the midnight oil' }
+    ];
+    for (const b of bands) if (h < b.before) return b.text;
+    return bands[bands.length - 1].text;
   }
 
   /* the rose accent rides on top of whichever theme is active */

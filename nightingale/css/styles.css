@@ -1,7 +1,8 @@
 /* ══════════════════════════════════════════════════
-   Nursing Entrance Prep
+   Nightingale
    Motif: OMR answer sheet × clinical chart
    Display: Fraunces · Body: Public Sans · Data: IBM Plex Mono
+   Her name, and every word written to her: Caveat
    ══════════════════════════════════════════════════ */
 
 /* ---------- tokens: light (exam bond paper) ---------- */
@@ -637,18 +638,23 @@ code{font-family:var(--font-mono);font-size:.84em;background:var(--surface-2);pa
   50%    {box-shadow:var(--shadow-md), 0 0 26px 6px var(--accent-soft)}
 }
 
-/* who is signing in */
-.seg-heart{color:var(--accent);font-size:13px}
-.seg-btn.active .seg-heart{color:var(--accent)}
+/* who is signing in — their names are written, not typed */
+.seg-heart{color:var(--accent);font-size:14px}
+#seg-her,#seg-him{
+  font-family:"Caveat",cursive;
+  font-size:22px;font-weight:600;line-height:1;
+  letter-spacing:.01em;vertical-align:-1px;
+}
+.seg-btn{padding-top:9px;padding-bottom:9px}
 
 .login-greet{
-  font-family:var(--font-hand,"Caveat",cursive);
-  font-size:24px;line-height:1.25;text-align:center;
+  font-family:"Caveat",cursive;
+  font-size:27px;font-weight:600;line-height:1.2;text-align:center;
   color:var(--accent);margin:0 0 18px;
 }
 .login-ps{
-  font-family:var(--font-hand,"Caveat",cursive);
-  font-size:18px;line-height:1.4;text-align:center;
+  font-family:"Caveat",cursive;
+  font-size:19px;line-height:1.4;text-align:center;
   color:var(--ink-3);margin:20px auto 0;max-width:24rem;
 }
 
@@ -663,19 +669,19 @@ code{font-family:var(--font-mono);font-size:.84em;background:var(--surface-2);pa
   animation:riseIn .7s .1s both cubic-bezier(.2,.9,.3,1);
 }
 .greet-name{
-  font-family:var(--font-hand,"Caveat",cursive);
+  font-family:"Caveat",cursive;
   font-size:min(23vw,84px);line-height:.95;font-weight:700;
   color:var(--accent);margin:0 0 14px;letter-spacing:.01em;
   animation:riseIn .8s .25s both cubic-bezier(.2,.9,.3,1);
 }
 .greet-line{
-  font-family:var(--font-hand,"Caveat",cursive);
+  font-family:"Caveat",cursive;
   font-size:25px;line-height:1.35;color:var(--ink);margin:0 auto 22px;
   max-width:17rem;
   animation:riseIn .8s .5s both cubic-bezier(.2,.9,.3,1);
 }
 .greet-sign{
-  font-family:var(--font-hand,"Caveat",cursive);
+  font-family:"Caveat",cursive;
   font-size:20px;color:var(--ink-3);margin:0 0 32px;
   animation:riseIn .8s .68s both cubic-bezier(.2,.9,.3,1);
 }
@@ -705,19 +711,19 @@ code{font-family:var(--font-mono);font-size:.84em;background:var(--surface-2);pa
 .note-sheet{text-align:center;padding-bottom:calc(24px + var(--safe-bot))}
 .note-mark{font-size:30px;color:var(--accent);margin:4px 0 14px}
 .note-body{
-  font-family:var(--font-hand,"Caveat",cursive);
+  font-family:"Caveat",cursive;
   font-size:26px;line-height:1.45;color:var(--ink);
   margin:0 auto 18px;max-width:22rem;
 }
 .note-sign{
-  font-family:var(--font-hand,"Caveat",cursive);
+  font-family:"Caveat",cursive;
   font-size:20px;color:var(--ink-3);margin:0 0 22px;
 }
 
 /* a softer word on the student's home */
 .hero-hello{
-  font-family:var(--font-hand,"Caveat",cursive);
-  font-size:26px;line-height:1.25;color:var(--accent);
+  font-family:"Caveat",cursive;
+  font-size:28px;font-weight:600;line-height:1.25;color:var(--accent);
   margin:0 0 4px;
 }
 

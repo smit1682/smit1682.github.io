@@ -79,6 +79,17 @@ window.APP_CONFIG = {
       'I do not need you to be perfect at this. I just like watching you go after something you want.'
     ],
 
+    /* how she is greeted by the hour. `before` is the hour it stops
+       applying, so the first entry covers midnight until 05:00.
+       The late ones borrow from the lamp this app is named for. */
+    timeGreetings: [
+      { before: 5,  text: 'The lamp is still lit' },
+      { before: 12, text: 'Good morning' },
+      { before: 17, text: 'Good afternoon' },
+      { before: 22, text: 'Good evening' },
+      { before: 24, text: 'Burning the midnight oil' }
+    ],
+
     /* the small line under the sign-in card */
     loginLines: [
       'P.S. There are 205 questions hiding in here. Good luck.',

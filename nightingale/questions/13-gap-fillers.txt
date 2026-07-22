@@ -1,0 +1,231 @@
+# Batch 13 — filling thin filter cells: Mental Health (easy), and breadth across subjects
+
+Q: A state of calm alertness in which a person can attend, learn and solve problems best describes
+A) Panic
+B) Depersonalisation
+C) Mild anxiety
+D) Severe anxiety
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Mild anxiety sharpens attention and can improve learning and performance. As anxiety rises to moderate, severe and panic levels, the field of perception narrows until the person can no longer function.
+
+Q: Empathy in the nurse-patient relationship means
+A) Feeling sorry for the patient
+B) Agreeing with everything the patient says
+C) Ignoring the patient's emotions
+D) Understanding and sharing the patient's feelings while staying objective
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Empathy is entering into and understanding another's feelings while keeping enough objectivity to help. It differs from sympathy, which is feeling sorry for someone and can cloud professional judgement.
+
+Q: The best therapeutic response when a patient is silent during an interview is to
+A) Fill every pause with questions
+B) End the session immediately
+C) Change the subject at once
+D) Allow the silence, showing attentive presence
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Silence is a valuable therapeutic technique that gives the patient time to think and to gather difficult feelings. Rushing to fill it can cut off important disclosures, whereas attentive presence conveys acceptance.
+
+Q: Good mental health is best described as
+A) A state of well-being in which a person copes with normal stresses, works productively and contributes to the community
+B) Complete independence from others
+C) The mere absence of mental illness
+D) Never feeling sad or anxious
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: WHO defines mental health as a state of well-being in which the individual realises their abilities, copes with normal stresses, works productively and contributes to their community. It is more than simply the absence of disorder.
+
+Q: A recurrent, unwanted thought that intrudes despite the person's efforts to resist it is a/an
+A) Delusion
+B) Illusion
+C) Obsession
+D) Hallucination
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: An obsession is an intrusive, repetitive thought the person recognises as their own and tries to resist, unlike a delusion, which is a fixed false belief held with conviction and without insight.
+
+Q: Rapport in a therapeutic relationship refers to
+A) A relationship of trust and mutual understanding
+B) A prescription of medication
+C) A physical examination
+D) A legal contract
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Rapport is the sense of trust, harmony and understanding between nurse and patient. Establishing it early, through warmth, respect and genuineness, is the foundation on which all later therapeutic work rests.
+
+Q: The defence mechanism of denial involves
+A) Channelling urges into acceptable activity
+B) Returning to childlike behaviour
+C) Blaming others for one's own faults
+D) Refusing to accept a painful reality
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Denial protects the person by refusing to acknowledge a distressing fact, as when a newly diagnosed patient insists the results must be wrong. It is common early in grief and usually gives way as the person adjusts.
+
+Q: A person's awareness of time, place and person is assessed as
+A) Memory
+B) Insight
+C) Judgement
+D) Orientation
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Orientation to time, place and person is a basic part of the mental state examination and of consciousness. Disorientation, especially to time first, is an early sign of an acute confusional state.
+
+Q: The normal respiratory rate in a resting adult is
+A) 6 to 10 breaths per minute
+B) 12 to 20 breaths per minute
+C) 25 to 30 breaths per minute
+D) 30 to 40 breaths per minute
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: A healthy adult breathes 12 to 20 times per minute at rest. Below 12 is bradypnoea and above 20 is tachypnoea, both of which warrant assessment for an underlying cause.
+
+Q: The largest organ of the human body is the
+A) Skin
+B) Lung
+C) Liver
+D) Brain
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: The skin is the largest organ, forming a protective barrier and playing roles in temperature regulation, sensation, immunity and vitamin D synthesis. The liver is the largest internal solid organ.
+
+Q: The master gland of the endocrine system, which controls several other glands, is the
+A) Pancreas
+B) Thyroid
+C) Adrenal
+D) Pituitary
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: The pituitary is called the master gland because its hormones regulate the thyroid, adrenal cortex, gonads and more. It is itself directed by the hypothalamus, to which it is closely connected.
+
+Q: The universal recipient blood group, able to receive red cells from any ABO group, is
+A) AB positive
+B) B positive
+C) O positive
+D) A positive
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: Group AB has no anti-A or anti-B antibodies in the plasma, so it can receive red cells of any ABO group, making AB the universal recipient. Group O negative, lacking A, B and RhD antigens, is the universal red cell donor.
+
+Q: The vitamin synthesised by bacteria in the large intestine and needed for blood clotting is
+A) Vitamin B12
+B) Vitamin A
+C) Vitamin K
+D) Vitamin C
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Gut bacteria produce vitamin K, which the liver needs to make clotting factors II, VII, IX and X. Newborns, whose gut is not yet colonised, are given vitamin K at birth to prevent haemorrhagic disease.
+
+Q: The first sign a nurse should act on when a patient's oxygen saturation is falling is
+A) To document it at the end of the shift
+B) To remove the pulse oximeter
+C) To assess the patient, check the airway and breathing, and give oxygen as needed
+D) To wait for the next scheduled observation
+Ans: C
+Topic: Nursing Foundations
+Diff: easy
+Exp: A falling saturation calls for immediate bedside assessment of airway, breathing and circulation and appropriate oxygen, not delay. Confirming the reading and looking at the whole patient comes before charting.
+
+Q: The correct sequence for putting on personal protective equipment is
+A) Goggles, gloves, gown, mask
+B) Mask, gloves, gown, goggles
+C) Gown, mask, goggles, gloves
+D) Gloves, gown, mask, goggles
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Protective equipment is donned gown first, then mask or respirator, then eye protection, and gloves last so they cover the gown cuffs. Removal reverses the principle, taking off the most contaminated items first while avoiding self-contamination.
+
+Q: When a medication error reaches a patient, the nurse's first responsibility is to
+A) Assess the patient, ensure safety, report the error and document it honestly
+B) Wait to see if any harm develops
+C) Blame the pharmacy
+D) Hide the error to avoid blame
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Patient safety comes first, so the nurse assesses and monitors the patient, informs the prescriber, and reports the incident truthfully. Open reporting supports learning and system improvement rather than concealment.
+
+Q: A wound healing by primary intention is one that
+A) Is heavily infected
+B) Heals only with a skin graft
+C) Is left open to granulate from the base
+D) Has clean, approximated edges, such as a sutured surgical incision
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Primary intention healing occurs when clean wound edges are brought together, as with sutures, giving quick healing and minimal scarring. Wounds left open to fill with granulation tissue heal by secondary intention.
+
+Q: The earliest local sign of acute inflammation includes
+A) Dryness and scaling
+B) Pallor and coldness
+C) Numbness
+D) Redness, heat, swelling and pain
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: The classic signs of acute inflammation are redness, heat, swelling, pain and loss of function, caused by increased blood flow and vascular permeability. They reflect the body's protective response to injury or infection.
+
+Q: A diabetic patient should be taught to inspect which part of the body daily to prevent serious complications?
+A) The elbows
+B) The back
+C) The feet
+D) The scalp
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Diabetic neuropathy and poor circulation make foot ulcers and infection common and easily missed, so daily inspection, good footwear and prompt care of any lesion are essential to prevent amputation.
+
+Q: The recommended position for a woman in the later stages of pregnancy to improve blood flow to the fetus is
+A) Standing
+B) Prone
+C) Left lateral
+D) Supine, lying flat on the back
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Lying on the back late in pregnancy lets the heavy uterus compress the inferior vena cava, reducing venous return and fetal blood flow. The left lateral position relieves this pressure and improves circulation to the placenta.
+
+Q: The first breastfeed for a healthy newborn should ideally be initiated
+A) Within the first hour of birth
+B) After the first bath
+C) Only after the cord falls off
+D) After 24 hours
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Early initiation of breastfeeding within the first hour gives the baby protective colostrum, promotes bonding, stimulates milk production and helps the uterus contract. It is a key element of newborn care.
+
+Q: The most common cause of neonatal death in India, alongside infection and birth asphyxia, is
+A) Prematurity and low birth weight
+B) Injury
+C) Congenital heart disease
+D) Poisoning
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Prematurity and low birth weight, together with infections such as sepsis and pneumonia and with birth asphyxia, account for most neonatal deaths. Warmth, early feeding, hygiene and prompt treatment of infection address them.
+
+Q: The screening test routinely offered to all newborns to detect congenital hypothyroidism relies on measuring
+A) Bilirubin
+B) Thyroid stimulating hormone
+C) Haemoglobin
+D) Blood glucose
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Congenital hypothyroidism causes irreversible intellectual disability if untreated, but is easily corrected with thyroxine if caught early. Newborn screening measures thyroid stimulating hormone, which is raised in the condition.

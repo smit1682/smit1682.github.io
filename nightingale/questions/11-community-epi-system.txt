@@ -1,0 +1,251 @@
+# Batch 11 — Community Health: epidemiology, biostatistics, health system
+
+Q: The proportion of new cases of a disease occurring in a defined population over a specified period is the
+A) Case fatality rate
+B) Prevalence rate
+C) Attack rate
+D) Incidence rate
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Incidence counts new cases arising over a period and measures the risk of developing the disease. Prevalence counts all existing cases at a point in time and reflects both incidence and duration.
+
+Q: Point prevalence is best defined as the number of
+A) Deaths among diagnosed cases
+B) Existing cases at a given point in time, per population at that point
+C) New cases occurring during a period
+D) Cases exposed to a specific source
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Point prevalence is all current cases, old and new, divided by the population at that moment. It rises when incidence increases or when cases live longer, and falls with cure or death.
+
+Q: In an outbreak investigation, the attack rate is calculated as the number of
+A) New cases per 1000 mid-year population per year
+B) Exposed persons divided by cases
+C) Cases divided by the total population at risk, over the outbreak period
+D) Deaths divided by cases
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The attack rate is a form of incidence used in a defined epidemic over a limited time, expressed as cases per persons exposed, usually as a percentage. Comparing attack rates across exposures points to the likely source.
+
+Q: The type of epidemiological study that begins with the outcome and looks backward for exposure is a
+A) Randomised controlled trial
+B) Cohort study
+C) Cross-sectional study
+D) Case-control study
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: A case-control study compares people with the disease to those without, looking back at past exposures, and yields an odds ratio. It is efficient for rare diseases and for those with a long latent period.
+
+Q: A cohort study measures association using the
+A) Relative risk
+B) Correlation coefficient
+C) Odds ratio
+D) Prevalence ratio
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: A cohort follows exposed and unexposed groups forward to see who develops disease, giving incidence in each and therefore relative risk. Case-control studies, which cannot measure incidence directly, use the odds ratio instead.
+
+Q: The gold standard study design for evaluating a new treatment is the
+A) Case report
+B) Randomised controlled trial
+C) Ecological study
+D) Case series
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Random allocation balances known and unknown confounders between groups, so differences in outcome can be attributed to the intervention. Blinding and allocation concealment further protect against bias.
+
+Q: The positive predictive value of a screening test is the probability that a person with a positive result
+A) Will be missed by the test
+B) Truly has the disease
+C) Truly does not have the disease
+D) Was correctly exposed
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Positive predictive value depends on the test's sensitivity and specificity and, crucially, on the prevalence of the disease. In a low-prevalence population even a good test throws up many false positives, lowering the predictive value.
+
+Q: A screening test that gives the same result on repeated testing is said to be
+A) Valid
+B) Sensitive
+C) Specific
+D) Reliable
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Reliability is consistency on repetition, whereas validity is the ability to measure the truth. A test can be highly reliable yet consistently wrong, so both properties are assessed separately.
+
+Q: Lead time bias in screening refers to
+A) Over-diagnosis of harmless disease
+B) Detecting disease earlier without changing the actual outcome, so survival only appears longer
+C) Errors in recording the time of death
+D) Selecting healthier volunteers for screening
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Screening advances the moment of diagnosis, so survival measured from diagnosis looks longer even if death occurs at the same time. Sound evaluation of a screening programme therefore uses mortality, not survival time.
+
+Q: The standardised death rate is used to
+A) Count only deaths in hospital
+B) Compare mortality between populations with different age structures
+C) Measure infant deaths alone
+D) Record cause-specific mortality only
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Crude death rates cannot be compared fairly when populations differ in age, since age strongly affects death. Standardisation applies each population's rates to a common reference age structure, removing that distortion.
+
+Q: The under-five mortality rate is expressed per
+A) 1000 mid-year population
+B) 1000 children under five
+C) 100000 live births
+D) 1000 live births
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The under-five mortality rate is deaths before the fifth birthday per 1000 live births, a key indicator of child health and of the effectiveness of maternal and child services. It is distinct from the child death rate, which uses the population aged 1 to 4.
+
+Q: The neonatal period covers the first
+A) 42 days of life
+B) 7 days of life
+C) 24 hours of life
+D) 28 days of life
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: The neonatal period is the first 28 days, subdivided into early neonatal, the first 7 days, and late neonatal. Most neonatal deaths occur in the first week, which is why early care matters so much.
+
+Q: The general fertility rate uses as its denominator the number of
+A) Total population
+B) Women in the reproductive age group, usually 15 to 49 years
+C) Live births
+D) Married women only
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Unlike the crude birth rate, which uses the whole population, the general fertility rate restricts the denominator to women aged 15 to 49, giving a more refined measure of fertility.
+
+Q: A total fertility rate of about 2.1 in a population is significant because it represents
+A) The replacement level of fertility
+B) Rapid population growth
+C) A declining and ageing population immediately
+D) Zero births
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: A total fertility rate near 2.1 children per woman just replaces the parents while allowing for childhood mortality, so the population eventually stabilises. India reached around this level nationally, though it varies by state.
+
+Q: The dependency ratio compares the population aged under 15 and over 65 to those
+A) Living in urban areas
+B) Who are employed only
+C) Who are literate
+D) In the working ages, roughly 15 to 64
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The dependency ratio expresses the non-working young and old against the economically productive ages, indicating the burden of support. A youthful population and an ageing one both raise it, for different reasons.
+
+Q: In the demographic cycle, the stage marked by a falling death rate while the birth rate stays high, producing rapid growth, is
+A) Early expanding
+B) Low stationary
+C) High stationary
+D) Late expanding
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: In the early expanding stage improved sanitation, nutrition and medicine cut deaths while births remain high, so the population grows fastest. In the late expanding stage the birth rate too begins to fall.
+
+Q: A community health centre in India is designed to serve a population of approximately
+A) 5000
+B) 30000
+C) 120000
+D) 500000
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: A community health centre covers about 120,000 people in the plains and 80,000 in hilly or tribal areas, acting as a first referral unit with specialists and beds. Below it sit the primary health centre and the sub-centre.
+
+Q: The first referral unit providing specialist care such as caesarean section and blood transfusion in rural India is the
+A) Primary health centre
+B) Sub-centre
+C) Community health centre
+D) Anganwadi
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The community health centre is designated as the first referral unit, staffed with specialists in surgery, medicine, obstetrics and paediatrics, with an operation theatre, laboratory and blood storage. The primary health centre refers upward to it.
+
+Q: The most peripheral institution and the first point of contact between the primary health care system and the community is the
+A) Sub-centre
+B) District hospital
+C) Community health centre
+D) Primary health centre
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: The sub-centre, staffed by an auxiliary nurse midwife and a male health worker, is the most peripheral contact point, focused on maternal and child health, family welfare, immunisation and control of communicable disease.
+
+Q: The auxiliary nurse midwife at a sub-centre is primarily responsible for
+A) Maternal and child health, immunisation and family welfare services
+B) Laboratory diagnosis of malaria only
+C) District-level administration
+D) Performing major surgery
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: The ANM delivers antenatal and postnatal care, conducts and refers deliveries, gives immunisations, promotes family planning and treats minor ailments. She is the backbone of maternal and child health at the periphery.
+
+Q: In India, the multipurpose health worker scheme integrates the functions of
+A) Doctors and specialists
+B) Hospital administrators
+C) Previously separate unipurpose workers such as malaria, family planning and smallpox staff
+D) Private practitioners
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The multipurpose worker scheme, following the Kartar Singh committee, merged the many single-purpose field workers into male and female multipurpose workers, so one worker delivers a range of services to each family rather than several visiting separately.
+
+Q: Primary health care was declared as the key to attaining Health for All at the international conference held at
+A) Geneva
+B) Bangkok
+C) Alma-Ata
+D) Ottawa
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: The 1978 Alma-Ata declaration proclaimed primary health care as the route to Health for All. The later Ottawa Charter of 1986 developed the framework for health promotion.
+
+Q: Health promotion, as described in the Ottawa Charter, is best understood as
+A) Building more hospitals
+B) Providing free medicines
+C) Treating disease early
+D) The process of enabling people to increase control over and improve their health
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Ottawa Charter defines health promotion as enabling people to gain control over the determinants of health, through healthy public policy, supportive environments, community action, personal skills and reoriented services.
+
+Q: The measure of the average number of years a person is expected to live, widely used to summarise a population's health, is
+A) Total fertility rate
+B) Crude death rate
+C) Infant mortality rate
+D) Life expectancy at birth
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: Life expectancy at birth is the average number of years a newborn would live under current mortality conditions, a summary indicator sensitive to deaths at all ages, especially in infancy.
+
+Q: The disability-adjusted life year, or DALY, combines
+A) The number of hospital beds and doctors
+B) Years of life lost to premature death and years lived with disability
+C) Only years of life lost to death
+D) Income and literacy
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: One DALY is one lost year of healthy life, summing years lost to premature mortality and years lived with disability weighted for severity. It allows the total burden of a disease, fatal and non-fatal, to be compared.

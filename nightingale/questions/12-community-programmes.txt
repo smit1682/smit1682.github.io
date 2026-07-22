@@ -1,0 +1,251 @@
+# Batch 12 — Community Health: national programmes, MCH, environment, nutrition
+
+Q: The national tuberculosis programme in India now aims to end TB by
+A) 2025
+B) 2030
+C) 2040
+D) 2050
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The National TB Elimination Programme targets ending TB in India by 2025, five years ahead of the global Sustainable Development Goal of 2030. It relies on early diagnosis, assured treatment, patient support and active case finding.
+
+Q: The first-line treatment for a new case of pulmonary tuberculosis uses
+A) Antibiotics for one week
+B) A combination of at least four drugs in the intensive phase
+C) A single drug for six months
+D) Surgery
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Standard treatment begins with isoniazid, rifampicin, pyrazinamide and ethambutol in the intensive phase, then continues with fewer drugs. Multiple drugs prevent the selection of resistant organisms, and the full course must be completed.
+
+Q: Under the national programme, leprosy is confirmed as multibacillary when there are
+A) A single skin lesion
+B) Only nerve thickening
+C) No skin lesions
+D) More than five skin lesions
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: Leprosy is classified for treatment by lesion count: up to five lesions is paucibacillary and more than five is multibacillary, which needs longer multidrug therapy. The classification guides the duration of treatment.
+
+Q: The vector of dengue, which breeds in clean stored water, is
+A) Culex mosquito
+B) Anopheles mosquito
+C) Housefly
+D) Aedes aegypti
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Aedes aegypti, a day-biting mosquito that breeds in clean water in containers, coolers and discarded tyres, transmits dengue, chikungunya, Zika and yellow fever. Source reduction by removing breeding sites is the mainstay of control.
+
+Q: The warning signs of dengue that indicate progression to severe disease include
+A) Mild fever only
+B) A single episode of headache
+C) Severe abdominal pain, persistent vomiting and bleeding
+D) Improved appetite
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Warning signs such as severe abdominal pain, persistent vomiting, mucosal bleeding, lethargy and a rapidly falling platelet count herald plasma leakage and shock. Recognising them prompts urgent hospital care and fluid management.
+
+Q: In the national immunisation schedule, the pentavalent vaccine protects against diphtheria, pertussis, tetanus, hepatitis B and
+A) Polio
+B) Tuberculosis
+C) Haemophilus influenzae type b
+D) Measles
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The pentavalent vaccine combines DPT with hepatitis B and Haemophilus influenzae type b, given at 6, 10 and 14 weeks. Combining antigens reduces the number of injections and improves coverage.
+
+Q: A fully immunised child under the national schedule has received all due vaccines by the age of
+A) 1 year
+B) 6 weeks
+C) 5 years
+D) 6 months
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: A child is counted as fully immunised when BCG, three doses of pentavalent and OPV, and the first measles-rubella dose have been received by one year of age. Coverage by one year is a standard programme indicator.
+
+Q: Pulse polio immunisation is based on the strategy of
+A) Giving oral polio vaccine to all children under five on fixed national immunisation days
+B) Treating cases after paralysis
+C) Injecting vaccine once in a lifetime
+D) Vaccinating only sick children
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Pulse polio delivers oral polio vaccine to every child under five on national immunisation days regardless of prior doses, interrupting transmission by rapidly raising community immunity. It underpinned India's polio-free certification in 2014.
+
+Q: Iron and folic acid supplementation in pregnancy is given primarily to prevent
+A) Hypertension
+B) Urinary infection
+C) Gestational diabetes
+D) Nutritional anaemia
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: Anaemia is very common in pregnancy and raises the risk of preterm birth, low birth weight and maternal death. Routine iron and folic acid, with deworming, is a core antenatal intervention, and folic acid also prevents neural tube defects.
+
+Q: The most sensitive indicator of the overall health status of a community is generally taken to be the
+A) Infant mortality rate
+B) Sex ratio
+C) Literacy rate
+D) Crude birth rate
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: The infant mortality rate responds to nutrition, maternal health, sanitation, immunisation and access to care, so it captures the overall conditions of a society and is widely used as a summary health indicator.
+
+Q: The permissible upper limit of fluoride in drinking water, above which dental and skeletal fluorosis occur, is about
+A) 0.5 mg per litre
+B) 1.0 to 1.5 mg per litre
+C) 5 mg per litre
+D) 10 mg per litre
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Fluoride around 1 mg per litre protects against dental caries, but above roughly 1.5 mg per litre it mottles the teeth and, at higher and prolonged levels, damages bone. Both too little and too much are undesirable.
+
+Q: The most important indicator of recent faecal contamination of water is the presence of
+A) Fluoride
+B) Chlorine
+C) Total dissolved solids
+D) Escherichia coli
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Escherichia coli is a normal gut organism, so its presence in water signals recent faecal contamination and the possible presence of pathogens. It is the standard bacteriological indicator of drinking water safety.
+
+Q: In biomedical waste segregation, human anatomical waste and soiled waste requiring incineration are placed in the
+A) White puncture-proof container
+B) Blue container
+C) Yellow container
+D) Red container
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Under the biomedical waste rules, yellow is for anatomical and infectious soiled waste destined for incineration, red for contaminated recyclable plastics, white for sharps and blue for glassware and metallic implants.
+
+Q: The recommended method for final disposal of the placenta and other anatomical hospital waste is
+A) Flushing down the drain
+B) Open dumping
+C) Discarding with general refuse
+D) Deep burial or incineration as infectious waste
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Anatomical waste is infectious and is treated as yellow-category biomedical waste, disposed of by incineration or, where that is unavailable, by deep burial in a secure pit. It must never enter the general waste stream.
+
+Q: Grade I protein energy malnutrition by the Indian Academy of Pediatrics classification corresponds to a weight for age of
+A) 70 to 80 per cent of expected
+B) 50 to 60 per cent of expected
+C) 90 to 100 per cent of expected
+D) Below 50 per cent of expected
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The IAP classification grades malnutrition by weight for age: 70 to 80 per cent is grade I, 60 to 70 grade II, 50 to 60 grade III and below 50 per cent grade IV. It is a simple field tool for identifying and grading undernutrition.
+
+Q: Mid-upper arm circumference is used in the community to screen for acute malnutrition in children aged
+A) 6 months to 5 years
+B) Under 6 months
+C) 5 to 10 years
+D) Over 10 years
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: In children aged 6 to 59 months the mid-upper arm circumference changes little with age, so a fixed cut-off works: below 11.5 cm indicates severe acute malnutrition. It is quick, needs no scales and is ideal for field screening.
+
+Q: Vitamin A deficiency is a leading preventable cause of
+A) Goitre
+B) Deafness
+C) Rickets
+D) Childhood blindness
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Vitamin A deficiency causes night blindness progressing to xerophthalmia and irreversible corneal damage, and it also worsens infection. Prophylactic vitamin A given six-monthly to young children prevents it.
+
+Q: The addition of iodine to salt is the national strategy to prevent
+A) Fluorosis
+B) Vitamin A deficiency
+C) Iodine deficiency disorders such as goitre and cretinism
+D) Anaemia
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: Universal salt iodisation is the cornerstone of preventing iodine deficiency disorders, which range from goitre to the severe and irreversible mental and physical impairment of cretinism when deficiency occurs in pregnancy.
+
+Q: The incubation period of measles, from exposure to the appearance of rash, is approximately
+A) 30 days
+B) 1 to 2 days
+C) 10 to 14 days
+D) 3 months
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Measles has an incubation period of about 10 to 14 days. The patient is infectious from a few days before the rash until about four days after it appears, which is why isolation and prompt vaccination of contacts matter.
+
+Q: Chickenpox is caused by the
+A) Rubella virus
+B) Varicella zoster virus
+C) Measles virus
+D) Mumps virus
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The varicella zoster virus causes chickenpox on first infection and, on reactivation years later, herpes zoster or shingles. Its lesions appear in successive crops, giving the characteristic mix of papules, vesicles and crusts.
+
+Q: The most effective single strategy to interrupt the faeco-oral transmission of diseases such as cholera and typhoid is
+A) Bed nets
+B) Mass antibiotic use
+C) Vaccination alone
+D) Improved sanitation and safe water supply
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Faeco-oral diseases spread through contaminated water and food, so safe water, sanitary excreta disposal, hand hygiene and food safety break the chain most effectively. Vaccines and treatment supplement, but do not replace, these environmental measures.
+
+Q: A sudden increase in cases of a disease clearly in excess of what is normally expected in a community is a/an
+A) Epidemic
+B) Sporadic occurrence
+C) Endemic
+D) Pandemic across continents
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: An epidemic is the occurrence of cases clearly above the expected number for that place and time. When such an epidemic spreads across several countries and continents it is called a pandemic.
+
+Q: Convalescent carriers are individuals who
+A) Have never had the disease but harbour the organism
+B) Are immune and non-infectious
+C) Continue to shed the organism during recovery after clinical illness
+D) Show symptoms permanently
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: A convalescent carrier keeps excreting the organism during recovery, as in typhoid. Carriers may also be incubatory, shedding before symptoms, or healthy, never developing illness, and all can maintain transmission unnoticed.
+
+Q: Passive immunity is conferred by
+A) Administering preformed antibodies such as immunoglobulin or antiserum
+B) Giving a vaccine
+C) A course of antibiotics
+D) Natural infection
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Passive immunity supplies ready-made antibodies, as in anti-tetanus or anti-rabies immunoglobulin and in the transfer of maternal antibody to the fetus. It acts at once but is short-lived, unlike the durable protection of active immunisation.
+
+Q: The observation period for a person exposed to a suspected case, kept under surveillance for the maximum incubation period, is called
+A) Disinfection
+B) Isolation
+C) Quarantine
+D) Notification
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Quarantine restricts the movement of apparently well people who have been exposed, for the longest usual incubation period, to watch for illness. Isolation, by contrast, separates those who are already sick to prevent spread.

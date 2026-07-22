@@ -1,0 +1,301 @@
+# w1-community-b — ingested draft, verify before trusting
+
+Q: The primary vector responsible for rural malaria transmission in India is which mosquito species?
+A) Phlebotomus argentipes
+B) Anopheles culicifacies
+C) Aedes aegypti
+D) Culex quinquefasciatus
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Anopheles culicifacies is the principal vector of rural malaria in India, breeding in clean stagnant water. Culex transmits filariasis, Aedes transmits dengue and chikungunya, and Phlebotomus the sandfly transmits kala-azar.
+
+Q: Kala-azar or visceral leishmaniasis under the NVBDCP is transmitted by the bite of which vector?
+A) Phlebotomus argentipes, the sandfly
+B) Aedes mosquito
+C) Anopheles mosquito
+D) Culex mosquito
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: Kala-azar is transmitted by the female sandfly Phlebotomus argentipes, which breeds in cracks and crevices with high humidity. Man is the only reservoir in Indian kala-azar, making it a target for elimination.
+
+Q: The overwhelming majority of lymphatic filariasis cases in India are caused by which parasite?
+A) Onchocerca volvulus
+B) Brugia malayi
+C) Wuchereria bancrofti
+D) Brugia timori
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: About 99 per cent of the filariasis burden in India is due to Wuchereria bancrofti, transmitted by Culex quinquefasciatus. Mass drug administration with DEC plus albendazole is the control strategy.
+
+Q: In the epidemiology of Japanese encephalitis, the pig acts as the
+A) Definitive host
+B) Mechanical vector
+C) Amplifier host
+D) Dead-end host
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Pigs are the main amplifier host of Japanese encephalitis, developing high viraemia without illness and multiplying the virus for onward Culex transmission. Man is only a dead-end incidental host.
+
+Q: The causative organism of leprosy is
+A) Mycobacterium avium
+B) Mycobacterium leprae
+C) Mycobacterium bovis
+D) Mycobacterium tuberculosis
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Leprosy is caused by Mycobacterium leprae, an acid-fast bacillus with a very long generation time and a predilection for skin and peripheral nerves. The NLEP treats it with multidrug therapy.
+
+Q: Under the National Leprosy Eradication Programme, the standard duration of multidrug therapy for multibacillary leprosy is
+A) 9 months
+B) 12 months
+C) 24 months
+D) 6 months
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Multibacillary leprosy is treated with rifampicin, clofazimine and dapsone for 12 months, while paucibacillary disease needs only 6 months. Multidrug therapy rapidly renders patients non-infectious and prevents disability.
+
+Q: The commonest cause of blindness in India, targeted under the National Programme for Control of Blindness, is
+A) Trachoma
+B) Refractive errors
+C) Cataract
+D) Glaucoma
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: Cataract accounts for roughly two thirds of blindness in India and is the leading avoidable cause. The programme emphasises high-volume cataract surgery with intraocular lens implantation to clear the backlog.
+
+Q: The National Mental Health Programme in India was launched in which year?
+A) 1975
+B) 1982
+C) 1985
+D) 1992
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The National Mental Health Programme was launched in 1982 to ensure the availability of minimum mental healthcare and to integrate it into general health services. The District Mental Health Programme was added in 1996.
+
+Q: NPCDCS is a national programme for the prevention and control of
+A) Nutritional deficiency disorders
+B) Communicable diseases only
+C) Cancer, diabetes, cardiovascular diseases and stroke
+D) Maternal and child health disorders
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: NPCDCS stands for the National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke. It addresses the rising burden of non-communicable disease through screening, early diagnosis and health promotion.
+
+Q: In the RMNCH+A strategy, the additional plus A component refers to
+A) Anaemia control
+B) Antenatal care
+C) Aged or geriatric care
+D) Adolescent health
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: RMNCH+A stands for Reproductive, Maternal, Newborn, Child and Adolescent Health. Adding adolescents recognised this age group as a critical link in breaking the intergenerational cycle of ill health.
+
+Q: The principal objective of Mission Indradhanush is to
+A) Reduce iron-deficiency anaemia
+B) Control avoidable blindness
+C) Achieve full immunisation of children and pregnant women
+D) Eradicate malaria from endemic districts
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Mission Indradhanush, launched in 2014, aims to rapidly raise full immunisation coverage to at least 90 per cent by reaching unimmunised and partially immunised children and pregnant women.
+
+Q: The National AIDS Control Programme, under which NACO functions, was launched in which year?
+A) 1982
+B) 1985
+C) 1987
+D) 1992
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: The National AIDS Control Programme was launched in 1992, and NACO was established the same year to coordinate India's HIV response. It runs surveillance, blood safety, condom promotion and antiretroviral treatment services.
+
+Q: In India, a population census is conducted at intervals of every
+A) 5 years
+B) 10 years
+C) 15 years
+D) 20 years
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The Indian census is a decennial, every ten years, complete enumeration of the population and is the oldest single source of demographic data. It provides denominators for calculating vital and health rates.
+
+Q: The Sample Registration System in India obtains reliable birth and death rates using which method?
+A) Single continuous enumeration
+B) Decennial census enumeration
+C) Dual record system
+D) Hospital record compilation
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The SRS uses a dual record system: continuous enumeration by a resident part-time enumerator plus an independent half-yearly retrospective survey. Matching the two lists and verifying discrepancies yields dependable vital rates.
+
+Q: Registration of births and deaths was made compulsory throughout India under an Act passed in the year
+A) 1948
+B) 1955
+C) 1969
+D) 1971
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The Registration of Births and Deaths Act of 1969 made civil registration compulsory across India. Despite this, registration completeness remains incomplete in many states, limiting the civil registration system as a source of vital statistics.
+
+Q: The usual incubation period of typhoid fever is
+A) 1 to 3 days
+B) 3 to 4 weeks
+C) 5 to 7 days
+D) 10 to 14 days
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Typhoid fever, caused by Salmonella typhi, has an incubation period of usually 10 to 14 days depending on the infecting dose. Transmission is faeco-oral through contaminated water and food.
+
+Q: The incubation period of cholera is characteristically
+A) 2 to 6 weeks
+B) 10 to 14 days
+C) 15 to 45 days
+D) A few hours to 5 days
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Cholera has a very short incubation period ranging from a few hours to five days, usually one to two days. This short interval explains the explosive nature of waterborne cholera outbreaks caused by Vibrio cholerae.
+
+Q: Hepatitis A is transmitted mainly by which route?
+A) Parenteral or blood transfusion
+B) Faeco-oral
+C) Sexual contact
+D) Perinatal, mother to child
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Hepatitis A virus spreads by the faeco-oral route through contaminated food and water and is common where sanitation is poor. It causes a self-limiting illness and does not lead to a chronic carrier state.
+
+Q: Which type of viral hepatitis carries the highest mortality when it occurs in pregnant women?
+A) Hepatitis B
+B) Hepatitis A
+C) Hepatitis C
+D) Hepatitis E
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Hepatitis E, transmitted by the faeco-oral route, causes especially severe disease in pregnancy with fulminant hepatic failure and high case fatality, particularly in the third trimester. It is a major cause of water-borne epidemic hepatitis in India.
+
+Q: According to WHO categories of rabies exposure, a category III exposure includes
+A) Touching or feeding the animal
+B) Minor scratches without bleeding
+C) Nibbling of uncovered skin without a break
+D) Transdermal bites or scratches, or contamination of a mucous membrane with saliva
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: Category III exposures include single or multiple transdermal bites or scratches, licks on broken skin, and contamination of mucous membranes with saliva. These require immediate wound care, rabies immunoglobulin and a full anti-rabies vaccine course.
+
+Q: The single most important first-aid measure immediately after an animal bite to prevent rabies is
+A) Suture the wound immediately
+B) Apply turmeric, lime or other irritants
+C) Cover the wound tightly with a bandage
+D) Wash the wound with soap and running water for about 15 minutes
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Prompt thorough washing of the wound with soap and plenty of running water for around 15 minutes physically removes and inactivates much of the virus. Suturing should be avoided or delayed, and irritant applications are harmful.
+
+Q: Tetanus is caused by which organism?
+A) Corynebacterium diphtheriae
+B) Clostridium perfringens
+C) Clostridium tetani
+D) Clostridium botulinum
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Tetanus is caused by Clostridium tetani, whose spores enter through wounds and produce the neurotoxin tetanospasmin causing muscle rigidity and spasms. It is preventable by tetanus toxoid immunisation and proper wound care.
+
+Q: India was certified polio-free by the WHO in which year?
+A) 2011
+B) 2012
+C) 2014
+D) 2016
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: India recorded its last wild poliovirus case in January 2011 and, after three years without transmission, the WHO South-East Asia Region including India was certified polio-free in March 2014. Pulse polio immunisation with OPV was central to this.
+
+Q: The vector responsible for transmission of plague from rodents to humans is the
+A) Sandfly
+B) Hard tick
+C) Rat flea, Xenopsylla cheopis
+D) Body louse
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Bubonic plague, caused by Yersinia pestis, is transmitted by the bite of the infected rat flea Xenopsylla cheopis. A blocked flea regurgitates bacilli into the bite wound, while pneumonic plague spreads directly by droplets between humans.
+
+Q: Human brucellosis is most commonly acquired through
+A) Ingestion of unpasteurised milk or contact with infected animals
+B) Airborne droplets only
+C) Bite of an infected mosquito
+D) Sexual transmission
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Brucellosis is a zoonosis acquired mainly by consuming raw milk or milk products and through occupational contact with infected cattle, sheep and goats. Pasteurisation of milk and animal vaccination are key preventive measures.
+
+Q: Leptospirosis is transmitted to humans chiefly through
+A) Sexual contact
+B) Inhalation of respiratory droplets
+C) Contact with water or soil contaminated by infected animal urine
+D) Bite of an infected mosquito
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Leptospirosis spreads when skin abrasions or mucous membranes contact water, mud or soil contaminated with the urine of infected animals, especially rodents. It is an occupational hazard for farmers and sewer workers and can cause Weil's disease.
+
+Q: The characteristic incubation period of staphylococcal food poisoning is
+A) 1 to 6 hours
+B) 3 to 5 days
+C) 12 to 24 hours
+D) 24 to 48 hours
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Staphylococcal food poisoning has a very short incubation of one to six hours because it is caused by a preformed heat-stable enterotoxin rather than active infection. Vomiting predominates and recovery is usually rapid.
+
+Q: The toxin of Clostridium botulinum produces paralysis by acting at the
+A) Neuromuscular junction, blocking acetylcholine release
+B) Renal tubules
+C) Intestinal mucosa
+D) Liver cells
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Botulinum toxin blocks the release of acetylcholine at the neuromuscular junction, producing descending flaccid paralysis, diplopia, dysphagia and respiratory failure. It is often linked to improperly preserved or canned foods.
+
+Q: The usual incubation period of non-typhoidal Salmonella food poisoning is
+A) Less than 1 hour
+B) 12 to 24 hours
+C) 1 to 6 hours
+D) 5 to 7 days
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Salmonella food poisoning is an infection-type illness with an incubation of about 12 to 24 hours, presenting with fever, diarrhoea and abdominal cramps. It is commonly linked to poultry, eggs and inadequately cooked meat.
+
+Q: Under the National Vitamin A Prophylaxis Programme, the first dose of vitamin A is given as
+A) 200000 IU at 9 months of age
+B) 100000 IU at 9 months of age
+C) 200000 IU at 12 months of age
+D) 100000 IU at 6 months of age
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The first dose of vitamin A is 100000 IU given at 9 months along with measles vaccine. Subsequent doses of 200000 IU are given every six months up to five years of age to prevent nutritional blindness.

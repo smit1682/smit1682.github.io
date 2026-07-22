@@ -1,0 +1,301 @@
+# w1-medsurg-a — ingested draft, verify before trusting
+
+Q: Which feature is most characteristic of stable angina pectoris?
+A) Chest pain precipitated by exertion and relieved within minutes by rest or sublingual nitroglycerin
+B) Crushing chest pain lasting more than 30 minutes and unrelieved by rest
+C) Chest pain occurring only during sleep with persistent ST-segment elevation
+D) Continuous chest pain that worsens progressively over several days
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Stable angina is predictable, provoked by increased myocardial oxygen demand such as exertion, and typically subsides within a few minutes with rest or nitroglycerin. Pain lasting beyond 20 to 30 minutes suggests myocardial infarction rather than stable angina.
+
+Q: How does unstable angina differ from stable angina?
+A) It occurs at rest or has a new onset, increasing in frequency, duration or severity
+B) It follows a fixed, predictable pattern brought on only by heavy exertion
+C) It is always fully relieved within two minutes of taking nitroglycerin
+D) It never requires hospitalisation or cardiac monitoring
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Unstable angina is part of acute coronary syndrome and occurs at rest, is of new onset, or shows a crescendo pattern of increasing frequency and severity. It signals an unstable atherosclerotic plaque and warrants urgent evaluation and continuous monitoring.
+
+Q: In the first few hours following an acute myocardial infarction, the most common cause of death is
+A) Dressler syndrome
+B) Ventricular fibrillation and other lethal dysrhythmias
+C) Ventricular aneurysm formation
+D) Slowly progressive chronic heart failure
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Lethal ventricular dysrhythmias, especially ventricular fibrillation, are the leading cause of death in the early hours after myocardial infarction. This is why continuous cardiac monitoring and immediate defibrillation capability are essential during this period.
+
+Q: During phase I inpatient cardiac rehabilitation after myocardial infarction, appropriate nursing guidance is to
+A) Enforce strict, complete bed rest until the day of discharge
+B) Progress gradually with low-level activities such as self-care and short supervised walks
+C) Prohibit all self-care activities to conserve myocardial oxygen
+D) Begin high-intensity aerobic training on the first day
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Phase I rehabilitation emphasises gradual, low-level activity such as self-care, sitting up, and short monitored walks while observing the patient's tolerance. Activity is advanced slowly based on the absence of symptoms, dysrhythmias and abnormal vital sign responses.
+
+Q: ACE inhibitors improve survival in chronic heart failure mainly by
+A) Directly increasing the heart rate and contractility
+B) Promoting sodium and water retention to raise preload
+C) Reducing afterload and preventing maladaptive ventricular remodeling
+D) Increasing systemic vascular resistance and afterload
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: ACE inhibitors block the renin-angiotensin-aldosterone system, producing vasodilation that lowers afterload and reducing angiotensin II-driven ventricular remodeling. These effects decrease cardiac workload and improve long-term survival in heart failure.
+
+Q: Primary or essential hypertension is best defined as elevated blood pressure that
+A) Is confined to the paediatric population
+B) Results from an identifiable cause such as renal artery stenosis or phaeochromocytoma
+C) Has no single identifiable underlying cause and accounts for most cases
+D) Occurs only transiently during an acute illness
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Primary or essential hypertension has no identifiable secondary cause and represents roughly 90 to 95 per cent of all hypertension cases. Secondary hypertension, by contrast, results from a specific identifiable condition such as renal or endocrine disease.
+
+Q: When managing a hypertensive emergency, the recommended goal for initial blood pressure reduction is to
+A) Lower the mean arterial pressure by no more than about 20 to 25 per cent in the first hour
+B) Reduce the systolic pressure below 90 mmHg as quickly as possible
+C) Avoid any reduction until end-organ damage is confirmed
+D) Lower the blood pressure to completely normal values within 15 minutes
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: In a hypertensive emergency the mean arterial pressure should be lowered gradually, by roughly 20 to 25 per cent within the first hour, then further over the following hours. Overly rapid reduction can precipitate cerebral, coronary or renal ischaemia due to impaired autoregulation.
+
+Q: Which auscultatory finding is classic for mitral stenosis?
+A) A harsh crescendo-decrescendo systolic ejection murmur at the aortic area
+B) A high-pitched blowing pansystolic murmur radiating to the axilla
+C) A low-pitched rumbling mid-diastolic murmur at the apex, often with an opening snap
+D) A continuous machinery-like murmur below the left clavicle
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Mitral stenosis produces a low-pitched, rumbling mid-diastolic murmur best heard at the apex, frequently preceded by an opening snap. A pansystolic murmur radiating to the axilla instead points to mitral regurgitation.
+
+Q: A patient discharged with a newly implanted permanent pacemaker should be taught to
+A) Report dizziness, prolonged hiccups, or a pulse rate below the pacemaker's set rate
+B) Avoid taking the pulse so as not to cause unnecessary anxiety
+C) Undergo any MRI scan freely without informing staff about the device
+D) Stop all physical activity permanently to protect the device
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Patients should check their pulse daily and report dizziness, syncope, persistent hiccups which may indicate lead-related diaphragmatic stimulation, or a rate below the set pacemaker rate. These may signal pacemaker malfunction requiring prompt evaluation.
+
+Q: According to current basic life support guidelines, the recommended rate of chest compressions for an adult is
+A) 40 to 60 compressions per minute
+B) 140 to 160 compressions per minute
+C) 100 to 120 compressions per minute
+D) 60 to 80 compressions per minute
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: High-quality CPR requires a compression rate of 100 to 120 per minute for adults. Rates that are too slow or too fast reduce the effectiveness of the circulation generated during resuscitation.
+
+Q: Cardiogenic shock is most accurately described as
+A) Hypovolaemia due to acute blood or fluid loss
+B) Widespread vasodilation and maldistribution of blood flow from sepsis
+C) A high-output state with warm, well-perfused extremities
+D) Decreased cardiac output and tissue hypoperfusion despite adequate intravascular volume
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Cardiogenic shock results from failure of the heart to pump effectively, producing decreased cardiac output and tissue hypoperfusion even though circulating blood volume is adequate. It most often follows extensive myocardial infarction with significant left ventricular damage.
+
+Q: The hallmark clinical sign of acute pericarditis is
+A) A fixed, widely split second heart sound
+B) Muffled heart sounds with an otherwise silent precordium
+C) Bilateral coarse crackles throughout both lung fields
+D) A pericardial friction rub on auscultation
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A pericardial friction rub, a scratchy or grating sound, is the classic auscultatory finding in acute pericarditis. The associated chest pain is typically sharp and pleuritic, worsens when lying supine, and eases when the patient sits up and leans forward.
+
+Q: Which nursing intervention is appropriate during the acute phase of deep vein thrombosis of the leg?
+A) Vigorously massage the calf to improve venous return
+B) Elevate the affected limb and administer anticoagulant therapy as prescribed
+C) Keep the affected leg dependent and encourage brisk walking
+D) Apply firm heat and have the patient perform forceful leg exercises
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: During acute DVT the affected extremity is elevated to reduce oedema and anticoagulation is given to prevent clot extension and embolisation. Massaging the calf is contraindicated because it can dislodge the thrombus and cause pulmonary embolism.
+
+Q: In acute pulmonary embolism, the typical early arterial blood gas pattern is
+A) Metabolic acidosis with a normal PaO2
+B) Metabolic alkalosis with hypoventilation
+C) Hypoxaemia with respiratory alkalosis due to hyperventilation
+D) Respiratory acidosis with a high PaCO2
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Pulmonary embolism causes hypoxaemia, and the resulting tachypnoea and hyperventilation blow off carbon dioxide, lowering the PaCO2 and producing respiratory alkalosis. This combination of hypoxaemia with respiratory alkalosis is the classic early blood gas picture.
+
+Q: The correct isolation precaution for a patient with active pulmonary tuberculosis is
+A) Contact precautions with gown and gloves only
+B) Airborne precautions in a negative-pressure room with a fitted N95 respirator
+C) Droplet precautions with a surgical mask only
+D) Standard precautions alone are sufficient
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Mycobacterium tuberculosis spreads via droplet nuclei that remain suspended in the air, so airborne precautions are required. The patient is placed in a negative-pressure room and staff wear a fit-tested N95 respirator when entering.
+
+Q: Hospital-acquired or nosocomial pneumonia is defined as pneumonia that develops
+A) Exclusively outside of any healthcare facility
+B) Within the first 12 hours of hospital admission
+C) Only in patients who are immunosuppressed
+D) 48 hours or more after admission and was not incubating at the time of admission
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Hospital-acquired pneumonia is diagnosed when pneumonia appears 48 hours or more after admission and was not present or incubating on arrival. It is frequently caused by more resistant organisms than community-acquired pneumonia.
+
+Q: A hallmark feature of acute respiratory distress syndrome is
+A) A slowly progressive course developing over many years
+B) High lung compliance that makes ventilation easy
+C) Severe refractory hypoxaemia that does not improve with supplemental oxygen
+D) Hypoxaemia that corrects readily with low-flow nasal oxygen
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: ARDS is characterised by refractory hypoxaemia caused by non-cardiogenic pulmonary oedema, alveolar collapse and impaired gas exchange that does not respond to increasing oxygen. It presents with bilateral infiltrates and markedly reduced lung compliance requiring ventilatory support.
+
+Q: Immediately following a thoracentesis for pleural effusion, the priority nursing assessment is to
+A) Encourage the patient to cough as forcefully as possible
+B) Keep the patient lying completely flat and immobile for 24 hours
+C) Monitor for signs of pneumothorax such as sudden dyspnoea and decreased breath sounds
+D) Withhold vital sign monitoring to allow the patient to rest
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Pneumothorax is a key complication of thoracentesis because the needle may inadvertently puncture the lung. The nurse watches for sudden dyspnoea, decreased or absent breath sounds, and tachycardia, and a post-procedure chest x-ray is obtained as ordered.
+
+Q: A characteristic clinical feature of bronchiectasis is
+A) A brief dry cough with no sputum production
+B) Complete absence of respiratory symptoms between infections
+C) Chronic cough producing copious amounts of purulent, often foul-smelling sputum
+D) Sudden pleuritic chest pain with no cough
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Bronchiectasis involves permanent abnormal dilation of the bronchi with impaired mucus clearance, leading to a chronic cough that produces large volumes of purulent, frequently foul-smelling sputum. Recurrent respiratory infections and haemoptysis are also common.
+
+Q: The nasal cannula is best described as an oxygen delivery device that
+A) Is a high-flow system that fully meets the patient's entire inspiratory demand
+B) Is a low-flow device delivering roughly 24 to 44 per cent oxygen at 1 to 6 L/min
+C) Can safely deliver 100 per cent oxygen at 15 L/min
+D) Delivers a precise, fixed fraction of inspired oxygen regardless of breathing pattern
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: The nasal cannula is a low-flow device that delivers approximately 24 to 44 per cent oxygen at flow rates of 1 to 6 litres per minute. The actual inspired concentration varies with the patient's respiratory rate and tidal volume.
+
+Q: During the oliguric phase of acute kidney injury, the nurse should monitor most closely for
+A) Hypernatraemia with rapid weight loss
+B) Hypokalaemia and profound dehydration
+C) Metabolic alkalosis with a low potassium level
+D) Hyperkalaemia and fluid volume overload
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In the oliguric phase of acute kidney injury, reduced urine output causes retention of fluid, potassium and metabolic acids, producing fluid overload, hyperkalaemia and metabolic acidosis. Hyperkalaemia is especially dangerous because of its risk of fatal cardiac dysrhythmias.
+
+Q: The most common complication of peritoneal dialysis is
+A) Haemolysis of red blood cells
+B) Peritonitis
+C) Air embolism
+D) Dialysis disequilibrium syndrome
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Peritonitis is the most common and serious complication of peritoneal dialysis, usually resulting from contamination during exchanges. Cloudy dialysate outflow is often the earliest sign, and strict aseptic technique is essential to prevent it.
+
+Q: A patient with an acute renal calculus reports severe colicky flank pain. The priority nursing actions are to
+A) Provide prescribed analgesia and strain all urine to detect passage of the stone
+B) Restrict fluid intake to reduce urine formation
+C) Enforce strict bed rest and avoid all movement
+D) Withhold analgesia until the stone has passed spontaneously
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Renal colic is intensely painful, so prompt administration of prescribed analgesia is a priority, along with straining all urine to catch the stone for laboratory analysis. Adequate fluid intake and ambulation are also encouraged to help promote stone passage.
+
+Q: Benign prostatic hyperplasia most commonly presents with
+A) Sudden severe flank pain radiating to the groin
+B) Lower urinary tract symptoms such as hesitancy, weak stream, frequency and nocturia
+C) Complete and permanent absence of any urinary symptoms
+D) Painless gross haematuria as the only symptom
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Benign prostatic hyperplasia enlarges the prostate and obstructs the bladder outlet, producing lower urinary tract symptoms including hesitancy, a weak urinary stream, frequency, urgency and nocturia. Untreated obstruction can progress to urinary retention and recurrent infection.
+
+Q: To reduce the risk of catheter-associated urinary tract infection, the nurse should
+A) Place the drainage bag on the bed beside the patient during transfers
+B) Keep the drainage bag below bladder level and maintain a closed drainage system
+C) Routinely open the system to irrigate and check the urine flow each shift
+D) Clamp the catheter for several hours each shift to promote bladder training
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Keeping the drainage bag below the level of the bladder prevents backflow of urine, and maintaining a closed drainage system limits the entry of organisms. These are core measures for preventing catheter-associated urinary tract infection.
+
+Q: Hyponatraemia is defined as a serum sodium concentration below
+A) 145 mEq/L
+B) 155 mEq/L
+C) 125 mEq/L
+D) 135 mEq/L
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Hyponatraemia is defined as a serum sodium level below 135 mEq/L, the lower limit of the normal 135 to 145 mEq/L range. Severe or rapidly developing hyponatraemia causes cerebral oedema, producing headache, confusion and seizures.
+
+Q: Which intervention most rapidly protects the myocardium against the effects of severe hyperkalaemia?
+A) Intravenous calcium gluconate
+B) An oral potassium-sparing diuretic
+C) An oral potassium supplement
+D) A slow infusion of potassium chloride
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Intravenous calcium gluconate is given first in severe hyperkalaemia because it stabilises the cardiac cell membrane and antagonises the effect of potassium on the heart. It does not lower serum potassium, so insulin with glucose or other measures are added to shift or remove potassium.
+
+Q: Which pair of clinical signs suggests hypocalcaemia?
+A) A positive Murphy sign and rebound tenderness
+B) A positive Homans sign and Kernig sign
+C) A positive Trousseau sign and Chvostek sign
+D) A positive Cullen sign and Grey Turner sign
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Hypocalcaemia increases neuromuscular excitability, producing a positive Trousseau sign of carpopedal spasm when a blood pressure cuff is inflated and a positive Chvostek sign of facial twitching when the facial nerve is tapped. Severe hypocalcaemia can cause tetany, laryngospasm and seizures.
+
+Q: An arterial blood gas shows pH 7.30, PaCO2 55 mmHg, and HCO3 24 mEq/L. This indicates
+A) Metabolic alkalosis
+B) Uncompensated metabolic acidosis
+C) Uncompensated respiratory acidosis
+D) Respiratory alkalosis
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The low pH indicates acidosis, the elevated PaCO2 identifies a respiratory cause, and the normal bicarbonate shows that no metabolic compensation has occurred. Together these values represent uncompensated respiratory acidosis, typically due to alveolar hypoventilation.
+
+Q: An arterial blood gas shows pH 7.50, HCO3 32 mEq/L, and PaCO2 40 mmHg. This indicates
+A) Respiratory acidosis
+B) Respiratory alkalosis
+C) Metabolic acidosis
+D) Metabolic alkalosis
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The elevated pH indicates alkalosis and the raised bicarbonate identifies a metabolic origin, while the normal PaCO2 shows the lungs have not yet compensated. These findings represent an uncompensated metabolic alkalosis.

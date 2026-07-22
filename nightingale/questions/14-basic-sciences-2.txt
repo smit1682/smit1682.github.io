@@ -1,0 +1,301 @@
+# w1-basic — ingested draft, verify before trusting
+
+Q: Which of the following is an example of a hinge joint?
+A) Wrist joint
+B) Elbow joint
+C) Atlanto-axial joint
+D) Shoulder joint
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: Hinge joints permit movement in a single plane of flexion and extension, and the elbow is a classic example. The shoulder is a ball-and-socket joint, the atlanto-axial is a pivot joint, and the wrist is a condyloid joint.
+
+Q: The structural and functional unit of compact bone is the
+A) Osteon or Haversian system
+B) Lamella
+C) Osteocyte
+D) Trabecula
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: The osteon, or Haversian system, is the structural unit of compact bone and consists of concentric lamellae surrounding a central Haversian canal. Trabeculae are the corresponding units of spongy cancellous bone.
+
+Q: In a myelinated nerve fibre the action potential jumps between the nodes of Ranvier. This rapid mode of conduction is called
+A) Antidromic conduction
+B) Decremental conduction
+C) Continuous conduction
+D) Saltatory conduction
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: In myelinated axons the myelin insulates the internodal segments, so the impulse leaps from one node of Ranvier to the next, called saltatory conduction. This greatly increases the speed of nerve conduction.
+
+Q: How many cervical vertebrae are present in the human vertebral column?
+A) 4
+B) 5
+C) 7
+D) 12
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: The vertebral column contains 7 cervical vertebrae, followed by 12 thoracic, 5 lumbar, the fused sacrum, and the coccyx. Almost all mammals, regardless of neck length, share the count of seven cervical vertebrae.
+
+Q: The neurotransmitter released at the neuromuscular junction of skeletal muscle is
+A) Noradrenaline
+B) GABA
+C) Acetylcholine
+D) Dopamine
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Motor neurons release acetylcholine at the neuromuscular junction, where it binds nicotinic receptors on the muscle end plate to trigger contraction. Noradrenaline, dopamine and GABA act at other sites in the nervous system.
+
+Q: The chemical transmitter released by most postganglionic sympathetic nerve endings is
+A) Acetylcholine
+B) Noradrenaline
+C) Adrenaline
+D) Serotonin
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Most postganglionic sympathetic fibres are adrenergic and release noradrenaline. Exceptions such as sweat glands are cholinergic, while all preganglionic sympathetic fibres and all parasympathetic fibres release acetylcholine.
+
+Q: The photoreceptors of the retina responsible for vision in dim light are the
+A) Ganglion cells
+B) Cones
+C) Rods
+D) Bipolar cells
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: Rods contain the pigment rhodopsin and are highly sensitive to low light, mediating night or scotopic vision but not colour. Cones function in bright light and are responsible for colour and sharp central vision.
+
+Q: The corticospinal or pyramidal tract of the spinal cord primarily carries
+A) Pain and temperature sensation
+B) Proprioception and fine touch
+C) Voluntary motor impulses
+D) Autonomic fibres
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: The corticospinal tract is a descending pathway carrying voluntary motor commands from the motor cortex to spinal motor neurons. Pain and temperature travel in the spinothalamic tract, and fine touch and proprioception in the dorsal columns.
+
+Q: Which part of the inner ear is concerned with hearing?
+A) Utricle
+B) Cochlea
+C) Saccule
+D) Semicircular canals
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: The cochlea houses the organ of Corti, which converts sound vibrations into nerve impulses for hearing. The semicircular canals, utricle and saccule are parts of the vestibular apparatus concerned with balance and equilibrium.
+
+Q: The first heart sound, S1 or lubb, is produced by the closure of the
+A) Mitral and tricuspid atrioventricular valves
+B) Aortic and pulmonary semilunar valves
+C) Aortic valve only
+D) Pulmonary valve only
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: S1 is caused by closure of the atrioventricular mitral and tricuspid valves at the onset of ventricular systole. The second heart sound S2 results from closure of the semilunar aortic and pulmonary valves.
+
+Q: In a normal electrocardiogram, the P wave represents
+A) Ventricular depolarization
+B) Atrial repolarization
+C) Atrial depolarization
+D) Ventricular repolarization
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: The P wave represents atrial depolarization, the QRS complex represents ventricular depolarization, and the T wave represents ventricular repolarization. Atrial repolarization is normally hidden within the QRS complex.
+
+Q: The volume of air remaining in the lungs after a maximal forced expiration is called the
+A) Residual volume
+B) Inspiratory reserve volume
+C) Tidal volume
+D) Vital capacity
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: Residual volume is the air that cannot be expelled even after a maximal expiration, keeping the alveoli partly inflated. It is about 1200 mL and, because it cannot be exhaled, cannot be measured by ordinary spirometry.
+
+Q: The largest fraction of carbon dioxide is transported in the blood as
+A) Bicarbonate ions
+B) Dissolved CO2 in plasma
+C) Carbon monoxide
+D) Carbaminohaemoglobin
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: About 70 per cent of carbon dioxide is carried as bicarbonate ions formed in red cells by carbonic anhydrase. Roughly 23 per cent travels bound to haemoglobin as carbaminohaemoglobin, and only about 7 per cent is dissolved in plasma.
+
+Q: Pepsin, secreted by the gastric glands, acts on which class of nutrients?
+A) Proteins
+B) Carbohydrates
+C) Fats
+D) Nucleic acids
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: Pepsin is a gastric protease secreted as inactive pepsinogen and activated by hydrochloric acid; it begins protein digestion by cleaving peptide bonds. Carbohydrate digestion begins with salivary amylase and fat digestion mainly in the intestine.
+
+Q: Dietary iron is absorbed mainly in which part of the gastrointestinal tract?
+A) Duodenum
+B) Terminal ileum
+C) Colon
+D) Stomach
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: Iron is absorbed chiefly in the duodenum and upper jejunum, favoured by the acidic environment and by conversion to the ferrous form. The terminal ileum is the principal site for absorption of vitamin B12 and bile salts.
+
+Q: Almost all of the glucose filtered at the glomerulus is reabsorbed in the
+A) Loop of Henle
+B) Collecting duct
+C) Proximal convoluted tubule
+D) Distal convoluted tubule
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Glucose is completely reabsorbed in the proximal convoluted tubule by sodium-glucose cotransporters under normal conditions. Glucose appears in the urine only when the plasma level exceeds the renal threshold of about 180 mg/dL.
+
+Q: Which hormone, secreted by the alpha cells of the pancreatic islets, raises blood glucose?
+A) Somatostatin
+B) Insulin
+C) Amylin
+D) Glucagon
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: Glucagon is secreted by the alpha cells of the islets of Langerhans and raises blood glucose by promoting hepatic glycogenolysis and gluconeogenesis. It is functionally antagonistic to insulin, which is produced by the beta cells.
+
+Q: Which mineral is an essential component of the thyroid hormone thyroxine?
+A) Iodine
+B) Zinc
+C) Calcium
+D) Iron
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: Iodine is an essential constituent of thyroid hormones; thyroxine T4 contains four iodine atoms and triiodothyronine T3 contains three. Dietary iodine deficiency impairs their synthesis and leads to goitre.
+
+Q: Ovulation in the human menstrual cycle is triggered by a mid-cycle surge of
+A) Progesterone
+B) Oestrogen
+C) Luteinizing hormone
+D) Follicle-stimulating hormone
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: A sharp mid-cycle surge of luteinizing hormone from the anterior pituitary triggers rupture of the mature Graafian follicle and release of the ovum. This surge is itself induced by rising peak levels of oestrogen.
+
+Q: The urea cycle, which converts toxic ammonia into urea, occurs mainly in the
+A) Kidney
+B) Brain
+C) Muscle
+D) Liver
+Ans: D
+Topic: Basic Sciences
+Diff: hard
+Exp: The urea cycle operates primarily in hepatocytes, converting ammonia derived from amino acid deamination into non-toxic urea. The urea is then carried by the blood to the kidneys, which excrete it in the urine.
+
+Q: Beta-oxidation of fatty acids, which yields acetyl-CoA, takes place in the
+A) Mitochondrial matrix
+B) Nucleus
+C) Cytoplasm or cytosol
+D) Endoplasmic reticulum
+Ans: A
+Topic: Basic Sciences
+Diff: hard
+Exp: Beta-oxidation occurs in the mitochondrial matrix, where fatty acyl-CoA is progressively shortened to yield acetyl-CoA along with NADH and FADH2. Fatty acid synthesis, by contrast, takes place in the cytosol.
+
+Q: The key rate-limiting or regulatory enzyme of glycolysis is
+A) Aldolase
+B) Phosphofructokinase-1
+C) Hexokinase
+D) Pyruvate kinase
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Phosphofructokinase-1 catalyses the committed, rate-limiting step of glycolysis, converting fructose-6-phosphate to fructose-1,6-bisphosphate. It is allosterically inhibited by ATP and citrate and activated by AMP.
+
+Q: Deficiency of vitamin C or ascorbic acid causes which disease?
+A) Rickets
+B) Beriberi
+C) Pellagra
+D) Scurvy
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Vitamin C is required for collagen synthesis, and its deficiency causes scurvy, marked by bleeding gums, poor wound healing and perifollicular haemorrhages. Beriberi results from thiamine deficiency and pellagra from niacin deficiency.
+
+Q: The most important buffer system of the extracellular fluid or plasma is the
+A) Protein buffer
+B) Phosphate buffer
+C) Bicarbonate-carbonic acid buffer
+D) Ammonia buffer
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: The bicarbonate-carbonic acid system is the principal buffer of extracellular fluid because its components are readily regulated: carbon dioxide by the lungs and bicarbonate by the kidneys. Phosphate and protein buffers act mainly within cells.
+
+Q: Bacteria that are spherical in shape are called
+A) Vibrios
+B) Spirilla
+C) Bacilli
+D) Cocci
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Cocci are spherical bacteria and may occur in pairs as diplococci, chains as streptococci, or clusters as staphylococci. Bacilli are rod-shaped, vibrios are comma-shaped, and spirilla are rigid spiral-shaped organisms.
+
+Q: After Gram staining, Gram-positive bacteria appear which colour under the microscope?
+A) Pink or red
+B) Colourless
+C) Green
+D) Purple or violet
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: Gram-positive bacteria have a thick peptidoglycan cell wall that retains the crystal violet-iodine complex, so they appear purple or violet. Gram-negative bacteria lose this stain, take up the safranin counterstain, and appear pink or red.
+
+Q: Which class of immunoglobulin can cross the human placenta to provide passive immunity to the fetus?
+A) IgA
+B) IgM
+C) IgE
+D) IgG
+Ans: D
+Topic: Basic Sciences
+Diff: hard
+Exp: IgG is the only immunoglobulin that crosses the placenta, conferring natural passive immunity on the newborn. IgM is the largest antibody and the first produced in infection, while secretory IgA predominates in breast milk and mucosal secretions.
+
+Q: Which route of drug administration provides 100 per cent bioavailability and the most rapid onset of action?
+A) Oral
+B) Intramuscular
+C) Subcutaneous
+D) Intravenous
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Intravenous administration delivers the drug directly into the bloodstream, giving complete bioavailability and the fastest onset because it bypasses absorption and first-pass metabolism. Oral drugs are subject to incomplete absorption and hepatic first-pass effect.
+
+Q: A drug that binds to a receptor and activates it to produce a biological response is called a/an
+A) Placebo
+B) Enzyme inhibitor
+C) Antagonist
+D) Agonist
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: An agonist binds to a receptor and activates it to produce an effect, mimicking the endogenous ligand. An antagonist binds but causes no activation and blocks agonist action, whereas a placebo contains no active pharmacological ingredient.
+
+Q: Propranolol is the prototype drug of which pharmacological class?
+A) ACE inhibitor
+B) Calcium channel blocker
+C) Diuretic
+D) Beta-adrenergic blocker
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: Propranolol is a non-selective beta-adrenergic receptor blocker used in hypertension, angina and arrhythmias. It antagonises catecholamine action at beta-1 and beta-2 receptors, reducing heart rate and myocardial contractility.

@@ -1,0 +1,281 @@
+# w1-obg-child — ingested draft, verify before trusting
+
+Q: During which phase of the endometrial cycle does progesterone from the corpus luteum convert the lining into a secretory glandular structure ready for implantation?
+A) Secretory phase
+B) Proliferative phase
+C) Menstrual phase
+D) Regenerative phase
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: After ovulation the corpus luteum secretes progesterone, which transforms the proliferative endometrium into a secretory one with tortuous glands and glycogen stores. This prepares the lining to receive the blastocyst for implantation.
+
+Q: Fertilisation of the ovum by the sperm most commonly takes place in which part of the fallopian tube?
+A) Ampulla
+B) Isthmus
+C) Infundibulum
+D) Interstitial part
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: The ampulla is the widest and longest segment of the tube, where the sperm normally meets and fertilises the ovum. The resulting zygote then travels toward the uterine cavity over the next few days for implantation.
+
+Q: Implantation of the blastocyst into the uterine endometrium normally occurs about how many days after fertilisation?
+A) 1 to 2 days
+B) 14 to 15 days
+C) 10 to 11 days
+D) 6 to 7 days
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The blastocyst reaches the uterine cavity around day 4 to 5 and begins to implant in the secretory endometrium about 6 to 7 days after fertilisation. The process of implantation is usually completed by about day 10 to 11.
+
+Q: The physiological fall in haemoglobin concentration during pregnancy is chiefly explained by which of the following?
+A) Increased red cell destruction
+B) A greater rise in plasma volume than in red cell mass
+C) Reduced erythropoietin secretion
+D) Chronic iron deficiency
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Plasma volume increases by about 45 to 50 per cent whereas red cell mass rises only around 20 to 30 per cent, producing a dilutional or physiological anaemia. This apparent fall in haemoglobin is maximal near 30 to 32 weeks of gestation.
+
+Q: All of the following are recognised antenatal danger signs that warrant urgent evaluation except
+A) Reduced or absent fetal movements
+B) Severe persistent headache with blurred vision
+C) Vaginal bleeding
+D) Mild bilateral ankle oedema in the third trimester
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Mild dependent ankle oedema is a common and benign finding in late pregnancy due to venous stasis. Vaginal bleeding, severe headache with visual disturbance, and reduced fetal movements are true danger signs requiring immediate assessment.
+
+Q: Under the DIPSI single-step protocol used in India, gestational diabetes is diagnosed when the two-hour plasma glucose after a 75 gram oral glucose load is at least
+A) 140 mg/dL
+B) 110 mg/dL
+C) 200 mg/dL
+D) 160 mg/dL
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: In the DIPSI test a 75 gram glucose load is given irrespective of the last meal and plasma glucose is measured at two hours. A value of 140 mg/dL or more diagnoses gestational diabetes, making it a convenient single-step field test.
+
+Q: According to ICMR grading of anaemia in pregnancy, a haemoglobin level of 7 to 10 g/dL is classified as
+A) Mild anaemia
+B) Moderate anaemia
+C) Severe anaemia
+D) Very severe anaemia
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: ICMR grades anaemia as mild at 10 to 10.9 g/dL, moderate at 7 to 10 g/dL, severe at 4 to 6.9 g/dL and very severe below 4 g/dL. Moderate anaemia usually requires oral or, if not tolerated, parenteral iron therapy.
+
+Q: A woman with severe hyperemesis gravidarum develops confusion, nystagmus and ataxia. This complication results from deficiency of which vitamin?
+A) Vitamin D
+B) Vitamin B1 or thiamine
+C) Vitamin B12
+D) Vitamin C
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Prolonged vomiting depletes thiamine and can precipitate Wernicke's encephalopathy, presenting with the triad of confusion, ophthalmoplegia or nystagmus, and ataxia. Thiamine must therefore be given before any glucose-containing infusion.
+
+Q: Twin-to-twin transfusion syndrome, in which one fetus becomes a donor and the other a recipient, occurs only in which type of twin pregnancy?
+A) Dizygotic
+B) Monochorionic
+C) Any dichorionic pregnancy
+D) Dichorionic diamniotic
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: This syndrome arises from placental vascular anastomoses shared by monochorionic twins who have a single placenta, causing unequal blood distribution. Dichorionic and dizygotic twins have separate placentas and are not affected.
+
+Q: Polyhydramnios is diagnosed when the total liquor volume exceeds approximately
+A) 500 mL
+B) 1000 mL
+C) 1500 mL
+D) 2000 mL
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Normal amniotic fluid at term is about 500 to 1500 mL; polyhydramnios is defined as more than 2000 mL or an amniotic fluid index above 25 cm. It is associated with fetal anomalies, maternal diabetes and multiple pregnancy.
+
+Q: Marked oligohydramnios detected in the second trimester is most classically associated with which fetal anomaly?
+A) Anencephaly
+B) Bilateral renal agenesis
+C) Duodenal atresia
+D) Oesophageal atresia
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Fetal urine is the main source of liquor in the second half of pregnancy, so bilateral renal agenesis, or Potter syndrome, causes severe oligohydramnios. Anencephaly and the atresias are instead linked with polyhydramnios.
+
+Q: In which type of breech presentation are the hips flexed and both knees extended, making it the commonest variety?
+A) Frank breech
+B) Complete breech
+C) Footling breech
+D) Knee presentation
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: In frank or extended breech the thighs are flexed on the abdomen while the legs are extended over the trunk, with the buttocks presenting. It is the commonest breech type, seen especially in primigravidae with good uterine tone.
+
+Q: The type of episiotomy most widely practised in India, chosen because it is less likely to extend into the anal sphincter, is the
+A) Lateral episiotomy
+B) Mediolateral episiotomy
+C) J-shaped episiotomy
+D) Median or midline episiotomy
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The mediolateral incision is directed away from the anus, reducing the risk of third and fourth degree extension into the sphincter and rectum. The median type heals better but carries a higher risk of anal extension.
+
+Q: Ventouse or vacuum extraction is generally avoided in a fetus of less than 34 weeks gestation mainly because of the risk of
+A) Erb's palsy
+B) Subgaleal or intracranial haemorrhage
+C) Facial nerve palsy
+D) Fractured clavicle
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: The preterm skull is soft and its vessels are fragile, so vacuum application increases the risk of subgaleal and intraventricular haemorrhage. For this reason forceps or caesarean section are preferred in very preterm deliveries.
+
+Q: The oral levonorgestrel emergency contraceptive pill is most effective when taken within how long after unprotected intercourse?
+A) Within 7 days
+B) Within 2 weeks
+C) Within 72 hours
+D) Within 10 days
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Levonorgestrel emergency contraception should be taken as early as possible and within 72 hours of unprotected sex, with efficacy declining as time passes. It works mainly by inhibiting or delaying ovulation, not by disrupting an established pregnancy.
+
+Q: Menopause is confirmed clinically only after menstruation has ceased continuously for at least
+A) 6 months
+B) 12 months
+C) 3 months
+D) 24 months
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Menopause is defined retrospectively as amenorrhoea for 12 consecutive months in the absence of any other cause. The average age of natural menopause in India is around 45 to 50 years, somewhat earlier than in Western populations.
+
+Q: On a standard growth chart, the single most useful indicator of an emerging nutritional problem in a child is
+A) The heights of the parents
+B) The child's recorded length at birth
+C) The direction and trend of the weight-for-age curve over time
+D) A single weight reading below the 50th percentile
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Serial plotting matters far more than any single reading; a weight curve that flattens or falls, crossing percentile lines downward, signals growth faltering. One point below the median may be perfectly normal for that individual child.
+
+Q: The mature pincer grasp, using the tip of the thumb and index finger to pick up a small object, is normally acquired by about
+A) 4 months
+B) 6 months
+C) 9 to 10 months
+D) 15 months
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The neat pincer grasp develops around 9 to 10 months, following the immature palmar grasp at about 6 months and raking at 7 to 8 months. Its appearance reflects normal fine-motor and neurological maturation.
+
+Q: Which of the following is a true contraindication to administering a live vaccine such as BCG or oral polio?
+A) Mild fever with cough and cold
+B) Breastfeeding
+C) Malnutrition
+D) Severe immunodeficiency, such as symptomatic HIV or AIDS
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Live vaccines are contraindicated in severe immunodeficiency because the attenuated organism may itself cause disease. Minor illness, malnutrition and breastfeeding are not contraindications and represent common missed-opportunity myths.
+
+Q: Under IMNCI, a child with diarrhoea who is restless or irritable, has sunken eyes, drinks eagerly, and whose skin pinch goes back slowly is classified as having
+A) Severe dehydration
+B) Persistent diarrhoea
+C) Some dehydration
+D) No dehydration
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The combination of restlessness, sunken eyes, eager drinking and a slow skin pinch indicates some dehydration, managed with ORS under Treatment Plan B. Severe dehydration instead shows lethargy, inability to drink and a very slowly returning skin pinch.
+
+Q: In the IMNCI classification of a child aged 2 months to 5 years with cough, the presence of lower chest wall indrawing indicates
+A) Bronchial asthma
+B) Severe pneumonia or very severe disease requiring referral
+C) No pneumonia, cough or cold
+D) Pneumonia to be treated at home
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Lower chest wall indrawing is a danger sign that classifies the illness as severe pneumonia, requiring a first dose of antibiotic and urgent referral. This is more serious than the classification based on raised respiratory rate alone.
+
+Q: Which intestinal helminth is the most important parasitic cause of iron-deficiency anaemia in children through chronic intestinal blood loss?
+A) Enterobius vermicularis or pinworm
+B) Hookworm, Ancylostoma or Necator
+C) Taenia saginata
+D) Ascaris lumbricoides
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Hookworms attach to the intestinal mucosa and suck blood, producing chronic occult blood loss and iron-deficiency anaemia. Pinworm mainly causes perianal itching and Ascaris may cause obstruction, but neither typically causes significant anaemia.
+
+Q: In the inpatient management of a child with severe acute malnutrition, the most immediately life-threatening complications to prevent during the stabilisation phase are
+A) Constipation
+B) Excess protein intake
+C) Slow weight gain
+D) Hypoglycaemia and hypothermia
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: During stabilisation, hypoglycaemia, hypothermia and dehydration are the main killers, so frequent F-75 feeds and warmth are essential. High-calorie catch-up feeding is deliberately delayed to avoid precipitating refeeding syndrome and cardiac failure.
+
+Q: A newborn with a cleft lip and palate mainly has difficulty with feeding because of
+A) Lack of hunger
+B) Complete oesophageal obstruction
+C) Absence of the swallowing reflex
+D) Inability to generate adequate suction
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The oro-nasal communication prevents an effective seal and negative pressure, so the baby cannot suck efficiently and may regurgitate through the nose or aspirate. Special cleft feeders, spoon or paladai feeding and an upright position help until surgical repair.
+
+Q: Down syndrome, the commonest chromosomal cause of intellectual disability, results from
+A) Monosomy X
+B) Trisomy 21
+C) Trisomy 13
+D) Trisomy 18
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Down syndrome is caused by an extra chromosome 21, or trisomy 21, most often from meiotic non-disjunction and commoner with advanced maternal age. Typical features include hypotonia, a flat facial profile, upslanting palpebral fissures and a single palmar crease.
+
+Q: Peri-conceptional supplementation of which vitamin markedly reduces the risk of neural tube defects such as spina bifida?
+A) Vitamin A
+B) Vitamin B12
+C) Vitamin K
+D) Folic acid
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Adequate folic acid before conception and in early pregnancy prevents failure of neural tube closure, lowering the risk of spina bifida and anencephaly. A daily dose of about 400 micrograms is advised, with higher doses for high-risk women.
+
+Q: Regarding a simple febrile convulsion, which statement is correct?
+A) It usually lasts more than 30 minutes
+B) It commonly leaves permanent neurological damage
+C) It typically occurs in infants under 3 months of age
+D) It occurs between 6 months and 5 years and is generally benign
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Simple febrile convulsions occur between 6 months and 5 years, are brief at under 15 minutes, generalised, and do not recur within 24 hours. They carry an excellent prognosis with no lasting brain damage, and management centres on controlling fever and parental reassurance.
+
+Q: In a child who has swallowed a corrosive substance such as an acid or alkali, the first-aid measure that is contraindicated is
+A) Inducing vomiting
+B) Removing any contaminated clothing
+C) Taking the child urgently to hospital
+D) Keeping the child calm
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Inducing vomiting after corrosive ingestion is dangerous because it re-exposes the oesophagus to the caustic agent and risks aspiration and perforation. The child should be kept calm and taken urgently to hospital with the container or label for identification.

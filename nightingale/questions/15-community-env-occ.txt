@@ -1,0 +1,301 @@
+# w1-community-a — ingested draft, verify before trusting
+
+Q: The most effective health education approach for changing the behaviour of an individual is
+A) Mass approach
+B) Poster campaign
+C) Group approach
+D) Individual approach
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: The individual or personal contact approach is most effective for behaviour change because it allows two-way discussion of personal problems and doubts. The mass approach reaches large numbers quickly but is least effective for changing individual behaviour.
+
+Q: Which one of the following is a purely auditory aid used in health education?
+A) Flash card
+B) Radio
+C) Poster
+D) Flannelgraph
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Radio, tape recorder and microphone are audio aids that appeal only to the sense of hearing. Poster, flannelgraph and flash card are non-projected visual aids that appeal to the sense of sight.
+
+Q: Retention of learning in health education is maximum when the method used is
+A) Learning by doing with active participation
+B) Viewing a poster
+C) Reading a printed pamphlet
+D) A lecture that is only heard
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: According to Dale's cone of experience, active participation or learning by doing gives the greatest retention of learning. Passive methods such as hearing a lecture or reading a pamphlet produce much lower retention.
+
+Q: Silicosis is an occupational lung disease caused by inhalation of dust containing
+A) Cotton dust
+B) Coal dust
+C) Asbestos fibres
+D) Free silica or silicon dioxide
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: Silicosis is caused by inhalation of free silica, affecting workers in mining, quarrying, sandblasting and pottery. Asbestos causes asbestosis, cotton dust causes byssinosis and coal dust causes anthracosis.
+
+Q: Byssinosis is an occupational disease associated with exposure to
+A) Lead fumes
+B) Asbestos fibres
+C) Cotton or flax dust
+D) Silica dust
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Byssinosis, or Monday fever, occurs in textile workers exposed to cotton, flax or hemp dust, with chest tightness typically felt on the first working day after a break. Silica causes silicosis and asbestos causes asbestosis, not byssinosis.
+
+Q: Which malignancy is characteristically associated with occupational exposure to asbestos?
+A) Mesothelioma
+B) Wilms tumour
+C) Osteosarcoma
+D) Retinoblastoma
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Asbestos exposure characteristically causes mesothelioma of the pleura or peritoneum, as well as bronchogenic carcinoma. Osteosarcoma, retinoblastoma and Wilms tumour have no established link with asbestos.
+
+Q: A characteristic early sign of chronic lead poisoning in adults is
+A) Koplik's spots on the buccal mucosa
+B) Bitot's spots on the conjunctiva
+C) A blue line on the gum margin, Burton's line
+D) Hutchinson's teeth
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: A blue-black lead line, Burton's line, at the gum margin is characteristic of chronic lead poisoning, along with anaemia, abdominal colic, basophilic stippling and wrist drop. Koplik's spots occur in measles and Bitot's spots in vitamin A deficiency.
+
+Q: The Employees State Insurance Act of 1948 provides all of the following benefits to insured workers except
+A) Maternity benefit
+B) Sickness benefit
+C) Disablement benefit
+D) Old age pension
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: The ESI scheme provides medical, sickness, maternity, disablement, dependant's and funeral benefits. Old-age pension is not an ESI benefit; retirement provision is covered under separate schemes such as the Employees Provident Fund.
+
+Q: Noise-induced occupational hearing loss characteristically produces its earliest audiometric dip at a frequency of
+A) 500 Hz
+B) 1000 Hz
+C) 4000 Hz
+D) 8000 Hz
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The earliest and most characteristic change in noise-induced hearing loss is a dip in the audiogram at 4000 Hz, the acoustic notch, which appears before the speech frequencies are affected. This precedes clinically obvious deafness and is useful for early detection.
+
+Q: The committee that reviewed school health services in India in 1960 to 1961 was headed by
+A) Dr M S Chadah
+B) Shrimati Renuka Ray
+C) Dr A L Mudaliar
+D) Sir Joseph Bhore
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: The School Health Committee of 1960 to 1961 was chaired by Shrimati Renuka Ray and assessed the health and nutrition of school children in India. Bhore, Mudaliar and Chadah chaired other well-known health committees.
+
+Q: The recommended minimum floor space per pupil in a school classroom by Indian standards is approximately
+A) 4 square feet
+B) 6 square feet
+C) 10 square feet
+D) 20 square feet
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Standards recommend about 10 square feet, roughly one square metre, of floor space per pupil, with not more than about 40 pupils per class, to prevent overcrowding. Adequate space also improves ventilation and reduces cross-infection.
+
+Q: The primary objective of the mid-day meal programme in schools is to
+A) Improve nutritional status and school attendance
+B) Reduce school fees
+C) Provide employment to cooks
+D) Reduce the teacher's workload
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: The mid-day meal programme aims to improve the nutritional status of children and to increase enrolment, retention and attendance while reducing classroom hunger. It supplies a defined share of the daily calorie and protein requirement.
+
+Q: In demography, an elderly or aged person in India is generally defined as one who has attained the age of
+A) 45 years
+B) 50 years
+C) 55 years
+D) 60 years
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: In India a person aged 60 years and above is considered elderly or a senior citizen. The rising proportion of the elderly increases the community burden of chronic and degenerative diseases.
+
+Q: The National Programme for the Health Care of the Elderly in India was launched in the year
+A) 1995
+B) 1982
+C) 2010 to 2011
+D) 2017
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The National Programme for the Health Care of the Elderly was launched in 2010 to 2011 to provide dedicated, accessible and affordable healthcare services to the elderly at various levels of the health system. It emphasises preventive, curative and rehabilitative geriatric care.
+
+Q: The commonest cause of accidental injury among the elderly in the community, requiring preventive attention, is
+A) Drowning
+B) Poisoning
+C) Burns
+D) Falls
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Falls are the most common cause of injury in the elderly because of impaired vision, poor balance, muscle weakness and environmental hazards. Prevention includes good lighting, grab bars, non-slip floors and removal of loose rugs.
+
+Q: In mass-casualty triage using colour coding, a victim tagged RED indicates
+A) Delayed priority, can safely wait
+B) Immediate priority, life-threatening but salvageable
+C) Minor injuries, the walking wounded
+D) Dead or moribund
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: RED denotes the first or immediate priority: serious, life-threatening injuries that are salvageable with prompt treatment. YELLOW is delayed, GREEN is minor or walking wounded, and BLACK is dead or expectant.
+
+Q: In disaster triage colour coding, which colour is assigned to victims who are dead or beyond salvageable help?
+A) Yellow
+B) Red
+C) Green
+D) Black
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: BLACK tags identify the dead or those whose injuries are so severe that survival is not expected even with treatment, the expectant category. GREEN is minor injury, YELLOW is delayed and RED is immediate priority.
+
+Q: The phase of the disaster management cycle that includes activities carried out before a disaster to reduce its impact, such as building codes and early warning systems, is
+A) Response phase
+B) Recovery phase
+C) Rehabilitation phase
+D) Mitigation and preparedness phase
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Mitigation and preparedness are pre-disaster phases aimed at reducing impact and readying the community through warning systems, drills and disaster-resistant construction. Response occurs during impact and recovery or rehabilitation afterwards.
+
+Q: In the immediate response phase after a sudden natural disaster such as an earthquake, the first priority of health management is
+A) Immunisation of the population against tetanus
+B) Search, rescue and first aid to casualties
+C) Mass chemoprophylaxis to prevent epidemics
+D) Rehabilitation and rebuilding of houses
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The immediate priority after a disaster is search, rescue, first aid and emergency medical care of the injured. Mass immunisation and blanket chemoprophylaxis are not indicated in the acute phase, and rehabilitation belongs to a later stage.
+
+Q: A latrine is considered sanitary primarily when it
+A) Is located inside the dwelling house
+B) Is constructed of concrete
+C) Prevents contamination of soil and water and excludes flies
+D) Is fitted with a water flush
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: A sanitary latrine must dispose of excreta so that it cannot contaminate soil, water or food and is inaccessible to flies and other vectors. The construction material, indoor location and presence of a flush are not the defining criteria.
+
+Q: In a Ventilated Improved Pit latrine, the vent pipe is fitted mainly to
+A) Supply water to the pit
+B) Support the superstructure
+C) Increase the capacity of the pit
+D) Control odour and trap flies
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The vent pipe of a VIP latrine, usually painted dark and topped with fly-proof netting, creates an air draught that removes odour and traps escaping flies, which are drawn towards the light at the screened top. This makes it superior to a simple pit latrine.
+
+Q: In a septic tank, the liquid effluent after retention is usually disposed of by
+A) A soak pit or subsurface dispersion trench
+B) Collection in sealed drums
+C) Spraying directly on vegetables
+D) Direct discharge into a river
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The effluent leaving a septic tank is still rich in bacteria and is disposed of through a soak pit or dispersion trenches, where it percolates and is purified by the soil. Direct discharge to surface water or crops is unsafe because pathogens survive.
+
+Q: The method of solid-waste disposal in which organic matter is decomposed by microorganisms to yield manure is
+A) Incineration
+B) Controlled tipping
+C) Composting
+D) Sanitary landfill
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Composting is a controlled aerobic decomposition of organic refuse, and sometimes night soil, by microorganisms into a humus-like manure. Incineration burns waste, while sanitary landfill and controlled tipping bury it in the earth.
+
+Q: Waste water from kitchens, bathrooms and washing that does not contain human excreta is termed
+A) Sullage
+B) Effluent
+C) Sewage
+D) Sludge
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: Sullage is waste water from kitchen, bathroom and washing that is free of human faecal matter, whereas sewage contains human excreta. Sludge is the semi-solid residue produced during sewage treatment.
+
+Q: The classic London smog disaster of 1952, which caused thousands of deaths, was mainly due to high atmospheric levels of
+A) Ozone and nitrogen dioxide
+B) Methane and ammonia
+C) Carbon monoxide and lead
+D) Sulphur dioxide and smoke particulates
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The 1952 London smog was a reducing or sulphurous smog caused by high levels of sulphur dioxide and smoke from coal burning under a temperature inversion. Photochemical or Los Angeles type smog, in contrast, involves ozone and oxides of nitrogen.
+
+Q: The air pollutant that has a high affinity for haemoglobin and causes tissue hypoxia by forming carboxyhaemoglobin is
+A) Sulphur dioxide
+B) Ozone
+C) Nitrogen dioxide
+D) Carbon monoxide
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Carbon monoxide, produced by incomplete combustion in vehicle exhaust and tobacco smoke, binds haemoglobin far more strongly than oxygen, forming carboxyhaemoglobin and causing tissue hypoxia. Sulphur dioxide and ozone act mainly as respiratory irritants.
+
+Q: Prolonged occupational or community exposure to noise above which of the following levels is generally regarded as hazardous to hearing?
+A) 85 to 90 dB
+B) 150 dB
+C) 45 dB
+D) 30 dB
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Continuous exposure above about 85 to 90 dB over an eight-hour day can cause noise-induced hearing loss, and 85 dB is taken as the safe limit. Very high levels such as 150 dB cause instantaneous damage, but everyday hazardous exposure begins near 85 to 90 dB.
+
+Q: According to the accepted overcrowding standard based on floor space, a room with 110 square feet or more of floor area should not be occupied by more than
+A) 1 person
+B) 2 persons
+C) 4 persons
+D) 6 persons
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: The standard permits 2 persons in a room of 110 square feet or more, 1.5 persons for 90 to 110 square feet and 1 person for 70 to 90 square feet. An infant under one year is not counted, and a child aged one to ten years is counted as half a person.
+
+Q: The type of ventilation that uses natural forces such as wind and temperature difference without any mechanical device is called
+A) Mechanical or artificial ventilation
+B) Air conditioning
+C) Exhaust ventilation
+D) Natural ventilation
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Natural ventilation relies on wind pressure, temperature-difference-induced convection or stack effect and diffusion to change indoor air without machinery. Mechanical, exhaust and air-conditioning systems all require powered devices to move air.
+
+Q: In modern sewage treatment, the activated sludge process is a form of
+A) Preliminary screening
+B) Tertiary chemical disinfection
+C) Primary or physical treatment
+D) Secondary or biological treatment
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: The activated sludge process is a secondary or biological treatment in which aerobic microorganisms oxidise dissolved organic matter in aerated tanks. Primary treatment is physical sedimentation, while final disinfection such as chlorination is a later step.

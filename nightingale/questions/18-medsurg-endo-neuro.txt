@@ -1,0 +1,301 @@
+# w1-medsurg-b — ingested draft, verify before trusting
+
+Q: Which finding is most characteristic of hyperthyroidism (Graves' disease)?
+A) Cold, dry skin with bradycardia
+B) Constipation and lethargy
+C) Exophthalmos and heat intolerance
+D) Weight gain despite poor appetite
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Graves' disease produces a hypermetabolic state with exophthalmos, heat intolerance, weight loss despite good appetite, tachycardia, and warm moist skin. The other options describe hypothyroidism.
+
+Q: A patient develops thyroid storm after thyroidectomy. Which finding is the hallmark of this crisis?
+A) Temperature 35 C with slow pulse
+B) Temperature 41 C with heart rate 160/min
+C) Serum sodium 118 mEq/L
+D) Blood glucose 40 mg/dL
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Thyroid storm is a life-threatening exacerbation of hyperthyroidism marked by extreme hyperpyrexia, severe tachycardia or tachyarrhythmias, and altered mental status. It requires urgent cooling, beta-blockers, and antithyroid drugs.
+
+Q: Which set of findings would the nurse expect in a patient with myxoedema coma?
+A) Hyperglycaemia and Kussmaul respirations
+B) Hypothermia, hyponatraemia, and depressed level of consciousness
+C) Fever, tachycardia, and hypertension
+D) Exophthalmos, tremor, and diarrhoea
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Myxoedema coma is severe decompensated hypothyroidism presenting with hypothermia, hyponatraemia, hypoventilation, bradycardia, and reduced consciousness. It is a medical emergency treated with IV thyroid hormone and supportive care.
+
+Q: Which clinical feature is most characteristic of Cushing's syndrome?
+A) Hyperpigmentation with hypotension
+B) Weight loss and hypoglycaemia
+C) Cold intolerance and periorbital oedema
+D) Truncal obesity with a moon face and buffalo hump
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Excess cortisol in Cushing's syndrome causes central truncal obesity, moon face, buffalo hump, purple striae, hyperglycaemia, and hypertension. Hyperpigmentation with hypotension instead suggests adrenal insufficiency.
+
+Q: Which statement correctly describes type 1 diabetes mellitus?
+A) It never leads to ketoacidosis
+B) It results from autoimmune destruction of pancreatic beta cells and requires insulin
+C) It is typically managed with diet and oral hypoglycaemics alone
+D) It is caused primarily by insulin resistance in obese adults
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Type 1 diabetes results from autoimmune destruction of insulin-producing beta cells, causing absolute insulin deficiency and lifelong insulin dependence. Type 2 is characterised by insulin resistance and relative deficiency, often in adults.
+
+Q: A patient with diabetes insipidus is most likely to show which findings?
+A) Hyponatraemia with weight gain
+B) Concentrated urine with fluid retention
+C) Large volumes of dilute urine with low urine specific gravity
+D) Oliguria with high urine osmolality
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Diabetes insipidus results from ADH deficiency or resistance, producing polyuria of dilute urine with low specific gravity, intense thirst, and risk of hypernatraemia and dehydration. Careful fluid balance and desmopressin are key to management.
+
+Q: Which nursing intervention is appropriate for a patient with syndrome of inappropriate antidiuretic hormone (SIADH)?
+A) Administer intravenous 5% dextrose freely
+B) Give desmopressin to reduce urine output
+C) Restrict fluids and monitor serum sodium
+D) Encourage a high fluid intake
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: SIADH causes excess ADH, water retention, dilutional hyponatraemia, and concentrated urine. Management centres on fluid restriction, monitoring serum sodium, and sometimes hypertonic saline; giving free water or desmopressin would worsen it.
+
+Q: Which nursing action is most appropriate for a patient with cirrhosis and ascites?
+A) Position the patient flat to ease breathing
+B) Measure abdominal girth and daily weight
+C) Restrict protein completely in all patients
+D) Encourage a high-sodium diet
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Monitoring abdominal girth and daily weight tracks fluid accumulation in ascites. Care includes sodium and fluid restriction, semi-Fowler's positioning to ease breathing, and diuretics; protein is moderated only if encephalopathy develops.
+
+Q: A cirrhotic patient with bleeding oesophageal varices is admitted. What is the nurse's priority?
+A) Encourage vigorous coughing
+B) Maintain airway and manage the haemorrhage
+C) Provide a high-fibre diet immediately
+D) Position the patient supine and flat
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Ruptured oesophageal varices cause massive upper GI bleeding, so airway protection and haemodynamic support are the priority. Management includes fluid and blood replacement, vasoactive drugs like octreotide, endoscopic banding, and balloon tamponade if needed.
+
+Q: Which laboratory finding best supports a diagnosis of acute pancreatitis?
+A) Markedly elevated serum amylase and lipase
+B) Elevated serum ammonia
+C) Elevated serum bilirubin only
+D) Decreased serum lipase
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Acute pancreatitis is confirmed by markedly raised serum amylase and, more specifically, lipase. Nursing care emphasises pain control, keeping the patient NPO to rest the pancreas, IV fluids, and monitoring for hypocalcaemia and shock.
+
+Q: Which feature distinguishes Crohn's disease from ulcerative colitis?
+A) It involves only the mucosal layer
+B) It is limited to the rectum and colon
+C) It causes transmural inflammation with skip lesions anywhere in the GI tract
+D) It always spares the small intestine
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Crohn's disease causes transmural inflammation with discontinuous skip lesions that may involve any part of the GI tract from mouth to anus. Ulcerative colitis is continuous, mucosal, and confined to the rectum and colon.
+
+Q: Which precaution is most important when caring for a patient with hepatitis B?
+A) Wearing a mask for all contact
+B) Strict fluid restriction
+C) Standard precautions with careful handling of blood and body fluids
+D) Airborne isolation in a negative-pressure room
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Hepatitis B is transmitted through blood and body fluids, so standard precautions with safe handling of needles and body fluids are essential. Hepatitis A and E spread by the faecal-oral route and require attention to hand hygiene and sanitation.
+
+Q: Which symptom is most characteristic of acute cholecystitis?
+A) Right upper quadrant pain after a fatty meal
+B) Painless jaundice with weight gain
+C) Burning epigastric pain relieved by food
+D) Lower left quadrant pain with diarrhoea
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Acute cholecystitis typically causes right upper quadrant pain, often after a fatty meal, with nausea and a positive Murphy's sign. Gallstones are the usual cause, and pain may radiate to the right shoulder or scapula.
+
+Q: Which finding would the nurse expect in a patient with mechanical small bowel obstruction?
+A) Abdominal distension with vomiting and high-pitched bowel sounds
+B) Increased frequency of normal bowel movements
+C) Soft non-tender abdomen with normal appetite
+D) Passage of large formed stools
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Mechanical bowel obstruction produces colicky pain, abdominal distension, vomiting, obstipation, and early high-pitched then later absent bowel sounds. Management includes NPO status, nasogastric decompression, and fluid and electrolyte replacement.
+
+Q: Which statement about stroke management is correct?
+A) CT scanning is unnecessary before treatment
+B) Thrombolytic therapy is used only for ischaemic stroke within the time window
+C) All strokes are treated with immediate anticoagulation
+D) Haemorrhagic stroke is treated with thrombolytics
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Thrombolytic therapy is indicated only for ischaemic stroke within the eligible time window and after haemorrhage is excluded by CT. Giving thrombolytics in haemorrhagic stroke would be catastrophic, so imaging always precedes treatment.
+
+Q: A patient with a right-hemisphere stroke has left homonymous hemianopia. Which rehabilitation approach is appropriate?
+A) Restrict the patient to bed to prevent falls
+B) Teach the patient to scan toward the affected side and approach from the unaffected side initially
+C) Speak only from the affected left side
+D) Avoid teaching because the deficit is permanent
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: With homonymous hemianopia the patient loses half the visual field, so teaching deliberate head-scanning toward the affected side improves safety. Initially placing objects and approaching from the intact side reduces neglect-related injury.
+
+Q: Which group of signs is characteristic of Parkinson's disease?
+A) Intention tremor with scanning speech and nystagmus
+B) Resting pill-rolling tremor, bradykinesia, rigidity, and shuffling gait
+C) Ascending flaccid paralysis
+D) Sudden hemiparesis and aphasia
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Parkinson's disease features the classic triad of resting pill-rolling tremor, bradykinesia, and cogwheel rigidity, along with a stooped posture and shuffling festinating gait. It results from dopamine depletion in the substantia nigra.
+
+Q: Which statement best describes multiple sclerosis?
+A) It is a chronic demyelinating disease with a relapsing-remitting course
+B) It is caused by dopamine deficiency
+C) It causes permanent flaccid paralysis within hours
+D) It is an acute bacterial infection of the meninges
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Multiple sclerosis is a chronic autoimmune demyelinating disease of the central nervous system, often following a relapsing-remitting pattern. Symptoms include fatigue, visual disturbances, weakness, and impaired coordination, and heat can worsen them.
+
+Q: A patient with myasthenia gravis develops worsening weakness. Which feature suggests myasthenic crisis rather than cholinergic crisis?
+A) Excessive salivation, diarrhoea, and muscle fasciculations
+B) Improvement of weakness after giving more anticholinesterase
+C) Weakness that worsens because of insufficient anticholinesterase medication
+D) Constricted pupils with abdominal cramps
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Myasthenic crisis is severe weakness from undermedication or a trigger, improving with anticholinesterase and needing airway support. Cholinergic crisis results from overmedication, causing muscarinic effects such as salivation, diarrhoea, and fasciculations.
+
+Q: Which assessment is the priority in a patient with Guillain-Barre syndrome?
+A) Checking pupillary size every shift
+B) Monitoring blood glucose hourly
+C) Monitoring respiratory function and vital capacity
+D) Assessing for a rigid, board-like abdomen
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Guillain-Barre syndrome causes an ascending paralysis that can involve the respiratory muscles, so serial vital capacity and respiratory monitoring are the priority. Declining vital capacity signals impending respiratory failure requiring ventilatory support.
+
+Q: Which finding supports a diagnosis of bacterial meningitis?
+A) Flaccid ascending paralysis
+B) Resting tremor and rigidity
+C) Nuchal rigidity with positive Kernig's and Brudzinski's signs
+D) Painless loss of vision
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Bacterial meningitis presents with fever, severe headache, photophobia, and nuchal rigidity, with positive Kernig's and Brudzinski's signs. Droplet precautions, prompt antibiotics, and neurological monitoring are essential nursing priorities.
+
+Q: Which precaution is essential when a nurse administers cytotoxic chemotherapy?
+A) Wear chemotherapy-rated gloves and gown and use a spill kit for spills
+B) Dispose of drug waste in the regular bin
+C) No special protective equipment is required
+D) Recap and reuse needles to reduce waste
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Cytotoxic drugs are hazardous, so nurses must use chemotherapy-rated gloves and gowns, prepare drugs in a biological safety cabinet, and manage spills with a designated spill kit. Waste and sharps go into labelled cytotoxic containers.
+
+Q: Which instruction is correct for a patient receiving external beam radiation therapy?
+A) Expose the irradiated skin to direct sunlight to promote healing
+B) Scrub the skin markings off daily
+C) Do not wash off skin markings and avoid lotions, powders, and sun exposure to the site
+D) Apply heating pads to the treatment site
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Radiation skin markings must be preserved to ensure accurate targeting, so the site is gently patted, not scrubbed. Patients should avoid lotions, powders, heat, friction, and sun exposure over the treated area to prevent skin breakdown.
+
+Q: According to the CAUTION warning signs of cancer, which of the following should prompt evaluation?
+A) Transient muscle soreness after exercise
+B) Occasional mild tension headache
+C) Brief seasonal sneezing
+D) A sore that does not heal or unusual bleeding or discharge
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: The CAUTION mnemonic highlights early cancer warning signs, including a change in bowel or bladder habits, a sore that does not heal, unusual bleeding or discharge, a lump, indigestion or dysphagia, an obvious change in a wart or mole, and a nagging cough.
+
+Q: Which is the primary goal of palliative and end-of-life care?
+A) Pursuing aggressive curative treatment at all costs
+B) Restricting family presence during the dying process
+C) Withholding all analgesia to preserve alertness
+D) Providing comfort and relief of symptoms such as pain and dyspnoea
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Palliative care focuses on comfort and quality of life, relieving distressing symptoms such as pain, dyspnoea, and nausea rather than curing disease. It supports the patient and family holistically, including emotional and spiritual needs.
+
+Q: An incomplete fracture in which the bone bends and cracks, common in children, is called a
+A) Pathological fracture
+B) Greenstick fracture
+C) Compound fracture
+D) Comminuted fracture
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: A greenstick fracture is an incomplete break where the bone bends and cracks, typical of children whose bones are more pliable. A comminuted fracture shatters into fragments, and a compound or open fracture breaks through the skin.
+
+Q: Which nursing action is appropriate for a patient with a newly applied plaster cast?
+A) Insert a knitting needle to scratch inside the cast
+B) Cover the wet cast with a blanket to speed drying
+C) Rest the wet cast on a hard flat surface
+D) Elevate the limb and perform neurovascular checks
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A new cast is elevated to reduce swelling, and frequent neurovascular checks of colour, warmth, pulses, capillary refill, movement, and sensation detect compromise early. The cast should dry uncovered, be handled with the palms, and nothing should be inserted inside it.
+
+Q: Which feature is more characteristic of rheumatoid arthritis than osteoarthritis?
+A) Involvement of weight-bearing joints from wear and tear
+B) Symmetric joint involvement with morning stiffness lasting more than one hour and systemic symptoms
+C) Heberden's nodes at the distal interphalangeal joints
+D) Asymmetric joint involvement with brief morning stiffness
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Rheumatoid arthritis is a systemic autoimmune disease causing symmetric joint inflammation, prolonged morning stiffness over an hour, fatigue, and fever. Osteoarthritis is a degenerative wear-and-tear disorder with asymmetric involvement and brief stiffness.
+
+Q: Which intervention helps prevent and manage osteoporosis?
+A) Avoiding all physical activity
+B) Strict bed rest to protect fragile bones
+C) A high-caffeine, high-alcohol diet
+D) Adequate calcium and vitamin D intake with weight-bearing exercise
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Osteoporosis is characterised by low bone density and increased fracture risk, so prevention relies on adequate calcium and vitamin D, weight-bearing exercise, and fall prevention. Smoking, excess alcohol, caffeine, and inactivity worsen bone loss.
+
+Q: Which statement about osteomyelitis is correct?
+A) It never requires surgical debridement
+B) It is best treated with a short single dose of oral antibiotics
+C) It is a bone infection usually requiring prolonged intravenous antibiotic therapy
+D) It is a non-infectious degeneration of cartilage
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Osteomyelitis is an infection of bone, most often bacterial, presenting with pain, fever, swelling, and warmth over the site. Treatment involves prolonged intravenous antibiotics and sometimes surgical debridement of necrotic sequestrum tissue.

@@ -1,0 +1,301 @@
+# w3-obg-d — ingested draft, verify before trusting
+
+Q: The most common congenital heart disease in children is:
+A) Tetralogy of Fallot
+B) Patent ductus arteriosus
+C) Ventricular septal defect
+D) Atrial septal defect
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Ventricular septal defect is the single most common congenital heart defect, accounting for roughly a quarter to a third of all cases seen in children.
+
+Q: Which of the following is a cyanotic congenital heart disease?
+A) Patent ductus arteriosus
+B) Tetralogy of Fallot
+C) Ventricular septal defect
+D) Atrial septal defect
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Tetralogy of Fallot causes right-to-left shunting and is a classic cyanotic lesion, whereas ASD, VSD and PDA are acyanotic left-to-right shunts.
+
+Q: A continuous "machinery" murmur best heard below the left clavicle is characteristic of:
+A) Atrial septal defect
+B) Coarctation of the aorta
+C) Patent ductus arteriosus
+D) Ventricular septal defect
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: A patent ductus arteriosus produces a continuous machinery murmur in the left infraclavicular area because abnormal flow persists through both systole and diastole.
+
+Q: Upper-limb hypertension with weak, delayed femoral pulses (radio-femoral delay) suggests:
+A) Ventricular septal defect
+B) Coarctation of the aorta
+C) Patent ductus arteriosus
+D) Transposition of the great arteries
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Coarctation narrows the aorta, producing upper-limb hypertension with weak, delayed femoral pulses and a measurable pressure gradient between the arms and the legs.
+
+Q: A wide, fixed splitting of the second heart sound is the classic auscultatory finding in:
+A) Atrial septal defect
+B) Ventricular septal defect
+C) Pulmonary stenosis
+D) Patent ductus arteriosus
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The wide, fixed splitting of the second heart sound reflects the constant left-to-right shunt across an atrial septal defect, which does not vary with respiration.
+
+Q: Tetralogy of Fallot consists of a ventricular septal defect, overriding aorta, pulmonary stenosis and:
+A) Patent ductus arteriosus
+B) Right ventricular hypertrophy
+C) Left ventricular hypertrophy
+D) Atrial septal defect
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: The tetralogy comprises a ventricular septal defect, overriding aorta, pulmonary stenosis and right ventricular hypertrophy that develops from the outflow obstruction.
+
+Q: The commonest cyanotic congenital heart disease presenting in the first days of life is:
+A) Total anomalous pulmonary venous connection
+B) Tetralogy of Fallot
+C) Tricuspid atresia
+D) Transposition of the great arteries
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Transposition of the great arteries is the commonest cyanotic lesion presenting in the first days of life; survival depends on mixing through a PDA or a septal defect.
+
+Q: During a hypercyanotic ("tet") spell, squatting relieves cyanosis mainly by:
+A) Lowering pulmonary vascular resistance
+B) Decreasing systemic venous return
+C) Slowing the heart rate
+D) Increasing systemic vascular resistance and reducing the right-to-left shunt
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Squatting kinks the femoral arteries and raises systemic vascular resistance, which reduces right-to-left shunting and forces more blood through the lungs, easing cyanosis.
+
+Q: The commonest cause of acute bronchiolitis in infants is:
+A) Haemophilus influenzae
+B) Streptococcus pneumoniae
+C) Parainfluenza virus
+D) Respiratory syncytial virus
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Respiratory syncytial virus is responsible for the majority of cases of acute bronchiolitis in infants under two years of age, particularly during winter epidemics.
+
+Q: A barking cough with inspiratory stridor and a "steeple sign" on neck X-ray in a toddler indicates:
+A) Acute epiglottitis
+B) Laryngotracheobronchitis (croup)
+C) Bronchiolitis
+D) Foreign body aspiration
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Croup is a viral (usually parainfluenza) infection producing a barking cough, inspiratory stridor and subglottic narrowing seen as the steeple sign on a neck radiograph.
+
+Q: An aspirated foreign body in a child most commonly lodges in the:
+A) Right main bronchus
+B) Trachea
+C) Left main bronchus
+D) Larynx
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: An aspirated foreign body most often enters the right main bronchus because it is wider, shorter and more vertical than the left, making it the path of least resistance.
+
+Q: An episode of childhood diarrhoea is labelled "persistent" when it lasts:
+A) More than 30 days
+B) 14 days or more
+C) More than 3 days
+D) More than 7 days
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: By standard paediatric and WHO definition, an episode of diarrhoea lasting 14 days or longer is termed persistent diarrhoea, distinguishing it from shorter acute diarrhoea.
+
+Q: Diarrhoea with visible blood in the stools (dysentery) in a child is most commonly caused by:
+A) Rotavirus
+B) Giardia lamblia
+C) Vibrio cholerae
+D) Shigella
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Dysentery means diarrhoea with visible blood, and Shigella is the commonest cause of bacillary dysentery in children; rotavirus and cholera produce watery, non-bloody stools.
+
+Q: Coeliac disease in children is caused by an immune reaction to:
+A) Fructose
+B) Lactose
+C) Gluten (gliadin)
+D) Cow's milk protein
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Coeliac disease is an immune-mediated enteropathy triggered by the gliadin fraction of gluten, causing villous atrophy; anti-tissue transglutaminase antibodies aid diagnosis.
+
+Q: "Red-currant-jelly" stools with a palpable sausage-shaped abdominal mass in an infant suggest:
+A) Necrotizing enterocolitis
+B) Pyloric stenosis
+C) Intussusception
+D) Hirschsprung disease
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Intussusception, the telescoping of one bowel segment into another, classically produces red-currant-jelly stools, colicky pain and a palpable sausage-shaped mass in infants.
+
+Q: Hirschsprung disease is characterized by:
+A) Absence of ganglion cells in the distal bowel
+B) Hypertrophy of the pyloric muscle
+C) Telescoping of one bowel segment into another
+D) Villous atrophy of the small intestine
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Hirschsprung disease results from failed migration of neural crest cells, leaving the distal bowel aganglionic; it presents with delayed passage of meconium and constipation.
+
+Q: The most common organism causing urinary tract infection in children is:
+A) Proteus mirabilis
+B) Klebsiella pneumoniae
+C) Escherichia coli
+D) Staphylococcus aureus
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Escherichia coli is by far the commonest organism causing urinary tract infection in children, responsible for the great majority of both cystitis and pyelonephritis cases.
+
+Q: Acute post-streptococcal glomerulonephritis in a child typically follows infection with:
+A) Staphylococcus aureus
+B) Group A beta-haemolytic streptococcus
+C) Streptococcus pneumoniae
+D) Escherichia coli
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Acute post-streptococcal glomerulonephritis follows throat or skin infection with nephritogenic group A streptococcus, presenting with haematuria, oedema, hypertension and low C3.
+
+Q: The most common primary malignant renal tumour of childhood is:
+A) Transitional cell carcinoma
+B) Neuroblastoma
+C) Wilms tumour (nephroblastoma)
+D) Renal cell carcinoma
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Wilms tumour (nephroblastoma) is the commonest primary renal malignancy of childhood, typically presenting as a painless, unilateral abdominal mass in a young child.
+
+Q: The most common clinical type of cerebral palsy is:
+A) Spastic
+B) Dyskinetic (athetoid)
+C) Ataxic
+D) Hypotonic
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Spastic cerebral palsy is the most common clinical type, characterized by increased muscle tone, brisk deep tendon reflexes and velocity-dependent resistance to passive movement.
+
+Q: In children older than 5 years, the two commonest causes of acute bacterial meningitis are:
+A) Streptococcus pneumoniae and Neisseria meningitidis
+B) Mycobacterium tuberculosis and Cryptococcus
+C) Group B streptococcus and Escherichia coli
+D) Listeria monocytogenes and Staphylococcus aureus
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Beyond the neonatal period and infancy, Streptococcus pneumoniae and Neisseria meningitidis are the leading causes of acute pyogenic meningitis in older children.
+
+Q: Simple cyanotic breath-holding spells in a toddler are:
+A) A form of epilepsy needing anticonvulsants
+B) An indication for lifelong cardiac pacing
+C) Benign spells triggered by crying or anger that resolve with age
+D) Caused by underlying structural brain disease
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Cyanotic breath-holding spells are benign, provoked by crying, anger or frustration, and typically resolve spontaneously by school age without requiring anticonvulsant therapy.
+
+Q: Beta-thalassaemia major is characterized by:
+A) Deficiency of glucose-6-phosphate dehydrogenase
+B) A structural point mutation producing HbS
+C) Antibody-mediated red cell destruction
+D) Deficient synthesis of beta-globin chains with raised HbF
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Beta-thalassaemia major arises from reduced or absent beta-globin chain synthesis, causing severe transfusion-dependent anaemia with a compensatory rise in fetal haemoglobin.
+
+Q: Haemophilia A in children is due to deficiency of:
+A) Factor VII, autosomal recessive
+B) Von Willebrand factor, autosomal dominant
+C) Factor IX, inherited X-linked recessive
+D) Factor VIII, inherited X-linked recessive
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Haemophilia A is an X-linked recessive disorder caused by deficiency of clotting factor VIII, presenting in boys with haemarthroses and deep soft-tissue bleeds.
+
+Q: The most common malignancy of childhood is:
+A) Acute lymphoblastic leukaemia
+B) Retinoblastoma
+C) Osteosarcoma
+D) Wilms tumour
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Acute lymphoblastic leukaemia is the commonest malignancy of childhood, peaking between 2 and 5 years and presenting with pallor, fever, bleeding and bone pain.
+
+Q: Type 1 diabetes mellitus in children is caused by:
+A) Excess growth hormone secretion
+B) Peripheral insulin resistance
+C) A defect in the insulin receptor gene
+D) Autoimmune destruction of pancreatic beta cells
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Type 1 diabetes results from T-cell-mediated autoimmune destruction of pancreatic islet beta cells, leading to absolute insulin deficiency and lifelong insulin dependence.
+
+Q: A type 1 diabetic child with vomiting, deep sighing (Kussmaul) breathing and a fruity breath odour most likely has:
+A) Hypoglycaemia
+B) Hyperosmolar non-ketotic coma
+C) Lactic acidosis
+D) Diabetic ketoacidosis
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Vomiting, deep sighing Kussmaul breathing and a fruity acetone breath odour indicate diabetic ketoacidosis, caused by insulin deficiency with ketone accumulation and metabolic acidosis.
+
+Q: Long-standing large left-to-right shunts (e.g., VSD) may lead to Eisenmenger syndrome, which is:
+A) Rheumatic valve stenosis
+B) Spontaneous closure of the defect
+C) Reversal of the shunt to right-to-left with cyanosis
+D) Development of infective endocarditis
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Persistent large left-to-right shunts raise pulmonary vascular resistance until the shunt reverses to right-to-left (Eisenmenger syndrome), producing cyanosis and precluding surgical repair.
+
+Q: Coarctation of the aorta is classically associated with which chromosomal disorder?
+A) Down syndrome
+B) Edward syndrome
+C) Klinefelter syndrome
+D) Turner syndrome
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Coarctation of the aorta is classically associated with Turner syndrome (45,X) and with a bicuspid aortic valve, so femoral pulses should always be checked in such girls.
+
+Q: The chief complication requiring iron-chelation therapy in transfusion-dependent beta-thalassaemia is:
+A) Iron overload (haemosiderosis)
+B) Folate deficiency
+C) Vitamin B12 deficiency
+D) Hypercalcaemia
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Repeated transfusions in beta-thalassaemia major cause iron overload (haemosiderosis) affecting the heart, liver and endocrine glands, necessitating iron-chelation therapy such as desferrioxamine.

@@ -1,0 +1,291 @@
+# w3-foundations-c — ingested draft, verify before trusting
+
+Q: When several blood specimens are drawn with the evacuated (vacutainer) tube system, which container should be filled first to prevent additive cross-contamination?
+A) Gray-top (fluoride) tube
+B) Blood culture bottle
+C) Lavender-top (EDTA) tube
+D) Light-blue-top (citrate) tube
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: The recommended order of draw places the sterile blood culture first, then coagulation (light blue), serum, heparin, EDTA, and finally fluoride tubes. Drawing cultures first preserves sterility and prevents additive carryover that would alter later test results.
+
+Q: The main reason for obtaining a midstream "clean-catch" urine specimen is to:
+A) Measure total urinary output accurately
+B) Collect urine that is relatively free of external contaminants for culture
+C) Determine the exact urine specific gravity
+D) Capture the very first portion of the urinary stream
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Cleaning the meatus and collecting the middle portion of the stream flushes away external organisms, giving a specimen that reflects bladder urine. This makes the culture result more reliable for diagnosing a urinary tract infection.
+
+Q: When starting a 24-hour urine collection, the nurse should:
+A) Collect every specimen in a separate sterile container
+B) Save the first voided specimen and record it as the start
+C) Discard the first voided specimen and begin timing from then
+D) Refrigerate only the last specimen of the period
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Timed collections begin with an empty bladder, so the first void is discarded and the clock starts at that moment. All subsequent urine, including a final void at the end of 24 hours, is saved and usually kept cool or on ice.
+
+Q: A stool specimen collected to detect ova and parasites should be:
+A) Delivered to the laboratory while still warm and fresh
+B) Mixed with tap water before transport
+C) Frozen for 24 hours before analysis
+D) Collected only after an oil-retention enema
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Trophozoites of parasites are best identified in a fresh, warm stool because motility and morphology deteriorate on cooling. The specimen must not be contaminated with urine, water, or toilet tissue, which can destroy or obscure organisms.
+
+Q: The most appropriate time to collect a sputum specimen for laboratory examination is:
+A) Immediately following a meal
+B) After the client rinses with antiseptic mouthwash
+C) Right before the client goes to sleep
+D) Early in the morning on awakening
+Ans: D
+Topic: Nursing Foundations
+Diff: easy
+Exp: Secretions accumulate in the airways overnight, so an early-morning cough yields the most concentrated, representative sputum. The client should rinse with plain water rather than mouthwash and cough deeply from the lungs, not expectorate saliva.
+
+Q: When obtaining a throat swab for culture, the nurse should firmly swab the:
+A) Anterior two-thirds of the tongue
+B) Hard palate and gum line
+C) Tonsillar areas and posterior pharyngeal wall
+D) Inner cheeks and buccal mucosa
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Pathogens such as group A streptococci localize on the tonsils and posterior pharynx, so both tonsillar arches and the back of the throat are swabbed. The tongue, cheeks, and lips are avoided to prevent contamination with normal oral flora.
+
+Q: Which type of wound débridement relies on the body's own enzymes and moisture, retained by a moisture-retentive dressing, to liquefy necrotic tissue?
+A) Mechanical débridement
+B) Autolytic débridement
+C) Sharp (surgical) débridement
+D) Enzymatic débridement
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Autolytic débridement uses occlusive or semi-occlusive dressings to trap wound fluid so endogenous enzymes can soften and separate dead tissue. It is selective and painless but slow, making it unsuitable for infected or heavily necrotic wounds needing rapid removal.
+
+Q: A hydrocolloid dressing is most appropriate for a wound that is:
+A) A deep tunneling wound with exposed bone
+B) Clean and dry to lightly exudating, requiring a moist environment
+C) Heavily draining and infected
+D) In need of hourly visual inspection
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Hydrocolloid dressings form a gel with wound exudate and maintain a moist, occlusive environment that supports granulation and autolytic débridement. They suit wounds with minimal to moderate drainage, not heavily exudating or clinically infected wounds.
+
+Q: A wet-to-dry gauze dressing accomplishes débridement by:
+A) Delivering topical collagenase to the wound bed
+B) Trapping debris in gauze that adheres as it dries and is then removed
+C) Sealing the wound to promote autolysis
+D) Applying continuous negative pressure
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: Moist gauze is applied and allowed to dry so that necrotic tissue and exudate adhere to it; removing the dried gauze mechanically pulls away the debris. Because this is nonselective, it can also strip healthy granulation tissue and cause pain on removal.
+
+Q: A Penrose drain is best described as a:
+A) Rigid tube used exclusively for pleural drainage
+B) Soft, open drain that permits passive drainage onto a dressing
+C) Self-contained bulb suction system
+D) Closed device attached to continuous wall suction
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: A Penrose is a flat, soft rubber tube that provides passive drainage by capillary action and gravity into an absorbent dressing. A sterile safety pin is often attached to the outer end to prevent the drain from slipping into the wound.
+
+Q: Continuous bubbling in the water-seal chamber of a closed chest drainage system most likely indicates:
+A) Normal, expected functioning of the system
+B) Complete re-expansion of the lung
+C) An air leak somewhere in the system
+D) A clot obstructing the chest tube
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: Intermittent bubbling or tidaling in the water-seal chamber is normal, but continuous bubbling signals that air is entering the system from the pleural space or a loose connection. The nurse should check all connections and the insertion site to locate the leak.
+
+Q: Which cluster of findings at a peripheral IV site best indicates infiltration?
+A) Purulent drainage with fever
+B) A red streak and palpable cord along the vein
+C) Swelling, coolness, and pallor with a slowed infusion
+D) Distended neck veins and bounding pulse
+Ans: C
+Topic: Nursing Foundations
+Diff: easy
+Exp: Infiltration occurs when IV fluid leaks into surrounding tissue, producing localized swelling, coolness, blanching, and often a decreased or stopped flow with no blood return. Warmth, redness, and a palpable cord instead suggest phlebitis.
+
+Q: The classic signs of phlebitis at a peripheral IV site are:
+A) A cold, hard, edematous area
+B) Sudden dyspnea and chest pain
+C) Redness, warmth, and tenderness along the course of the vein
+D) Coolness, pallor, and blanching of the skin
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Phlebitis is inflammation of the vein wall and presents with erythema, warmth, tenderness, and sometimes a palpable venous cord. Management includes discontinuing the IV, applying warm compresses, and restarting the line at a different site.
+
+Q: If air embolism is suspected during central or IV therapy, the nurse should immediately position the client:
+A) In high Fowler's position
+B) Sitting upright and leaning forward
+C) On the left side in Trendelenburg (head-down) position
+D) Prone with the head turned to one side
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: The left lateral Trendelenburg position traps air in the right atrium and ventricle away from the pulmonary outflow, allowing it to be absorbed gradually. Oxygen is given and the physician notified, while the catheter is clamped to prevent further air entry.
+
+Q: A transparent semipermeable dressing covering a peripheral IV site should be changed when it:
+A) The client reports mild thirst
+B) Has been in place for exactly 12 hours
+C) Is replaced every time a new bag of fluid is hung
+D) Becomes damp, loosened, or visibly soiled
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: Transparent dressings are changed when their integrity is compromised, that is, when they are wet, loose, or soiled, or with catheter replacement per policy. Intact transparent dressings also allow continuous inspection of the site for early signs of complications.
+
+Q: Which practice is a core element of the central-line bundle for preventing catheter-associated bloodstream infection?
+A) Selecting the femoral vein preferentially in adults
+B) Hand hygiene and chlorhexidine skin antisepsis with maximal barrier precautions
+C) Leaving catheter hubs uncapped for quicker access
+D) Routinely replacing the catheter every 24 hours
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: The CLABSI prevention bundle emphasizes hand hygiene, chlorhexidine skin preparation, maximal sterile barriers at insertion, optimal site selection avoiding the femoral vein, and daily review of line necessity. Routine scheduled replacement of central lines is not recommended.
+
+Q: To help prevent catheter-associated urinary tract infection, the urinary drainage bag should be kept:
+A) Below the level of the bladder at all times
+B) Above the level of the bladder
+C) Level with the client's chest
+D) Clamped except at scheduled voiding times
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Positioning the bag below the bladder uses gravity to keep urine flowing downward and prevents reflux of contaminated urine back into the bladder. The tubing should also be kept free of dependent loops and the closed drainage system maintained.
+
+Q: Before removing an indwelling urinary catheter, the nurse must first:
+A) Completely deflate the retention balloon by aspirating with a syringe
+B) Cut the inflation valve to release the water
+C) Clamp the catheter for a full 24 hours
+D) Instill sterile saline to expand the balloon
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: The balloon must be fully deflated by withdrawing all the sterile water with a syringe so it returns to catheter size for atraumatic removal. Cutting the inflation port is unreliable and may leave the balloon partly inflated, causing urethral trauma.
+
+Q: A healthy, well-perfused colostomy stoma normally appears:
+A) Dusky blue to black
+B) White and firm
+C) Pale pink and dry
+D) Pink to red and moist
+Ans: D
+Topic: Nursing Foundations
+Diff: easy
+Exp: A viable stoma is pink to brick-red and moist, reflecting a good blood supply, and it may bleed slightly when cleaned. A dark, dusky, or black stoma indicates ischemia and must be reported to the surgeon immediately.
+
+Q: When cutting the skin barrier of a colostomy appliance, the opening should be approximately:
+A) About 3 mm (1/8 inch) larger than the stoma
+B) Slightly smaller than the stoma to grip it
+C) Exactly the same size as the stoma
+D) Twice the diameter of the stoma
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: An opening about 1/8 inch larger than the stoma protects the surrounding skin from effluent while avoiding constriction of the stoma. An opening that is too large exposes skin to irritating output, and one that is too small can injure the stoma.
+
+Q: During tracheostomy suctioning, negative pressure should be applied:
+A) Only while advancing the catheter downward
+B) Only while withdrawing the catheter, for no more than 10-15 seconds
+C) For at least 30 seconds to remove all secretions
+D) Continuously during both insertion and withdrawal
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Suction is applied intermittently only as the catheter is withdrawn, limiting each pass to about 10-15 seconds to minimize hypoxia and mucosal trauma. The client is hyperoxygenated before and after, and suctioning on insertion would needlessly remove oxygen.
+
+Q: Which items must always be kept at the bedside of a client with a new tracheostomy for emergency use?
+A) The obturator and a spare tracheostomy tube of the same size
+B) A rigid oral airway and tongue depressor
+C) A chest tube insertion tray
+D) A pair of sterile suture scissors
+Ans: A
+Topic: Nursing Foundations
+Diff: hard
+Exp: If the tube is accidentally dislodged, the obturator is needed to reinsert a tube, and a spare tube of the same size (and one smaller) allows prompt reestablishment of the airway. These, along with suction equipment, are essential bedside emergency supplies.
+
+Q: The correct way to estimate the length of nasogastric tube to insert is to measure from the:
+A) Mouth to the mid-sternum
+B) Chin to the iliac crest
+C) Tip of the nose to the earlobe to the xiphoid process
+D) Tip of the nose to the umbilicus
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: The NEX measurement (nose to earlobe to xiphoid) approximates the distance to the stomach and is marked on the tube before insertion. Placement is then confirmed by aspirate pH testing and, definitively, by radiography before the tube is used.
+
+Q: When a high gastric residual volume is aspirated before an intermittent NG feeding, the nurse should initially:
+A) Flush with 500 mL of water and continue as scheduled
+B) Immediately remove the nasogastric tube
+C) Hold the feeding, reassess, and follow facility protocol
+D) Discard the aspirate and double the next feeding
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: A high residual may indicate delayed gastric emptying and increased aspiration risk, so the feeding is held and the client reassessed per protocol before resuming. Aspirated contents are usually returned rather than discarded to avoid loss of electrolytes and gastric fluid.
+
+Q: Local application of cold produces which physiological effect?
+A) Vasodilation with increased blood flow
+B) Vasoconstriction with reduced swelling and bleeding
+C) Raised local tissue metabolism
+D) Increased capillary permeability
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Cold causes vasoconstriction, which decreases blood flow, edema, bleeding, and inflammation, and it reduces pain by slowing nerve conduction. It is therefore useful in the early management of sprains and other acute injuries.
+
+Q: The "rebound phenomenon" seen with prolonged heat application means that, after maximum vasodilation at about 20-30 minutes, continued application causes:
+A) Vasodilation to keep increasing indefinitely
+B) Complete cessation of blood flow to the part
+C) The skin to become permanently anesthetized
+D) The blood vessels to begin constricting (the opposite effect)
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: Tissues reach their maximal therapeutic response after roughly 20-30 minutes, after which the reverse (rebound) effect begins and vessels constrict despite continued heat. Because of this, heat applications are time-limited to preserve benefit and prevent tissue injury.
+
+Q: A T-binder is most commonly used to:
+A) Hold dressings in place over the perineum or rectal area
+B) Immobilize a fractured clavicle
+C) Support pendulous breasts
+D) Support the abdomen after abdominal surgery
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: The T-binder (single-tail for females, double-tail for males) secures perineal, rectal, or genital dressings that are otherwise difficult to keep in place. A straight abdominal binder, by contrast, is used to support the abdomen and a surgical incision.
+
+Q: During gastric lavage for poisoning, the client is best positioned in the:
+A) Right lateral position with the head elevated
+B) High Fowler's upright position
+C) Left lateral position, often with the head slightly lowered
+D) Supine position with the head of the bed flat
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: The left lateral position with a slight head-down tilt keeps the pylorus uppermost, slowing passage of stomach contents into the duodenum and reducing aspiration risk. A protected airway is essential, and obtunded clients may require endotracheal intubation before lavage.
+
+Q: Which nursing action is part of performing last offices (care of the body after death)?
+A) Positioning the body in alignment and closing the eyes before rigor mortis develops
+B) Elevating the head of the bed to a 90-degree angle
+C) Removing all identification tags from the body
+D) Leaving the dentures out and the mouth open
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Last offices include straightening the body in natural supine alignment, closing the eyes and mouth, and inserting dentures before rigor mortis sets in, usually within 2-4 hours. Identification is verified and kept in place, and the body is cleaned and made presentable for the family.

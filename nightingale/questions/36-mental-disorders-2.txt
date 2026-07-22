@@ -1,0 +1,301 @@
+# w3-mental-b — ingested draft, verify before trusting
+
+Q: Russell's sign, seen in patients with long-standing bulimia nervosa, refers to:
+A) Erosion of dental enamel
+B) Callus or scarring over the knuckles from self-induced vomiting
+C) Fine downy lanugo hair over the body
+D) Bilateral parotid gland enlargement
+Ans: B
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Russell's sign is a callus or abrasion on the dorsum of the hand and knuckles caused by repeated contact with the teeth during self-induced vomiting. It is a classic physical marker of chronic bulimia nervosa.
+
+Q: The most dangerous electrolyte disturbance resulting from repeated purging in bulimia nervosa is:
+A) Hypernatraemia
+B) Hypokalaemia
+C) Hyperchloraemia
+D) Hypercalcaemia
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Repeated vomiting and laxative misuse cause loss of potassium, producing hypokalaemia that can precipitate cardiac arrhythmias and sudden death. Monitoring serum potassium is essential in purging-type eating disorders.
+
+Q: Binge-eating disorder is differentiated from bulimia nervosa mainly by the:
+A) Absence of regular inappropriate compensatory behaviour
+B) Marked concern about body shape and weight
+C) Presence of recurrent binge-eating episodes
+D) Feeling of loss of control while eating
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Both conditions involve recurrent binges with loss of control, but binge-eating disorder lacks the regular compensatory behaviours (vomiting, laxatives, fasting, exercise) seen in bulimia. Patients are therefore often overweight or obese.
+
+Q: Refeeding syndrome, a risk when nutrition is restarted in a severely malnourished eating-disorder patient, is characterised chiefly by:
+A) Hyperkalaemia and hypernatraemia
+B) Hyperphosphataemia and hyperglycaemia
+C) Hypophosphataemia with fluid and electrolyte shifts
+D) Hypercalcaemia and metabolic alkalosis
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: When feeding resumes, an insulin surge drives phosphate, potassium and magnesium into cells, causing dangerous hypophosphataemia and fluid shifts. This can lead to cardiac failure, arrhythmia and death, so refeeding must begin slowly with monitoring.
+
+Q: Insomnia is best defined as:
+A) Difficulty initiating or maintaining sleep, or non-restorative sleep
+B) Excessive daytime sleepiness despite adequate night sleep
+C) Recurrent irresistible attacks of sleep during the day
+D) Abnormal behaviour or events occurring during sleep
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Insomnia is a subjective complaint of difficulty falling asleep, staying asleep, early-morning waking, or poor-quality sleep with daytime impairment. It is the most common sleep disorder encountered in clinical practice.
+
+Q: In narcolepsy, the sudden bilateral loss of muscle tone triggered by strong emotion is termed:
+A) Cataplexy
+B) Catatonia
+C) Cataphasia
+D) Catalepsy
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Cataplexy is a brief, sudden loss of voluntary muscle tone provoked by emotions such as laughter or anger, and is a hallmark of narcolepsy. It occurs with preserved consciousness, unlike a seizure.
+
+Q: Narcolepsy with cataplexy is most closely linked to a deficiency of which hypothalamic neuropeptide?
+A) Orexin (hypocretin)
+B) Gamma-aminobutyric acid
+C) Melatonin
+D) Serotonin
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Narcolepsy type 1 results from loss of hypothalamic neurons producing orexin (hypocretin), which normally stabilises wakefulness and suppresses REM sleep. Low CSF orexin levels support the diagnosis.
+
+Q: The treatment of choice for moderate-to-severe obstructive sleep apnoea is:
+A) Selective serotonin reuptake inhibitors
+B) Long-term benzodiazepine therapy
+C) Stimulant medication at bedtime
+D) Continuous positive airway pressure (CPAP)
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: CPAP delivers positive pressure that splints the upper airway open, preventing the repetitive collapse and apnoeas of obstructive sleep apnoea. Sedatives are avoided as they worsen airway collapse and respiratory depression.
+
+Q: Somnambulism (sleepwalking) characteristically arises during:
+A) Rapid eye movement (REM) sleep
+B) Slow-wave (deep NREM) sleep
+C) Stage 2 NREM sleep
+D) Sleep-onset stage 1
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Sleepwalking is a NREM parasomnia occurring during slow-wave sleep, usually in the first third of the night. The person has little or no recall of the episode, and it is common in children.
+
+Q: Gender dysphoria is characterised by:
+A) Recurrent urges to expose one's genitals to strangers
+B) Sexual arousal derived from inanimate objects
+C) Marked incongruence between one's experienced gender and assigned sex, causing distress
+D) Sexual attraction directed towards the same gender
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Gender dysphoria refers to clinically significant distress arising from a mismatch between an individual's experienced or expressed gender and the sex assigned at birth. It is distinct from sexual orientation.
+
+Q: Vaginismus is best described as:
+A) Involuntary spasm of the perivaginal muscles preventing penetration
+B) Persistent lack of sexual desire or interest
+C) Inability to achieve orgasm despite adequate stimulation
+D) Pain experienced only after intercourse
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Vaginismus involves recurrent involuntary contraction of the outer vaginal and perineal muscles, making penetration painful or impossible. It is a sexual pain and penetration disorder often with a psychological component.
+
+Q: Hypochondriasis is characterised by:
+A) Multiple recurrent physical complaints across several systems
+B) Persistent preoccupation with the fear of having a serious illness
+C) Preoccupation with an imagined defect in physical appearance
+D) Loss of a physical function without organic basis
+Ans: B
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Hypochondriasis (illness anxiety) is a persistent preoccupation with, and fear of, having one or more serious diseases, based on misinterpretation of normal bodily sensations. Reassurance gives only brief relief.
+
+Q: Somatisation disorder (Briquet's syndrome) is best characterised by:
+A) Multiple, recurrent, changing physical complaints involving several organ systems
+B) A single medically unexplained neurological deficit
+C) Preoccupation with a perceived bodily defect
+D) Fixed conviction of suffering from one specific disease
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Somatisation disorder involves numerous recurring, often changing, physical symptoms across multiple organ systems for which no adequate physical cause is found. It usually begins before age 30 and follows a chronic course.
+
+Q: Body dysmorphic disorder is defined by:
+A) An intense fear of gaining weight
+B) Preoccupation with an imagined or slight defect in physical appearance
+C) Fixed false belief of having a serious disease
+D) Multiple unexplained somatic complaints
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: In body dysmorphic disorder the person is preoccupied with a perceived flaw in appearance that is unnoticeable or slight to others, leading to repetitive checking or camouflaging. It causes marked distress and impairment.
+
+Q: Obsessions in obsessive-compulsive disorder are:
+A) Repetitive purposeful behaviours performed to reduce anxiety
+B) False sensory perceptions without an external stimulus
+C) Recurrent, intrusive, unwanted thoughts, images or impulses
+D) Fixed false beliefs held despite contrary evidence
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Obsessions are recurrent, persistent, intrusive and unwanted thoughts, images or urges that cause marked anxiety and are recognised by the patient as their own. Compulsions are the repetitive acts performed to neutralise them.
+
+Q: The most effective specific psychological treatment for obsessive-compulsive disorder is:
+A) Systematic desensitisation
+B) Free association
+C) Exposure and response prevention
+D) Aversion therapy
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Exposure and response prevention (ERP), a form of behaviour therapy, exposes the patient to anxiety-provoking triggers while preventing the compulsive response. Combined with SSRIs it is first-line treatment for OCD.
+
+Q: Trichotillomania, classified among obsessive-compulsive and related disorders, refers to:
+A) Compulsive skin-picking causing lesions
+B) Repetitive hand-washing rituals
+C) Compulsive hoarding of worthless objects
+D) Recurrent pulling out of one's own hair causing hair loss
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Trichotillomania is characterised by recurrent, irresistible pulling out of one's hair, resulting in noticeable hair loss, with repeated attempts to stop. It is grouped with OCD-related disorders in modern classifications.
+
+Q: Adjustment disorder is best described as:
+A) A lifelong maladaptive pattern of behaviour
+B) Maladaptive emotional or behavioural symptoms arising within three months of an identifiable stressor
+C) A psychotic reaction lasting more than six months
+D) Emotional symptoms arising without any identifiable stressor
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Adjustment disorder involves emotional or behavioural symptoms developing within three months of an identifiable psychosocial stressor and typically resolving within six months of its cessation. The reaction is out of proportion to the stressor.
+
+Q: A characteristic feature of acute and transient psychotic disorder is:
+A) Persistent symptoms lasting more than one year
+B) Insidious onset over many months
+C) Abrupt onset of psychotic symptoms with recovery usually within a few weeks
+D) Absence of any preceding acute stress
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Acute and transient psychotic disorders have an abrupt onset (within two weeks) of psychotic symptoms, often following acute stress, with full recovery typically within weeks to a few months. Rapidly changing (polymorphic) symptoms are common.
+
+Q: Depressive pseudodementia in the elderly is best distinguished from true dementia by:
+A) Patients concealing or minimising their memory problems
+B) Gradual insidious progressive decline
+C) Cognitive impairment that improves when the depression is treated
+D) Consistently poor effort with confabulation
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: In depressive pseudodementia the cognitive deficits are secondary to depression and typically reverse once the mood disorder is adequately treated. Such patients often complain prominently of memory loss and answer "I don't know", unlike true dementia.
+
+Q: The hallmark clinical feature of delirium in an elderly patient is:
+A) Acute onset of fluctuating consciousness and impaired attention
+B) Clear consciousness with stable attention
+C) Slowly progressive memory loss over years
+D) Fixed persecutory delusions with intact orientation
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Delirium is an acute, fluctuating disturbance of consciousness and attention, usually with disorientation and altered sleep-wake cycle, developing over hours to days. It is a medical emergency requiring identification of the underlying cause.
+
+Q: Which feature most reliably differentiates delirium from dementia?
+A) Acute onset with clouding of consciousness
+B) Presence of memory impairment
+C) Occurrence in elderly patients
+D) Presence of disorientation
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Both delirium and dementia impair memory and orientation, but delirium is distinguished by acute onset, clouding and fluctuation of consciousness, and impaired attention. Dementia typically has a gradual onset with clear consciousness until late stages.
+
+Q: According to standard suicide risk assessment, which factor increases the risk of completed suicide?
+A) Strong social and family support
+B) Female sex and younger age
+C) Male sex, living alone, and a previous suicide attempt
+D) Absence of any psychiatric illness
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Higher risk of completed suicide is associated with male sex, older age, social isolation, previous attempts, chronic illness and psychiatric disorder, as captured by tools like the SAD PERSONS scale. A prior attempt is one of the strongest predictors.
+
+Q: A patient who has a definite suicidal plan, the means available, and has settled personal affairs is best classified as being at:
+A) Risk only of self-harm, not suicide
+B) Low risk
+C) High (imminent) risk requiring urgent intervention
+D) No current risk
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: The presence of a specific plan, available lethal means, and preparatory acts such as making a will or giving away belongings indicates high, imminent suicide risk. Such a patient needs constant observation and emergency psychiatric intervention.
+
+Q: Deliberate self-harm differs from suicide primarily in that:
+A) It never causes physical injury
+B) The primary intention is usually not to die
+C) It carries no risk of future suicide
+D) It is always a sign of psychosis
+Ans: B
+Topic: Mental Health Nursing
+Diff: easy
+Exp: In deliberate self-harm the intent is usually to relieve distress or communicate rather than to end life, though injury does occur. However, self-harm is an important risk factor for later completed suicide and must be taken seriously.
+
+Q: The shift from long-stay mental hospitals to community-based care is known as:
+A) Milieu therapy
+B) Institutionalisation
+C) Custodial care
+D) Deinstitutionalisation
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Deinstitutionalisation is the policy of moving patients from large psychiatric institutions to community-based services and rehabilitation. It aims to reduce chronic institutional dependence and promote social reintegration.
+
+Q: The main aim of psychiatric (psychosocial) rehabilitation is to:
+A) Help the person attain optimal functioning and social reintegration
+B) Provide lifelong custodial hospital care
+C) Achieve complete cure of the underlying illness
+D) Replace all pharmacological treatment
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Psychosocial rehabilitation focuses on restoring the individual's skills, functioning and social roles despite residual illness, promoting independence and community living. It includes vocational training, social-skills training and family support.
+
+Q: Which of the following is considered a psychiatric emergency?
+A) A patient expressing active suicidal intent with a plan
+B) A patient requesting a routine follow-up appointment
+C) A stable long-term medication review
+D) Mild situational anxiety before an examination
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: A psychiatric emergency is an acute disturbance of behaviour, thought or mood that, if untreated, may harm the patient or others; active suicidal intent with a plan is a clear example. Immediate assessment and safety measures are required.
+
+Q: The immediate priority in managing an acutely violent, agitated psychiatric patient is:
+A) Arranging occupational therapy
+B) Ensuring the safety of the patient, staff and others
+C) Starting long-term mood-stabiliser therapy
+D) Obtaining a detailed past psychiatric history
+Ans: B
+Topic: Mental Health Nursing
+Diff: hard
+Exp: In a psychiatric emergency involving aggression, the first priority is ensuring safety through de-escalation, adequate staffing and, if needed, physical restraint and rapid tranquillisation. History and definitive treatment follow once the situation is controlled.
+
+Q: A half-way home in psychiatric rehabilitation is best described as:
+A) A closed custodial institution for chronic patients
+B) A transitional residential facility bridging hospital and independent community living
+C) An acute-care inpatient psychiatric ward
+D) A centre providing only outpatient medication
+Ans: B
+Topic: Mental Health Nursing
+Diff: easy
+Exp: A half-way home is a supervised transitional residence for recovering psychiatric patients who no longer need hospital care but are not yet ready for fully independent living. It helps them relearn social and daily-living skills before community reintegration.

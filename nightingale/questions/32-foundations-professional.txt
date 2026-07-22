@@ -1,0 +1,301 @@
+# w3-foundations-d — ingested draft, verify before trusting
+
+Q: In which year was Florence Nightingale born?
+A) 1810
+B) 1820
+C) 1830
+D) 1840
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Florence Nightingale was born on 12 May 1820 in Florence, Italy. She is regarded as the founder of modern nursing, and her birthday is celebrated worldwide as International Nurses Day.
+
+Q: Which famous book was written by Florence Nightingale?
+A) Gray's Anatomy
+B) Textbook of Medicine
+C) Principles of Surgery
+D) Notes on Nursing
+Ans: D
+Topic: Nursing Foundations
+Diff: easy
+Exp: Florence Nightingale wrote "Notes on Nursing: What It Is and What It Is Not" in 1859. It outlined her ideas on patient care and the environment and is considered a foundational nursing text.
+
+Q: Florence Nightingale is popularly remembered by which title?
+A) Sister of Mercy
+B) The First Matron
+C) The Lady with the Lamp
+D) Mother of India
+Ans: C
+Topic: Nursing Foundations
+Diff: easy
+Exp: She earned the title "The Lady with the Lamp" for making night rounds to care for wounded soldiers during the Crimean War. This image came to symbolize compassionate nursing care.
+
+Q: During which war did Florence Nightingale gain fame for organizing the care of wounded soldiers?
+A) Boer War
+B) American Civil War
+C) Crimean War
+D) World War I
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Nightingale served at Scutari during the Crimean War (1853-1856), where she sharply reduced mortality by improving sanitation and hygiene. Her work established the value of trained nursing and environmental reform.
+
+Q: Communication conveyed through gestures, posture, and facial expressions is called:
+A) Non-verbal communication
+B) Written communication
+C) Verbal communication
+D) Formal communication
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Non-verbal communication transmits messages without words, using body language, gestures, eye contact, and facial expressions. It often conveys emotions more accurately than spoken words.
+
+Q: Florence Nightingale's Environmental Theory primarily focuses on:
+A) Manipulating the environment to promote healing
+B) Genetic counselling of patients
+C) Complex surgical techniques
+D) Advanced pharmacological therapy
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Nightingale's theory holds that a clean, well-ventilated, and calm environment supports the patient's natural reparative processes. The nurse's role is to alter the environment to promote recovery.
+
+Q: Which of the following is NOT one of the major environmental components emphasized in Nightingale's theory?
+A) Pure fresh air
+B) Genetic inheritance
+C) Pure water
+D) Adequate light
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Nightingale identified factors such as pure air, pure water, efficient drainage, cleanliness, and light as essential to health. Genetic inheritance was not part of her environmental framework.
+
+Q: Which of the following is a characteristic of a profession?
+A) Complete lack of autonomy
+B) A specialized body of knowledge and a code of ethics
+C) Absence of a code of ethics
+D) No systematic body of knowledge
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: A profession is characterized by a unique body of knowledge, prolonged specialized education, a code of ethics, autonomy, and a service orientation. Nursing meets these criteria as a profession.
+
+Q: The International Council of Nurses (ICN), the first international professional nursing organization, was founded in:
+A) 1912
+B) 1949
+C) 1899
+D) 1923
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: The ICN was established in 1899, making it one of the oldest international professional organizations. It works to advance nursing standards, welfare, and health policy worldwide.
+
+Q: The basic elements of the communication process include:
+A) Sender, message, channel, receiver, and feedback
+B) Only the sender and the receiver
+C) Only feedback and silence
+D) Only the message and noise
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Effective communication involves a sender who encodes a message, a channel or medium, a receiver who decodes it, and feedback. Barriers or "noise" may interfere at any stage of this process.
+
+Q: A noisy environment that interferes with the transmission of a message is an example of a:
+A) Encoding process
+B) Feedback loop
+C) Communication barrier
+D) Communication channel
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Anything that distorts or blocks the message, such as noise, language differences, or strong emotions, is a communication barrier. Recognizing barriers helps the nurse improve clarity and understanding.
+
+Q: Which of the following is a therapeutic communication technique?
+A) Active listening
+B) Giving false reassurance
+C) Changing the subject
+D) Giving unsolicited advice
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Active listening, using silence, reflection, and open-ended questions are therapeutic techniques that encourage the patient to express feelings. False reassurance and advice-giving are non-therapeutic responses.
+
+Q: Teaching a patient the skill of self-administering an insulin injection primarily involves which domain of learning?
+A) Affective domain
+B) Psychomotor domain
+C) Cognitive domain
+D) Emotional domain
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: The psychomotor domain involves the development of manual or physical skills requiring coordination. Learning to give an injection is a psychomotor skill practised through demonstration and return demonstration.
+
+Q: Which of the following is a method of health teaching?
+A) Stethoscope
+B) Lecture and demonstration
+C) Thermometer
+D) Syringe
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Lecture, group discussion, demonstration, and role play are recognized methods of health teaching. Instruments such as the stethoscope and thermometer are clinical tools, not teaching methods.
+
+Q: The three domains of learning described by Benjamin Bloom are:
+A) Reading, writing, and arithmetic
+B) Cognitive, affective, and psychomotor
+C) Physical, mental, and social
+D) Sensory, motor, and verbal
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Bloom's taxonomy classifies learning into cognitive (knowledge), affective (attitudes), and psychomotor (skills) domains. Nurse educators frame their teaching objectives around all three domains.
+
+Q: Learning that involves knowledge, comprehension, and intellectual skills belongs to which domain?
+A) Behavioural domain
+B) Cognitive domain
+C) Affective domain
+D) Psychomotor domain
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: The cognitive domain deals with mental processes such as knowledge, comprehension, application, analysis, synthesis, and evaluation. It is concerned with intellectual understanding and thinking.
+
+Q: Which data-collection tool is MOST appropriate for measuring the intensity or degree of a person's attitude along a continuum?
+A) Anecdotal record
+B) Structured interview schedule
+C) Observation checklist
+D) Rating scale
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: A rating scale allows the respondent or observer to judge an attribute along an ordered continuum, such as a Likert scale. It is well suited for quantifying attitudes, opinions, or the degree of a quality.
+
+Q: The affective domain of learning is primarily concerned with:
+A) Factual recall of information
+B) Physical coordination
+C) Attitudes, values, and emotions
+D) Manual skills and dexterity
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: The affective domain addresses feelings, attitudes, values, interests, and appreciation. Changing a patient's attitude toward adopting a healthy lifestyle is an example of an affective learning objective.
+
+Q: Which of the following is an audio-visual aid used in health teaching?
+A) Flannelgraph
+B) Television or film
+C) Printed pamphlet
+D) Blackboard
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Audio-visual aids combine both sound and image, such as television, films, and videos. Pamphlets, blackboards, and flannelgraphs are considered visual aids only.
+
+Q: The primary purpose of maintaining nursing records and reports is to:
+A) Increase unnecessary paperwork
+B) Ensure continuity of care and communication among the team
+C) Replace all verbal communication permanently
+D) Reduce the accountability of staff
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Records and reports provide a continuous account of the patient's condition and care, ensuring communication and continuity among health team members. They also serve legal, educational, and research purposes.
+
+Q: With respect to their legal value, patient records:
+A) Are meant only for decoration
+B) Have no legal significance
+C) Cannot be produced in a court of law
+D) Serve as legal documents and admissible evidence
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: Patient records are legal documents that can be used as evidence in a court of law. Accurate, complete, and timely documentation protects both the patient and the nurse in legal matters.
+
+Q: The nursing care plan is developed on the basis of which framework?
+A) The administrative hierarchy
+B) Hospital financial planning
+C) The purely medical model
+D) The nursing process
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: The nursing care plan is structured around the steps of the nursing process: assessment, diagnosis, planning, implementation, and evaluation. It guides individualized, goal-directed patient care.
+
+Q: Obtaining informed consent from research participants primarily upholds which ethical principle?
+A) Justice
+B) Autonomy (respect for persons)
+C) Non-maleficence
+D) Beneficence
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: Informed consent respects the participant's autonomy and right to self-determination by ensuring voluntary and informed participation. It is a core requirement for ethical research involving human subjects.
+
+Q: An advantage of a written nursing care plan is that it:
+A) Makes the medical diagnosis
+B) Eliminates the need for patient assessment
+C) Replaces the physician's orders
+D) Promotes individualized and coordinated care
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: A written care plan communicates individualized goals and interventions to all team members, promoting continuity and coordination of care. It does not replace assessment or the physician's orders.
+
+Q: A data-collection tool consisting of a set of written questions that respondents answer themselves is called a:
+A) Rating scale
+B) Interview guide
+C) Observation schedule
+D) Questionnaire
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: A questionnaire is a self-administered instrument containing written questions completed by the respondent. It is economical for large samples and can maintain the respondent's anonymity.
+
+Q: Evidence-based practice (EBP) integrates the best available research evidence with:
+A) Clinical expertise and patient values
+B) The hospital budget alone
+C) Tradition and intuition alone
+D) Only the physician's personal preference
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: EBP combines the best research evidence, the clinician's expertise, and the patient's values and preferences. This integrated approach improves the quality, safety, and outcomes of care.
+
+Q: The research process typically begins with which of the following steps?
+A) Analysis of data
+B) Identifying and formulating the research problem
+C) Collection of data
+D) Writing the final report
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: Research begins with identifying and clearly stating the research problem, which guides all subsequent steps. A well-defined problem shapes the objectives, design, and choice of methods.
+
+Q: The main purpose of conducting a review of literature is to:
+A) Increase the length of the report
+B) Avoid acknowledging other researchers
+C) Deliberately delay the study
+D) Identify existing knowledge, gaps, and a theoretical basis for the study
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: A literature review surveys existing studies to establish what is already known, identify gaps, and provide a conceptual or theoretical foundation. It prevents duplication and helps refine the research problem.
+
+Q: A research design that examines the relationship between two or more variables without manipulating them is called a:
+A) Historical design
+B) Correlational design
+C) Case-control design
+D) Experimental design
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: A correlational design measures variables as they naturally occur and assesses the strength and direction of their relationship. It does not involve manipulation of an independent variable.
+
+Q: In a true experimental design, the variable that the researcher deliberately manipulates is the:
+A) Dependent variable
+B) Demographic variable
+C) Extraneous variable
+D) Independent variable
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: In experimental research the independent variable is the intervention or treatment that the researcher manipulates. Its effect is measured on the dependent (outcome) variable, along with randomization and control.

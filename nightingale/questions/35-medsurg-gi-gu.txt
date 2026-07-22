@@ -1,0 +1,301 @@
+# w3-medsurg-f — ingested draft, verify before trusting
+
+Q: Which of the following is the most characteristic symptom of gastro-oesophageal reflux disease (GERD)?
+A) Projectile vomiting
+B) Steatorrhoea
+C) Melaena
+D) Heartburn (pyrosis)
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Heartburn, a retrosternal burning sensation, is the classic symptom of GERD caused by reflux of acidic gastric contents into the oesophagus. It is typically worse after meals and on lying flat, and may be accompanied by regurgitation.
+
+Q: Long-standing GERD can cause columnar metaplasia of the distal oesophageal epithelium, a premalignant condition known as:
+A) Mallory-Weiss tear
+B) Plummer-Vinson syndrome
+C) Barrett's oesophagus
+D) Zenker's diverticulum
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Barrett's oesophagus is replacement of the normal squamous epithelium by columnar (intestinal-type) epithelium due to chronic acid injury. It is a premalignant change that increases the risk of oesophageal adenocarcinoma and warrants endoscopic surveillance.
+
+Q: The most common type of hiatus hernia is:
+A) Sliding (type I)
+B) Type IV with additional organ herniation
+C) Paraoesophageal (type II)
+D) Mixed (type III)
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: The sliding (type I) hiatus hernia accounts for roughly 90% of cases, in which the gastro-oesophageal junction and cardia slide up through the diaphragmatic hiatus. Paraoesophageal (rolling) hernias are less common but carry a higher risk of strangulation.
+
+Q: Maximal tenderness in acute appendicitis is classically located at McBurney's point, which lies:
+A) At the umbilicus
+B) One-third of the way from the anterior superior iliac spine to the umbilicus
+C) In the right hypochondrium
+D) In the left iliac fossa
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: McBurney's point lies one-third of the distance along a line drawn from the right anterior superior iliac spine to the umbilicus. Localised tenderness here reflects parietal peritoneal irritation over the inflamed appendix.
+
+Q: Which sign, in which palpation of the left lower quadrant elicits pain in the right lower quadrant, supports a diagnosis of acute appendicitis?
+A) Cullen's sign
+B) Grey Turner's sign
+C) Rovsing's sign
+D) Murphy's sign
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Rovsing's sign is referred right iliac fossa pain produced by palpating the left lower quadrant, indicating peritoneal irritation from the inflamed appendix. Murphy's sign relates to cholecystitis, while Cullen's and Grey Turner's signs suggest retroperitoneal or intra-abdominal haemorrhage.
+
+Q: A hallmark clinical finding of generalised peritonitis is:
+A) Bounding femoral pulses
+B) Painless abdominal distension
+C) Board-like rigidity of the abdominal wall
+D) High-pitched hyperactive bowel sounds
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Diffuse peritoneal inflammation produces involuntary guarding and board-like rigidity of the abdominal wall, with rebound tenderness and absent (silent) bowel sounds from paralytic ileus. It is a surgical emergency requiring prompt resuscitation and source control.
+
+Q: The most common type of abdominal wall hernia overall is:
+A) Inguinal hernia
+B) Incisional hernia
+C) Femoral hernia
+D) Umbilical hernia
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Inguinal hernias are the most common abdominal wall hernias and occur far more frequently in males. They may be indirect (through the deep inguinal ring) or direct (through the posterior wall of the inguinal canal).
+
+Q: A femoral hernia protrudes through the femoral canal and characteristically presents as a lump located:
+A) Above and medial to the pubic tubercle
+B) In the epigastrium
+C) Below and lateral to the pubic tubercle
+D) At the umbilicus
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: A femoral hernia emerges below and lateral to the pubic tubercle, whereas an inguinal hernia lies above and medial to it. Femoral hernias are commoner in women and carry a high risk of strangulation because of the narrow, rigid femoral canal.
+
+Q: Internal haemorrhoids that prolapse on defecation but reduce spontaneously are classified as:
+A) Third degree
+B) Fourth degree
+C) First degree
+D) Second degree
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Second-degree internal haemorrhoids prolapse during defecation and then reduce on their own. First-degree haemorrhoids bleed without prolapse, third-degree require manual reduction, and fourth-degree are permanently prolapsed and irreducible.
+
+Q: The rule used to predict the course of an anal fistula tract based on the position of its external opening is:
+A) Virchow's law
+B) Charcot's triad
+C) Courvoisier's law
+D) Goodsall's rule
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Goodsall's rule states that a fistula with an external opening anterior to the transverse anal line usually runs a straight radial course to the anal canal, while a posterior opening tends to follow a curved track opening in the posterior midline. It guides surgical exploration of the tract.
+
+Q: Which serum tumour marker is most commonly used to monitor recurrence in colorectal cancer?
+A) Alpha-fetoprotein (AFP)
+B) Prostate-specific antigen (PSA)
+C) Carcinoembryonic antigen (CEA)
+D) CA-125
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: CEA is used chiefly for postoperative surveillance and detection of recurrence in colorectal cancer, not for primary screening. A rising CEA level after curative resection suggests recurrent or metastatic disease.
+
+Q: The diffuse infiltrative form of gastric adenocarcinoma that produces a rigid, thickened "leather-bottle" stomach is termed:
+A) Menetrier's disease
+B) Linitis plastica
+C) Zollinger-Ellison syndrome
+D) Krukenberg tumour
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Linitis plastica is a diffusely infiltrating gastric carcinoma (often with signet-ring cells) that thickens and stiffens the stomach wall, giving a leather-bottle appearance. It carries a poor prognosis because of extensive submucosal spread at presentation.
+
+Q: The most sensitive and specific serological test for coeliac disease is:
+A) Anti-smooth muscle antibody
+B) Anti-mitochondrial antibody
+C) Anti-tissue transglutaminase (tTG) IgA antibody
+D) Anti-nuclear antibody
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: IgA anti-tissue transglutaminase antibody is the first-line screening test for coeliac disease owing to its high sensitivity and specificity. Diagnosis is confirmed by duodenal biopsy showing villous atrophy, and total IgA should be checked to exclude IgA deficiency.
+
+Q: Which finding is most characteristic of fat malabsorption?
+A) Painless haematuria
+B) Projectile bilious vomiting
+C) Bulky, pale, foul-smelling, greasy stools (steatorrhoea)
+D) Bright red blood per rectum
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Steatorrhoea, the passage of bulky, pale, greasy and offensive stools that are difficult to flush, is the hallmark of fat malabsorption. It may be accompanied by weight loss and deficiencies of fat-soluble vitamins A, D, E and K.
+
+Q: Which pair of hepatitis viruses is transmitted predominantly by the faecal-oral route?
+A) Hepatitis B and C
+B) Hepatitis C and D
+C) Hepatitis B and D
+D) Hepatitis A and E
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Hepatitis A and E spread mainly by the faecal-oral route, often through contaminated food or water, and typically cause acute self-limiting illness. Hepatitis B, C and D are transmitted parenterally and can progress to chronic infection.
+
+Q: Hepatitis D (delta) virus can cause infection only in the presence of:
+A) Hepatitis A virus
+B) Hepatitis B virus
+C) Hepatitis C virus
+D) Hepatitis E virus
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Hepatitis D is a defective virus that requires the hepatitis B surface antigen to assemble and replicate. It occurs only as a co-infection or superinfection with HBV, and vaccination against hepatitis B therefore also prevents hepatitis D.
+
+Q: Fulminant hepatic failure is defined as the development of hepatic encephalopathy within how long of the onset of symptoms in a patient without pre-existing liver disease?
+A) Within 6 months
+B) Within 2 years
+C) Within 8 weeks
+D) Within 1 year
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Fulminant (acute) hepatic failure is classically defined as encephalopathy developing within about 8 weeks of the onset of symptoms in a previously healthy liver. It reflects massive hepatocyte necrosis, commonly from paracetamol toxicity or viral hepatitis, and carries a high mortality.
+
+Q: Which of the following is a direct consequence of portal hypertension?
+A) Oesophageal varices
+B) Gallstones
+C) Pyelonephritis
+D) Acute pancreatitis
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Raised pressure in the portal venous system opens portosystemic collateral channels, producing oesophageal and gastric varices, caput medusae and splenomegaly. Rupture of varices causes life-threatening upper gastrointestinal haemorrhage.
+
+Q: In hepatic encephalopathy, obvious asterixis with lethargy, apathy and disorientation to time, while the patient remains arousable, corresponds to which West Haven grade?
+A) Grade III
+B) Grade IV
+C) Grade II
+D) Grade I
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: West Haven grade II features lethargy or apathy, disorientation to time, obvious asterixis and personality change, with the patient still arousable. Grade III involves marked confusion and somnolence with response to stimuli, and grade IV denotes coma.
+
+Q: The most common causative organism of uncomplicated urinary tract infection is:
+A) Staphylococcus aureus
+B) Escherichia coli
+C) Pseudomonas aeruginosa
+D) Klebsiella pneumoniae
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Escherichia coli, a Gram-negative enteric bacterium, causes the great majority of uncomplicated urinary tract infections through ascending colonisation from the perineum. Typical symptoms include dysuria, frequency and urgency.
+
+Q: Acute pyelonephritis is best distinguished from lower urinary tract infection (cystitis) by the presence of:
+A) Absence of pyuria
+B) Painless haematuria
+C) Suprapubic pain only
+D) Fever, chills and costovertebral angle (flank) tenderness
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Pyelonephritis is infection of the renal pelvis and parenchyma and typically presents with high fever, rigors, flank pain and costovertebral angle tenderness alongside lower urinary symptoms. Systemic features distinguish it from simple cystitis, which is usually confined to dysuria and frequency.
+
+Q: Adult post-streptococcal glomerulonephritis classically presents 1-3 weeks after infection with:
+A) Massive proteinuria and normal urine colour
+B) Isolated sterile pyuria
+C) Haematuria (smoky urine), hypertension and periorbital oedema
+D) Glycosuria and polyuria
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Post-streptococcal glomerulonephritis follows a group A streptococcal throat or skin infection and produces a nephritic picture of haematuria (smoky, cola-coloured urine), hypertension, oliguria and periorbital oedema. It is immune-complex mediated, and complement C3 is typically low.
+
+Q: Prostate cancer most commonly arises in which zone of the prostate and is monitored with which marker?
+A) Transition zone; CEA
+B) Periurethral zone; CA-125
+C) Peripheral zone; prostate-specific antigen (PSA)
+D) Central zone; AFP
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Most prostate adenocarcinomas arise in the peripheral zone, which is why they are often palpable as a hard nodule on digital rectal examination. Serum PSA is used for detection and monitoring, whereas benign prostatic hyperplasia typically involves the transition zone.
+
+Q: A 15-year-old boy presents with sudden severe testicular pain, a high-riding testis and an absent cremasteric reflex. The most appropriate management is:
+A) Scrotal elevation and observation for 48 hours
+B) Warm compresses and analgesia only
+C) Oral antibiotics and discharge
+D) Immediate surgical exploration
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: These features are classic for testicular torsion, a surgical emergency in which the twisted spermatic cord cuts off blood supply to the testis. Immediate exploration and detorsion within about 6 hours is essential to salvage the testis, and the contralateral side is usually fixed as well.
+
+Q: The most common presenting feature of bladder carcinoma is:
+A) Severe flank colic
+B) Painless gross (visible) haematuria
+C) Nocturnal enuresis
+D) Painful dysuria with fever
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Painless visible (gross) haematuria is the classic and most common presentation of bladder cancer, most of which are transitional cell (urothelial) carcinomas. Any adult with painless haematuria requires urological evaluation including cystoscopy.
+
+Q: The most common causative organisms of cellulitis are:
+A) Escherichia coli and Klebsiella
+B) Mycobacterium tuberculosis
+C) Candida albicans and Aspergillus
+D) Streptococcus pyogenes and Staphylococcus aureus
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Cellulitis is an acute spreading infection of the dermis and subcutaneous tissue usually caused by beta-haemolytic streptococci (Streptococcus pyogenes) and Staphylococcus aureus. It presents with warm, tender, poorly demarcated erythema and is treated with systemic antibiotics.
+
+Q: Herpes zoster (shingles) is caused by:
+A) Human papillomavirus
+B) Measles virus
+C) Herpes simplex virus type 2
+D) Reactivation of the varicella-zoster virus
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Herpes zoster results from reactivation of latent varicella-zoster virus residing in the dorsal root ganglia after a previous chickenpox infection. It produces a painful vesicular rash in a unilateral dermatomal distribution and may be followed by post-herpetic neuralgia.
+
+Q: Scabies is caused by infestation with:
+A) Demodex folliculorum
+B) Sarcoptes scabiei
+C) Trichophyton rubrum
+D) Pediculus humanus
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Scabies is caused by the mite Sarcoptes scabiei var. hominis, which burrows into the epidermis and provokes intense itching that is characteristically worse at night. Typical sites include the finger webs, wrists and genitalia, and permethrin is a first-line treatment.
+
+Q: Tinea corporis (ringworm) of the skin is caused by:
+A) Streptococcus pyogenes
+B) Sarcoptes scabiei
+C) Herpes simplex virus
+D) Dermatophyte fungi such as Trichophyton
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Ringworm and other tinea infections are caused by dermatophyte fungi of the genera Trichophyton, Microsporum and Epidermophyton. They produce annular, scaly, erythematous plaques with central clearing and are treated with topical or systemic antifungals.
+
+Q: The mnemonic used to identify warning features of malignant melanoma in a pigmented skin lesion is:
+A) Asymmetry, Border irregularity, Colour variation, Diameter over 6 mm, Evolution (ABCDE)
+B) CURB-65
+C) SOCRATES
+D) FAST (Face, Arm, Speech, Time)
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The ABCDE criteria highlight suspicious features of melanoma: Asymmetry, irregular Border, Colour variation, Diameter greater than 6 mm, and Evolution or change over time. Any lesion showing these features, or new itching, bleeding or ulceration, warrants urgent dermatological assessment and biopsy.

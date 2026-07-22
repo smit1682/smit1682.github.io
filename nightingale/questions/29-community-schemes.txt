@@ -1,0 +1,301 @@
+# w3-community-e — ingested draft, verify before trusting
+
+Q: The rotavirus vaccine used in India's Universal Immunisation Programme is administered by which route?
+A) Oral
+B) Intradermal
+C) Intramuscular
+D) Subcutaneous
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: Rotavirus vaccine is a live attenuated oral vaccine given under UIP to prevent severe rotaviral diarrhoea. India uses indigenous vaccines such as Rotavac and Rotasiil.
+
+Q: How many doses of rotavirus vaccine are given under the Universal Immunisation Programme?
+A) Four
+B) Three
+C) Two
+D) One
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Three doses of rotavirus vaccine are given orally at 6, 10 and 14 weeks along with pentavalent and OPV. It protects infants against severe gastroenteritis caused by rotavirus.
+
+Q: Under UIP, the pneumococcal conjugate vaccine (PCV) is scheduled at:
+A) Birth, 6 and 9 months
+B) 6 weeks, 14 weeks and 9 months
+C) 9 and 16 months
+D) 6, 10 and 14 weeks
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: PCV follows a 2+1 schedule with primary doses at 6 and 14 weeks and a booster at 9 months. It protects against Streptococcus pneumoniae, a major cause of pneumonia and meningitis in children.
+
+Q: The correct route and site for administration of PCV is:
+A) Intramuscular in the anterolateral thigh
+B) Intradermal over the forearm
+C) Oral drops
+D) Subcutaneous over the deltoid
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: PCV is given intramuscularly in the anterolateral aspect of the mid-thigh as a 0.5 ml dose. India uses PCV13 in the immunisation programme.
+
+Q: Under UIP, fractional inactivated polio vaccine (fIPV) is administered as:
+A) A single subcutaneous dose at 9 months
+B) Two intradermal doses of 0.1 ml at 6 and 14 weeks
+C) Oral drops at 6, 10 and 14 weeks
+D) A 0.5 ml intramuscular dose at 14 weeks only
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Fractional IPV is given as two intradermal doses of 0.1 ml at 6 and 14 weeks. It was introduced to boost population immunity against type 2 poliovirus as part of the polio endgame.
+
+Q: IPV was introduced into the Universal Immunisation Programme mainly as part of:
+A) The polio endgame strategy following the switch from tOPV to bOPV
+B) The Mission Indradhanush deworming drive
+C) Universal newborn screening
+D) The measles-rubella elimination plan
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: IPV was introduced in 2015-16 as part of the global polio endgame, preceding the April 2016 switch from trivalent to bivalent OPV. IPV maintains immunity against type 2 poliovirus, which was removed from OPV.
+
+Q: The Japanese encephalitis vaccine used in the Indian UIP is:
+A) An inactivated whole-virion vaccine given at birth
+B) A conjugate vaccine given intramuscularly
+C) The live attenuated SA 14-14-2 vaccine
+D) A killed Vero cell vaccine given orally
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The live attenuated SA 14-14-2 JE vaccine is used in endemic districts and given subcutaneously. Campaign vaccination precedes its introduction into routine immunisation.
+
+Q: In endemic districts, the two routine doses of JE vaccine are scheduled at:
+A) Birth and 6 weeks
+B) 5 years and 10 years
+C) 9 months and 16-24 months
+D) 6 and 14 weeks
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The first routine JE dose is given at 9 completed months with measles-rubella, and the second at 16-24 months with the DPT booster. These are additional to any preceding campaign dose.
+
+Q: The HPV vaccine is recommended primarily for which group?
+A) Newborn infants
+B) Pregnant women
+C) Adolescent girls aged 9-14 years
+D) Elderly women above 60 years
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: HPV vaccine targets adolescent girls aged 9-14 years to prevent cervical cancer caused mainly by HPV types 16 and 18. India's indigenous vaccine, Cervavac, was launched in 2022.
+
+Q: For girls aged 9-14 years, the recommended HPV vaccination schedule is:
+A) Annual boosters lifelong
+B) Five doses over five years
+C) Two doses
+D) A single mandatory dose only
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: A two-dose schedule given about six months apart is recommended for girls aged 9-14 years. HPV prevents cervical cancer, the second most common cancer among Indian women.
+
+Q: The Rashtriya Kishor Swasthya Karyakram (RKSK) covers which age group?
+A) 10-19 years
+B) 20-29 years
+C) 0-5 years
+D) 6-9 years
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: RKSK, launched in 2014, addresses the health needs of adolescents aged 10-19 years. It reaches both boys and girls, in and out of school, married and unmarried.
+
+Q: Which of the following is NOT one of the six strategic priorities of RKSK?
+A) Sanitation and safe drinking water
+B) Nutrition
+C) Substance misuse
+D) Mental health
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The six RKSK priorities are nutrition, sexual and reproductive health, non-communicable diseases, substance misuse, injuries and violence, and mental health. Sanitation is not a listed strategic priority.
+
+Q: Under RKSK, the trained peer educators who promote adolescent health are called:
+A) Saathiya
+B) Anganwadi workers
+C) ASHA
+D) Saheli
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Peer educators under RKSK are called Saathiya and use the Saathiya Salah resource kit to guide adolescents. Adolescent Friendly Health Clinics form the facility-based component.
+
+Q: The Weekly Iron and Folic Acid Supplementation (WIFS) programme provides:
+A) Vitamin A to under-fives
+B) Calcium tablets to the elderly
+C) A weekly IFA tablet plus biannual deworming for adolescents
+D) Daily iron for pregnant women
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: WIFS provides a weekly supervised iron-folic acid tablet and biannual albendazole deworming to adolescents to combat anaemia. It covers school-going and out-of-school adolescents through schools and Anganwadi centres.
+
+Q: The Menstrual Hygiene Scheme mainly promotes sanitary napkin use among:
+A) Boys aged 10-19 years
+B) Adolescent girls aged 10-19 years in rural areas
+C) Pregnant women
+D) Postmenopausal women
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The scheme, launched in 2011, promotes menstrual hygiene among rural adolescent girls aged 10-19 years. ASHAs assist in distribution and awareness generation.
+
+Q: Under the Menstrual Hygiene Scheme, subsidised sanitary napkins are distributed by ASHAs under the brand name:
+A) Freedays
+B) Sakhi
+C) Suvidha
+D) Asmita
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Sanitary napkins under the national scheme are provided under the brand name Freedays. ASHAs receive an incentive for distribution and also get a free pack for personal use.
+
+Q: The National Programme for Health Care of the Elderly (NPHCE) targets persons aged:
+A) 45 years and above
+B) 50 years and above
+C) 60 years and above
+D) 65 years and above
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: NPHCE, launched in 2010-11, provides dedicated health care to persons aged 60 years and above. It establishes geriatric OPDs and Regional Geriatric Centres for specialised care.
+
+Q: A key facility established under NPHCE at identified medical colleges is the:
+A) Regional Geriatric Centre
+B) Nutrition Rehabilitation Centre
+C) Adolescent Friendly Health Clinic
+D) District Early Intervention Centre
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: NPHCE establishes Regional Geriatric Centres at selected medical colleges to provide specialist geriatric services and training. District hospitals run geriatric wards and OPDs.
+
+Q: The legislation that governs tobacco control in India, COTPA, was enacted in:
+A) 1998
+B) 2003
+C) 2007
+D) 2011
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Cigarettes and Other Tobacco Products Act (COTPA) was enacted in 2003. The National Tobacco Control Programme was launched in 2007-08 to enforce its provisions and reduce tobacco use.
+
+Q: Under COTPA, the sale of tobacco products is prohibited to persons below the age of:
+A) 25 years
+B) 21 years
+C) 18 years
+D) 16 years
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: COTPA prohibits sale of tobacco products to and by minors below 18 years and within 100 yards of educational institutions. It also bans smoking in public places and tobacco advertising.
+
+Q: The drug administered on National Deworming Day is:
+A) Albendazole
+B) Praziquantel
+C) Ivermectin
+D) Metronidazole
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: Albendazole is given on National Deworming Day to control soil-transmitted helminth infections. Children aged 1-2 years get 200 mg (half tablet) and those 2-19 years get 400 mg.
+
+Q: National Deworming Day targets children and adolescents aged:
+A) 5 to 10 years
+B) 10 to 19 years only
+C) 6 months to 5 years
+D) 1 to 19 years
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: National Deworming Day covers all children and adolescents aged 1-19 years, both in and out of school. It is observed biannually, typically on 10 February and 10 August.
+
+Q: POSHAN Abhiyaan primarily aims to reduce:
+A) Malaria transmission
+B) Tobacco consumption
+C) Road traffic injuries
+D) Stunting, undernutrition, anaemia and low birth weight
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: POSHAN Abhiyaan, the National Nutrition Mission launched in 2018, targets reduction of stunting, undernutrition, anaemia and low birth weight. It emphasises convergence, technology and a Jan Andolan (people's movement).
+
+Q: POSHAN Abhiyaan set a target to reduce stunting at what annual rate?
+A) 1% per year
+B) 2% per year
+C) 5% per year
+D) 10% per year
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: POSHAN Abhiyaan aims to reduce stunting by 2% per year and undernutrition by 2% per year. It targets a 3% annual reduction in anaemia among the specified beneficiary groups.
+
+Q: The Anaemia Mukt Bharat strategy is popularly described as the:
+A) 3-by-5 strategy
+B) 4-3-2 strategy
+C) 6x6x6 strategy
+D) 90-90-90 strategy
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Anaemia Mukt Bharat uses a 6x6x6 strategy: six beneficiary age groups, six interventions and six institutional mechanisms. Prophylactic iron-folic acid supplementation and deworming are central interventions.
+
+Q: Under Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA), free antenatal check-ups are provided on which fixed day each month?
+A) 1st of every month
+B) 9th of every month
+C) 15th of every month
+D) Last day of every month
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: PMSMA provides free, quality antenatal care on the 9th of every month to pregnant women in their 2nd and 3rd trimesters. Specialists and private practitioners are encouraged to volunteer for these clinics.
+
+Q: The LaQshya initiative aims to improve the quality of care in the:
+A) Adolescent health clinic
+B) Immunisation clinic
+C) Labour room and maternity operation theatre
+D) Geriatric ward
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: LaQshya, the Labour Room Quality Improvement Initiative launched in 2017, improves care during delivery and the immediate postpartum period. It aims to reduce maternal and newborn mortality and morbidity.
+
+Q: The Surakshit Matritva Aashwasan (SUMAN) initiative primarily assures:
+A) Zero-cost, dignified and quality maternal and newborn care
+B) Old age pension for elderly women
+C) Free schooling for adolescent girls
+D) Free tobacco cessation therapy
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: SUMAN, launched in 2019, assures every pregnant woman and newborn free, dignified, respectful and quality healthcare with zero tolerance for denial of services. It aims to end all preventable maternal and newborn deaths.
+
+Q: Janani Shishu Suraksha Karyakram (JSSK) entitles pregnant women to:
+A) Free HPV vaccination
+B) Free delivery, drugs, diagnostics, diet, blood and transport
+C) Old age health cards
+D) A cash incentive only for institutional delivery
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: JSSK, launched in 2011, entitles pregnant women and sick newborns to free delivery including caesarean, drugs, diagnostics, diet, blood and transport. It aims to eliminate out-of-pocket expenditure for institutional care.
+
+Q: Under JSSK, free treatment entitlements for sick infants were extended to cover infants up to the age of:
+A) 6 months
+B) 28 days
+C) 1 year
+D) 7 days
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: JSSK entitlements for sick newborns were extended to cover all sick infants up to one year of age. This includes free treatment, drugs, diagnostics and transport, reducing the financial burden on families.

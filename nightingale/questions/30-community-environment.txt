@@ -1,0 +1,301 @@
+# w3-community-f — ingested draft, verify before trusting
+
+Q: Which larvicide is recommended by WHO as safe for treatment of potable (drinking) water against mosquito larvae?
+A) Paris green
+B) Temephos
+C) DDT
+D) Malathion
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Temephos (Abate) is an organophosphorus larvicide with very low mammalian toxicity, so it is the only larvicide approved for use in drinking water sources. It is applied to control mosquito larvae in wells and storage tanks.
+
+Q: The larvivorous fish most widely used in India for mosquito control is:
+A) Labeo rohita
+B) Gambusia affinis
+C) Hilsa
+D) Catla catla
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Gambusia affinis and Poecilia (Lebistes) reticulata (guppy) are the classical larvivorous fish used in biological control. They feed on mosquito larvae in ponds, wells and ornamental water bodies, reducing anopheline breeding.
+
+Q: For drinking water, the coliform (E. coli) count should be:
+A) 50 per 100 mL
+B) 100 per 100 mL
+C) 10 per 100 mL
+D) 0 per 100 mL
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: Safe drinking water must contain zero coliform organisms in any 100 mL sample throughout the year. The coliform group, especially E. coli, is used as the indicator of recent faecal contamination.
+
+Q: In indoor residual spraying (IRS), the classical insecticide that has been used for decades is:
+A) Temephos
+B) Paris green
+C) DDT
+D) Pyrethrum
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: DDT, an organochlorine, has been the classical residual insecticide sprayed on interior wall surfaces to kill resting adult mosquitoes. Its long residual action on sprayed surfaces made it central to malaria control programmes.
+
+Q: Long-lasting insecticidal nets (LLINs) are usually impregnated with:
+A) Carbamates
+B) Organophosphates
+C) Organochlorines
+D) Synthetic pyrethroids
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: LLINs are factory-treated with synthetic pyrethroids such as deltamethrin or permethrin, which repel and kill mosquitoes. The insecticide is incorporated into or coated on the fibres to retain efficacy over many washes.
+
+Q: Fresh bleaching powder used for water disinfection contains available chlorine of about:
+A) 10%
+B) 33%
+C) 50%
+D) 20%
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: Fresh, good-quality bleaching powder (calcium hypochlorite) contains about 33 percent available chlorine. On exposure to air, light and moisture it deteriorates and loses chlorine, so it must be stored in dark, airtight containers.
+
+Q: The Bangalore method is a technique of:
+A) Water filtration
+B) Chlorination of water
+C) Composting of refuse and night soil
+D) Vector control
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: The Bangalore method is an anaerobic composting technique in which alternate layers of refuse and night soil are placed in a trench and covered with earth. It converts waste into manure and is also called the hot fermentation process.
+
+Q: Turbidity of drinking water is measured and expressed in:
+A) ppm
+B) mg/L
+C) MPN
+D) NTU
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Turbidity is a physical parameter measured in Nephelometric Turbidity Units (NTU). As per BIS the acceptable limit is 1 NTU and the permissible limit is 5 NTU in the absence of an alternate source.
+
+Q: As per BIS, the desirable (acceptable) limit of total dissolved solids in drinking water is:
+A) 1000 mg/L
+B) 2000 mg/L
+C) 250 mg/L
+D) 500 mg/L
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The desirable limit of total dissolved solids is 500 mg/L, with a maximum permissible limit of 2000 mg/L when no alternate source exists. High TDS affects palatability and may indicate excess salts or hardness.
+
+Q: The minimum recommended free residual chlorine in disinfected water after one hour of contact is:
+A) 0.1 mg/L
+B) 0.5 mg/L
+C) 1.0 mg/L
+D) 2.0 mg/L
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: A free residual chlorine of 0.5 mg/L after a contact period of one hour is the accepted criterion of adequate disinfection. This residual provides a safety margin against recontamination in the distribution system.
+
+Q: Horrock's apparatus is used in the field to determine:
+A) Amount of dissolved oxygen
+B) Dose of bleaching powder needed for water
+C) Total hardness
+D) Turbidity of water
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Horrock's apparatus is a simple field kit used to find the correct dose of bleaching powder required to disinfect a given volume of water. It works by determining the chlorine demand of the water sample.
+
+Q: The "vital layer" (schmutzdecke), a slimy biological layer responsible for purification, is a feature of the:
+A) Reverse osmosis unit
+B) Rapid sand filter
+C) Pressure filter
+D) Slow sand filter
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: In the slow sand (biological) filter, a slimy zoogleal layer called the schmutzdecke forms on the top of the sand bed. This vital layer removes organic matter and bacteria, giving a purification efficiency of about 99.9 percent.
+
+Q: The Most Probable Number (MPN) test of a water sample estimates the number of:
+A) Free chlorine molecules
+B) Hardness salts
+C) Coliform organisms
+D) Turbidity particles
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The MPN or presumptive coliform test statistically estimates the number of coliform organisms per 100 mL of water. It is a key bacteriological examination used to assess faecal pollution and the safety of drinking water.
+
+Q: Paris green is an effective larvicide against anopheline larvae mainly because these larvae are:
+A) Bottom feeders
+B) Filter feeders
+C) Surface feeders
+D) Predators
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Paris green (copper aceto-arsenite) is a stomach poison that floats on the water surface as a fine dust. Because anopheline larvae feed at the surface, they ingest the particles, whereas culicine larvae that feed lower down are less affected.
+
+Q: In vector control, "source reduction" refers to:
+A) Spraying insecticide on indoor walls
+B) Releasing larvivorous fish
+C) Elimination or reduction of vector breeding places
+D) Distribution of bed nets
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Source reduction is an environmental method that removes or modifies mosquito breeding places, such as filling ditches, draining stagnant water and proper water storage. By attacking the source, it prevents larvae from developing.
+
+Q: According to Pettenkofer, air in an occupied room is considered adequately ventilated if the carbon dioxide concentration does not exceed:
+A) 60 per 1000
+B) 0.6 per 1000
+C) 6 per 1000
+D) 0.03 per 1000
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Pettenkofer proposed that the CO2 level should not rise above 0.6 parts per 1000 (0.6 per mille) of air. CO2 itself is not harmful at these levels but serves as an index of the vitiation of indoor air by occupants.
+
+Q: For prevention of overcrowding, a floor space of 100 sq ft or more per room is considered adequate for:
+A) 1.5 persons
+B) 1 person
+C) 3 persons
+D) 2 persons
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: By the floor-space standard, a room of 100 sq ft or more is allotted for two persons; 70-100 sq ft for 1.5, and 50-70 sq ft for one person. Falling below these values constitutes overcrowding.
+
+Q: As per BIS, the desirable (acceptable) limit of fluoride in drinking water is:
+A) 0.5 mg/L
+B) 1.0 mg/L
+C) 1.5 mg/L
+D) 2.0 mg/L
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The desirable fluoride limit is 1.0 mg/L, with a maximum permissible limit of 1.5 mg/L. Levels below 0.5 mg/L predispose to dental caries, whereas levels above 1.5 mg/L cause dental and skeletal fluorosis.
+
+Q: The Indore method of composting is essentially a/an:
+A) Incineration process
+B) Chemical process
+C) Anaerobic process
+D) Aerobic process
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Indore method, developed by Howard and Wad, is an aerobic composting process in which refuse and night soil are stacked and periodically turned to allow air entry. Aerobic decomposition yields manure in about four months.
+
+Q: The Rideal-Walker coefficient (phenol coefficient) is used to test the efficacy of:
+A) Vaccines
+B) Larvicides
+C) Antibiotics
+D) Disinfectants
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Rideal-Walker or phenol coefficient compares the germicidal power of a disinfectant with that of phenol under standard conditions. A coefficient greater than one indicates the disinfectant is more potent than phenol.
+
+Q: The kata thermometer is used to measure the:
+A) Radiant heat load
+B) Atmospheric pressure
+C) Relative humidity
+D) Cooling power of air and low air velocities
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The kata thermometer measures the cooling power of air by timing how long it takes to cool between two fixed temperatures. It is especially useful for estimating the low air velocities relevant to ventilation and thermal comfort.
+
+Q: Which organism is regarded as the best bacteriological indicator of recent faecal pollution of water?
+A) Escherichia coli
+B) Clostridium perfringens
+C) Streptococcus faecalis
+D) Vibrio cholerae
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Escherichia coli is the best indicator of recent faecal pollution because it is abundant in human faeces and does not multiply appreciably in water. Its presence signals contamination and the possible presence of enteric pathogens.
+
+Q: As per BIS, the permissible (maximum) limit of total hardness as CaCO3 in the absence of an alternate source is:
+A) 200 mg/L
+B) 300 mg/L
+C) 600 mg/L
+D) 1000 mg/L
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The desirable limit of total hardness is 200 mg/L, extendable to a permissible maximum of 600 mg/L when no alternate source is available. Excess hardness causes scale formation and increased soap consumption.
+
+Q: The WHO-recommended dose of temephos for treatment of potable water against mosquito larvae is:
+A) 5 mg/L
+B) 1 mg/L
+C) 50 mg/L
+D) 10 mg/L
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Temephos is applied at a dose of about 1 mg/L (1 ppm) in potable water, a concentration that is larvicidal yet safe for human consumption. Its low toxicity is what permits its use in drinking water sources.
+
+Q: The IMViC test is used mainly to:
+A) Estimate water hardness
+B) Differentiate faecal from non-faecal coliforms
+C) Measure turbidity
+D) Detect chlorine demand
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: The IMViC series (Indole, Methyl red, Voges-Proskauer, Citrate) helps distinguish faecal coliforms like E. coli from non-faecal coliforms of soil or plant origin. This confirms whether coliforms detected in water are of faecal significance.
+
+Q: The index "effective temperature," used to assess thermal comfort, integrates air temperature, air movement and:
+A) Humidity
+B) Barometric pressure
+C) CO2 concentration
+D) Illumination
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Effective temperature combines dry-bulb temperature, air movement and humidity into a single index of the sensation of warmth. It is used to define the comfort zone within which most people feel thermally comfortable.
+
+Q: In the Bangalore method of composting, decomposition of the waste is:
+A) Anaerobic and ready in two weeks
+B) Aerobic and ready in four to six months
+C) Aerobic and ready in two weeks
+D) Anaerobic and ready in about four to six months
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: In the Bangalore (hot fermentation) method the buried alternate layers of refuse and night soil undergo anaerobic decomposition. Satisfactory manure is obtained in about four to six months, and the closed pit reduces fly breeding and odour.
+
+Q: "Break-point chlorination" refers to the stage at which:
+A) Water becomes turbid
+B) Coliforms first appear
+C) Chlorine demand is fully met and free residual chlorine begins to appear
+D) All hardness is removed
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The break point is where added chlorine has satisfied the entire chlorine demand, oxidising organic matter and ammonia, after which free residual chlorine begins to appear. Chlorinating to this point ensures reliable disinfection.
+
+Q: In indoor residual spraying for malaria control, the usual dose of DDT applied to wall surfaces is:
+A) 10 g/m2
+B) 25 g/m2
+C) 0.1 g/m2
+D) 1-2 g/m2
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: DDT is sprayed at a dose of 1-2 g per square metre of wall surface, giving a residual effect that lasts roughly 6 to 12 weeks. The insecticide kills adult mosquitoes that rest on treated surfaces after feeding.
+
+Q: In controlled tipping (sanitary landfill), after the refuse is compacted and covered with earth, the temperature within the fill rises to about:
+A) 30 degrees C
+B) 100 degrees C
+C) 40 degrees C
+D) 60 degrees C
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: In a sanitary landfill, biological and chemical action raises the internal temperature to around 60 degrees C within a few days. This heat destroys pathogens and hastens decomposition, while the earth cover controls flies and odour.

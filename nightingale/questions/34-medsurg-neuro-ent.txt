@@ -1,0 +1,301 @@
+# w3-medsurg-e — ingested draft, verify before trusting
+
+Q: A patient experiences a prolonged generalized tonic-clonic seizure lasting more than 5 minutes without regaining consciousness. What is the first-line pharmacological management for this status epilepticus?
+A) Intravenous mannitol
+B) Intravenous lorazepam
+C) Intramuscular vitamin B12
+D) Oral carbamazepine
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Intravenous benzodiazepines such as lorazepam are the first-line drugs to abort status epilepticus. They act rapidly to terminate seizure activity, after which longer-acting agents like phenytoin are added.
+
+Q: Which type of seizure is characterized by a brief loss of awareness with staring and eyelid fluttering, most common in children and formerly called petit mal?
+A) Tonic-clonic seizure
+B) Myoclonic seizure
+C) Absence seizure
+D) Atonic seizure
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Absence seizures cause a brief lapse of consciousness lasting seconds with staring and no postictal confusion. They are typical of childhood and were previously termed petit mal seizures.
+
+Q: Bell palsy involves paralysis of which cranial nerve?
+A) Trigeminal nerve
+B) Vagus nerve
+C) Glossopharyngeal nerve
+D) Facial nerve
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Bell palsy is an acute idiopathic paralysis of the seventh cranial (facial) nerve. It causes unilateral facial weakness affecting both upper and lower face on the same side.
+
+Q: A key nursing priority for a patient with Bell palsy is protection of which structure due to incomplete eyelid closure?
+A) The nasal mucosa
+B) The cornea
+C) The tongue
+D) The tympanic membrane
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Because the affected eye cannot close fully, the cornea is at risk of drying and ulceration. Artificial tears, lubricant ointment, and an eye patch protect the exposed cornea.
+
+Q: Trigeminal neuralgia is characterized by which classic clinical feature?
+A) Gradual progressive hearing loss
+B) Continuous dull bilateral headache
+C) Sudden brief severe stabbing facial pain triggered by touch
+D) Painless drooping of the eyelid
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Trigeminal neuralgia produces paroxysms of sudden, severe, electric shock-like or stabbing pain along the trigeminal nerve distribution. Pain is often triggered by touch, chewing, or a cold breeze on the face.
+
+Q: Which drug is considered the first-line medical treatment for trigeminal neuralgia?
+A) Prednisolone
+B) Carbamazepine
+C) Aspirin
+D) Morphine
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Carbamazepine is the drug of choice for trigeminal neuralgia and relieves pain in most patients. It stabilizes neuronal membranes and reduces the paroxysmal discharges responsible for the pain.
+
+Q: A patient with diabetic peripheral neuropathy most commonly reports which distribution of symptoms?
+A) Loss of vision in one eye
+B) Unilateral facial numbness
+C) Symmetrical stocking-and-glove numbness and tingling
+D) Sudden hemiplegia
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Diabetic peripheral neuropathy typically produces a symmetrical stocking-and-glove pattern affecting the distal feet before the hands. Patients report numbness, tingling, burning pain, and loss of protective sensation.
+
+Q: Which is the most common primary malignant brain tumour in adults?
+A) Pituitary adenoma
+B) Glioblastoma multiforme
+C) Acoustic neuroma
+D) Meningioma
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Glioblastoma multiforme is the most common and most aggressive primary malignant brain tumour in adults. It arises from astrocytes and carries a poor prognosis despite treatment.
+
+Q: The classic early morning headache that worsens with coughing or straining in a brain tumour patient is caused primarily by which mechanism?
+A) Decreased cerebral blood flow
+B) Meningeal infection
+C) Hypoglycaemia
+D) Raised intracranial pressure
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Brain tumours increase intracranial pressure, producing headache that is worse in the morning and aggravated by coughing, straining, or bending. Associated features include projectile vomiting and papilloedema.
+
+Q: Hydrocephalus is best defined as which of the following?
+A) Inflammation of the meninges
+B) Degeneration of motor neurons
+C) Bleeding into the subarachnoid space
+D) Excess accumulation of cerebrospinal fluid within the ventricles
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Hydrocephalus is an abnormal accumulation of cerebrospinal fluid within the cerebral ventricles. It results from overproduction, obstructed flow, or impaired absorption of CSF and raises intracranial pressure.
+
+Q: A ventriculoperitoneal shunt drains cerebrospinal fluid from the ventricles into which body cavity?
+A) The peritoneal cavity
+B) The pericardial sac
+C) The urinary bladder
+D) The pleural cavity
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A ventriculoperitoneal shunt diverts CSF from the cerebral ventricles to the peritoneal cavity where it is absorbed. This relieves raised intracranial pressure caused by hydrocephalus.
+
+Q: A child with a ventriculoperitoneal shunt develops fever, vomiting, irritability, and a bulging fontanelle. The nurse should first suspect which complication?
+A) Improved CSF absorption
+B) Shunt blockage or infection
+C) Normal shunt function
+D) Dehydration only
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Signs of raised intracranial pressure with fever suggest shunt obstruction or infection. Prompt recognition and referral are essential because untreated shunt malfunction can be rapidly fatal.
+
+Q: Prolapse of an intervertebral disc most commonly occurs at which region of the spine?
+A) Sacral spine
+B) Thoracic spine T4-T5
+C) Cervical spine C1-C2
+D) Lumbar spine L4-L5 and L5-S1
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: The lumbar region, especially the L4-L5 and L5-S1 levels, bears the greatest mechanical load and is the most common site of disc prolapse. Herniation here compresses nerve roots causing low back pain and sciatica.
+
+Q: Sciatica typically produces pain radiating in which pattern?
+A) Into the fingertips of both hands
+B) Across the shoulders and neck
+C) From the lower back down the back of the leg to the foot
+D) Around the chest wall
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Sciatica is pain along the course of the sciatic nerve, radiating from the lower back through the buttock and down the posterior thigh and leg. It usually results from compression of a lumbosacral nerve root.
+
+Q: Which bedside test reproduces sciatic nerve pain by lifting the extended leg and is used to assess lumbar disc herniation?
+A) Kernig sign
+B) Brudzinski sign
+C) Romberg test
+D) Straight leg raise test
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The straight leg raise test stretches the sciatic nerve and reproduces radicular pain when a lumbar disc herniation compresses a nerve root. A positive test supports the diagnosis of lumbar radiculopathy.
+
+Q: Cervical myelopathy results from compression of which structure?
+A) The peripheral nerves of the arm
+B) The facial nerve
+C) The spinal cord in the cervical region
+D) The brachial artery
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Cervical myelopathy is dysfunction caused by compression of the spinal cord in the neck, often from degenerative spondylosis. It produces gait disturbance, hand clumsiness, and upper motor neuron signs such as hyperreflexia.
+
+Q: Myopia (nearsightedness) is best corrected with which type of lens?
+A) Cylindrical lens
+B) Prism lens
+C) Concave (diverging) lens
+D) Convex (converging) lens
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In myopia the image focuses in front of the retina, so a concave diverging lens is used to move the focal point back onto the retina. This allows clear distance vision.
+
+Q: Hypermetropia (farsightedness) occurs because light rays focus where relative to the retina?
+A) Behind the retina
+B) At the optic disc
+C) Directly on the retina
+D) In front of the retina
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In hypermetropia the eyeball is relatively too short or refractive power too weak, so parallel rays focus behind the retina. A convex converging lens corrects this by bringing the focus forward onto the retina.
+
+Q: Astigmatism is caused by which structural abnormality of the eye?
+A) Increased intraocular pressure
+B) An irregularly curved cornea
+C) Clouding of the lens
+D) A detached retina
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Astigmatism results from an unevenly curved cornea (or lens) that refracts light unequally in different meridians. This produces blurred or distorted vision that is corrected with cylindrical lenses.
+
+Q: A patient reports sudden onset of floaters, flashes of light, and a curtain-like shadow across the visual field. Which condition is most likely?
+A) Conjunctivitis
+B) Refractive error
+C) Retinal detachment
+D) Stye
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Retinal detachment classically presents with floaters, light flashes, and a progressive curtain or shadow over the visual field. It is an ophthalmic emergency requiring prompt surgical repair to preserve vision.
+
+Q: Trachoma, a leading infectious cause of blindness, is caused by which organism?
+A) Candida albicans
+B) Chlamydia trachomatis
+C) Staphylococcus aureus
+D) Herpes simplex virus
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Trachoma is a chronic keratoconjunctivitis caused by Chlamydia trachomatis. Repeated infection leads to conjunctival scarring, entropion, trichiasis, and eventually corneal blindness if untreated.
+
+Q: A patient presents with a red eye, mucopurulent discharge, and eyelids stuck together on waking, but with normal vision. Which condition is most likely?
+A) Acute glaucoma
+B) Cataract
+C) Retinal detachment
+D) Bacterial conjunctivitis
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Bacterial conjunctivitis causes a red eye with purulent discharge and lids that are stuck together in the morning, while vision remains normal. It is highly contagious and managed with topical antibiotics and hygiene measures.
+
+Q: A corneal ulcer that stains green when fluorescein dye is applied indicates which of the following?
+A) A healthy intact cornea
+B) A cataract
+C) An epithelial defect with corneal ulceration
+D) Normal tear film
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Fluorescein dye pools in areas where the corneal epithelium is lost, staining the ulcer green under blue light. This confirms an epithelial defect and helps assess the size of a corneal ulcer.
+
+Q: Strabismus (squint) is best described as which condition?
+A) Increased intraocular pressure
+B) Misalignment of the visual axes of the two eyes
+C) Clouding of the lens
+D) Inflammation of the eyelid margin
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Strabismus is a misalignment of the eyes in which the visual axes are not directed at the same point simultaneously. If untreated in childhood it can lead to amblyopia (lazy eye) in the deviating eye.
+
+Q: Acute otitis media is an infection and inflammation of which part of the ear?
+A) The middle ear
+B) The pinna
+C) The external auditory canal
+D) The inner ear cochlea
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Acute otitis media is an infection of the middle ear cavity, commonly following an upper respiratory tract infection via the Eustachian tube. It presents with ear pain, fever, and a bulging red tympanic membrane.
+
+Q: In the Rinne test, a patient with conductive hearing loss will demonstrate which finding?
+A) Complete absence of both conductions
+B) Bone conduction better than air conduction
+C) Equal air and bone conduction with no lateralization
+D) Air conduction better than bone conduction
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: In conductive hearing loss the Rinne test is negative, meaning bone conduction is heard longer or louder than air conduction. This occurs because the impaired middle ear cannot efficiently transmit air-conducted sound.
+
+Q: Otosclerosis causes hearing loss primarily by which mechanism?
+A) Blockage of the external canal with wax
+B) Rupture of the tympanic membrane
+C) Fixation of the stapes footplate in the oval window
+D) Damage to the cochlear hair cells
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Otosclerosis is abnormal bony remodeling that fixes the stapes footplate to the oval window, preventing sound transmission to the inner ear. This produces a progressive conductive hearing loss, often treated by stapedectomy.
+
+Q: Sensorineural hearing loss results from damage to which structures?
+A) The external auditory canal
+B) The ossicles of the middle ear
+C) The cochlea or auditory nerve
+D) The tympanic membrane
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Sensorineural hearing loss arises from damage to the cochlear hair cells or the auditory (eighth cranial) nerve pathway. Unlike conductive loss it is usually permanent and may be managed with hearing aids or cochlear implants.
+
+Q: The most common cause of anterior epistaxis (nosebleed) is bleeding from which site?
+A) The maxillary sinus
+B) Little area (Kiesselbach plexus) on the anterior nasal septum
+C) Sphenopalatine artery posteriorly
+D) The frontal sinus
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Most anterior nosebleeds originate from Little area, the Kiesselbach plexus on the anterior nasal septum where several vessels anastomose. This site is easily traumatized and bleeding is usually controlled with pinching and pressure.
+
+Q: A child suddenly develops noisy breathing and unilateral foul-smelling nasal discharge. The nurse should suspect which cause?
+A) Deviated nasal septum
+B) Chronic sinusitis
+C) A nasal foreign body
+D) Allergic rhinitis
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A unilateral, foul-smelling, and sometimes blood-stained nasal discharge in a child strongly suggests an impacted nasal foreign body. Prompt removal prevents complications such as infection or aspiration.

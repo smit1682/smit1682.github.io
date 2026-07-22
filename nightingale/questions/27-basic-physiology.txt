@@ -1,0 +1,291 @@
+# w3-basic-c — ingested draft, verify before trusting
+
+Q: Which nephron segment reabsorbs the largest fraction of the filtered sodium and water?
+A) Collecting duct
+B) Proximal convoluted tubule
+C) Distal convoluted tubule
+D) Thick ascending limb of Henle
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: The proximal convoluted tubule reabsorbs about 65% of the filtered sodium and water isosmotically. Reabsorption here is driven by basolateral Na+-K+ ATPase and is largely obligatory.
+
+Q: Which substance is the gold standard for measuring GFR because it is freely filtered but neither reabsorbed nor secreted?
+A) Glucose
+B) Inulin
+C) Para-aminohippuric acid
+D) Sodium
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: Inulin is freely filtered and neither reabsorbed nor secreted, so its clearance equals the GFR. Creatinine clearance approximates GFR clinically but is slightly higher due to some tubular secretion.
+
+Q: The active transport that drives the counter-current multiplier and generates medullary hyperosmolarity occurs in the:
+A) Thick ascending limb of the loop of Henle
+B) Cortical collecting duct
+C) Proximal convoluted tubule
+D) Thin descending limb
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: The thick ascending limb actively pumps NaCl out via the Na-K-2Cl cotransporter while remaining impermeable to water. This creates the single effect that the counter-current arrangement multiplies into a steep medullary osmotic gradient.
+
+Q: The clearance of which substance is used to estimate the effective renal plasma flow?
+A) Urea
+B) Inulin
+C) Para-aminohippuric acid
+D) Creatinine
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: PAH is almost completely filtered and secreted, so nearly all of it is cleared in a single pass through the kidney. Its clearance therefore estimates the effective renal plasma flow.
+
+Q: Mild constriction of the efferent arteriole alone will:
+A) Decrease the glomerular filtration rate
+B) Abolish filtration completely
+C) Increase the glomerular filtration rate
+D) Leave GFR unchanged
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: Efferent constriction raises the glomerular capillary hydrostatic pressure upstream, which increases the net filtration pressure and GFR. Severe or prolonged constriction eventually lowers renal plasma flow and can reduce GFR.
+
+Q: Contraction of the detrusor muscle during micturition is mediated mainly by:
+A) Sympathetic fibres in the hypogastric nerve
+B) Somatic fibres in the pudendal nerve
+C) Parasympathetic fibres in the pelvic nerve (S2-S4)
+D) The vagus nerve
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: The micturition reflex is a parasympathetic spinal reflex carried by the pelvic nerves from S2-S4. These fibres cause detrusor contraction while the internal sphincter relaxes to allow voiding.
+
+Q: The principal muscle responsible for quiet inspiration is the:
+A) Diaphragm
+B) Internal intercostal muscle
+C) Abdominal muscles
+D) Sternocleidomastoid
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: The diaphragm performs about 70% of the work of quiet inspiration by descending and enlarging the thoracic cavity. Accessory muscles like the sternocleidomastoid are recruited only during forced breathing.
+
+Q: Lung compliance is best defined as:
+A) The pressure needed to overcome airway resistance
+B) The change in pressure per unit change in volume
+C) The change in lung volume per unit change in transpulmonary pressure
+D) The product of volume and pressure
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Compliance is the change in lung volume per unit change in distending (transpulmonary) pressure, reflecting the distensibility of the lungs. It is reduced in fibrosis and increased in emphysema.
+
+Q: In an upright person, the ventilation-perfusion (V/Q) ratio at the apex of the lung is:
+A) Less than 1
+B) Greater than 1
+C) Exactly zero
+D) Equal to 1
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: At the apex, blood flow falls more than ventilation because of gravity, so the V/Q ratio is high (about 3). At the base the ratio is low (about 0.6) because perfusion exceeds ventilation.
+
+Q: All of the following shift the oxygen-haemoglobin dissociation curve to the RIGHT EXCEPT:
+A) Increased temperature
+B) Increased 2,3-bisphosphoglycerate
+C) Increased blood pH (alkalosis)
+D) Increased PCO2
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: A rightward shift indicates reduced haemoglobin affinity and is caused by increased H+, CO2, temperature and 2,3-BPG. A rise in pH (alkalosis) is a Bohr effect that shifts the curve to the left, raising affinity.
+
+Q: The central chemoreceptors in the medulla are stimulated most directly by:
+A) A fall in arterial PO2
+B) A rise in H+ concentration of brain ECF produced by CO2
+C) A fall in H+ concentration of the CSF
+D) A rise in arterial PO2
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: CO2 diffuses across the blood-brain barrier and generates H+ in the CSF and brain extracellular fluid, which stimulates the central chemoreceptors. They do not respond to low PO2, which is sensed by the peripheral chemoreceptors.
+
+Q: The intrinsic coagulation pathway is assessed clinically by the:
+A) Reticulocyte count
+B) Prothrombin time (PT)
+C) Activated partial thromboplastin time (aPTT)
+D) Bleeding time
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: The aPTT tests the intrinsic and common pathways, while the prothrombin time tests the extrinsic and common pathways. The bleeding time reflects platelet and vascular function rather than the coagulation cascade.
+
+Q: The extrinsic coagulation pathway is triggered by:
+A) Activation of factor XII on a foreign surface
+B) Platelet factor 4
+C) Von Willebrand factor
+D) Release of tissue factor (factor III)
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: The extrinsic pathway begins when tissue factor released from damaged tissue activates factor VII. The intrinsic pathway instead starts with contact activation of factor XII on a negatively charged surface.
+
+Q: During fibrinolysis, plasminogen is converted to active plasmin mainly by:
+A) Antithrombin III
+B) Thrombin
+C) Tissue plasminogen activator (tPA)
+D) Factor XIII
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: Tissue plasminogen activator converts plasminogen to plasmin, which digests fibrin and dissolves the clot. Factor XIII in contrast cross-links fibrin to stabilise the clot rather than break it down.
+
+Q: Platelet aggregation at the site of injury is promoted by the release of:
+A) Heparin
+B) Nitric oxide
+C) Thromboxane A2
+D) Prostacyclin (PGI2)
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Thromboxane A2 produced by activated platelets promotes aggregation and vasoconstriction. Prostacyclin and nitric oxide from healthy endothelium oppose this by inhibiting aggregation.
+
+Q: A person with blood group AB has which antibodies in the plasma?
+A) Anti-A only
+B) Both anti-A and anti-B
+C) Neither anti-A nor anti-B
+D) Anti-B only
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: Group AB red cells carry both A and B antigens, so the plasma contains neither anti-A nor anti-B antibodies. This makes AB individuals universal recipients for red cell transfusion.
+
+Q: Haemolytic disease of the newborn due to Rh incompatibility typically occurs when:
+A) The mother is Rh negative and the fetus Rh positive
+B) The mother is Rh positive and the fetus Rh negative
+C) Both mother and fetus are Rh negative
+D) Both mother and fetus are Rh positive
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: An Rh-negative mother carrying an Rh-positive fetus can become sensitised and produce anti-D IgG antibodies. In a subsequent Rh-positive pregnancy these cross the placenta and cause fetal haemolysis.
+
+Q: The erythrocyte sedimentation rate (ESR) is typically increased by:
+A) Sickle-shaped red cells
+B) A rise in plasma fibrinogen and globulins
+C) Very low plasma protein levels
+D) Polycythaemia
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: High plasma fibrinogen and globulins promote rouleaux formation, so red cells settle faster and the ESR rises. Polycythaemia and abnormally shaped cells such as sickle cells hinder rouleaux and lower the ESR.
+
+Q: The most important buffer of the extracellular fluid is the:
+A) Intracellular protein buffer
+B) Bicarbonate-carbonic acid buffer system
+C) Ammonia buffer system
+D) Phosphate buffer system
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: The bicarbonate-carbonic acid system is the principal extracellular buffer because both components are independently regulated by the lungs and kidneys. This open system gives it far greater effective buffering power than its pK alone would suggest.
+
+Q: The respiratory compensation for a primary metabolic acidosis is:
+A) Hyperventilation that lowers arterial PCO2
+B) Increased renal bicarbonate excretion
+C) Hypoventilation that raises arterial PCO2
+D) No respiratory change
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: The excess H+ stimulates peripheral chemoreceptors, causing hyperventilation that blows off CO2 and lowers arterial PCO2. This Kussmaul breathing partially restores the pH toward normal.
+
+Q: Which condition characteristically produces a HIGH anion-gap metabolic acidosis?
+A) Prolonged diarrhoea
+B) Excess normal saline infusion
+C) Diabetic ketoacidosis
+D) Type 1 (distal) renal tubular acidosis
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: In diabetic ketoacidosis, unmeasured keto-acid anions accumulate and widen the anion gap. Diarrhoea and renal tubular acidosis instead cause a normal anion-gap acidosis due to bicarbonate loss with chloride retention.
+
+Q: The resting membrane potential of a typical neurone (about -70 mV) is maintained mainly by:
+A) High resting permeability to chloride only
+B) High resting permeability to potassium plus the Na+-K+ pump
+C) High resting permeability to sodium
+D) High resting permeability to calcium
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: At rest the membrane is far more permeable to potassium than to sodium, so the potential lies close to the potassium equilibrium potential. The Na+-K+ ATPase maintains the ionic gradients and adds a small electrogenic contribution.
+
+Q: The rapid depolarization (upstroke) phase of the nerve action potential is due to:
+A) Influx of sodium ions
+B) Efflux of potassium ions
+C) Efflux of calcium ions
+D) Influx of chloride ions
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: The upstroke results from rapid opening of voltage-gated sodium channels and a large sodium influx down its electrochemical gradient. This drives the membrane potential toward the sodium equilibrium potential.
+
+Q: Repolarization of the neuronal action potential is produced mainly by:
+A) Influx of chloride ions
+B) Continued sodium influx
+C) Efflux of potassium ions through voltage-gated K+ channels
+D) The sodium-potassium pump acting instantaneously
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Repolarization occurs as sodium channels inactivate and voltage-gated potassium channels open, allowing potassium to leave the cell. This restores the negative interior and often causes a brief after-hyperpolarization.
+
+Q: At a chemical synapse, the immediate trigger for neurotransmitter release from the presynaptic terminal is:
+A) Influx of chloride
+B) Influx of calcium into the presynaptic terminal
+C) Efflux of potassium from the terminal
+D) Efflux of sodium
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: Depolarization opens voltage-gated calcium channels, and the calcium influx triggers fusion of synaptic vesicles with the presynaptic membrane. Neurotransmitter is then released into the cleft by exocytosis.
+
+Q: During the absolute refractory period of a nerve fibre:
+A) A stronger-than-normal stimulus can produce an action potential
+B) The sodium channels are fully available for activation
+C) No stimulus, however strong, can generate another action potential
+D) The membrane is hyperpolarized by potassium efflux only
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: In the absolute refractory period the sodium channels are inactivated, so no stimulus of any strength can trigger a new action potential. This period sets the maximum firing frequency and ensures one-way propagation.
+
+Q: The principal integrating centre for the regulation of body temperature is the:
+A) Medulla oblongata
+B) Cerebellum
+C) Hypothalamus
+D) Thalamus
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: The hypothalamus acts as the body's thermostat, comparing core temperature with a set point. It coordinates heat-loss and heat-conserving responses through autonomic, endocrine and behavioural pathways.
+
+Q: The only mechanism by which the body can lose heat when the environmental temperature exceeds body temperature is:
+A) Evaporation of sweat
+B) Conduction
+C) Radiation
+D) Convection
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: When the surroundings are hotter than the body, radiation, conduction and convection add heat rather than remove it. Evaporation of sweat is then the sole avenue for losing heat and requires low humidity to work.
+
+Q: Stimulation of the anterior hypothalamic-preoptic area causes:
+A) Increased thyroid hormone secretion only
+B) Piloerection to conserve heat
+C) Sweating and cutaneous vasodilatation (heat loss)
+D) Shivering and cutaneous vasoconstriction
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: The anterior hypothalamic-preoptic area drives heat-loss responses such as sweating and cutaneous vasodilatation. The posterior hypothalamus instead mediates heat conservation and production through vasoconstriction and shivering.

@@ -1,0 +1,301 @@
+# w3-community-d — ingested draft, verify before trusting
+
+Q: The chi-square test is most appropriate for analysing which type of data?
+A) Paired continuous measurements from the same individuals
+B) Qualitative (categorical) data expressed as frequencies
+C) Ranked ordinal data from a single small sample
+D) Continuous quantitative data that is normally distributed
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The chi-square test assesses the association between qualitative or categorical variables using observed and expected frequencies in a contingency table. It is a non-parametric test of significance for enumeration data.
+
+Q: The value of the correlation coefficient (r) always lies between which of the following limits?
+A) 0 and +100
+B) -100 and +100
+C) -1 and +1
+D) 0 and +1
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: Karl Pearson's correlation coefficient ranges from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation). Its sign shows the direction and its magnitude shows the strength of the linear relationship.
+
+Q: The standard error of the mean is calculated as:
+A) Variance divided by the sample size
+B) Square root of the standard deviation
+C) Standard deviation multiplied by the sample size
+D) Standard deviation divided by the square root of the sample size
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: The standard error of the mean equals the standard deviation divided by the square root of the sample size (SD/√n). It measures the precision of the sample mean as an estimate of the population mean and falls as sample size increases.
+
+Q: Student's t-test is the test of choice for comparing:
+A) Association between two categorical variables
+B) Means of two small samples (n less than 30)
+C) More than two group means simultaneously
+D) Proportions in two large samples
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The t-test compares the means of small samples (n less than 30) when the population standard deviation is unknown and the data are approximately normally distributed. For comparing more than two means, analysis of variance (ANOVA) is used.
+
+Q: A type I error in hypothesis testing occurs when the investigator:
+A) Increases the sample size unnecessarily
+B) Uses a two-tailed instead of a one-tailed test
+C) Accepts a null hypothesis that is actually false
+D) Rejects a null hypothesis that is actually true
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: A type I (alpha) error is the rejection of a true null hypothesis, meaning a difference is concluded when none really exists. Its probability equals the chosen level of significance, conventionally set at 0.05.
+
+Q: The probability of committing a type II error is denoted by:
+A) The power of the study
+B) The confidence level
+C) Beta
+D) Alpha
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: A type II error (beta) is the failure to reject a false null hypothesis, that is, missing a real difference. The power of a study equals 1 minus beta and reflects its ability to detect a true effect.
+
+Q: In tests of significance, a p-value less than 0.05 conventionally indicates that:
+A) The result is statistically significant
+B) The sample size was too small
+C) The null hypothesis is definitely true
+D) The result is certainly due to chance
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: A p-value below 0.05 means the observed result would arise by chance less than 5% of the time if the null hypothesis were true. It is therefore judged statistically significant and the null hypothesis is rejected.
+
+Q: A 95% confidence interval for a population mean is best interpreted as:
+A) There is a 95% chance the sample mean is exactly correct
+B) The interval contains 95% of the raw sample values
+C) 95% of individual observations fall within the interval
+D) The range within which the true population value lies with 95% confidence
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: A 95% confidence interval is the range, computed from sample data, that would contain the true population parameter in 95% of repeated samples. It expresses the precision of the estimate, not the spread of individual observations.
+
+Q: For a contingency table with r rows and c columns, the degrees of freedom for the chi-square test are:
+A) r multiplied by c
+B) (r-1)(c-1)
+C) (r+c) minus 1
+D) n minus 1
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The degrees of freedom for a chi-square test on an r by c contingency table equal (rows minus 1) multiplied by (columns minus 1). For a standard 2 by 2 table this gives one degree of freedom.
+
+Q: The primary purpose of regression analysis, as distinct from correlation, is to:
+A) Compare the variances of two samples
+B) Test the significance of a single proportion
+C) Predict the value of one variable from another
+D) Measure only the strength of an association
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Regression estimates the average change in a dependent variable per unit change in an independent variable, allowing prediction of one from the other. Correlation only quantifies the strength and direction of the linear relationship.
+
+Q: A paired t-test would be the correct choice to analyse:
+A) Mean haemoglobin across four independent groups
+B) The proportion of smokers in two different villages
+C) Blood pressure before and after treatment in the same patients
+D) Blood pressure of men versus women in a survey
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: The paired t-test compares two measurements taken on the same individuals, such as before and after an intervention, thereby removing between-subject variation. Comparisons between independent groups require the unpaired t-test instead.
+
+Q: Which change would increase the power of a study to detect a true difference?
+A) Reducing the true effect size
+B) Decreasing the sample size
+C) Increasing the beta error
+D) Increasing the sample size
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: Statistical power (1 minus beta) rises with a larger sample size, a larger true effect size, and a higher significance level. A bigger sample reduces the standard error, making a genuine difference easier to detect.
+
+Q: A cohort study directly allows calculation of which measure of disease frequency?
+A) Odds ratio only
+B) Prevalence at a single point in time
+C) Incidence of disease
+D) Case fatality of past cases
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: In a cohort (prospective) study, initially disease-free exposed and unexposed groups are followed over time, so new cases can be counted to yield incidence and relative risk. Case-control studies cannot measure incidence directly.
+
+Q: Which bias is the most characteristic problem of case-control studies that rely on past exposure history?
+A) Ascertainment bias from randomization
+B) Recall bias
+C) Lead-time bias
+D) Loss to follow-up bias
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Recall bias arises in case-control studies because cases tend to remember or report past exposures differently from controls, distorting the exposure-disease association. It is a form of information bias inherent to retrospective enquiry.
+
+Q: A confounding factor is one that is:
+A) An intermediate step in the causal pathway
+B) Associated with both the exposure and the outcome
+C) Present only in the exposed group by design
+D) Randomly distributed and therefore always ignorable
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: A confounder is independently associated with both the exposure and the disease outcome without being an intermediate in the causal chain, and it can distort the observed association. Age and smoking are common examples.
+
+Q: The main purpose of randomization in a randomized controlled trial is to:
+A) Guarantee exactly equal numbers in every subgroup
+B) Distribute confounding factors equally between groups
+C) Ensure the outcome is always positive
+D) Eliminate the need for a control group
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Randomization allocates subjects to study groups by chance so that both known and unknown confounders are distributed equally between them. This removes selection bias and permits a valid comparison of the intervention effect.
+
+Q: In a case-control study, the measure used to estimate the strength of association between exposure and disease is the:
+A) Incidence rate
+B) Odds ratio
+C) Population attributable risk percent
+D) Relative risk computed directly
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: Case-control studies compare the odds of exposure in cases versus controls, yielding the odds ratio, which approximates relative risk when the disease is rare. Incidence and relative risk cannot be calculated directly from this design.
+
+Q: Selection bias in an epidemiological study refers to error arising from:
+A) Random misclassification of the outcome
+B) Inaccurate measurement of the exposure
+C) The manner in which study subjects are chosen
+D) The play of chance in a small sample
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Selection bias occurs when the procedure used to select subjects produces study groups that differ systematically from the target population, distorting the exposure-outcome relationship. It is distinct from information (measurement) bias.
+
+Q: In cost-benefit analysis of a health programme, both the costs and the outcomes are expressed in:
+A) Life-years gained
+B) Quality-adjusted life years
+C) Number of cases prevented
+D) Monetary units
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Cost-benefit analysis measures both inputs and consequences in money terms, allowing a direct judgement of whether benefits outweigh costs. Placing a monetary value on health outcomes is its distinguishing and most difficult feature.
+
+Q: Cost-effectiveness analysis differs from cost-benefit analysis because its outcomes are measured in:
+A) Rupees saved per patient
+B) Return on investment ratios
+C) Natural units such as cases prevented or life-years gained
+D) Net present monetary value
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Cost-effectiveness analysis keeps costs in money but expresses outcomes in natural health units such as life-years gained or cases prevented, comparing interventions by cost per unit of effect. This avoids valuing health itself in money.
+
+Q: The health outcome measure that combines both length and quality of life, used in cost-utility analysis, is the:
+A) Quality-adjusted life year (QALY)
+B) Standardized mortality ratio
+C) Incidence density
+D) Crude death rate
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Cost-utility analysis uses composite measures such as the QALY, or the DALY averted, which integrate the quantity and quality of life into a single index. This allows comparison of very different kinds of health interventions.
+
+Q: Which method of health financing places the greatest financial risk directly on the sick individual at the time of illness?
+A) Out-of-pocket payment
+B) Community-based prepayment schemes
+C) Social health insurance
+D) Financing through general taxation
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: Out-of-pocket payment requires patients to pay directly when they use services, providing no risk pooling and often causing catastrophic health expenditure. Insurance and tax-based systems spread the financial risk across many people.
+
+Q: Medical sociology is best defined as the study of:
+A) Microbial causes of communicable disease
+B) Chemical treatment of mental disorders
+C) The statistical distribution of diseases only
+D) Social causes and consequences of health and illness
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: Medical sociology studies the social factors that influence health, illness behaviour, and the organization of health care, along with the social consequences of disease. It highlights how culture, class, and society shape health.
+
+Q: The influence of social class on health is best illustrated by the observation that:
+A) Higher social classes always have poorer health
+B) Social class has no measurable effect on mortality
+C) Lower socio-economic groups generally have higher morbidity and mortality
+D) Disease is distributed randomly across all classes
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Social class is a powerful determinant of health, and lower socio-economic groups consistently show higher morbidity and mortality owing to poorer living conditions, nutrition, and access to care. This social gradient in health is well documented.
+
+Q: In the context of health education, "IEC" stands for:
+A) International Epidemic Committee
+B) Integrated Environmental Care
+C) Immunization, Epidemiology and Control
+D) Information, Education and Communication
+Ans: D
+Topic: Community Health Nursing
+Diff: easy
+Exp: IEC stands for Information, Education and Communication, a strategy that combines these approaches to encourage people to adopt and sustain healthy practices. It is a central tool in health promotion programmes.
+
+Q: A key advantage of two-way communication over one-way communication in health education is that it:
+A) Provides feedback and allows clarification
+B) Is always cheaper to organize
+C) Eliminates the need for a communicator
+D) Reaches larger audiences more quickly
+Ans: A
+Topic: Community Health Nursing
+Diff: medium
+Exp: Two-way communication permits feedback, so the receiver can ask questions and the communicator can clarify and correct misunderstandings, making it more effective for changing behaviour. One-way methods reach many people but lack this interaction.
+
+Q: In the communication process, "noise" that distorts a health message is an example of a:
+A) Type of receiver
+B) Channel of communication
+C) Source of feedback
+D) Barrier to communication
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Barriers to communication include physiological, psychological, environmental, and cultural factors, collectively termed noise, that distort or block the message between sender and receiver. Identifying them improves the effectiveness of health education.
+
+Q: In the Health Belief Model, the likelihood of a person taking preventive action depends primarily on:
+A) Perceived susceptibility, severity, benefits and barriers
+B) The literacy level of the health worker only
+C) Random chance unrelated to personal beliefs
+D) The monetary cost of the service alone
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The Health Belief Model predicts health behaviour from perceived susceptibility to and severity of a condition, weighed against the perceived benefits and barriers of acting, often prompted by cues to action. It is widely applied in designing IEC.
+
+Q: Assessing whether a health programme achieved its intended long-term reduction in disease burden is an example of:
+A) Formative evaluation
+B) Input evaluation
+C) Impact (outcome) evaluation
+D) Process evaluation
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Impact or outcome evaluation measures the extent to which a programme achieved its ultimate objectives, such as reduced morbidity or mortality. Process evaluation, by contrast, assesses how the activities were actually carried out.
+
+Q: The primary purpose of a Health Management Information System (HMIS) is to:
+A) Conduct laboratory diagnostic tests
+B) Replace all clinical judgement with computers
+C) Store only the financial accounts of a hospital
+D) Provide relevant information to support health decision-making and management
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: An HMIS collects, processes, and provides timely and relevant data so that managers and providers can plan, monitor, and evaluate health services and make evidence-based decisions. Data are collected for action, not merely for record-keeping.

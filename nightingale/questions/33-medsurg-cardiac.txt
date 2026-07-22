@@ -1,0 +1,301 @@
+# w3-medsurg-d — ingested draft, verify before trusting
+
+Q: Which ECG finding is characteristic of atrial fibrillation?
+A) Absent P waves with an irregularly irregular ventricular rhythm
+B) Regular sawtooth flutter waves at a constant atrial rate
+C) Wide, bizarre QRS complexes at a rapid regular rate
+D) A progressively lengthening PR interval before a dropped beat
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Atrial fibrillation produces disorganized atrial activity, so discrete P waves are absent and are replaced by fibrillatory waves. Conduction to the ventricles is erratic, producing the classic irregularly irregular rhythm.
+
+Q: The classic regular "sawtooth" pattern of atrial waves on an ECG is seen in:
+A) First-degree AV block
+B) Atrial fibrillation
+C) Atrial flutter
+D) Ventricular tachycardia
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Atrial flutter generates regular sawtooth-shaped flutter (F) waves, usually best seen in the inferior leads. The atrial rate is typically about 250 to 350 per minute with a regular ventricular response.
+
+Q: The immediate treatment of pulseless ventricular fibrillation is:
+A) Immediate defibrillation
+B) Intravenous adenosine
+C) Vagal maneuvers
+D) Synchronized cardioversion
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Pulseless ventricular fibrillation is a lethal rhythm requiring immediate defibrillation to restore an organized rhythm. Early unsynchronized shock combined with CPR gives the best chance of survival.
+
+Q: Which statement correctly distinguishes synchronized cardioversion from defibrillation?
+A) Defibrillation is the treatment of choice for stable atrial fibrillation with a pulse
+B) Defibrillation delivers the shock precisely timed to the R wave
+C) Cardioversion delivers the shock synchronized to the R wave of the QRS complex
+D) Cardioversion always uses a higher energy level than defibrillation
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Cardioversion delivers a lower-energy shock synchronized to the R wave to avoid the vulnerable T-wave period and prevent inducing ventricular fibrillation. Defibrillation is unsynchronized and used for pulseless VF or VT.
+
+Q: In third-degree (complete) heart block, the ECG shows:
+A) Progressive PR lengthening until a beat is dropped
+B) A constantly prolonged PR interval with every beat conducted
+C) Complete dissociation between the P waves and QRS complexes
+D) Absent P waves with an irregularly irregular rhythm
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In complete heart block the atria and ventricles beat independently, so the P waves and QRS complexes have no fixed relationship. An escape pacemaker maintains the ventricular rhythm, which is often slow.
+
+Q: First-degree atrioventricular block is defined by:
+A) An irregularly irregular ventricular rhythm
+B) Randomly dropped QRS complexes
+C) A PR interval greater than 0.20 seconds with every impulse conducted
+D) A widened QRS complex greater than 0.12 seconds
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: First-degree AV block reflects delayed conduction through the AV node, prolonging the PR interval beyond 0.20 seconds. Every impulse is still conducted to the ventricles, so no beats are dropped.
+
+Q: Progressive lengthening of the PR interval until a QRS complex is dropped is characteristic of:
+A) Mobitz type I (Wenckebach) second-degree block
+B) Mobitz type II second-degree block
+C) Third-degree heart block
+D) First-degree heart block
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Mobitz type I (Wenckebach) block shows progressive PR-interval prolongation until one P wave fails to conduct and a QRS is dropped. The cycle then repeats, and the rhythm is usually benign.
+
+Q: The ECG in ventricular tachycardia typically shows:
+A) Narrow QRS complexes at a normal rate
+B) A flat isoelectric line
+C) Regular sawtooth flutter waves
+D) Three or more consecutive wide QRS complexes at a rapid rate
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Ventricular tachycardia is defined as three or more consecutive PVCs, producing wide, bizarre QRS complexes at a rapid rate. It may be life threatening and can deteriorate into ventricular fibrillation.
+
+Q: Asystole is best described on the ECG monitor as:
+A) A rapid wide-complex tachycardia
+B) A regular sawtooth baseline
+C) A flat line reflecting absence of ventricular electrical activity
+D) Chaotic irregular deflections without organized complexes
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Asystole represents the total absence of ventricular electrical activity, seen as a nearly flat line on the monitor. It is treated with CPR and epinephrine rather than defibrillation.
+
+Q: A premature ventricular contraction (PVC) appears on the ECG as:
+A) A wide, bizarre QRS complex occurring earlier than expected without a preceding P wave
+B) A narrow QRS complex preceded by a normal P wave
+C) A regular sawtooth flutter wave
+D) A prolonged flat isoelectric segment
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A PVC arises from an ectopic ventricular focus, producing a wide, bizarre QRS that comes early and is not preceded by a P wave. It is typically followed by a compensatory pause.
+
+Q: Intermittent claudication, the hallmark symptom of peripheral arterial disease, is:
+A) Reproducible muscle pain in the legs brought on by exercise and relieved by rest
+B) Calf swelling with warmth, redness, and tenderness
+C) Leg pain occurring at rest and relieved by leg dependency
+D) Numbness of the feet occurring only during the night
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Intermittent claudication is ischemic muscle pain triggered when exercise increases oxygen demand that narrowed arteries cannot meet. Rest lowers the demand and relieves the pain, distinguishing it from venous disease.
+
+Q: To promote arterial perfusion in a patient with peripheral arterial disease, the nurse should position the legs:
+A) Elevated on two pillows at all times
+B) Flat with the knees continuously flexed
+C) In a slightly dependent (lowered) position
+D) Elevated well above the level of the heart
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In arterial insufficiency, a dependent position uses gravity to enhance blood flow into the ischemic legs. Elevating the limbs would further reduce arterial perfusion and worsen ischemic pain.
+
+Q: Which finding most strongly indicates arterial rather than venous insufficiency?
+A) Warm, edematous lower legs
+B) A cool, pale extremity with diminished or absent pedal pulses
+C) Aching pain that is relieved by elevating the legs
+D) Brownish hyperpigmentation around the medial ankle
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Arterial insufficiency causes cool, pale extremities with weak or absent pulses because of reduced inflow. Venous disease instead produces warm, edematous, hyperpigmented limbs with intact pulses.
+
+Q: A classic physical finding of an abdominal aortic aneurysm is:
+A) A pulsatile mass palpable in the abdomen
+B) Marked jaundice of the sclera
+C) Rebound tenderness in the right lower quadrant
+D) Absent bowel sounds throughout the abdomen
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: An abdominal aortic aneurysm classically presents as a pulsatile mass palpable near the umbilicus. Many are asymptomatic and are found incidentally during examination or imaging.
+
+Q: The nurse should suspect rupture of an abdominal aortic aneurysm when the patient develops:
+A) Sudden severe back or abdominal pain with hypotension and tachycardia
+B) Bradycardia with a rising blood pressure
+C) Localized tenderness of the calf muscle
+D) Gradual onset of constipation and bloating
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Rupture of an aortic aneurysm produces sudden severe back or abdominal pain with signs of hemorrhagic shock such as hypotension and tachycardia. It is a surgical emergency requiring immediate intervention.
+
+Q: A sudden "tearing" or "ripping" chest pain radiating to the back is most characteristic of:
+A) Acute pericarditis
+B) Gastroesophageal reflux disease
+C) Aortic dissection
+D) Stable angina pectoris
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Aortic dissection classically causes an abrupt, severe tearing or ripping pain that radiates to the back as blood splits the layers of the arterial wall. Rapid blood pressure control and imaging are essential.
+
+Q: Varicose veins develop primarily as a result of:
+A) Incompetent venous valves leading to venous stasis and dilation
+B) Inflammation and thrombosis of small and medium arteries
+C) Atherosclerotic narrowing of the arteries
+D) Vasospasm of the digital arterioles
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Varicose veins result from incompetent valves that permit retrograde flow and venous pooling, distending and tortuously enlarging the superficial veins. Prolonged standing and raised venous pressure aggravate the condition.
+
+Q: Which bedside test is used to assess valvular competence of the veins in a patient with varicose veins?
+A) Trendelenburg test
+B) Phalen maneuver
+C) Allen test
+D) Homan sign
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The Trendelenburg test evaluates competence of the venous valves by observing the pattern of vein refilling after leg elevation and tourniquet application. Rapid filling from above indicates valvular incompetence.
+
+Q: Raynaud phenomenon is characterized by:
+A) Continuous painless cyanosis of both lower limbs
+B) Persistent warmth and redness of the hands and feet
+C) Painless ulceration of the toes with absent pulses
+D) Episodic vasospasm producing sequential white, blue, and red color changes of the digits
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Raynaud phenomenon is episodic arteriolar vasospasm, usually triggered by cold or stress, producing sequential pallor, cyanosis, and then rubor of the digits. The attacks are typically reversible with warming.
+
+Q: The most important self-care instruction for a patient with Raynaud phenomenon is to:
+A) Apply ice packs to the hands during an attack
+B) Restrict daily fluid intake
+C) Avoid cold exposure and stop smoking
+D) Keep the hands immersed in cold water
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Avoiding cold exposure and eliminating tobacco, which is a potent vasoconstrictor, reduce the frequency and severity of Raynaud attacks. Keeping the hands and whole body warm is the cornerstone of management.
+
+Q: The single most important intervention in managing Buerger disease (thromboangiitis obliterans) is:
+A) Complete cessation of all tobacco use
+B) Regular use of vasoconstrictor drugs
+C) Lifelong anticoagulation therapy
+D) A strict low-sodium diet
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Buerger disease is strongly linked to tobacco, and continued use drives progression toward ischemia and gangrene. Complete and permanent cessation of all tobacco is the only intervention that halts the disease.
+
+Q: Buerger disease characteristically affects:
+A) Large arteries of elderly postmenopausal women
+B) The pulmonary arterial circulation
+C) The coronary arteries exclusively
+D) Small and medium arteries and veins of the extremities in young male smokers
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Thromboangiitis obliterans typically affects the small and medium arteries and veins of the extremities in young male smokers. Inflammatory thrombi occlude the vessels, causing ischemia and pain in the digits.
+
+Q: Which peripheral manifestation is characteristically associated with infective endocarditis?
+A) A butterfly (malar) facial rash
+B) Heberden nodes over the finger joints
+C) Osler nodes, Janeway lesions, and splinter hemorrhages
+D) Xanthelasma around the eyelids
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Infective endocarditis produces peripheral signs such as painful Osler nodes, painless Janeway lesions, and splinter hemorrhages from septic emboli and immune complexes. Roth spots may also appear in the retina.
+
+Q: The characteristic lesion of infective endocarditis is:
+A) A fatty atheromatous plaque in the coronary arteries
+B) A large accumulating pericardial effusion
+C) Fibrous thickening and calcification of the pericardium
+D) Vegetations of microorganisms and fibrin on the heart valves
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: The hallmark of infective endocarditis is vegetations composed of microorganisms, platelets, and fibrin on the heart valves. Fragments may embolize elsewhere, and valve destruction can cause regurgitation.
+
+Q: Rheumatic heart disease in adults most commonly affects which cardiac valve?
+A) Aortic valve alone
+B) Tricuspid valve
+C) Pulmonic valve
+D) Mitral valve
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Rheumatic heart disease most often damages the mitral valve, followed by the aortic valve. Chronic scarring produces stenosis or regurgitation years after the initial episode of rheumatic fever.
+
+Q: Rheumatic fever, which precedes rheumatic heart disease, follows infection with:
+A) Klebsiella pneumoniae
+B) Staphylococcus aureus
+C) Escherichia coli
+D) Group A beta-hemolytic streptococcus
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Rheumatic fever is an immune reaction that follows pharyngitis caused by group A beta-hemolytic streptococcus. Prompt antibiotic treatment of streptococcal throat infection prevents its development.
+
+Q: The most common form of cardiomyopathy, marked by ventricular dilation and impaired systolic contraction, is:
+A) Arrhythmogenic right ventricular cardiomyopathy
+B) Dilated cardiomyopathy
+C) Restrictive cardiomyopathy
+D) Hypertrophic cardiomyopathy
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Dilated cardiomyopathy is the most common type and features ventricular dilation with poor systolic function, leading to heart failure. It may be idiopathic or caused by alcohol, infection, or ischemia.
+
+Q: Hypertrophic cardiomyopathy is an important cause of sudden cardiac death in:
+A) Neonates during the first week of life
+B) Pregnant women in the third trimester
+C) Elderly patients with long-standing hypertension
+D) Apparently healthy young athletes
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Hypertrophic cardiomyopathy involves asymmetric myocardial thickening and is a leading cause of sudden cardiac death in young athletes. It can cause outflow obstruction and lethal arrhythmias during exertion.
+
+Q: After a cardiac catheterization performed through the femoral artery, the priority nursing assessment is:
+A) Pupillary size and reaction to light
+B) The patient's level of orientation
+C) Bowel sounds in all four quadrants
+D) Peripheral pulses, color, and temperature of the affected extremity
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: After femoral catheterization, assessing distal pulses, color, and temperature detects arterial occlusion or bleeding early. Neurovascular compromise of the affected limb is the priority complication to monitor.
+
+Q: Following a femoral-approach cardiac catheterization, the nurse should:
+A) Have the patient flex the hip and knee frequently
+B) Encourage immediate ambulation to prevent clot formation
+C) Withhold all oral fluids for the next 24 hours
+D) Keep the affected leg straight and maintain bed rest as ordered
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Keeping the affected leg straight and maintaining bed rest reduce the risk of bleeding and hematoma at the femoral puncture site. The nurse also monitors the site and distal circulation frequently.

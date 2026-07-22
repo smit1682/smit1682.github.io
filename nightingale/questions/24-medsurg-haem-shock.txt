@@ -1,0 +1,281 @@
+# w2-medsurg-c — ingested draft, verify before trusting
+
+Q: A 30-year-old woman with heavy menstrual bleeding has anaemia. The expected red cell morphology on her peripheral smear is
+A) Normocytic normochromic
+B) Macrocytic normochromic
+C) Microcytic hypochromic
+D) Macrocytic megaloblastic
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Iron deficiency, the most common anaemia, produces small pale red cells that are microcytic and hypochromic with low MCV and MCH. Serum ferritin and iron fall while total iron-binding capacity rises.
+
+Q: A patient with megaloblastic anaemia also complains of paraesthesia and impaired position sense. The most likely deficiency is
+A) Folic acid
+B) Vitamin B12, or cobalamin
+C) Iron
+D) Vitamin C
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Both B12 and folate deficiency cause macrocytic megaloblastic anaemia, but only vitamin B12 deficiency produces neurological signs such as paraesthesia and loss of proprioception from subacute combined degeneration. Folate deficiency lacks these neurological features.
+
+Q: The characteristic blood picture in aplastic anaemia is
+A) Microcytic anaemia with target cells
+B) Leukocytosis with circulating blasts
+C) Isolated anaemia with a high reticulocyte count
+D) Pancytopenia due to bone marrow hypoplasia
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Aplastic anaemia results from bone marrow failure, so all cell lines fall, producing pancytopenia of red cells, white cells and platelets. The reticulocyte count is low because the hypoplastic marrow cannot regenerate cells.
+
+Q: During a sickle cell vaso-occlusive crisis, priority nursing management includes
+A) Restricting all fluids to reduce oedema
+B) Encouraging vigorous physical activity
+C) Hydration, oxygen and adequate analgesia
+D) Applying cold packs to the painful joints
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A vaso-occlusive crisis is managed with generous hydration, supplemental oxygen, warmth and effective analgesia to relieve pain and limit further sickling. Cold application and dehydration promote sickling and must be avoided.
+
+Q: The type of leukaemia most commonly seen in young children is
+A) Chronic myeloid leukaemia
+B) Hairy cell leukaemia
+C) Chronic lymphocytic leukaemia
+D) Acute lymphoblastic leukaemia
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Acute lymphoblastic leukaemia is the commonest leukaemia and malignancy of childhood, with a peak incidence between 2 and 5 years of age. Chronic lymphocytic leukaemia, by contrast, is a disease of older adults.
+
+Q: The pathognomonic cell used to diagnose Hodgkin lymphoma on lymph node biopsy is the
+A) Auer rod
+B) Smudge cell
+C) Reed-Sternberg cell
+D) Heinz body
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The Reed-Sternberg cell is a large binucleate owl-eye cell whose presence is the diagnostic hallmark of Hodgkin lymphoma. Its absence, along with a more disseminated nodal pattern, characterises non-Hodgkin lymphoma.
+
+Q: Haemophilia A results from a deficiency of clotting
+A) Fibrinogen
+B) Factor IX
+C) Factor VIII
+D) Factor XI
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Haemophilia A is an X-linked recessive disorder caused by a deficiency of factor VIII, leading to prolonged bleeding and haemarthrosis. Haemophilia B, or Christmas disease, results instead from factor IX deficiency.
+
+Q: Idiopathic or immune thrombocytopenic purpura is caused by
+A) Increased platelet production in the marrow
+B) A deficiency of factor VIII
+C) Autoimmune destruction of circulating platelets
+D) Aplasia of the bone marrow
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In immune thrombocytopenic purpura, autoantibodies, usually IgG, coat the platelets, which are then destroyed in the spleen, producing a low platelet count. Patients typically present with petechiae, purpura and easy bruising.
+
+Q: A hallmark laboratory finding in disseminated intravascular coagulation is
+A) An isolated microcytic anaemia
+B) High fibrinogen with a low D-dimer
+C) Prolonged PT and PTT, low fibrinogen and elevated D-dimer
+D) Normal PT and PTT with a high platelet count
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: DIC involves simultaneous widespread clotting and bleeding that consumes platelets and clotting factors. This produces prolonged PT and PTT, low fibrinogen and platelets, and elevated D-dimer and fibrin degradation products.
+
+Q: Platelet concentrates for transfusion are correctly stored at
+A) 37 degrees in an incubator
+B) 2 to 6 degrees without agitation
+C) 20 to 24 degrees with continuous gentle agitation
+D) minus 18 degrees in a frozen state
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Platelets are kept at room temperature, 20 to 24 degrees, with constant gentle agitation to preserve their function, and have a short shelf life of about five days. Refrigeration damages platelets, unlike packed red cells which are stored at 2 to 6 degrees.
+
+Q: In an HIV-positive adult, AIDS is diagnosed when the CD4 count falls below
+A) 800 cells per cubic mm
+B) 200 cells per cubic mm
+C) 500 cells per cubic mm
+D) 1000 cells per cubic mm
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A CD4 T-lymphocyte count below 200 cells per cubic mm, or an AIDS-defining opportunistic illness, marks progression from HIV infection to AIDS. HIV selectively destroys CD4 helper T-cells, producing profound immunosuppression.
+
+Q: Zidovudine, used in the treatment of HIV, belongs to which drug class?
+A) Protease inhibitor
+B) Fusion inhibitor
+C) Integrase inhibitor
+D) Nucleoside reverse transcriptase inhibitor
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Zidovudine is a nucleoside reverse transcriptase inhibitor that blocks reverse transcriptase, preventing conversion of viral RNA into DNA. Combination antiretroviral therapy combines several drug classes to suppress viral replication and preserve immunity.
+
+Q: Anaphylaxis is an example of which type of hypersensitivity reaction?
+A) Type I, immediate and IgE-mediated
+B) Type II, cytotoxic
+C) Type III, immune complex
+D) Type IV, delayed and cell-mediated
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Anaphylaxis is a Type I immediate hypersensitivity reaction driven by IgE-triggered degranulation of mast cells and basophils, releasing histamine. Type IV delayed reactions, such as the Mantoux test and contact dermatitis, are T-cell mediated instead.
+
+Q: A classic clinical feature of systemic lupus erythematosus is
+A) A butterfly or malar rash over the cheeks and nose
+B) Painless enlargement of the neck lymph nodes
+C) Silvery scaling plaques on the extensor surfaces
+D) Bronze pigmentation of the skin
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: SLE is an autoimmune disorder that classically produces a photosensitive butterfly-shaped malar rash across the cheeks and bridge of the nose. A positive antinuclear antibody and anti-double-stranded DNA antibody support the diagnosis.
+
+Q: The single most important first-line drug in the emergency management of anaphylaxis is
+A) An oral antihistamine
+B) Intramuscular adrenaline, or epinephrine
+C) Intravenous hydrocortisone
+D) Nebulised salbutamol
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Intramuscular adrenaline is the first and most vital drug in anaphylaxis; it reverses bronchospasm and vasodilation and supports the blood pressure. Antihistamines and corticosteroids are only adjuncts given after adrenaline.
+
+Q: Which set of findings is most characteristic of neurogenic shock?
+A) Fever with a bounding pulse
+B) Hypertension with bradycardia
+C) Hypotension with bradycardia and warm, dry skin
+D) Tachycardia with cold, clammy skin
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Neurogenic shock, often from spinal cord injury, causes loss of sympathetic tone, producing hypotension with bradycardia and warm, dry, flushed skin. This differs from hypovolaemic shock, in which the skin is cold and clammy with tachycardia.
+
+Q: The earliest stage of shock, in which blood pressure is still maintained by sympathetic compensation, is the
+A) Compensatory or initial stage
+B) Progressive stage
+C) Refractory or irreversible stage
+D) Terminal necrotic stage
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: In the compensatory stage the body preserves blood pressure through vasoconstriction, increased heart rate and shunting of blood to vital organs. If uncorrected, shock advances to the progressive stage and finally the irreversible stage.
+
+Q: In the early, or warm, phase of septic shock, the patient's skin is typically
+A) Cyanotic and mottled
+B) Cold, pale and clammy
+C) Deeply jaundiced
+D) Warm, flushed and dry
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Early septic shock is a distributive shock with massive vasodilation, producing warm, flushed, dry skin and a bounding pulse. As compensation fails, perfusion drops and the skin becomes cold and clammy.
+
+Q: A burn that destroys the whole epidermis and dermis and appears dry, leathery and painless is classified as
+A) Deep partial-thickness burn
+B) Superficial partial-thickness burn
+C) Superficial, or first-degree, burn
+D) Full-thickness, or third-degree, burn
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Full-thickness or third-degree burns destroy the entire epidermis and dermis, including nerve endings, so they look dry, leathery, white or charred and are painless. Superficial burns remain red and painful because sensory endings are intact.
+
+Q: A pressure injury showing full-thickness skin loss with visible subcutaneous fat, but no exposed bone, tendon or muscle, is classified as
+A) Stage 1
+B) Stage 4
+C) Stage 2
+D) Stage 3
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: A Stage 3 pressure injury involves full-thickness skin loss with visible subcutaneous fat, but bone, tendon and muscle are not exposed. Stage 4 injuries extend deeper, exposing bone, tendon or muscle.
+
+Q: Psoriasis is typically characterised by
+A) Well-defined plaques covered with silvery scales
+B) Fluid-filled vesicles along a dermatome
+C) A single honey-coloured crusted lesion
+D) Hypopigmented, anaesthetic patches
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Psoriasis is a chronic immune-mediated skin disorder producing sharply demarcated erythematous plaques topped with silvery-white scales, usually on extensor surfaces. Removing the scale may cause pinpoint bleeding, known as the Auspitz sign.
+
+Q: With respect to surgical informed consent, the nurse's primary role is to
+A) Explain the surgical procedure and its risks
+B) Sign the consent form on the patient's behalf
+C) Decide whether the surgery should proceed
+D) Witness the patient's signature and confirm understanding
+Ans: D
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: Explaining the procedure, risks and alternatives to obtain informed consent is the surgeon's responsibility. The nurse witnesses the signature, confirms that the patient understands, and ensures the consent form is complete before surgery.
+
+Q: If a postoperative abdominal wound eviscerates with loops of bowel protruding, the nurse should first
+A) Push the organs back into the abdomen
+B) Cover the organs with sterile saline-soaked gauze
+C) Leave the wound open and exposed to air
+D) Apply a dry, firm pressure dressing
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: In evisceration the nurse covers the protruding viscera with sterile gauze moistened in normal saline to keep them moist, places the patient supine with knees flexed, and notifies the surgeon for emergency repair. The organs are never pushed back in.
+
+Q: In the post-anaesthesia care unit, the highest nursing priority for a patient recovering from general anaesthesia is
+A) Reorienting the patient to time and place
+B) Assessing the surgical dressing
+C) Maintaining a patent airway and adequate ventilation
+D) Managing postoperative pain
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Airway and breathing take top priority in recovery because residual anaesthesia can cause airway obstruction and respiratory depression. Once airway, breathing and circulation are secured, the nurse addresses pain, dressings and orientation.
+
+Q: Cataract is best defined as
+A) Inflammation of the conjunctiva
+B) Opacification or clouding of the lens
+C) A raised intraocular pressure that damages the optic nerve
+D) Separation of the retina from the underlying layer
+Ans: B
+Topic: Medical-Surgical Nursing
+Diff: easy
+Exp: A cataract is a clouding or opacification of the normally transparent crystalline lens, causing progressive painless blurring of vision and glare. Treatment is surgical removal of the lens with implantation of an intraocular lens.
+
+Q: A patient presents with a sudden red, painful eye, halos around lights, a mid-dilated fixed pupil and nausea. This is most consistent with
+A) Acute angle-closure glaucoma
+B) Bacterial conjunctivitis
+C) Chronic open-angle glaucoma
+D) Senile cataract
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: Acute angle-closure glaucoma is an emergency causing a sudden painful red eye, blurred vision with halos, a fixed mid-dilated pupil and often nausea from a rapid rise in intraocular pressure. Open-angle glaucoma, by contrast, is painless and gradual.
+
+Q: Correct first aid for a venomous snake bite to the leg includes
+A) Immobilising the limb at or below heart level and keeping the patient calm
+B) Applying a tight arterial tourniquet above the bite
+C) Applying ice and encouraging the patient to walk
+D) Incising the wound and sucking out the venom
+Ans: A
+Topic: Medical-Surgical Nursing
+Diff: medium
+Exp: Current guidelines advise keeping the patient calm and still, immobilising the bitten limb at or below heart level, and transporting urgently for antivenom. Tourniquets, incision, suction and ice cause harm and are no longer recommended.
+
+Q: A Glasgow Coma Scale score of 8 or less generally indicates
+A) A moderate head injury
+B) A mild head injury with full alertness
+C) A severe head injury or coma requiring airway protection
+D) A completely normal neurological status
+Ans: C
+Topic: Medical-Surgical Nursing
+Diff: hard
+Exp: The Glasgow Coma Scale ranges from 3 in deep coma to 15 when fully alert. A score of 8 or less denotes severe brain injury or coma, and such patients usually need intubation to protect the airway; 9 to 12 is moderate and 13 to 15 is mild.

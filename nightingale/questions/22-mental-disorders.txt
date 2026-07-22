@@ -1,0 +1,301 @@
+# w2-mental — ingested draft, verify before trusting
+
+Q: Who first described the first-rank symptoms of schizophrenia?
+A) Eugen Bleuler
+B) Sigmund Freud
+C) Kurt Schneider
+D) Emil Kraepelin
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Kurt Schneider described the first-rank symptoms of schizophrenia, including thought broadcasting, insertion and withdrawal, third-person auditory hallucinations, delusional perception and passivity phenomena. Bleuler coined the term schizophrenia and Kraepelin used dementia praecox.
+
+Q: In catatonia, the state in which a patient's limbs can be moulded into a posture that is then held for long periods with a plastic, wax-like resistance is called
+A) Stereotypy
+B) Negativism
+C) Waxy flexibility or cerea flexibilitas
+D) Echopraxia
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Waxy flexibility, or cerea flexibilitas, is a catatonic feature in which imposed postures are maintained for prolonged periods against a plastic, wax-like resistance. Echopraxia is meaningless imitation of movements, whereas negativism is a motiveless resistance to instructions.
+
+Q: The experience in which a patient believes his thoughts are escaping his mind and becoming known to others is termed
+A) Thought withdrawal
+B) Thought broadcasting
+C) Thought block
+D) Thought insertion
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: In thought broadcasting the patient believes that their private thoughts leave the mind and are transmitted to or experienced by other people. Thought insertion is the belief that thoughts are placed by an external agency, while withdrawal is the belief that thoughts are being taken away.
+
+Q: Flight of ideas is most characteristically seen in
+A) Major depression
+B) Generalised anxiety disorder
+C) Acute mania
+D) Dementia
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Flight of ideas is a rapid, accelerated stream of thought and speech in which ideas are connected by logical, rhyming or clang associations, and it is most characteristic of acute mania. It reflects the pressured speech and heightened psychomotor activity of the manic state.
+
+Q: A severely depressed patient insists that his intestines have rotted away and that he is already dead. This nihilistic delusion, when systematised, is characteristic of
+A) Othello syndrome
+B) Capgras syndrome
+C) Cotard syndrome
+D) De Clerambault syndrome
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Nihilistic delusions involve beliefs of non-existence or that oneself, one's organs or the world have ceased to exist or are decaying. When severe and systematised in depression this is termed Cotard syndrome. Othello syndrome is delusional jealousy and De Clerambault syndrome is erotomania.
+
+Q: A patient who firmly believes he is a billionaire endowed with special divine powers to rule the world is exhibiting a
+A) Delusion of control
+B) Delusion of reference
+C) Persecutory delusion
+D) Grandiose delusion
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Grandiose delusions are false beliefs of inflated worth, power, wealth, identity or special abilities, and are commonly seen in mania and schizophrenia. A persecutory delusion, by contrast, is the belief that one is being harmed, spied upon or conspired against.
+
+Q: The essential feature required to diagnose bipolar affective disorder is
+A) At least one episode of mania or hypomania
+B) Persistent low mood only
+C) Continuous free-floating anxiety
+D) Chronic auditory hallucinations
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Bipolar affective disorder is characterised by two or more episodes of significantly disturbed mood and activity, with at least one being manic or hypomanic, usually alternating with depressive episodes. The presence of a manic or hypomanic episode distinguishes it from unipolar recurrent depression.
+
+Q: Which of the following is a biological or somatic symptom of major depression?
+A) Early morning awakening with diurnal variation of mood
+B) Flight of ideas
+C) Grandiosity
+D) Pressured speech
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Biological or somatic symptoms of depression include early morning awakening, diurnal variation of mood that is worse in the morning, anorexia, weight loss, loss of libido and psychomotor retardation. Grandiosity, pressured speech and flight of ideas are features of mania.
+
+Q: The hallmark of generalised anxiety disorder is
+A) Intrusive obsessions and compulsions
+B) Fear of a single specific object
+C) Persistent free-floating worry about everyday events
+D) Recurrent unexpected panic attacks
+Ans: C
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Generalised anxiety disorder is characterised by persistent, excessive, free-floating worry about multiple everyday events that is not restricted to any particular situation and lasts most days for at least six months. It is accompanied by restlessness, muscle tension and autonomic arousal.
+
+Q: Which feature best describes a panic attack?
+A) Persistent sadness lasting two weeks
+B) Fear confined only to social situations
+C) Sudden intense fear with palpitations, choking and fear of dying, peaking within minutes
+D) Gradual worry building over several weeks
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: A panic attack is a discrete episode of sudden, intense fear or discomfort that peaks within minutes, with somatic symptoms such as palpitations, sweating, trembling, chest pain, choking, dizziness and fear of dying or losing control. Recurrent unexpected attacks with anticipatory anxiety define panic disorder.
+
+Q: Agoraphobia is best defined as
+A) Fear of social embarrassment
+B) Fear of closed spaces only
+C) Fear of open spaces, crowds or situations from which escape may be difficult
+D) Fear of heights
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Agoraphobia is anxiety about being in places or situations such as crowds, open spaces, public transport or being outside the home alone, from which escape might be difficult or help unavailable if panic occurs. Sufferers often avoid these situations and may become housebound.
+
+Q: A characteristic feature of post-traumatic stress disorder is
+A) Re-experiencing the trauma through flashbacks and nightmares
+B) Grandiose delusions
+C) Waxy flexibility
+D) Manic excitement
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: PTSD follows exposure to a severely threatening or catastrophic event and is characterised by intrusive re-experiencing such as flashbacks and nightmares, avoidance of reminders, emotional numbing and hyperarousal with hypervigilance and exaggerated startle. Symptoms usually arise within six months of the trauma.
+
+Q: A young woman develops sudden paralysis of both legs after an emotional conflict, no neurological cause is found, and she appears strikingly unconcerned about her disability. This relative lack of concern is called
+A) Depersonalisation
+B) Alexithymia
+C) La belle indifference
+D) Anhedonia
+Ans: C
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Conversion or dissociative motor disorder presents with neurological-like symptoms such as paralysis, aphonia or blindness that lack an organic basis and are linked to psychological stress. The characteristic bland, inappropriate lack of concern about the deficit is termed la belle indifference.
+
+Q: A man suddenly travels away from home, cannot recall his identity, assumes a new one, and later has amnesia for the episode. This is
+A) Trance and possession disorder
+B) Dissociative fugue
+C) Depersonalisation disorder
+D) Dissociative stupor
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Dissociative fugue involves an unexpected, seemingly purposeful journey away from home combined with loss of memory for one's past and sometimes assumption of a new identity, with amnesia for the fugue period after recovery. It is usually precipitated by severe psychosocial stress.
+
+Q: Schizoid, schizotypal and paranoid personality disorders belong to which cluster?
+A) Cluster A, odd or eccentric
+B) Cluster D
+C) Cluster C, anxious or fearful
+D) Cluster B, dramatic or erratic
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Cluster A comprises paranoid, schizoid and schizotypal personality disorders, described as odd or eccentric. Cluster B, including antisocial, borderline, histrionic and narcissistic, is dramatic or erratic, and Cluster C, including avoidant, dependent and obsessive-compulsive, is anxious or fearful.
+
+Q: Which cluster of features is most characteristic of borderline personality disorder?
+A) Grandiosity and lack of empathy
+B) Suspiciousness and social withdrawal
+C) Perfectionism and rigidity
+D) Unstable relationships, impulsivity, fear of abandonment and self-harm
+Ans: D
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Borderline personality disorder is marked by pervasive instability of relationships, self-image and affect, with impulsivity, frantic efforts to avoid abandonment, recurrent self-harm or suicidal behaviour, chronic emptiness and the defence of splitting. It falls within Cluster B.
+
+Q: Which of the following is a core feature of the alcohol dependence syndrome?
+A) Drinking only in response to hallucinations
+B) A strong compulsion or craving to drink with impaired control over use
+C) Complete inability to tolerate any alcohol
+D) Occasional social drinking without craving
+Ans: B
+Topic: Mental Health Nursing
+Diff: easy
+Exp: The dependence syndrome described by Edwards and Gross includes a strong compulsion or craving to drink, impaired control over use, a stereotyped drinking pattern, tolerance, withdrawal relieved by further drinking, primacy of drinking over other activities and continued use despite harm.
+
+Q: Which set of signs is typical of opioid withdrawal?
+A) Lacrimation, rhinorrhoea, yawning, dilated pupils and piloerection
+B) Grand-mal seizures with delirium tremens
+C) Pinpoint pupils and respiratory depression
+D) Waxy flexibility and mutism
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Opioid withdrawal produces a flu-like, autonomic-overactivity picture with lacrimation, rhinorrhoea, yawning, sweating, dilated pupils, piloerection, muscle aches, cramps and diarrhoea. Pinpoint pupils with respiratory depression instead indicate opioid intoxication or overdose.
+
+Q: The need for progressively larger doses of a drug to achieve the effect originally produced by a smaller dose is called
+A) Tolerance
+B) Withdrawal
+C) Craving
+D) Dependence
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Tolerance is a state in which increasing doses are required to obtain the effect once achieved by a lower dose. Withdrawal is the physical and psychological reaction on stopping the drug, whereas dependence is the compulsive, maladaptive pattern of use that encompasses both.
+
+Q: A core feature of autism spectrum disorder is
+A) Onset after 10 years of age
+B) Grandiose delusions
+C) Normal reciprocal social interaction
+D) Impaired social communication with restricted, repetitive behaviours
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Autism spectrum disorder is a neurodevelopmental condition with onset in early childhood, characterised by persistent deficits in social communication and interaction together with restricted, repetitive patterns of behaviour, interests or activities. It is often associated with intellectual disability and delayed language.
+
+Q: The three core symptom domains of attention-deficit hyperactivity disorder are
+A) Inattention, hyperactivity and impulsivity
+B) Low mood, anhedonia and fatigue
+C) Obsessions, compulsions and rituals
+D) Delusions, hallucinations and disorganisation
+Ans: A
+Topic: Mental Health Nursing
+Diff: easy
+Exp: ADHD is defined by a persistent, developmentally inappropriate pattern of inattention, hyperactivity and impulsivity that begins before age 12 and impairs functioning across more than one setting. Stimulants such as methylphenidate are first-line pharmacotherapy.
+
+Q: Non-organic or functional enuresis is generally diagnosed only when involuntary bed-wetting persists beyond the age of
+A) 2 years
+B) 3 years
+C) 5 years
+D) 10 years
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Non-organic enuresis is involuntary voiding of urine, by day or night, that is abnormal for the child's mental age and is diagnosed only after 5 years once organic causes are excluded. Management includes the enuresis alarm and, when needed, imipramine or desmopressin.
+
+Q: The characteristic neuropathological findings in Alzheimer disease are
+A) Multiple cortical infarcts
+B) Beta-amyloid senile plaques and neurofibrillary tangles
+C) Lewy bodies in the substantia nigra
+D) Pick bodies in the frontal lobe
+Ans: B
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Alzheimer disease shows extracellular beta-amyloid senile plaques and intracellular neurofibrillary tangles of hyperphosphorylated tau, along with cortical atrophy and a cholinergic deficit. This underlies the use of cholinesterase inhibitors such as donepezil for symptomatic treatment.
+
+Q: Fluoxetine is the prototype of which class of antidepressants?
+A) Monoamine oxidase inhibitors
+B) Mood stabilisers
+C) Tricyclic antidepressants
+D) Selective serotonin reuptake inhibitors
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Fluoxetine is the prototype selective serotonin reuptake inhibitor, a class that acts by blocking presynaptic reuptake of serotonin. SSRIs are first-line for depression and anxiety disorders because they are safer in overdose and better tolerated than tricyclics or MAOIs.
+
+Q: Which of the following is an atypical or second-generation antipsychotic?
+A) Risperidone
+B) Trifluoperazine
+C) Haloperidol
+D) Chlorpromazine
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Atypical or second-generation antipsychotics such as risperidone, olanzapine, clozapine and quetiapine act on both dopamine and serotonin receptors and cause fewer extrapyramidal effects. Haloperidol, chlorpromazine and trifluoperazine are typical first-generation agents with a higher extrapyramidal risk.
+
+Q: A patient on haloperidol develops high fever, severe lead-pipe muscle rigidity, altered consciousness and markedly raised creatine phosphokinase. The most likely diagnosis is
+A) Neuroleptic malignant syndrome
+B) Tardive dyskinesia
+C) Lithium toxicity
+D) Serotonin syndrome
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Neuroleptic malignant syndrome is a rare, life-threatening reaction to antipsychotic dopamine blockade, marked by hyperthermia, severe lead-pipe rigidity, autonomic instability, altered mental status and greatly elevated creatine phosphokinase. Management includes stopping the drug, cooling, supportive care and dantrolene or bromocriptine.
+
+Q: A patient taking an SSRI is also given tramadol and develops agitation, fever, sweating, tremor, hyperreflexia and myoclonus. This picture suggests
+A) Serotonin syndrome
+B) Opioid withdrawal
+C) Neuroleptic malignant syndrome
+D) Anticholinergic toxicity
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Serotonin syndrome results from excess serotonergic activity, often when serotonergic drugs are combined such as an SSRI with tramadol, an MAOI or a triptan, and features neuromuscular excitation, autonomic instability and altered mental status. Unlike NMS it develops rapidly and causes hyperreflexia and clonus rather than lead-pipe rigidity.
+
+Q: Systematic desensitisation, used mainly for phobias, is based on the principle of
+A) Aversive conditioning
+B) Graded exposure paired with relaxation, or reciprocal inhibition
+C) Free association
+D) Flooding with the feared object
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Systematic desensitisation, developed by Joseph Wolpe, treats phobic anxiety by pairing a graded hierarchy of feared stimuli with deep muscle relaxation so that relaxation reciprocally inhibits the anxiety response. The patient advances up the hierarchy only after mastering each less-feared step.
+
+Q: When a therapist unconsciously redirects their own feelings and past relationship patterns onto the patient, this is called
+A) Transference
+B) Projection
+C) Countertransference
+D) Sublimation
+Ans: C
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Countertransference refers to the therapist's unconscious emotional reactions and displaced feelings directed toward the patient, whereas transference is the patient's unconscious transfer of feelings from significant past figures onto the therapist. Recognising countertransference helps the nurse maintain a therapeutic and objective relationship.
+
+Q: According to Kubler-Ross, the first stage of the grief and dying process is
+A) Bargaining
+B) Anger
+C) Acceptance
+D) Denial
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Elisabeth Kubler-Ross described five stages of grief: denial, anger, bargaining, depression and acceptance. Denial is typically the first reaction and acts as a protective buffer against the shock of loss, though the stages need not occur in a fixed sequence.

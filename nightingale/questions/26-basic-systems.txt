@@ -1,0 +1,301 @@
+# w2-basic-b — ingested draft, verify before trusting
+
+Q: Which type of muscle tissue is striated in appearance yet functions under involuntary control?
+A) Smooth muscle
+B) Skeletal muscle
+C) Both skeletal and smooth
+D) Cardiac muscle
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Cardiac muscle shows cross-striations like skeletal muscle but, like smooth muscle, is controlled involuntarily by the autonomic nervous system and intrinsic pacemakers. Skeletal muscle is striated and voluntary, while smooth muscle is non-striated and involuntary.
+
+Q: The functional contractile unit of skeletal muscle, lying between two adjacent Z-lines, is the
+A) Sarcomere
+B) Myofibril
+C) Sarcoplasmic reticulum
+D) Sarcolemma
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: The sarcomere is the region between two Z-lines and is the basic repeating contractile unit of striated muscle. According to the sliding filament theory, actin and myosin filaments slide past one another to shorten each sarcomere during contraction.
+
+Q: The carpometacarpal joint at the base of the thumb is classified as which type of synovial joint?
+A) Pivot joint
+B) Saddle joint
+C) Hinge joint
+D) Ball-and-socket joint
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: The thumb carpometacarpal joint is the classic example of a saddle joint, whose reciprocally concave and convex surfaces allow flexion, extension, abduction, adduction and opposition. This wide range of movement gives humans their characteristic thumb dexterity.
+
+Q: Which cranial nerve carries impulses for the special sense of vision?
+A) Oculomotor nerve, III
+B) Abducens nerve, VI
+C) Optic nerve, II
+D) Trochlear nerve, IV
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: The optic nerve, cranial nerve II, is purely sensory and transmits visual impulses from the retina to the brain. The oculomotor, trochlear and abducens nerves are motor nerves that move the eyeball rather than mediate vision itself.
+
+Q: The principal nerve carrying sensation from the face and supplying the muscles of mastication is the
+A) Glossopharyngeal nerve, IX
+B) Facial nerve, VII
+C) Trigeminal nerve, V
+D) Vagus nerve, X
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: The trigeminal nerve is the chief sensory nerve of the face and also provides motor supply to the muscles of mastication. The facial nerve, in contrast, supplies the muscles of facial expression rather than chewing.
+
+Q: Which of the following is an effect of parasympathetic, or vagal, stimulation?
+A) Dilation of the pupil
+B) Bronchodilation
+C) Increased gastrointestinal motility and secretion
+D) Acceleration of heart rate
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Parasympathetic activity promotes rest-and-digest functions, increasing gut motility, glandular secretion and salivation. It also constricts the pupil, slows the heart and causes bronchoconstriction, which are the opposite of sympathetic actions.
+
+Q: The outermost and toughest of the three meningeal layers covering the brain and spinal cord is the
+A) Arachnoid mater
+B) Choroid plexus
+C) Dura mater
+D) Pia mater
+Ans: C
+Topic: Basic Sciences
+Diff: easy
+Exp: The three meninges from outside inward are the dura mater, arachnoid mater and pia mater. The dura is the thick, fibrous outermost layer, while the delicate pia mater adheres closely to the surface of the brain and cord.
+
+Q: Coordination of voluntary movements and maintenance of posture and balance is chiefly the function of the
+A) Medulla oblongata
+B) Cerebellum
+C) Hypothalamus
+D) Thalamus
+Ans: B
+Topic: Basic Sciences
+Diff: easy
+Exp: The cerebellum coordinates the timing and smoothness of voluntary movement and helps maintain equilibrium and posture. Damage to it produces ataxia, incoordination and disturbances of balance rather than paralysis.
+
+Q: Which sequence correctly represents the components of a typical reflex arc?
+A) Receptor, afferent neuron, centre, efferent neuron, effector
+B) Effector, efferent neuron, centre, afferent neuron, receptor
+C) Afferent neuron, receptor, centre, effector, efferent neuron
+D) Receptor, efferent neuron, centre, afferent neuron, effector
+Ans: A
+Topic: Basic Sciences
+Diff: hard
+Exp: A reflex arc begins at a receptor, travels along an afferent or sensory neuron to an integrating centre, then out via an efferent or motor neuron to an effector such as a muscle or gland. This pathway allows rapid, involuntary responses to stimuli.
+
+Q: After originating in the SA node, the normal sequence of cardiac impulse conduction is
+A) Purkinje fibres, AV node, bundle of His
+B) AV node, Purkinje fibres, bundle of His
+C) AV node, bundle of His, Purkinje fibres
+D) Bundle of His, AV node, Purkinje fibres
+Ans: C
+Topic: Basic Sciences
+Diff: hard
+Exp: The impulse passes from the atrioventricular node to the bundle of His, then along its branches to the Purkinje fibres that excite the ventricular myocardium. The AV node introduces a brief delay allowing the atria to empty before the ventricles contract.
+
+Q: Starling's law of the heart states that, within physiological limits, the force of ventricular contraction is
+A) Directly proportional to the end-diastolic length of cardiac muscle fibres
+B) Independent of the initial fibre length
+C) Determined solely by the heart rate
+D) Inversely proportional to venous return
+Ans: A
+Topic: Basic Sciences
+Diff: hard
+Exp: Starling's law states that the greater the end-diastolic stretch of cardiac muscle fibres, the greater the force of the subsequent contraction. This intrinsic mechanism allows the heart to match its output to increases in venous return.
+
+Q: Mean arterial blood pressure is principally determined by the product of
+A) Venous return and lung compliance
+B) Heart rate and blood viscosity
+C) Cardiac output and systemic vascular resistance
+D) Stroke volume and haematocrit
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Mean arterial pressure is the product of cardiac output and systemic vascular resistance. A rise in either the amount of blood pumped or the resistance of the peripheral vessels will therefore raise the arterial blood pressure.
+
+Q: The basic rhythm of breathing is generated by the respiratory centres located mainly in the
+A) Cerebellum
+B) Medulla oblongata and pons
+C) Thalamus
+D) Hypothalamus
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: The medulla oblongata contains the fundamental rhythm-generating centres for respiration, with the pons providing fine modulation through its pneumotaxic and apneustic areas. These centres adjust ventilation in response to chemical and neural signals.
+
+Q: The Hering-Breuer inflation reflex, which limits over-distension of the lungs, is mediated by afferent fibres travelling in the
+A) Intercostal nerves
+B) Vagus nerve
+C) Phrenic nerve
+D) Glossopharyngeal nerve
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Stretch receptors in the airways detect lung inflation and send impulses along the vagus nerve to the respiratory centre, inhibiting further inspiration. This Hering-Breuer reflex protects the lungs from excessive expansion.
+
+Q: Gastrin, secreted by the G cells of the gastric antrum, chiefly stimulates
+A) Contraction of the gall bladder
+B) Secretion of pancreatic bicarbonate
+C) Secretion of hydrochloric acid by parietal cells
+D) Release of insulin from the pancreas
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: Gastrin is released by antral G cells and stimulates the parietal cells to secrete hydrochloric acid, promoting gastric digestion. It also increases gastric motility and mucosal growth as part of preparing the stomach for a meal.
+
+Q: Secretin, released from the duodenal mucosa in response to acidic chyme, stimulates the pancreas to secrete a fluid rich in
+A) Digestive enzymes
+B) Bicarbonate
+C) Insulin
+D) Bile pigments
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Secretin is released when acidic chyme enters the duodenum and drives the pancreas and biliary system to secrete a bicarbonate-rich alkaline fluid. This neutralises gastric acid and provides the optimal pH for intestinal enzymes.
+
+Q: Which of the following hormones is secreted by the anterior lobe of the pituitary gland?
+A) Oxytocin
+B) Antidiuretic hormone
+C) Melatonin
+D) Growth hormone
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: The anterior pituitary secretes growth hormone along with several other trophic hormones such as ACTH, TSH, FSH, LH and prolactin. Oxytocin and antidiuretic hormone are released from the posterior pituitary, and melatonin comes from the pineal gland.
+
+Q: Calcitonin, secreted by the parafollicular or C cells of the thyroid gland, acts primarily to
+A) Raise plasma calcium concentration
+B) Lower plasma calcium concentration
+C) Increase intestinal absorption of calcium
+D) Stimulate osteoclastic bone resorption
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: Calcitonin lowers plasma calcium by inhibiting osteoclastic bone resorption and promoting calcium deposition in bone. Its action opposes that of parathyroid hormone, helping to fine-tune calcium balance when levels rise.
+
+Q: In the human female, primary oocytes remain arrested for years in which stage of meiosis until ovulation?
+A) Anaphase I
+B) Prophase I
+C) Metaphase II
+D) Telophase II
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Primary oocytes enter meiosis before birth and are held in prophase I until the follicle is stimulated to mature near ovulation. The secondary oocyte then arrests again in metaphase II and only completes meiosis if fertilisation occurs.
+
+Q: Which plasma lipoprotein is commonly termed bad cholesterol owing to its role in depositing cholesterol in arterial walls?
+A) Low-density lipoprotein
+B) Chylomicron
+C) Intermediate-density lipoprotein
+D) High-density lipoprotein
+Ans: A
+Topic: Basic Sciences
+Diff: easy
+Exp: Low-density lipoprotein carries cholesterol to tissues and, in excess, deposits it in arterial walls, promoting atherosclerosis. High-density lipoprotein is protective because it transports cholesterol back to the liver for disposal.
+
+Q: Deficiency of thiamine, vitamin B1, classically produces which disease?
+A) Pellagra
+B) Night blindness
+C) Rickets
+D) Beriberi
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Thiamine deficiency causes beriberi, which may present with peripheral neuropathy in the dry form or cardiac failure and oedema in the wet form. Thiamine acts as a coenzyme in carbohydrate metabolism, so nervous and cardiac tissues are especially affected.
+
+Q: In eukaryotic cells, the reactions of the citric acid, or Krebs, cycle take place in the
+A) Cytosol
+B) Rough endoplasmic reticulum
+C) Nucleus
+D) Mitochondrial matrix
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: The enzymes of the citric acid cycle are located in the mitochondrial matrix, where acetyl-CoA is oxidised to carbon dioxide. The reduced coenzymes produced then feed the electron transport chain on the inner mitochondrial membrane.
+
+Q: The net gain of ATP from the anaerobic glycolysis of one molecule of glucose to pyruvate is
+A) 4 ATP
+B) 2 ATP
+C) 36 ATP
+D) 8 ATP
+Ans: B
+Topic: Basic Sciences
+Diff: hard
+Exp: Glycolysis produces four ATP by substrate-level phosphorylation but consumes two in the early steps, giving a net gain of two ATP per glucose. Additional ATP is generated only when pyruvate is further oxidised under aerobic conditions.
+
+Q: Which of the following is an essential amino acid that cannot be synthesised by the human body?
+A) Glutamic acid
+B) Lysine
+C) Serine
+D) Alanine
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: Lysine is one of the essential amino acids that must be supplied in the diet because the body cannot synthesise it. Alanine, glutamic acid and serine are non-essential amino acids that can be made from metabolic intermediates.
+
+Q: Which genus of bacteria forms heat-resistant endospores and includes the causative agent of tetanus?
+A) Clostridium
+B) Streptococcus
+C) Staphylococcus
+D) Escherichia
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: Clostridium species are Gram-positive anaerobes that produce highly resistant endospores, and Clostridium tetani causes tetanus. Endospores allow these organisms to survive heat, drying and disinfectants for long periods in soil.
+
+Q: Administration of preformed antibodies, such as anti-tetanus immunoglobulin, confers which type of immunity?
+A) Cell-mediated immunity
+B) Innate immunity
+C) Active natural immunity
+D) Passive immunity
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: Giving ready-made antibodies provides passive immunity, which acts immediately but lasts only a few weeks because the host makes no memory cells. Active immunity, by contrast, develops slowly after infection or vaccination but is long-lasting.
+
+Q: Tetanus and diphtheria vaccines, prepared from inactivated bacterial exotoxins, are examples of which type of vaccine?
+A) Live attenuated vaccine
+B) Toxoid vaccine
+C) Conjugate polysaccharide vaccine
+D) Killed whole-cell vaccine
+Ans: B
+Topic: Basic Sciences
+Diff: medium
+Exp: Toxoid vaccines use bacterial exotoxins that have been chemically inactivated so they induce protective antibodies without causing disease. Tetanus and diphtheria toxoids are the classic examples given in routine immunisation schedules.
+
+Q: Furosemide, a widely used prototype diuretic, belongs to which pharmacological class?
+A) Proton pump inhibitor
+B) Beta-adrenergic blocker
+C) Opioid analgesic
+D) Loop diuretic
+Ans: D
+Topic: Basic Sciences
+Diff: easy
+Exp: Furosemide is a loop diuretic that acts on the thick ascending limb to block sodium, potassium and chloride reabsorption, producing a powerful diuresis. It is widely used in oedema and heart failure to remove excess fluid.
+
+Q: A drug such as digoxin is said to have a low, or narrow, therapeutic index, meaning that
+A) Its effective dose lies far below the toxic dose
+B) It produces no toxic effects at any dose
+C) It has an extremely wide margin of safety
+D) Its toxic dose is very close to its therapeutic dose
+Ans: D
+Topic: Basic Sciences
+Diff: hard
+Exp: A narrow therapeutic index means the toxic dose is only slightly greater than the effective dose, leaving little margin of safety. Such drugs, including digoxin, require careful dosing and often plasma-level monitoring to avoid toxicity.
+
+Q: Which drug is the classic teratogen historically responsible for limb malformations, or phocomelia, in the fetus?
+A) Thalidomide
+B) Insulin
+C) Penicillin
+D) Paracetamol
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: Thalidomide, once used for morning sickness, caused severe limb-reduction defects known as phocomelia and became the classic example of a teratogen. Its tragedy led to far stricter regulation of drug use during pregnancy.

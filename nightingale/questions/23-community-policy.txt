@@ -1,0 +1,281 @@
+# w2-community-c — ingested draft, verify before trusting
+
+Q: The Health Survey and Development Committee of 1946, which laid the foundation of India's rural health infrastructure, is popularly known as the
+A) Mudaliar Committee
+B) Bhore Committee
+C) Kartar Singh Committee
+D) Srivastava Committee
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The Bhore Committee of 1946, or Health Survey and Development Committee, recommended integration of preventive and curative services and the establishment of primary health centres as the basic unit of rural health care.
+
+Q: Which committee is also known as the Health Survey and Planning Committee of 1961 to 1962, constituted to review progress made since the Bhore Committee?
+A) Chadah Committee
+B) Bhore Committee
+C) Mudaliar Committee
+D) Kartar Singh Committee
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Mudaliar Committee of 1962 assessed the work done since the Bhore Committee. It recommended strengthening existing primary health centres and district hospitals rather than opening new ones, and improving the quality of services.
+
+Q: The committee that recommended integrating peripheral health workers into a single multipurpose worker cadre in 1973 was the
+A) Srivastava Committee
+B) Mukherjee Committee
+C) Chadah Committee
+D) Kartar Singh Committee
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Kartar Singh Committee of 1973, the Committee on Multipurpose Workers, recommended converting unipurpose peripheral workers such as ANMs and malaria and smallpox workers into integrated multipurpose health workers to improve efficiency.
+
+Q: The concept of the community health worker and Village Health Guide scheme in India originated from the recommendations of the
+A) Bhore Committee of 1946
+B) Bajaj Committee of 1986
+C) Mudaliar Committee of 1962
+D) Srivastava Committee of 1975
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: The Srivastava Committee of 1975, the Group on Medical Education and Support Manpower, recommended creating bands of para-professional and semi-professional workers from within the community, leading directly to the Village Health Guide scheme.
+
+Q: The Chadah Committee of 1963 was constituted to advise on the maintenance phase of which national programme?
+A) National Leprosy Control Programme
+B) National Malaria Eradication Programme
+C) National Family Planning Programme
+D) National Tuberculosis Programme
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: The Chadah Committee of 1963 recommended that vigilance operations for the maintenance phase of the National Malaria Eradication Programme be carried out by basic health workers, one per 10,000 population, who would also undertake family planning and vital statistics work.
+
+Q: India's first National Health Policy was formulated in the year
+A) 2017
+B) 1983
+C) 1978
+D) 2002
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The first National Health Policy of India was adopted in 1983 with the goal of Health for All by 2000 AD. It was subsequently revised in 2002 and again in 2017 to reflect changing health priorities.
+
+Q: The National Rural Health Mission was launched in India in the year
+A) 2000
+B) 2005
+C) 2013
+D) 2018
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: The National Rural Health Mission was launched in 2005 to provide accessible, affordable and quality health care to the rural population. In 2013 it was subsumed, with the National Urban Health Mission, under the umbrella National Health Mission.
+
+Q: Ayushman Bharat of 2018 has two inter-related components: Health and Wellness Centres and
+A) National Urban Health Mission
+B) Rashtriya Swasthya Bima Yojana
+C) Pradhan Mantri Jan Arogya Yojana
+D) Janani Suraksha Yojana
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Ayushman Bharat rests on two pillars: Health and Wellness Centres delivering comprehensive primary health care, and Pradhan Mantri Jan Arogya Yojana providing financial protection for secondary and tertiary hospitalisation.
+
+Q: Under Pradhan Mantri Jan Arogya Yojana, the health cover provided per eligible family per year is
+A) Rs 1 lakh
+B) Rs 30,000
+C) Rs 10 lakh
+D) Rs 5 lakh
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: PM-JAY provides a health cover of Rs 5 lakh per family per year for secondary and tertiary care hospitalisation to poor and vulnerable families. It is the world's largest government-funded health assurance scheme.
+
+Q: In the three-tier system of health care, a district hospital providing specialist services represents which level of care?
+A) Primary care
+B) Secondary care
+C) Quaternary care
+D) Tertiary care
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: Secondary care is provided by district hospitals and community health centres offering specialist services, to which primary-level institutions refer patients. Tertiary care denotes super-specialty care at medical colleges and regional or central institutes.
+
+Q: The World Health Organization was established on 7 April 1948 with its headquarters at
+A) Vienna
+B) Geneva
+C) Washington DC
+D) New York
+Ans: B
+Topic: Community Health Nursing
+Diff: easy
+Exp: WHO, established on 7 April 1948, has its headquarters in Geneva, Switzerland. The 7th of April is observed globally as World Health Day, and WHO's South-East Asia Regional Office is located in New Delhi.
+
+Q: Which international agency is primarily concerned with promoting the health, nutrition and welfare of children?
+A) UNICEF
+B) UNFPA
+C) World Bank
+D) ILO
+Ans: A
+Topic: Community Health Nursing
+Diff: easy
+Exp: UNICEF, the United Nations Children's Fund, headquartered in New York, focuses on child survival, immunisation, nutrition and welfare. Its child survival strategy is popularly remembered by the acronym GOBI-FFF.
+
+Q: The International Red Cross movement was founded by
+A) Florence Nightingale
+B) Jean Henri Dunant
+C) Edward Jenner
+D) John Snow
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: The Red Cross movement was founded by Jean Henri Dunant of Switzerland, inspired by the suffering he witnessed at the Battle of Solferino in 1859. He was a joint recipient of the first Nobel Peace Prize in 1901.
+
+Q: The Sustainable Development Goal that specifically addresses Good Health and Well-being is
+A) SDG 2
+B) SDG 1
+C) SDG 6
+D) SDG 3
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: SDG 3 seeks to ensure healthy lives and promote well-being for all at all ages. The 17 Sustainable Development Goals were adopted in 2015 with a target year of 2030, succeeding the Millennium Development Goals.
+
+Q: The Millennium Development Goals, adopted in the year 2000, comprised how many goals to be achieved by 2015?
+A) 3
+B) 4
+C) 8
+D) 17
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: The MDGs comprised 8 goals for the period 2000 to 2015. Three were directly health-related: reducing child mortality, improving maternal health, and combating HIV/AIDS, malaria and other diseases.
+
+Q: According to Park, an eligible couple refers to a currently married couple in which the wife is in the reproductive age group of
+A) 20 to 40 years
+B) 13 to 50 years
+C) 18 to 49 years
+D) 15 to 45 years
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: An eligible couple is a currently married couple in which the wife is of reproductive age, generally taken as 15 to 45 years. There are normally about 150 to 180 eligible couples per 1000 population, and they form the focus of family planning services.
+
+Q: The couple protection rate is defined as the percentage of eligible couples effectively protected against childbirth by
+A) spacing methods only
+B) natural methods only
+C) one or more approved contraceptive methods
+D) sterilisation only
+Ans: C
+Topic: Community Health Nursing
+Diff: medium
+Exp: Couple protection rate is the per cent of eligible couples effectively protected against childbirth by one or more approved methods of contraception. A rate above 60 per cent is regarded as necessary to reach near-replacement levels of fertility.
+
+Q: DMPA, or depot medroxyprogesterone acetate, a progestogen-only injectable contraceptive, is administered once every
+A) 6 months
+B) 3 months
+C) 1 month
+D) 12 months
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: DMPA is an injectable progestogen-only contraceptive given intramuscularly as 150 mg once every 3 months. NET-EN, or norethisterone enantate, another injectable, is given once every 2 months.
+
+Q: In the basal body temperature method of natural family planning, ovulation is indicated by
+A) a rise in temperature during menstruation
+B) a rise in temperature of about 0.5 degree after ovulation
+C) a fall in temperature of about 1 degree before ovulation
+D) no change in body temperature throughout the cycle
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: After ovulation, progesterone raises the basal body temperature by about 0.3 to 0.5 degree, and it remains elevated until the next menstruation. The infertile phase is taken to begin after three consecutive days of raised temperature.
+
+Q: In India, the sex ratio is conventionally expressed as the number of
+A) males per 1000 females
+B) females per 100 males
+C) females per 1000 males
+D) children per 1000 women
+Ans: C
+Topic: Community Health Nursing
+Diff: easy
+Exp: In India, the sex ratio is defined as the number of females per 1000 males. According to the 2011 Census, the sex ratio of India was 943 females per 1000 males, an improvement over previous decades.
+
+Q: A population pyramid with a broad base and a rapidly tapering top is characteristic of a population that is
+A) declining with a low birth rate
+B) expanding with a high birth rate
+C) ageing with a shrinking young population
+D) stationary with equal births and deaths
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: A broad-based, triangular pyramid indicates an expanding population with high birth and death rates, typical of developing countries. A bell-shaped pyramid suggests a stationary population, while a narrowing base indicates a declining one.
+
+Q: In a slow sand filter, the layer chiefly responsible for the purification of water is the
+A) under-drainage system
+B) supernatant raw water
+C) layer of gravel at the base
+D) vital layer, or schmutzdecke
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: The slow sand filter purifies water mainly through the vital layer, or schmutzdecke, a slimy biological film of algae, plankton, bacteria and diatoms forming on the sand surface, which removes organic matter and micro-organisms.
+
+Q: In water disinfection, the break-point of chlorination represents the stage at which
+A) the chlorine demand is fully met and free residual chlorine appears
+B) all suspended matter settles
+C) chlorine is completely removed from water
+D) the water becomes turbid
+Ans: A
+Topic: Community Health Nursing
+Diff: hard
+Exp: The break-point is the stage at which the chlorine demand of water, exerted by organic matter and ammonia, has been fully satisfied. Chlorine added beyond this point appears as free residual chlorine, which is available for effective disinfection.
+
+Q: In the Holder, or vat, method of milk pasteurisation, milk is heated to
+A) 125 degrees for a few seconds
+B) 63 to 66 degrees for 30 minutes
+C) 72 degrees for 15 seconds
+D) 100 degrees for 1 minute
+Ans: B
+Topic: Community Health Nursing
+Diff: hard
+Exp: In the Holder method, milk is heated to 63 to 66 degrees and held for 30 minutes, then rapidly cooled. The flash or HTST method uses 72 degrees for 15 seconds, while UHT uses around 125 degrees for a few seconds. Success is checked by the phosphatase test.
+
+Q: Chikungunya fever, characterised by severe and often persistent joint pains, is transmitted by
+A) the tsetse fly
+B) the female Anopheles mosquito
+C) the sandfly
+D) the Aedes aegypti mosquito
+Ans: D
+Topic: Community Health Nursing
+Diff: medium
+Exp: Chikungunya is a viral disease caused by an alphavirus and transmitted by Aedes aegypti and Aedes albopictus mosquitoes, the same vectors as dengue. It is clinically marked by abrupt fever and severe, sometimes chronic, joint pain.
+
+Q: Scrub typhus, caused by Orientia tsutsugamushi, is transmitted to humans through the bite of
+A) the rat flea
+B) the hard tick
+C) the body louse
+D) the larval trombiculid mite, or chigger
+Ans: D
+Topic: Community Health Nursing
+Diff: hard
+Exp: Scrub typhus is transmitted by the bite of the larval stage, or chigger, of trombiculid mites. A characteristic painless eschar at the site of the bite, along with fever and lymphadenopathy, is an important diagnostic clue.
+
+Q: The incubation period of chickenpox, or varicella, is usually
+A) 7 to 10 days
+B) 1 to 3 days
+C) about 14 to 16 days
+D) 30 to 40 days
+Ans: C
+Topic: Community Health Nursing
+Diff: hard
+Exp: Chickenpox, caused by the varicella-zoster virus, has an incubation period of about 14 to 16 days, with a range of 10 to 21 days. Its rash is centripetal in distribution and appears in successive crops, showing pleomorphism at any one time.
+
+Q: The Integrated Disease Surveillance Programme, launched in India in 2004, primarily aims to
+A) provide free medicines to all citizens
+B) detect and respond to early warning signals of epidemics
+C) train multipurpose health workers
+D) construct sub-centres in rural areas
+Ans: B
+Topic: Community Health Nursing
+Diff: medium
+Exp: IDSP is a decentralised, state-based surveillance programme launched in 2004 to strengthen disease surveillance and detect early warning signals of outbreaks, enabling a timely public health response.

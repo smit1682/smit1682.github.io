@@ -1,0 +1,291 @@
+# w2-foundations-b — ingested draft, verify before trusting
+
+Q: The name of a drug that is not owned by any company and is used universally in pharmacopoeias is called the
+A) Generic name
+B) Trade name
+C) Brand name
+D) Chemical name
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: The generic, or non-proprietary, name is the official name approved by pharmacopoeia and is not owned by any company. Brand or trade names are proprietary names assigned by individual manufacturers for marketing.
+
+Q: Under the Drugs and Cosmetics Rules in India, prescription-only medicines that must be sold on the prescription of a registered medical practitioner belong to
+A) Schedule H
+B) Schedule W
+C) Schedule C
+D) Schedule G
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Schedule H lists prescription-only medicines that must be dispensed against a registered practitioner's prescription. Schedule X drugs carry stricter controls such as special licences and duplicate prescriptions.
+
+Q: The nurse's correct responsibility for narcotic, or controlled, drugs on a ward is
+A) Keeping them under double lock with a narcotic register counted each shift
+B) Storing them in an open medication trolley for quick access
+C) Recording administration only at the end of each week
+D) Discarding unused doses without a witness
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Controlled drugs must be stored under double lock and counted every shift, with each dose entered in a narcotic register. Any wastage of a controlled drug must be witnessed and countersigned by a second nurse.
+
+Q: A patient on oral tetracycline should avoid taking it with milk or antacids because
+A) They increase gastric acid and inactivate the drug
+B) They cause the drug to be metabolised too rapidly
+C) They speed up renal excretion of the drug
+D) They form insoluble chelates that reduce drug absorption
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: Tetracyclines bind divalent and trivalent cations such as calcium, magnesium, iron and aluminium found in milk, antacids and iron salts. These form insoluble chelates that greatly reduce absorption of the drug from the gut.
+
+Q: An effect of a drug that is noxious, unintended, and occurs at normal therapeutic doses is best defined as
+A) An adverse drug reaction
+B) A placebo effect
+C) A therapeutic effect
+D) A side effect
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: The WHO defines an adverse drug reaction as a response that is noxious and unintended occurring at doses normally used in humans. A side effect is any unintended secondary effect, which may be harmless or even beneficial.
+
+Q: Which intramuscular injection site is now preferred in adults because it is free of major nerves and large blood vessels?
+A) Vastus lateralis muscle
+B) Dorsogluteal muscle
+C) Ventrogluteal muscle
+D) Deltoid muscle
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: The ventrogluteal site has a thick muscle mass and is free of large nerves and vessels, making it the preferred IM site in adults. The dorsogluteal site is avoided because of the risk of sciatic nerve injury.
+
+Q: Which insulin has the most rapid onset of action, about 15 minutes, and is given immediately before meals?
+A) Insulin lispro
+B) Insulin glargine
+C) Regular, or soluble, insulin
+D) NPH, or isophane, insulin
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Insulin lispro is a rapid-acting analogue with an onset of about 15 minutes, a peak at 30 to 90 minutes and a short duration. Regular insulin is short-acting, NPH is intermediate-acting, and glargine is long-acting.
+
+Q: Which of the following intravenous solutions is hypotonic?
+A) Ringer's lactate
+B) 5 per cent dextrose in 0.9 per cent saline
+C) 0.45 per cent sodium chloride
+D) 0.9 per cent sodium chloride
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Half-normal saline, 0.45 per cent sodium chloride, is hypotonic, having lower osmolarity than plasma, so water shifts into the cells. Normal saline and Ringer's lactate are isotonic, while dextrose-saline mixtures are hypertonic.
+
+Q: Which intravenous solution is the only one that should be used to prime the line and run with a blood transfusion?
+A) 0.45 per cent sodium chloride
+B) Ringer's lactate
+C) 0.9 per cent normal saline
+D) 5 per cent dextrose in water
+Ans: C
+Topic: Nursing Foundations
+Diff: easy
+Exp: Only 0.9 per cent normal saline is compatible with blood products. Dextrose solutions cause red cells to clump and haemolyse, and the calcium in Ringer's lactate can trigger clotting within the tubing.
+
+Q: A patient is to receive 1000 mL of IV fluid over 8 hours using a set with a drop factor of 15 drops per mL. The correct flow rate is approximately
+A) 21 drops per minute
+B) 31 drops per minute
+C) 42 drops per minute
+D) 63 drops per minute
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: Flow rate in drops per minute equals volume multiplied by the drop factor divided by the time in minutes. Thus 1000 times 15 divided by 8 times 60 gives 15000 over 480, which is approximately 31 drops per minute.
+
+Q: The recommended first aid for a conscious adult with complete airway obstruction, or choking, is
+A) Abdominal thrusts, the Heimlich manoeuvre
+B) A blind finger sweep of the mouth
+C) Immediate chest compressions
+D) Repeated back blows only
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: For a conscious adult with complete airway obstruction, abdominal thrusts, the Heimlich manoeuvre, create an artificial cough to expel the object. Blind finger sweeps are avoided as they may push the object deeper.
+
+Q: The correct immediate first aid for a thermal burn is to
+A) Break the blisters to release fluid
+B) Cool the area with running water for about 20 minutes
+C) Apply ice directly to the burn
+D) Apply butter or toothpaste to the burn
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: A thermal burn should be cooled with cool running water for about 20 minutes to limit tissue damage and relieve pain. Ice, butter and toothpaste are avoided, and blisters should not be broken as this risks infection.
+
+Q: When splinting a suspected long-bone fracture, the splint should immobilise
+A) The joint above the fracture only
+B) The joint below the fracture only
+C) Only the fracture site
+D) The joints above and below the fracture
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: A splint must immobilise the joints both above and below the fracture to prevent movement of the broken bone ends. This reduces pain, controls bleeding, and prevents further soft-tissue and neurovascular damage.
+
+Q: The first priority in managing a near-drowning victim who is not breathing is to
+A) Perform abdominal thrusts to drain water from the lungs
+B) Warm the patient with blankets before anything else
+C) Open the airway and give rescue breaths
+D) Induce vomiting to clear swallowed water
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: In near-drowning the first priority is to open the airway and provide rescue breaths, because hypoxia is the main threat to life. Attempting to drain water from the lungs delays ventilation and is not recommended.
+
+Q: The appropriate first aid for a person who has fainted, or had syncope, is to
+A) Make the person walk around immediately
+B) Sit the person upright and give water
+C) Give a stimulant drink such as coffee
+D) Lay the person flat and elevate the legs
+Ans: D
+Topic: Nursing Foundations
+Diff: easy
+Exp: A person who has fainted should be laid flat with the legs elevated to promote venous return and cerebral blood flow. Keeping them upright can prolong the faint, and nothing should be given by mouth while consciousness is impaired.
+
+Q: The correct first aid position for a patient with epistaxis, or nosebleed, is to
+A) Blow the nose forcefully to clear clots
+B) Tilt the head backward and pinch the bony bridge
+C) Sit up, lean forward and pinch the soft part of the nose
+D) Lie flat and swallow the blood
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: For epistaxis the patient should sit up and lean slightly forward while pinching the soft part of the nose for about ten minutes. Leaning forward prevents blood from being swallowed, which can cause nausea and vomiting.
+
+Q: The ethical principle that upholds a competent patient's right to make their own decisions about care is
+A) Autonomy
+B) Justice
+C) Non-maleficence
+D) Beneficence
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Autonomy respects a competent patient's right to make informed decisions about their own treatment, including the right to refuse care. It forms the ethical basis of informed consent in nursing practice.
+
+Q: A nurse who raises the side rails to prevent a confused patient from falling is primarily applying the principle of
+A) Veracity
+B) Non-maleficence
+C) Autonomy
+D) Fidelity
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Non-maleficence means to do no harm. Raising side rails to protect a confused patient from injury is an application of this principle by actively preventing foreseeable harm to a vulnerable patient.
+
+Q: Which of the following must be proven to establish nursing negligence?
+A) Only that the patient was dissatisfied with care
+B) Duty, breach of duty, causation and damages
+C) That the nurse intended to cause harm
+D) That the nurse was inadequately paid
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: To establish negligence four elements must be proven: a duty of care owed to the patient, a breach of that duty, causation linking the breach to harm, and actual damages suffered. Intent to harm is not required for negligence.
+
+Q: A nurse discussing a named patient's diagnosis with a friend outside work has violated the principle of
+A) Confidentiality
+B) Justice
+C) Beneficence
+D) Autonomy
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Confidentiality requires that patient information be shared only with those involved in the patient's care and with consent. Disclosing a named patient's diagnosis to an outsider breaches confidentiality and professional ethics.
+
+Q: The statutory body that regulates nursing education and maintains uniform standards of nursing in India is the
+A) Indian Nursing Council
+B) International Council of Nurses
+C) Trained Nurses Association of India
+D) State Medical Council
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: The Indian Nursing Council, established under the Indian Nursing Council Act of 1947, is the statutory body that regulates nursing education and maintains uniform standards. The Trained Nurses Association is a professional body and the International Council of Nurses is the global body.
+
+Q: In the acronym POSDCORB describing management functions, the letter D stands for
+A) Delegating
+B) Directing
+C) Deciding
+D) Developing
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: POSDCORB, coined by Luther Gulick, stands for Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting. The letter D therefore represents the directing function of management.
+
+Q: When a registered nurse delegates a task to a nursing assistant, the nurse retains
+A) Accountability for ensuring the delegated task is done safely
+B) No further responsibility once the task is delegated
+C) The right to delegate assessment of an unstable patient
+D) Responsibility only if the task is unpaid
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Although a task may be delegated, the registered nurse remains accountable for ensuring it is appropriate and safely performed. Tasks requiring nursing judgment, such as assessing an unstable patient, cannot be delegated.
+
+Q: Which leadership style is characterised by minimal manager involvement, giving staff complete freedom to make decisions?
+A) Democratic
+B) Laissez-faire
+C) Autocratic
+D) Bureaucratic
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: The laissez-faire, or permissive, style involves minimal manager involvement and leaves staff free to make their own decisions. Autocratic leaders decide alone, while democratic leaders involve the group in decision-making.
+
+Q: A study that explores patients' lived experiences of chronic pain through in-depth interviews and produces narrative data is an example of
+A) Quantitative research
+B) Quasi-experimental research
+C) Experimental research
+D) Qualitative research
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: Qualitative research explores meanings, experiences and perceptions using narrative data from methods such as interviews and observation. Quantitative research instead measures variables numerically and analyses them statistically.
+
+Q: Blood group, being A, B, AB or O, is an example of which level of measurement?
+A) Nominal
+B) Interval
+C) Ratio
+D) Ordinal
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Blood group is a nominal, or categorical, variable because its values are only names or labels with no inherent order or numeric value. Ordinal data have rank order, while interval and ratio data are numeric.
+
+Q: The standard deviation of a data set is a measure of
+A) The central value of the data
+B) The most frequently occurring value
+C) The middle value of the data set
+D) The dispersion of values around the mean
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: The standard deviation measures the dispersion or spread of individual values around the mean; a larger value indicates greater variability. The mean, mode and median are measures of central tendency, not spread.
+
+Q: In hypothesis testing, a p-value of 0.01 with alpha set at 0.05 indicates that the result is
+A) Impossible to interpret
+B) Statistically significant
+C) Not statistically significant
+D) Entirely due to sampling error
+Ans: B
+Topic: Nursing Foundations
+Diff: hard
+Exp: A p-value of 0.01 is smaller than the alpha level of 0.05, so the null hypothesis is rejected and the result is statistically significant. It indicates the finding is unlikely to have occurred by chance alone.
+
+Q: A researcher selects every 10th patient from an admission list to form a sample. This sampling technique is
+A) Systematic sampling
+B) Cluster sampling
+C) Simple random sampling
+D) Stratified sampling
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Systematic sampling selects every kth element, here every 10th, from an ordered list after a random start. It differs from stratified sampling, which uses subgroups, and cluster sampling, which uses natural groups.

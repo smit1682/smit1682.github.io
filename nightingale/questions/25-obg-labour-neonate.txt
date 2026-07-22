@@ -1,0 +1,291 @@
+# w2-obg-b — ingested draft, verify before trusting
+
+Q: A student nurse is asked to list the cardinal movements of labour in order. Which sequence is correct?
+A) Engagement, descent, flexion, internal rotation, extension, restitution and external rotation, expulsion
+B) Engagement, flexion, extension, descent, internal rotation, expulsion
+C) Flexion, engagement, descent, extension, internal rotation, expulsion
+D) Descent, engagement, extension, flexion, internal rotation, expulsion
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: The cardinal movements occur in sequence: engagement, descent, flexion, internal rotation, extension, restitution with external rotation, and finally expulsion. These allow the smallest fetal head diameters to negotiate the maternal pelvis.
+
+Q: Engagement of the fetal head is said to have occurred when
+A) The occiput rotates anteriorly to the symphysis
+B) The head reaches the pelvic floor
+C) The head becomes visible at the vulva
+D) The biparietal diameter of the head passes through the pelvic inlet
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Engagement is defined as passage of the biparietal diameter, the widest transverse diameter of the head, through the pelvic inlet. In primigravidae it usually occurs during the last few weeks before labour.
+
+Q: Internal rotation of the fetal head during normal labour is brought about chiefly by the
+A) Bony pelvic inlet
+B) Uterine contractions acting alone
+C) Maternal bearing-down efforts
+D) Gutter-shaped levator ani of the pelvic floor
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Internal rotation brings the occiput anteriorly beneath the symphysis and is produced chiefly by the gutter-shaped, forward-sloping levator ani of the pelvic floor. The uterine forces drive the head down onto this pelvic floor to effect rotation.
+
+Q: In the mechanism of labour, restitution refers to
+A) Rotation of the shoulders within the pelvis
+B) Untwisting of the head to restore its natural relationship with the shoulders after the head is born
+C) Anterior rotation of the occiput to the symphysis
+D) Downward movement of the presenting part
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Restitution is the passive untwisting of the fetal neck once the head is delivered, restoring its natural alignment with the shoulders. It is followed by external rotation as the shoulders rotate internally into the anteroposterior diameter.
+
+Q: Which feature best distinguishes true labour from false labour?
+A) Complete absence of any bloody show
+B) Irregular contractions relieved by rest or sedation
+C) Pain confined to the lower abdomen with no cervical change
+D) Regular painful contractions producing progressive cervical effacement and dilatation
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: True labour is marked by regular, progressively stronger painful contractions that produce demonstrable effacement and dilatation of the cervix. False, or Braxton Hicks, contractions are irregular, do not dilate the cervix, and ease with rest.
+
+Q: Cervical effacement during labour refers to
+A) Spontaneous rupture of the membranes
+B) Descent of the presenting part
+C) Shortening and thinning, or taking up, of the cervical canal
+D) Opening of the external cervical os
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Effacement is the shortening and thinning, or taking up, of the cervical canal so that it merges with the lower uterine segment. Dilatation is a separate process describing the opening of the external os, measured in centimetres.
+
+Q: In a low-risk woman during the first stage of labour, the fetal heart by intermittent auscultation should be checked
+A) Every 30 minutes, just after a contraction
+B) Only once every hour
+C) Every 5 minutes
+D) Continuously by scalp electrode in all cases
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: In low-risk labour the fetal heart is auscultated every 30 minutes during the first stage, ideally just after a contraction, and every 5 minutes or after each contraction in the second stage. This timing helps detect fetal compromise early.
+
+Q: The most effective and titratable method of regional analgesia for pain relief in labour is
+A) Lumbar epidural analgesia
+B) Inhaled nitrous oxide
+C) Intramuscular pethidine
+D) Paracervical block
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Lumbar epidural analgesia provides the most effective and titratable pain relief in labour by blocking pain transmission at the spinal nerve roots. It preserves maternal consciousness while allowing continuous analgesia through the indwelling catheter.
+
+Q: A woman in obstructed labour suddenly develops cessation of contractions, severe abdominal pain, maternal shock, and easily palpable fetal parts through the abdomen. The most likely diagnosis is
+A) Placental abruption
+B) Uterine inversion
+C) Amniotic fluid embolism
+D) Rupture of the uterus
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Rupture of the uterus classically follows obstructed labour and presents with sudden cessation of contractions, severe pain, maternal shock, and easily palpable fetal parts as the fetus escapes into the abdomen. It is an emergency requiring immediate laparotomy.
+
+Q: Sudden cardiorespiratory collapse with hypoxia, hypotension and disseminated intravascular coagulation occurring during labour or immediately after delivery is most characteristic of
+A) Amniotic fluid embolism
+B) Vasovagal syncope
+C) Mendelson's syndrome
+D) Deep vein thrombosis
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Amniotic fluid embolism presents as sudden collapse with hypoxia, hypotension and disseminated intravascular coagulation during labour or immediately postpartum. It is a rare but often fatal anaphylactoid reaction to amniotic fluid entering the maternal circulation.
+
+Q: The recommended first-line manoeuvre for the management of shoulder dystocia is
+A) McRoberts manoeuvre with suprapubic pressure
+B) Immediate caesarean section
+C) Fundal pressure
+D) Zavanelli manoeuvre as the initial step
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The McRoberts manoeuvre, sharp hyperflexion of the maternal thighs against the abdomen, combined with suprapubic pressure is the first-line response to shoulder dystocia. Fundal pressure is contraindicated because it worsens the shoulder impaction.
+
+Q: Acute inversion of the uterus is most commonly caused by
+A) Prolonged second stage of labour
+B) Multiple pregnancy
+C) Improper third-stage management such as cord traction on a relaxed uterus
+D) Precipitate labour
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Acute uterine inversion most often results from mismanaged third stage, particularly cord traction with fundal pressure applied to a relaxed uterus carrying a fundal placenta. It causes profound neurogenic shock and requires immediate replacement of the uterus.
+
+Q: The modified Bishop score used to assess cervical favourability for induction includes all of the following except
+A) Fetal heart rate
+B) Cervical dilatation
+C) Station of the presenting part
+D) Cervical consistency
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: The modified Bishop score assesses cervical dilatation, effacement, consistency, position, and the station of the presenting part to judge favourability for induction. Fetal heart rate is not one of its five components.
+
+Q: An advantage of obstetric forceps over the ventouse, or vacuum, is that forceps
+A) Are contraindicated in face presentation
+B) Cause less maternal soft-tissue trauma
+C) Can be applied before full cervical dilatation
+D) Can be used when the mother is unable to bear down, such as under general anaesthesia
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Forceps can deliver the head when the mother cannot bear down, as under general anaesthesia or with maternal exhaustion, because they provide traction independent of maternal effort. The ventouse, in contrast, needs the mother's expulsive effort to succeed.
+
+Q: The puerperium is conventionally defined as lasting approximately
+A) 2 weeks
+B) 4 weeks
+C) 6 weeks
+D) 12 weeks
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: The puerperium is the period after delivery during which the reproductive organs return towards their non-pregnant state, lasting about six weeks or 42 days. Most of the involutionary changes are largely complete by the end of this time.
+
+Q: The hormone chiefly responsible for the synthesis and secretion of milk by the breast alveoli is
+A) Progesterone
+B) Oxytocin
+C) Prolactin
+D) Oestrogen
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Prolactin, secreted by the anterior pituitary, stimulates the alveolar cells of the breast to synthesise and secrete milk. Its milk-producing action becomes unopposed after delivery once placental oestrogen and progesterone levels fall.
+
+Q: The let-down, or milk-ejection, reflex during breastfeeding is mediated by
+A) Oxytocin acting on the myoepithelial cells around the alveoli
+B) Prolactin acting on the ductal cells
+C) Human placental lactogen
+D) Progesterone withdrawal
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The let-down or milk-ejection reflex is mediated by oxytocin released from the posterior pituitary in response to suckling. Oxytocin contracts the myoepithelial cells surrounding the alveoli, ejecting stored milk into the ducts.
+
+Q: Menorrhagia is best defined as
+A) Complete absence of menstruation
+B) Bleeding occurring between periods
+C) Regular cyclical menstrual bleeding that is excessive in amount or duration
+D) Painful menstruation
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Menorrhagia denotes cyclical, regular menstrual bleeding that is excessive in amount, over 80 mL, or in duration. Bleeding between periods is termed metrorrhagia, while painful menstruation is dysmenorrhoea.
+
+Q: Primary dysmenorrhoea is primarily caused by
+A) Excess endometrial prostaglandin production
+B) Endometriosis
+C) Uterine fibroids
+D) Pelvic inflammatory disease
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Primary dysmenorrhoea occurs without underlying pelvic pathology and is caused by excessive endometrial prostaglandin, which provokes painful uterine hypercontractility and ischaemia. This explains why prostaglandin-inhibiting NSAIDs relieve the pain.
+
+Q: According to the Rotterdam criteria, polycystic ovary syndrome is diagnosed by at least two of
+A) Amenorrhoea, galactorrhoea and infertility
+B) Oligo- or anovulation, hyperandrogenism, and polycystic ovaries on ultrasound
+C) Hypertension, obesity and hirsutism
+D) Raised prolactin, low FSH and high TSH
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: The Rotterdam criteria diagnose PCOS when at least two of three features are present: oligo- or anovulation, clinical or biochemical hyperandrogenism, and polycystic ovarian morphology on ultrasound. Other endocrine causes must first be excluded.
+
+Q: The single most important aetiological agent in carcinoma of the cervix is
+A) Herpes simplex virus type 1
+B) Persistent infection with high-risk HPV types 16 and 18
+C) Chlamydia trachomatis
+D) Human immunodeficiency virus
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Persistent infection with high-risk human papillomavirus, especially types 16 and 18, is the central cause of cervical cancer and its precursor lesions. This understanding underlies both HPV vaccination and Pap-smear screening programmes.
+
+Q: Which reflex is elicited by stroking the corner of a newborn's mouth or cheek, making the baby turn its head toward the stimulus?
+A) Palmar grasp reflex
+B) Rooting reflex
+C) Moro reflex
+D) Babinski reflex
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: The rooting reflex is elicited by stroking the corner of the newborn's mouth or cheek, causing the baby to turn the head toward the stimulus in search of the nipple. It is a normal primitive reflex that helps initiate breastfeeding.
+
+Q: Koplik's spots on the buccal mucosa are pathognomonic of
+A) Scarlet fever
+B) Measles, or rubeola
+C) Chickenpox
+D) Rubella
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: easy
+Exp: Koplik's spots are small white lesions on the buccal mucosa opposite the molar teeth and are pathognomonic of measles, appearing during the prodrome before the skin rash. Their recognition helps distinguish measles from other childhood exanthems.
+
+Q: During neonatal resuscitation, the recommended chest compression to ventilation ratio is
+A) 15 to 2
+B) 30 to 2
+C) 5 to 1
+D) 3 to 1, giving about 90 compressions and 30 breaths per minute
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Neonatal resuscitation uses a 3 to 1 compression-to-ventilation ratio, delivering about 90 chest compressions and 30 breaths each minute. This higher ventilation emphasis reflects the predominantly respiratory or asphyxial origin of most newborn arrests.
+
+Q: Respiratory distress syndrome, or hyaline membrane disease, in the preterm newborn results from
+A) Congenital bacterial pneumonia
+B) Congenital diaphragmatic hernia
+C) Deficiency of pulmonary surfactant
+D) Aspiration of meconium
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Respiratory distress syndrome of the preterm neonate is due to deficiency of pulmonary surfactant produced by type II pneumocytes. Lack of surfactant causes progressive alveolar collapse, hypoxia and characteristic grunting respiration.
+
+Q: Which statement correctly distinguishes a cephalhaematoma from a caput succedaneum?
+A) A cephalhaematoma is maximal at birth and resolves within 24 hours
+B) A cephalhaematoma is bounded by suture lines and does not cross them, whereas caput succedaneum crosses suture lines
+C) A cephalhaematoma crosses suture lines whereas caput does not
+D) Caput succedaneum is a subperiosteal haemorrhage
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: A cephalhaematoma is a subperiosteal bleed limited by the cranial suture lines, so it never crosses sutures and resolves over weeks. Caput succedaneum is diffuse scalp oedema that does cross suture lines and settles within a few days.
+
+Q: Early-onset neonatal sepsis, occurring within the first 72 hours of life, is most commonly acquired
+A) From nursery equipment in the hospital environment
+B) From the maternal genital tract during birth
+C) By droplet spread from visitors
+D) Through breast milk
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Early-onset neonatal sepsis, arising within the first 72 hours, is usually acquired vertically from the maternal genital tract, with organisms such as Group B Streptococcus and E. coli. Late-onset sepsis is more often nosocomial or community-acquired.
+
+Q: Retinopathy of prematurity is most strongly associated with
+A) Neonatal hyperbilirubinaemia
+B) Birth asphyxia
+C) Maternal rubella infection
+D) Prematurity with exposure to high concentrations of supplemental oxygen
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Retinopathy of prematurity is a vasoproliferative retinal disorder linked strongly to prematurity and exposure to high concentrations of supplemental oxygen. Careful oxygen control and screening of preterm infants help prevent progression to blindness.
+
+Q: A 4-week-old male infant presents with progressive non-bilious projectile vomiting after feeds and a palpable olive-shaped mass in the epigastrium. The most likely diagnosis is
+A) Gastro-oesophageal reflux
+B) Intussusception
+C) Hypertrophic pyloric stenosis
+D) Duodenal atresia
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Infantile hypertrophic pyloric stenosis typically presents around three to six weeks with progressive non-bilious projectile vomiting and a palpable olive-shaped epigastric mass. Hypertrophy of the pyloric muscle produces gastric outlet obstruction.

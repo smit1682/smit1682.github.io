@@ -1,0 +1,241 @@
+# w2-foundations-a — ingested draft, verify before trusting
+
+Q: What is the average normal oral body temperature of a healthy adult?
+A) 35 C, or 95 F
+B) 37 C, or 98.6 F
+C) 39 C, or 102.2 F
+D) 34 C, or 93.2 F
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: The average normal oral temperature is 37 C, or 98.6 F, with an accepted range of about 36.5 to 37.5 C. Readings above this range suggest fever, while lower readings suggest hypothermia.
+
+Q: The generally accepted normal blood pressure value for a healthy adult is approximately
+A) 160/100 mmHg
+B) 140/90 mmHg
+C) 90/60 mmHg
+D) 120/80 mmHg
+Ans: D
+Topic: Nursing Foundations
+Diff: easy
+Exp: Normal adult blood pressure is about 120/80 mmHg, where 120 is the systolic and 80 the diastolic pressure. Persistently raised values such as 140/90 mmHg indicate hypertension.
+
+Q: While recording blood pressure, which Korotkoff sound marks the systolic pressure?
+A) Phase IV, abrupt muffling of sound
+B) Phase V, disappearance of sound
+C) Phase I, the first clear tapping sound
+D) Phase II, a swishing sound
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: The systolic pressure is read at Phase I, the first clear tapping sound heard as the cuff is deflated. It represents the pressure at which blood first spurts through the artery.
+
+Q: In an adult, which Korotkoff phase is taken as the diastolic blood pressure?
+A) Phase III
+B) Phase I
+C) Phase V
+D) Phase II
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: In adults, diastolic pressure corresponds to Phase V, the point at which sounds disappear completely. Phase IV, or muffling, is used to record diastolic pressure in children and some pregnant women.
+
+Q: A fever in which the temperature fluctuates over 24 hours but never returns to the normal baseline is called
+A) Relapsing fever
+B) Constant or sustained fever
+C) Intermittent fever
+D) Remittent fever
+Ans: D
+Topic: Nursing Foundations
+Diff: hard
+Exp: In remittent fever the temperature rises and falls but always remains above normal, never touching baseline. This contrasts with intermittent fever, in which the temperature returns to normal between spikes.
+
+Q: The primary physiological effect of applying a cold pack to an acute sprain is
+A) Vasodilation with increased blood flow
+B) Increased local tissue metabolism
+C) Vasoconstriction with reduced blood flow and swelling
+D) Increased capillary permeability
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Cold application produces vasoconstriction, which reduces blood flow, swelling and inflammation and also numbs pain. It is therefore useful within the first 24 to 48 hours of an acute injury.
+
+Q: The main therapeutic effect of a warm or hot application on tissues is
+A) Decreased tissue metabolism
+B) Vasodilation with increased blood flow
+C) Vasoconstriction with reduced blood flow
+D) Numbing of nerve endings only
+Ans: B
+Topic: Nursing Foundations
+Diff: easy
+Exp: Heat causes vasodilation, increasing blood flow and delivery of oxygen and nutrients while relaxing muscles. It is used to relieve chronic pain, promote suppuration and reduce stiffness.
+
+Q: Which route of temperature measurement most closely reflects core body temperature and reads highest?
+A) Axillary
+B) Oral
+C) Rectal
+D) Tympanic surface
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: The rectal route best reflects core body temperature and reads roughly 0.5 C higher than oral. The axillary route is the least accurate, reading about 0.5 C lower than the oral value.
+
+Q: The apical pulse in an adult is best auscultated at the
+A) Fifth intercostal space at the left midclavicular line
+B) Second intercostal space at the right sternal border
+C) Epigastric region
+D) Sternal angle, or angle of Louis
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: The apical pulse is heard at the point of maximal impulse, the fifth intercostal space at the left midclavicular line. It is the most reliable site for assessing the heart rate, especially in infants.
+
+Q: During a bed bath, the patient's eyes should be cleaned
+A) From the inner to the outer canthus, using a clean section of cloth for each eye
+B) From the outer to the inner canthus
+C) Using the same cloth surface for both eyes
+D) By applying soap directly onto the eyeball
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: The eyes are wiped from the inner to the outer canthus using a separate clean part of the cloth for each eye. This prevents debris from entering the lacrimal duct and avoids cross-contamination between eyes.
+
+Q: The safest position for giving mouth care to an unconscious patient is
+A) Side-lying or lateral with the head turned to one side
+B) Trendelenburg position
+C) High Fowler's position
+D) Supine and flat
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: An unconscious patient is placed side-lying with the head turned to one side so that fluid and secretions drain out of the mouth. This prevents aspiration because protective airway reflexes are absent.
+
+Q: A pressure injury appearing as intact skin with localised non-blanchable erythema over a bony prominence is classified as
+A) Stage 1
+B) Stage 3
+C) Stage 4
+D) Stage 2
+Ans: A
+Topic: Nursing Foundations
+Diff: hard
+Exp: Stage 1 pressure injury is intact skin showing non-blanchable redness, without an open wound. Redness that blanches on pressure indicates reactive hyperaemia rather than a stage 1 injury.
+
+Q: On an intake and output chart, which of the following is recorded under output?
+A) Intravenous fluids infused
+B) Urine, vomitus and wound drainage
+C) Nasogastric tube feeding administered
+D) Oral fluids and ice chips taken
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: Output includes all measurable fluid losses such as urine, vomitus, wound or drain output and liquid stool. Intravenous fluids, oral fluids and tube feeds are all recorded as intake.
+
+Q: The Sims, or semi-prone, position is most commonly used for
+A) Enema administration and rectal examination
+B) Vaginal delivery
+C) Lumbar puncture
+D) Abdominal surgery
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Sims is a left side-lying position with the upper knee flexed, used for enema administration and rectal examination and to promote drainage in unconscious patients. It relaxes the anal sphincter and eases insertion.
+
+Q: The lithotomy position is characterised by the patient being
+A) In left side-lying with the upper knee flexed
+B) Lying prone on the abdomen
+C) Positioned with the head lower than the feet
+D) Supine with hips and knees flexed, thighs abducted, and legs supported in stirrups
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: Lithotomy places the patient supine with the hips flexed, thighs abducted and legs held in stirrups. It is used for perineal, vaginal and rectal procedures and for childbirth.
+
+Q: Movement of a limb away from the midline of the body is termed
+A) Abduction
+B) Internal rotation
+C) Adduction
+D) Flexion
+Ans: A
+Topic: Nursing Foundations
+Diff: medium
+Exp: Abduction is movement of a body part away from the body's midline, whereas adduction is movement toward the midline. These terms are used to describe range-of-motion exercises.
+
+Q: A carminative enema is administered primarily to
+A) Provide nutrition and calories
+B) Relieve flatus and abdominal distension
+C) Instil medication for a systemic effect
+D) Lower a high body temperature
+Ans: B
+Topic: Nursing Foundations
+Diff: medium
+Exp: A carminative enema stimulates peristalsis and the expulsion of flatus, relieving gaseous abdominal distension. This differs from a cleansing enema, which empties the bowel of faeces.
+
+Q: The most important principle when inserting an indwelling urinary catheter is to use
+A) No particular technique
+B) The largest available catheter size
+C) Strict sterile, or surgical asepsis, technique
+D) Clean, or medical asepsis, technique
+Ans: C
+Topic: Nursing Foundations
+Diff: medium
+Exp: Urinary catheterisation demands strict surgical asepsis because the bladder is normally sterile and the procedure bypasses the body's natural defences. This prevents catheter-associated urinary tract infection.
+
+Q: A basic principle when applying a roller bandage to a limb is to bandage
+A) From proximal to distal
+B) Covering the fingers and toes completely for warmth
+C) As tightly as possible to keep it from slipping
+D) From distal to proximal with even pressure, leaving the extremities exposed
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: A limb is bandaged from distal to proximal with even, firm pressure to promote venous return and prevent congestion. The fingers or toes are left exposed so circulation can be monitored.
+
+Q: Which statement correctly distinguishes antisepsis from disinfection?
+A) Both are applied only to inanimate objects
+B) Both are applied only to living tissue
+C) Antisepsis destroys all bacterial spores while disinfection does not
+D) An antiseptic is applied to living tissue while a disinfectant is applied to inanimate objects
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: An antiseptic is used on living tissue such as skin and mucous membranes, whereas a disinfectant is used on inanimate objects and surfaces. Neither reliably kills all bacterial spores, which requires sterilisation.
+
+Q: High-level disinfection is defined as a process that destroys
+A) Only vegetative bacteria
+B) Only viruses and fungi
+C) All microorganisms except large numbers of bacterial spores
+D) Absolutely all microorganisms, including all spores
+Ans: C
+Topic: Nursing Foundations
+Diff: hard
+Exp: High-level disinfection kills all microorganisms except high numbers of bacterial spores and is used for semicritical items such as endoscopes. Complete destruction of all spores requires sterilisation, not disinfection.
+
+Q: An essential safety measure during oxygen therapy is to
+A) Display no-smoking signs and keep the area away from open flames
+B) Apply petroleum-based lubricants around the tubing
+C) Permit smoking near the oxygen source
+D) Use woollen blankets and synthetic fabrics near the patient
+Ans: A
+Topic: Nursing Foundations
+Diff: easy
+Exp: Oxygen supports combustion, so open flames, sparks and smoking must be prohibited and warning signs displayed. Oil or petroleum-based products near oxygen equipment are also avoided because they are flammable.
+
+Q: A fundamental safety principle when applying a physical restraint is to
+A) Leave the restrained patient unchecked for the full shift
+B) Secure the restraint to a movable side rail
+C) Apply the restraint as tightly as possible
+D) Tie it with a quick-release knot to the bed frame and check circulation frequently
+Ans: D
+Topic: Nursing Foundations
+Diff: medium
+Exp: Restraints are secured with a quick-release knot to a fixed part of the bed frame, never a movable rail, and must allow two fingers of space. The nurse checks circulation, skin and comfort at frequent intervals and releases the restraint periodically.
+
+Q: Which nursing theory centres on the patient's ability to perform self-care and the nurse's role in meeting self-care deficits?
+A) Henderson's 14 basic needs
+B) Roy's adaptation model
+C) Orem's self-care deficit theory
+D) Maslow's hierarchy of needs
+Ans: C
+Topic: Nursing Foundations
+Diff: easy
+Exp: Dorothea Orem's self-care deficit theory holds that people normally meet their own self-care needs, and nursing is required when a deficit exists. The nurse provides wholly or partly compensatory care until the patient regains independence.

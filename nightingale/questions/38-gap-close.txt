@@ -1,0 +1,231 @@
+# 38-gap-close — ingested draft, verify before trusting
+
+Q: The Widal test is a serological test used in the diagnosis of
+A) Dengue
+B) Tuberculosis
+C) Malaria
+D) Enteric fever, or typhoid
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: The Widal test detects antibodies against the O and H antigens of Salmonella typhi and paratyphi in the patient's serum. A rising titre in paired samples supports a diagnosis of enteric fever, though it has limited specificity.
+
+Q: The tuberculin, or Mantoux, test is an example of which type of hypersensitivity reaction?
+A) Type III, immune complex
+B) Type II, cytotoxic
+C) Type I, immediate
+D) Type IV, delayed cell-mediated
+Ans: D
+Topic: Basic Sciences
+Diff: hard
+Exp: The Mantoux reaction is a Type IV delayed hypersensitivity response mediated by sensitised T-lymphocytes, read at 48 to 72 hours by measuring the diameter of induration. It indicates prior exposure or infection, not necessarily active disease.
+
+Q: The ELISA test is most widely used as a screening test for
+A) Diabetes mellitus
+B) Hypertension
+C) HIV infection
+D) Iron deficiency
+Ans: C
+Topic: Basic Sciences
+Diff: medium
+Exp: The enzyme-linked immunosorbent assay detects antibodies or antigens using an enzyme-linked colour change and is the standard screening test for HIV. A reactive ELISA is confirmed by a more specific test such as Western blot before diagnosis.
+
+Q: In the human malarial parasite, the asexual cycle that causes the clinical fever paroxysms takes place in the
+A) Salivary glands of the mosquito
+B) Liver cells only
+C) White blood cells
+D) Red blood cells
+Ans: D
+Topic: Basic Sciences
+Diff: hard
+Exp: After an initial silent liver (exo-erythrocytic) stage, Plasmodium multiplies asexually inside red blood cells, and their synchronous rupture releases merozoites and pyrogens that cause the periodic fever paroxysms. The sexual cycle occurs in the mosquito.
+
+Q: Which immunoglobulin is the first antibody produced in a primary immune response and is the largest in size?
+A) IgA
+B) IgE
+C) IgG
+D) IgM
+Ans: D
+Topic: Basic Sciences
+Diff: medium
+Exp: IgM is a pentamer, the largest antibody, and is the first immunoglobulin produced early in a primary infection, making it a marker of recent or acute infection. IgG appears later and predominates in the secondary response.
+
+Q: On which culture medium does Escherichia coli, a lactose fermenter, produce pink colonies?
+A) MacConkey agar
+B) Chocolate agar
+C) Nutrient agar
+D) Lowenstein-Jensen medium
+Ans: A
+Topic: Basic Sciences
+Diff: hard
+Exp: MacConkey agar is a selective and differential medium on which lactose-fermenting organisms such as E. coli form pink colonies, while non-lactose fermenters remain pale. Lowenstein-Jensen medium is used instead for growing Mycobacterium tuberculosis.
+
+Q: The oral polio vaccine developed by Albert Sabin is an example of which type of vaccine?
+A) Live attenuated vaccine
+B) Killed or inactivated vaccine
+C) Toxoid vaccine
+D) Conjugate vaccine
+Ans: A
+Topic: Basic Sciences
+Diff: medium
+Exp: The Sabin oral polio vaccine contains live attenuated virus that replicates in the gut and produces both local and systemic immunity. The Salk injectable polio vaccine, in contrast, is a killed or inactivated preparation.
+
+Q: According to Freud, the part of the personality that operates on the reality principle and mediates between instinctual drives and social demands is the
+A) Id
+B) Ego
+C) Libido
+D) Superego
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Freud described the ego as operating on the reality principle, balancing the demands of the pleasure-seeking id against the moral standards of the superego. It uses defence mechanisms to manage conflict and anxiety.
+
+Q: According to Erik Erikson, the central psychosocial task of infancy, in the first year of life, is
+A) Initiative versus guilt
+B) Trust versus mistrust
+C) Identity versus role confusion
+D) Autonomy versus shame and doubt
+Ans: B
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Erikson's first psychosocial stage, in the first year, is trust versus mistrust, in which consistent, responsive caregiving fosters a basic sense of trust. Identity versus role confusion is the task of adolescence.
+
+Q: The behaviour-therapy technique in which a patient earns tokens for desirable behaviour that can later be exchanged for privileges is called
+A) Token economy
+B) Systematic desensitisation
+C) Flooding
+D) Aversion therapy
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: A token economy applies operant conditioning by reinforcing desired behaviour with tokens that are exchangeable for rewards, and is used in chronic psychiatric and rehabilitation settings. It shapes behaviour through positive reinforcement.
+
+Q: Which is an example of a therapeutic communication technique?
+A) Giving false reassurance
+B) Changing the subject when a topic is difficult
+C) Offering personal opinions and advice
+D) Asking open-ended questions to encourage the patient to talk
+Ans: D
+Topic: Mental Health Nursing
+Diff: easy
+Exp: Open-ended questions invite the patient to express thoughts and feelings in their own words and are a core therapeutic communication technique. False reassurance, giving advice and changing the subject are non-therapeutic blocks to communication.
+
+Q: A nurse who responds to a frightened patient by saying everything will definitely be fine is using which non-therapeutic communication block?
+A) Clarification
+B) Focusing
+C) Reflection
+D) False reassurance
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Telling a patient that everything will be fine is false reassurance, which dismisses genuine feelings and can block further disclosure. Therapeutic alternatives include acknowledging the fear and exploring the patient's concerns.
+
+Q: Crisis intervention is best described as a form of therapy that is
+A) Long-term and focused on childhood conflicts
+B) Aimed at restructuring the entire personality
+C) Delivered only in an inpatient psychiatric unit
+D) Short-term and focused on the immediate problem and restoring function
+Ans: D
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Crisis intervention is a brief, focused, reality-oriented therapy that helps the person cope with an immediate stressful situation and return to their previous level of functioning. A crisis is usually self-limiting and resolves within about six weeks.
+
+Q: In group therapy, the sense of hope a member gains from seeing others who have coped successfully is a curative factor known as
+A) Instillation of hope
+B) Catharsis
+C) Universality
+D) Altruism
+Ans: A
+Topic: Mental Health Nursing
+Diff: hard
+Exp: Instillation of hope, described by Irvin Yalom, is the encouragement members draw from observing others who have improved, and it sustains engagement in therapy. Universality is the relief of learning that one's problems are shared by others.
+
+Q: The defence mechanism in which unacceptable feelings are channelled into socially acceptable and often constructive activity is
+A) Sublimation
+B) Regression
+C) Denial
+D) Projection
+Ans: A
+Topic: Mental Health Nursing
+Diff: medium
+Exp: Sublimation redirects unacceptable impulses into socially valued activities, such as channelling aggression into competitive sport. It is regarded as one of the more mature and adaptive defence mechanisms.
+
+Q: An Rh-negative woman is most likely to become sensitised to the Rh antigen
+A) At the time of delivery of an Rh-positive baby or a sensitising event
+B) Only during breastfeeding
+C) During her first pregnancy before any delivery
+D) Only if she receives Rh-negative blood
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Sensitisation usually occurs when fetal Rh-positive red cells enter the maternal circulation at delivery, miscarriage, or other sensitising events, prompting maternal anti-D antibody formation. The first pregnancy is therefore usually unaffected, while later Rh-positive pregnancies are at risk.
+
+Q: In a pregnant woman with pre-existing diabetes, the preferred agent for glycaemic control is
+A) Insulin
+B) Metformin as the sole agent in all cases
+C) Sulphonylureas
+D) No treatment until after delivery
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Insulin is the preferred treatment for diabetes in pregnancy because it does not cross the placenta and allows tight, titratable glycaemic control. Good control reduces the risk of macrosomia, congenital anomaly and neonatal hypoglycaemia.
+
+Q: Intrauterine growth restriction is best defined as a fetus whose estimated weight falls below which percentile for gestational age?
+A) 25th percentile
+B) 10th percentile
+C) 90th percentile
+D) 50th percentile
+Ans: B
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Intrauterine growth restriction refers to a fetus that fails to reach its growth potential, conventionally an estimated fetal weight below the 10th percentile for gestational age. It is monitored with serial ultrasound and Doppler studies of fetal blood flow.
+
+Q: A drug commonly used as a tocolytic to suppress preterm uterine contractions is
+A) Nifedipine
+B) Misoprostol
+C) Ergometrine
+D) Oxytocin
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Nifedipine, a calcium channel blocker, is widely used as a tocolytic to relax the uterus and delay preterm labour, allowing time for corticosteroids to mature the fetal lungs. Oxytocin, ergometrine and misoprostol instead stimulate uterine contraction.
+
+Q: Antenatal corticosteroids are given to a woman in threatened preterm labour primarily to
+A) Stop the uterine contractions
+B) Treat maternal infection
+C) Accelerate fetal lung maturity and surfactant production
+D) Raise the maternal blood pressure
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Antenatal corticosteroids such as betamethasone or dexamethasone accelerate fetal lung maturation and surfactant production, reducing respiratory distress syndrome, intraventricular haemorrhage and neonatal death. They are given between 24 and 34 weeks when preterm birth is likely.
+
+Q: Premature rupture of the membranes carries the greatest risk of which complication to the mother and fetus?
+A) Ascending intrauterine infection, or chorioamnionitis
+B) Macrosomia
+C) Gestational diabetes
+D) Postmaturity
+Ans: A
+Topic: Obstetrics & Child Health
+Diff: medium
+Exp: Once the membranes rupture, the protective barrier is lost and organisms can ascend from the vagina, so chorioamnionitis is the principal danger, along with cord prolapse and preterm birth. Management balances the risk of infection against that of prematurity.
+
+Q: Magnesium sulphate given to a woman in preterm labour before 32 weeks also provides which benefit to the baby?
+A) Prevention of congenital heart disease
+B) Stimulation of fetal breathing
+C) Neuroprotection, reducing the risk of cerebral palsy
+D) Prevention of neonatal jaundice
+Ans: C
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Magnesium sulphate given to women at risk of very preterm birth has a fetal neuroprotective effect, reducing the incidence and severity of cerebral palsy. This is a separate indication from its use in controlling eclamptic seizures.
+
+Q: A woman with heart disease is at greatest haemodynamic risk during pregnancy at which time?
+A) Only during the second trimester
+B) The first trimester only
+C) Only before conception
+D) Around 28 to 32 weeks, in labour, and immediately postpartum
+Ans: D
+Topic: Obstetrics & Child Health
+Diff: hard
+Exp: Cardiac output peaks around 28 to 32 weeks and again during labour and the immediate postpartum period as blood returns to the circulation, so these are the times of greatest risk of cardiac decompensation. Care focuses on limiting exertion and careful fluid balance.
